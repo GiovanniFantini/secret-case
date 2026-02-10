@@ -15,13 +15,13 @@ Al termine dell'indagine, ogni investigatore (o squadra) deve rispondere alle tr
 *Indica la persona direttamente responsabile della morte di Massimo Fontana.*
 
 - **a)** Chef Tommaso Rizzoli -- lo chef de "Il Cenacolo d'Oro", presente in cucina quella sera
-- **b)** Veronica Salis -- la sommelier del ristorante, ex compagna della vittima
+- **b)** Ilaria Mura -- la sommelier del ristorante, ex compagna della vittima
 - **c)** Dott. Sergio Mancini -- medico personale di Fontana, presente alla cena
 - **d)** Giorgio Pellegrini -- proprietario del ristorante, in conflitto con Fontana per la guida
 - **e)** Claudia Fontana -- figlia della vittima e co-direttrice della Guida Fontana
 - **f)** Matteo Galli -- giornalista enogastronomico, rivale professionale di Fontana
 
-> **Risposta corretta: b) Veronica Salis**
+> **Risposta corretta: b) Ilaria Mura**
 
 ---
 
@@ -31,7 +31,7 @@ Al termine dell'indagine, ogni investigatore (o squadra) deve rispondere alle tr
 
 - **a)** Vendetta professionale per una recensione negativa che ha danneggiato il ristorante
 - **b)** Interesse economico: eredita, investimento a rischio o questioni finanziarie legate al patrimonio della vittima
-- **c)** Vendetta personale e professionale: ritorsione per la fine di una relazione sentimentale, la richiesta di restituzione di 85.000 euro di debiti, e la distruzione sistematica della sua carriera nel mondo della sommellerie
+- **c)** Vendetta personale e professionale: ritorsione per la fine di una relazione sentimentale, la richiesta di restituzione di 68.000 euro di debiti, e la distruzione sistematica della sua carriera nel mondo della sommellerie
 - **d)** Proteggere un segreto o un'attivita illecita legata al mondo della ristorazione
 
 > **Risposta corretta: c) Vendetta personale e professionale**
@@ -89,13 +89,13 @@ Al termine dell'indagine, ogni investigatore (o squadra) deve rispondere alle tr
 ### Spiegazione Dettagliata delle Risposte (per la Rivelazione Finale)
 
 **Domanda 1 -- Il Colpevole:**
-Veronica Salis, sommelier de "Il Cenacolo d'Oro", e la responsabile della morte di Massimo Fontana. Gli indizi chiave includono: la sua presenza al tavolo durante il servizio del vino (momento in cui il piatto e stato contaminato), la sua conoscenza dell'allergia della vittima risalente alla loro relazione, e l'acquisto di olio di arachidi non giustificato dalla carta del ristorante.
+Ilaria Mura, sommelier de "Il Cenacolo d'Oro", e la responsabile della morte di Massimo Fontana. Gli indizi chiave includono: la sua presenza al tavolo durante il servizio del vino (momento in cui il piatto e stato contaminato), la sua conoscenza dell'allergia della vittima risalente alla loro relazione, e l'acquisto di olio di arachidi non giustificato dalla carta del ristorante.
 
 **Domanda 2 -- Il Movente:**
-La motivazione di Veronica e un intreccio di vendetta personale e professionale. Dopo una relazione sentimentale durata tre anni con Fontana, la donna era stata scaricata e si era vista richiedere la restituzione di 85.000 euro che lui le aveva prestato. In piu, Fontana aveva usato la sua influenza per sabotare sistematicamente la sua carriera nel mondo della sommellerie, chiudendole ogni porta nel settore.
+La motivazione di Ilaria e un intreccio di vendetta personale e professionale. Dopo una relazione sentimentale durata tre anni con Fontana, la donna era stata scaricata e si era vista richiedere la restituzione di 68.000 euro che lui le aveva prestato. In piu, Fontana aveva usato la sua influenza per sabotare sistematicamente la sua carriera nel mondo della sommellerie, chiudendole ogni porta nel settore.
 
 **Domanda 3 -- Il Metodo:**
-Veronica ha introdotto una piccola quantita di olio di arachidi nel risotto di Fontana mentre serviva il vino al suo tavolo. Conosceva perfettamente l'allergia alle arachidi della vittima -- un dettaglio appreso durante la loro relazione. Lo shock anafilattico provocato dall'allergene, in assenza di un intervento tempestivo con l'EpiPen, si e rivelato fatale.
+Ilaria ha introdotto una piccola quantita di olio di arachidi nel risotto di Fontana mentre serviva il vino al suo tavolo. Conosceva perfettamente l'allergia alle arachidi della vittima -- un dettaglio appreso durante la loro relazione. Lo shock anafilattico provocato dall'allergene, in assenza di un intervento tempestivo con l'EpiPen, si e rivelato fatale.
 
 ---
 

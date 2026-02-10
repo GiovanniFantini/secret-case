@@ -32,13 +32,13 @@
 │   OGGETTO: Identificazione del responsabile              │
 │   dell'omicidio di Massimo Fontana                       │
 │                                                          │
-│   "La colpevole e la sommelier Veronica Salis.           │
+│   "La colpevole e la sommelier Ilaria Mura.           │
 │                                                          │
-│   Veronica aveva una relazione sentimentale segreta      │
+│   Ilaria aveva una relazione sentimentale segreta      │
 │   con Massimo Fontana durata tre anni, terminata         │
 │   circa otto mesi prima della sera dell'omicidio.        │
 │   Nessuno al ristorante era a conoscenza di questa       │
-│   relazione. Nelle sue deposizioni, Veronica ha          │
+│   relazione. Nelle sue deposizioni, Ilaria ha          │
 │   descritto Fontana esclusivamente come un 'cliente      │
 │   abituale', omettendo qualsiasi legame personale."      │
 │                                                          │
@@ -61,16 +61,16 @@
 │                                                          │
 │   OGGETTO: Ricostruzione del movente                     │
 │                                                          │
-│   "Il movente di Veronica Salis e triplice:              │
+│   "Il movente di Ilaria Mura e triplice:              │
 │                                                          │
 │   1. DEBITO FINANZIARIO: Massimo Fontana doveva a        │
-│   Veronica la somma di 85.000 euro, prestati in          │
+│   Ilaria la somma di 68.000 euro, prestati in          │
 │   diverse tranche durante la loro relazione.             │
 │   Fontana rifiutava sistematicamente di restituirli.     │
 │                                                          │
 │   2. DISTRUZIONE PROFESSIONALE: Fontana, nella sua       │
 │   veste di critico gastronomico influente, stava         │
-│   attivamente sabotando la carriera di Veronica.         │
+│   attivamente sabotando la carriera di Ilaria.         │
 │   Aveva scritto recensioni negative mirate al            │
 │   servizio vini dei ristoranti dove lei lavorava e       │
 │   stava preparando un articolo nella sua nuova guida     │
@@ -80,7 +80,7 @@
 │   3. RANCORE SENTIMENTALE: Fontana aveva chiuso la       │
 │   relazione in modo brutale, negando persino che         │
 │   fosse mai esistita, e si era rifiutato di              │
-│   incontrare Veronica per discutere del debito."         │
+│   incontrare Ilaria per discutere del debito."         │
 │                                                          │
 │   — Sost. Proc. Dott. Alessandro Ferrara                │
 │                                                          │
@@ -101,12 +101,12 @@
 │                                                          │
 │   OGGETTO: Metodo dell'omicidio e prove materiali        │
 │                                                          │
-│   "Veronica Salis ha acquistato online una bottiglia     │
+│   "Ilaria Mura ha acquistato online una bottiglia     │
 │   di olio di arachide purissimo nei giorni precedenti    │
 │   l'8 marzo 2025. La ricevuta di acquisto e presente     │
 │   nei suoi estratti conto bancari.                       │
 │                                                          │
-│   La sera dell'omicidio, Veronica ha nascosto una        │
+│   La sera dell'omicidio, Ilaria ha nascosto una        │
 │   piccola quantita di olio di arachide nel suo           │
 │   astuccio portacavatappi professionale. Durante il      │
 │   servizio del vino nella Sala Leonardo, mentre si       │
@@ -120,7 +120,7 @@
 │   qualsiasi strumento da sommelier.                      │
 │                                                          │
 │   Fontana era gravemente allergico alle arachidi:        │
-│   Veronica lo sapeva perfettamente grazie ai             │
+│   Ilaria lo sapeva perfettamente grazie ai             │
 │   tre anni di relazione intima. Una piccola dose         │
 │   di olio di arachide nel risotto e stata                │
 │   sufficiente a provocare uno shock anafilattico         │
@@ -146,12 +146,12 @@
 │   OGGETTO: Prove della premeditazione                    │
 │                                                          │
 │   "Due giorni prima dell'omicidio — il 6 marzo          │
-│   2025 — Veronica Salis ha inviato un messaggio          │
+│   2025 — Ilaria Mura ha inviato un messaggio          │
 │   WhatsApp alla sua amica Sara che costituisce           │
 │   una confessione d'intenti:                             │
 │                                                          │
 │     'Sabato viene a cena qui. Dopo tre anni              │
-│      di bugie, 85.000 euro spariti e la mia              │
+│      di bugie, 68.000 euro spariti e la mia              │
 │      carriera distrutta, stavolta pago io                │
 │      il conto a lui. Non se ne accorgera                 │
 │      nemmeno. L'ultima cena, Sara.'                      │
@@ -161,7 +161,7 @@
 │   stato un gesto impulsivo ma un atto premeditato        │
 │   con almeno 48 ore di pianificazione.                   │
 │                                                          │
-│   Veronica sapeva che Fontana avrebbe cenato al          │
+│   Ilaria sapeva che Fontana avrebbe cenato al          │
 │   Cenacolo d'Oro il sabato sera. Sapeva che lei          │
 │   sarebbe stata di turno al servizio vini. Sapeva        │
 │   che lui ordinava sempre il risotto. Sapeva della       │
@@ -181,8 +181,8 @@ Dopo i suggerimenti di Livello 3, i giocatori hanno tutte le informazioni necess
 
 | Domanda | Risposta | Prove chiave rivelate |
 |---------|----------|----------------------|
-| **Chi e il colpevole?** | Veronica Salis, sommelier | Telecamere (5 min nella Sala Leonardo), tracce di arachide nell'astuccio portacavatappi, messaggio WhatsApp a Sara |
-| **Qual e il movente?** | Debito di 85.000 euro, distruzione della carriera, rancore sentimentale | Estratti conto, bozza guida Fontana, email/messaggi privati, relazione segreta triennale |
+| **Chi e il colpevole?** | Ilaria Mura, sommelier | Telecamere (5 min nella Sala Leonardo), tracce di arachide nell'astuccio portacavatappi, messaggio WhatsApp a Sara |
+| **Qual e il movente?** | Debito di 68.000 euro, distruzione della carriera, rancore sentimentale | Estratti conto, bozza guida Fontana, email/messaggi privati, relazione segreta triennale |
 | **Come e stato commesso?** | Olio di arachide introdotto nel risotto durante il servizio del vino | Acquisto online dell'olio (ricevuta bancaria), astuccio con tracce di proteina di arachide, conoscenza intima dell'allergia, 5 minuti al tavolo |
 
 ---
@@ -193,6 +193,6 @@ Se i giocatori raggiungono il Livello 3, i motivi piu comuni di blocco per quest
 
 1. **Si concentrano sullo Chef Rizzoli:** E il sospettato piu ovvio (chi cucina avvelena?), ma le telecamere dimostrano che non ha mai lasciato la cucina e il piatto era pulito al pass
 2. **Sospettano di Claudia Fontana:** La figlia della vittima aveva motivi ereditari, ma era seduta al tavolo con gli altri commensali e non ha mai avuto accesso al piatto prima del servizio
-3. **Non collegano la sommelier al movente:** Veronica appare come una semplice professionista del vino. Il legame personale con Fontana emerge solo dai documenti finanziari e dai messaggi privati
+3. **Non collegano la sommelier al movente:** Ilaria appare come una semplice professionista del vino. Il legame personale con Fontana emerge solo dai documenti finanziari e dai messaggi privati
 4. **Non esaminano l'astuccio del cavatappi:** La prova fisica decisiva e facile da trascorrere nella lista delle prove se non si sa cosa cercare
 5. **Non controllano le ricevute bancarie:** L'acquisto dell'olio di arachide online e la prova della premeditazione, ma e nascosta tra molte altre transazioni

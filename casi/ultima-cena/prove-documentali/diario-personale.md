@@ -1,8 +1,8 @@
-# PROVE DOCUMENTALI - DIARIO PERSONALE DI VERONICA SALIS
+# PROVE DOCUMENTALI - DIARIO PERSONALE DI ILARIA MURA
 
 ## Fascicolo: Caso "L'Ultima Cena" - Morte di Massimo Fontana
 ## Classificazione: Riservato - Atti d'indagine
-## Descrizione: Diario personale (quaderno Moleskine, copertina nera, formato A5) rinvenuto durante la perquisizione domiciliare presso l'abitazione della Sig.ra Veronica Salis, Via Costituente 8, int. 3, 43121 Parma
+## Descrizione: Diario personale (quaderno Moleskine, copertina nera, formato A5) rinvenuto durante la perquisizione domiciliare presso l'abitazione della Sig.ra Ilaria Mura, Via Costituente 8, int. 3, 43121 Parma
 ## Data sequestro: 10 marzo 2025
 ## Verbale di sequestro: n. 234/2025 - Squadra Mobile di Parma
 ## Trascrizione a cura di: Ag. Scelto Monica Ferrara
@@ -11,15 +11,15 @@
 
 ## NOTA PRELIMINARE
 
-Il quaderno contiene annotazioni manoscritte in inchiostro blu e nero, con alcune pagine strappate (pagg. 34-35, non rinvenute). La calligrafia e stata confermata come appartenente alla Sig.ra Salis mediante perizia grafologica (Rif. Perizia n. 67/2025 - Dott.ssa Annamaria Lucchini, CTU del Tribunale di Parma). Si trascrivono di seguito le annotazioni di rilievo investigativo, nell'ordine cronologico in cui compaiono nel diario.
+Il quaderno contiene annotazioni manoscritte in inchiostro blu e nero, con alcune pagine strappate (pagg. 34-35, non rinvenute). La calligrafia e stata confermata come appartenente alla Sig.ra Mura mediante perizia grafologica (Rif. Perizia n. 67/2025 - Dott.ssa Annamaria Lucchini, CTU del Tribunale di Parma). Si trascrivono di seguito le annotazioni di rilievo investigativo, nell'ordine cronologico in cui compaiono nel diario.
 
 ---
 
 ## 3 dicembre 2024
 
-Oggi ho scoperto che Massimo ha parlato con l'avvocato. Non per una questione qualsiasi. Per me. Vuole indietro i soldi. Tutti gli 85mila euro. Quelli che mi aveva dato sorridendo, dicendomi "questo e il nostro sogno, Veronica. La Vigna sara il nostro posto".
+Oggi ho scoperto che Massimo ha parlato con l'avvocato. Non per una questione qualsiasi. Per me. Vuole indietro i soldi. Tutti gli 85mila euro. Quelli che mi aveva dato sorridendo, dicendomi "questo e il nostro sogno, Ilaria. La Vigna sara il nostro posto".
 
-Il nostro sogno. Le sue parole. E adesso che non sono piu "la sua Veronica" ma solo "quella sommelier", rivuole tutto.
+Il nostro sogno. Le sue parole. E adesso che non sono piu "la sua Ilaria" ma solo "quella sommelier", rivuole tutto.
 
 Come se si potesse comprare una persona e poi chiedere il rimborso quando non serve piu.
 
@@ -45,7 +45,7 @@ L'ho bevuta da sola. Fino all'ultima goccia. Ed e stata la cosa piu triste che a
 
 Ho provato a chiamarlo. Volevo parlare, spiegargli che non posso restituire quei soldi, che non li ho piu. Che quei soldi sono diventati muri, scaffali, licenze, corsi di formazione. Sono diventati La Vigna, che adesso non esiste piu perche il proprietario del locale ha affittato a qualcun altro quando non sono riuscita a pagare.
 
-Non ha risposto. Ha risposto il suo avvocato. L'avvocato Brunetti. Freddo, formale. "La Sig.ra Salis e invitata a predisporre un piano di rientro entro il 15 gennaio."
+Non ha risposto. Ha risposto il suo avvocato. L'avvocato Brunetti. Freddo, formale. "La Sig.ra Mura e invitata a predisporre un piano di rientro entro il 15 gennaio."
 
 Un piano di rientro. Con 2.800 euro al mese di stipendio e 850 di affitto.
 
@@ -53,7 +53,7 @@ Un piano di rientro. Con 2.800 euro al mese di stipendio e 850 di affitto.
 
 ## 15 gennaio 2025
 
-E arrivata la lettera. La "messa in mora", la chiamano. Quindici giorni per restituire 85.000 euro. O vanno in tribunale.
+E arrivata la lettera. La "messa in mora", la chiamano. Quindici giorni per restituire 68.000 euro. O vanno in tribunale.
 
 L'ho letta tre volte. Ogni parola e un coltello. "Finanziamento", "restituzione integrale", "interessi legali", "recupero coattivo".
 
@@ -89,7 +89,7 @@ Non basta prendermi i soldi. Non basta lasciarmi. Adesso vuole assicurarsi che n
 
 Ho riletto quella frase cento volte. "Non e all'altezza di un ristorante del vostro livello." E la condanna a morte della mia carriera, scritta dal boia con la penna d'oro.
 
-Stasera ho guardato a lungo il mio cavatappi Laguiole. L'incisione: "V. Salis - AIS". L'unica cosa che nessuno puo togliermi. Il mio nome. La mia identita.
+Stasera ho guardato a lungo il mio cavatappi Laguiole. L'incisione: "V. Mura - AIS". L'unica cosa che nessuno puo togliermi. Il mio nome. La mia identita.
 
 O forse si. Forse anche quello sta cercando di togliermi.
 
@@ -99,9 +99,9 @@ O forse si. Forse anche quello sta cercando di togliermi.
 
 Rizzoli mi ha mostrato la bozza della Guida 2025. Ho cercato subito la pagina de Il Cenacolo d'Oro. Da due stelle a una. E poi l'ho letta. La nota.
 
-"Il programma dei vini, curato dalla sommelier Veronica Salis, non e all'altezza della proposta gastronomica dello chef Rizzoli. Abbinamenti prevedibili, carta dei vini limitata, servizio privo di personalita."
+"Il programma dei vini, curato dalla sommelier Ilaria Mura, non e all'altezza della proposta gastronomica dello chef Rizzoli. Abbinamenti prevedibili, carta dei vini limitata, servizio privo di personalita."
 
-Il mio nome. Stampato. Su una guida che leggono 200.000 persone. Ogni ristoratore, ogni sommelier, ogni collega in Italia leggera quelle parole. E sapra. Veronica Salis non e all'altezza. Lo dice Fontana. Lo dice la Bibbia.
+Il mio nome. Stampato. Su una guida che leggono 200.000 persone. Ogni ristoratore, ogni sommelier, ogni collega in Italia leggera quelle parole. E sapra. Ilaria Mura non e all'altezza. Lo dice Fontana. Lo dice la Bibbia.
 
 Non ho pianto. Non questa volta. Qualcosa si e rotto dentro di me, ma non sono lacrime. E qualcosa di piu duro. Di piu freddo.
 
@@ -127,7 +127,7 @@ Non so perche ho scritto questo. Forse perche stasera ho bevuto troppo. Forse pe
 
 L'unico modo per fermare un uomo come lui e togliergli il potere. Definitivamente.
 
-Non posso restituire 85.000 euro. Non posso impedire l'uscita della Guida. Non posso cancellare quell'email a La Lanterna. Non posso tornare indietro nel tempo e non innamorarmi di lui.
+Non posso restituire 68.000 euro. Non posso impedire l'uscita della Guida. Non posso cancellare quell'email a La Lanterna. Non posso tornare indietro nel tempo e non innamorarmi di lui.
 
 Ma posso fare una cosa. Posso assicurarmi che sabato 8 marzo sia l'ultima sera in cui Massimo Fontana giudica qualcuno.
 
@@ -155,7 +155,7 @@ Domani sera.
 
 Ho preparato tutto. La bottiglia e nella mia borsa, avvolta in un foulard di seta. Domattina la porto in cantina, la nascondo dietro le casse di Barolo, nello scaffale in fondo. La prendo quando salgo con i piatti.
 
-Domani sara perfetta. Il vestito nero, il Chanel che ho comprato oggi, il cavatappi Laguiole lucidato. Tutto impeccabile. L'ultimo servizio della sommelier Veronica Salis.
+Domani sara perfetta. Il vestito nero, il Chanel che ho comprato oggi, il cavatappi Laguiole lucidato. Tutto impeccabile. L'ultimo servizio della sommelier Ilaria Mura.
 
 Non ho paura. Non ho rimorsi. Un uomo che usa il suo potere per distruggere le persone che ha amato non merita pieta. Merita giustizia.
 
@@ -170,22 +170,22 @@ Domani, alla sua ultima cena, il grande critico assaggera l'unico piatto che non
 
 ### Analisi del diario - Elementi di rilievo:
 
-Il diario personale della Sig.ra Veronica Salis costituisce un elemento probatorio di eccezionale rilevanza, documentando in modo dettagliato:
+Il diario personale della Sig.ra Ilaria Mura costituisce un elemento probatorio di eccezionale rilevanza, documentando in modo dettagliato:
 
 1. **L'evoluzione del movente:** Le annotazioni mostrano una progressione dal sentimento di tradimento e disperazione (dicembre 2024) alla determinazione omicida (marzo 2025), passando per la scoperta della distruzione professionale (febbraio 2025).
 
 2. **La premeditazione:** L'annotazione del **2 marzo 2025** ("L'unico modo per fermare un uomo come lui e togliergli il potere. Definitivamente.") e quella del **5 marzo 2025** (descrizione dettagliata del piano) documentano una premeditazione di almeno sei giorni.
 
-3. **La conoscenza dell'allergia:** L'annotazione del 25 febbraio 2025 dimostra che la Salis conosceva perfettamente la gravita dell'allergia del Fontana alle arachidi, i tempi di reazione ("dieci minuti") e la posizione dell'autoiniettore di adrenalina ("tasca destra della giacca").
+3. **La conoscenza dell'allergia:** L'annotazione del 25 febbraio 2025 dimostra che la Mura conosceva perfettamente la gravita dell'allergia del Fontana alle arachidi, i tempi di reazione ("dieci minuti") e la posizione dell'autoiniettore di adrenalina ("tasca destra della giacca").
 
-4. **Il piano operativo:** L'annotazione del 5 marzo descrive con precisione il momento scelto per la contaminazione (il risotto), la copertura organolettica ("la complessita del piatto copre qualsiasi sfumatura"), il ruolo della Salis nel trasporto del piatto dalla cucina alla sala, e la strategia relativa all'EpiPen.
+4. **Il piano operativo:** L'annotazione del 5 marzo descrive con precisione il momento scelto per la contaminazione (il risotto), la copertura organolettica ("la complessita del piatto copre qualsiasi sfumatura"), il ruolo della Mura nel trasporto del piatto dalla cucina alla sala, e la strategia relativa all'EpiPen.
 
 5. **Le pagine mancanti (pagg. 34-35):** Corrispondono cronologicamente al periodo 26-28 febbraio 2025. Sono state strappate. Non e possibile stabilire quando e da chi.
 
 6. **Valore probatorio:** Il diario, unitamente alle prove digitali (acquisto olio di arachidi, messaggi WhatsApp), configura un quadro indiziario grave, preciso e concordante ai sensi dell'art. 192 c.p.p.
 
 ### AVVERTENZA:
-La Sig.ra Salis, tramite il suo difensore Avv. Laura Costa, ha contestato l'autenticita delle annotazioni successive al 22 febbraio 2025, sostenendo che il diario potrebbe essere stato alterato. La perizia grafologica (Rif. n. 67/2025) ha tuttavia confermato che tutte le annotazioni sono state redatte dalla stessa mano, con la medesima penna (inchiostro Parker Quink Blu), e non presentano segni di alterazione o sovrascrittura.
+La Sig.ra Mura, tramite il suo difensore Avv. Laura Costa, ha contestato l'autenticita delle annotazioni successive al 22 febbraio 2025, sostenendo che il diario potrebbe essere stato alterato. La perizia grafologica (Rif. n. 67/2025) ha tuttavia confermato che tutte le annotazioni sono state redatte dalla stessa mano, con la medesima penna (inchiostro Parker Quink Blu), e non presentano segni di alterazione o sovrascrittura.
 
 ---
 

@@ -42,7 +42,7 @@ La bozza e contenuta in un fascicolo stampato su carta formato A4, rilegato con 
 **Tel. 0521-234567**
 **www.ilcenacolodoro.it**
 **Chef: Luca Rizzoli**
-**Sommelier: Veronica Salis**
+**Sommelier: Ilaria Mura**
 **Proprietari: Luca Rizzoli (60%), Giorgio Pellegrini (40%)**
 
 **Prezzi:** Menu degustazione Euro 120-180 | Alla carta Euro 80-140
@@ -64,7 +64,7 @@ Il **risotto alla parmigiana con tartufo nero** resta un piatto di notevole fatt
 
 Tuttavia, rispetto all'edizione precedente, registriamo un calo complessivo che non possiamo ignorare.
 
-**Il programma dei vini, curato dalla sommelier Veronica Salis, non e all'altezza della proposta gastronomica dello chef Rizzoli. Abbinamenti prevedibili, carta dei vini limitata, servizio privo di personalita.** L'abbinamento del Barolo con il risotto al tartufo e una scelta ovvia, quasi didascalica. Manca quel guizzo di creativita - un Pinot Nero dell'Alto Adige? Un Etna Rosso di grande struttura? - che trasformerebbe un buon pasto in un'esperienza memorabile. La carta dei vini, pur corretta, trascura colpevolmente i produttori emergenti e le denominazioni meno convenzionali, limitandosi a un repertorio sicuro ma prevedibile. Il servizio al tavolo e corretto ma meccanico: manca l'empatia, manca il racconto, manca quella capacita di leggere il tavolo e proporre il vino giusto al momento giusto che distingue un grande sommelier da un buon cameriere con il cavatappi.
+**Il programma dei vini, curato dalla sommelier Ilaria Mura, non e all'altezza della proposta gastronomica dello chef Rizzoli. Abbinamenti prevedibili, carta dei vini limitata, servizio privo di personalita.** L'abbinamento del Barolo con il risotto al tartufo e una scelta ovvia, quasi didascalica. Manca quel guizzo di creativita - un Pinot Nero dell'Alto Adige? Un Etna Rosso di grande struttura? - che trasformerebbe un buon pasto in un'esperienza memorabile. La carta dei vini, pur corretta, trascura colpevolmente i produttori emergenti e le denominazioni meno convenzionali, limitandosi a un repertorio sicuro ma prevedibile. Il servizio al tavolo e corretto ma meccanico: manca l'empatia, manca il racconto, manca quella capacita di leggere il tavolo e proporre il vino giusto al momento giusto che distingue un grande sommelier da un buon cameriere con il cavatappi.
 
 Il servizio di sala, nel complesso, risente di una direzione incerta. I tempi tra le portate sono a volte troppo lunghi, la mise en place e curata ma senza personalita.
 
@@ -202,7 +202,7 @@ Da una stella a due. Meritatissime.
 
 ---
 
-*[Nota a margine, manoscritta da Fontana con penna blu:] "Bertoldi e l'esempio di cosa dovrebbe essere un sommelier oggi. L'opposto della Salis."*
+*[Nota a margine, manoscritta da Fontana con penna blu:] "Bertoldi e l'esempio di cosa dovrebbe essere un sommelier oggi. L'opposto della Mura."*
 
 ---
 
@@ -213,13 +213,13 @@ Da una stella a due. Meritatissime.
 
 ### Analisi della bozza - Elementi di rilievo:
 
-1. **Declassamento de Il Cenacolo d'Oro:** La scheda documenta il passaggio da 2 stelle a 1 stella, con una motivazione centrata in modo preponderante sul programma enologico della Salis. La critica e severa, specifica e nominale ("curato dalla sommelier Veronica Salis"), una scelta editoriale inusuale per la Guida, che normalmente non menziona il personale di sala per nome nelle valutazioni negative.
+1. **Declassamento de Il Cenacolo d'Oro:** La scheda documenta il passaggio da 2 stelle a 1 stella, con una motivazione centrata in modo preponderante sul programma enologico della Mura. La critica e severa, specifica e nominale ("curato dalla sommelier Ilaria Mura"), una scelta editoriale inusuale per la Guida, che normalmente non menziona il personale di sala per nome nelle valutazioni negative.
 
-2. **Nota manoscritta a pagina 212:** L'annotazione "Bertoldi e l'esempio di cosa dovrebbe essere un sommelier oggi. L'opposto della Salis" conferma che il giudizio negativo sulla Salis era profondamente radicato e non limitato alla scheda del Cenacolo. Fontana la utilizzava come termine di paragone negativo.
+2. **Nota manoscritta a pagina 212:** L'annotazione "Bertoldi e l'esempio di cosa dovrebbe essere un sommelier oggi. L'opposto della Mura" conferma che il giudizio negativo sulla Mura era profondamente radicato e non limitato alla scheda del Cenacolo. Fontana la utilizzava come termine di paragone negativo.
 
 3. **Impatto economico del declassamento:** Come documentato nel contratto Pellegrini-Rizzoli (Art. 6 - Clausola di salvaguardia), la perdita della seconda stella avrebbe attivato il diritto di recesso del Pellegrini con restituzione di Euro 800.000. Il ristorante, gia sotto pressione finanziaria (vd. estratto conto Rizzoli), non avrebbe potuto sostenere tale restituzione.
 
-4. **La scheda de La Lanterna (Bologna):** Il ristorante a cui Fontana aveva sconsigliato l'assunzione della Salis (vd. email del 20/02/2025) riceve tre stelle e una nota entusiastica sul sommelier Federico Zanetti. Il contrasto con il giudizio sulla Salis e evidente e potrebbe aver amplificato il senso di ingiustizia e umiliazione della sommelier.
+4. **La scheda de La Lanterna (Bologna):** Il ristorante a cui Fontana aveva sconsigliato l'assunzione della Mura (vd. email del 20/02/2025) riceve tre stelle e una nota entusiastica sul sommelier Federico Zanetti. Il contrasto con il giudizio sulla Mura e evidente e potrebbe aver amplificato il senso di ingiustizia e umiliazione della sommelier.
 
 5. **Luogo di rinvenimento:** La bozza era nella valigetta di Fontana, portata con se alla cena dell'8 marzo. E possibile che Fontana intendesse discutere le valutazioni della Guida durante la serata, o che volesse annunciare il declassamento agli interessati. Questa circostanza e coerente con l'affermazione di Fontana alla figlia ("Qualche sorpresa quest'anno", WhatsApp del 4 marzo).
 

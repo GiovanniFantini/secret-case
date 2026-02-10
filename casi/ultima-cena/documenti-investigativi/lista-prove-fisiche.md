@@ -111,20 +111,20 @@ Tutti i reperti sono stati raccolti, catalogati e sigillati secondo le procedure
 | **Luogo di rinvenimento** | Al polso sinistro della vittima. |
 | **Condizione al momento del sequestro** | Integro. Chiusura a moschettone funzionante. Lievemente graffiato dall'uso quotidiano. |
 | **Analisi forense** | Nessuna analisi chimica necessaria. Documentazione fotografica effettuata. |
-| **Significato probatorio** | Conferma che l'allergia di Fontana alle arachidi era nota e visibile. Il braccialetto era chiaramente leggibile e indossato al momento della cena. Tutti i presenti, inclusa Veronica Salis, erano a conoscenza dell'allergia (confermato anche dal briefing delle 18:30). Questo elemento rafforza la premeditazione dell'atto. |
+| **Significato probatorio** | Conferma che l'allergia di Fontana alle arachidi era nota e visibile. Il braccialetto era chiaramente leggibile e indossato al momento della cena. Tutti i presenti, inclusa Ilaria Mura, erano a conoscenza dell'allergia (confermato anche dal briefing delle 18:30). Questo elemento rafforza la premeditazione dell'atto. |
 
 ---
 
-### REP-008 — Astuccio cavatappi sommelier di Veronica Salis
+### REP-008 — Astuccio cavatappi sommelier di Ilaria Mura
 
 | Campo | Dettaglio |
 |-------|-----------|
 | **Numero reperto** | REP-008 |
 | **Descrizione** | Astuccio portastrumenti da sommelier in pelle nera (marca Forge de Laguiole), contenente: cavatappi professionale a doppia leva, termometro da vino, tappo antigoccia, anello salvagoccia. L'astuccio presenta una tasca interna con zip. |
-| **Luogo di rinvenimento** | Sala Leonardo, 1° piano — sulla credenza laterale, accanto ai decanter. Veronica Salis lo aveva posato dopo il servizio del vino. |
+| **Luogo di rinvenimento** | Sala Leonardo, 1° piano — sulla credenza laterale, accanto ai decanter. Ilaria Mura lo aveva posato dopo il servizio del vino. |
 | **Condizione al momento del sequestro** | Integro. La tasca interna con zip era vuota al momento del sequestro. |
-| **Analisi forense** | Analisi chimica approfondita (tamponi, cromatografia HPLC, test ELISA e spettrometria di massa) effettuata dal RIS di Parma il 11/03/2025. **RISULTATO POSITIVO: TRACCE MICROSCOPICHE DI PROTEINA DI ARACHIDE (Ara h 1) rilevate all'interno della tasca con zip e sul bordo interno dell'astuccio.** Concentrazione: 0,08 mg/kg — sufficiente per confermare il contatto con olio di arachidi. Impronte digitali: Veronica Salis (multiple, su tutta la superficie). |
-| **Significato probatorio** | **PROVA CHIAVE DELL'INDAGINE.** La presenza di tracce di proteina di arachide nell'astuccio professionale della sommelier e incompatibile con il normale utilizzo dello strumento e non trova giustificazione nella sua attivita lavorativa. Questo reperto collega direttamente Veronica Salis all'allergene che ha causato la morte di Fontana. L'ipotesi investigativa e che Salis abbia nascosto la fiala contagocce (REP-013) all'interno della tasca con zip dell'astuccio, utilizzandola per versare l'olio di arachidi nel risotto di Fontana durante il servizio del vino (21:49-21:50). Le tracce residue sono compatibili con un travaso o una fuoriuscita minima dalla fiala. |
+| **Analisi forense** | Analisi chimica approfondita (tamponi, cromatografia HPLC, test ELISA e spettrometria di massa) effettuata dal RIS di Parma il 11/03/2025. **RISULTATO POSITIVO: TRACCE MICROSCOPICHE DI PROTEINA DI ARACHIDE (Ara h 1) rilevate all'interno della tasca con zip e sul bordo interno dell'astuccio.** Concentrazione: 0,08 mg/kg — sufficiente per confermare il contatto con olio di arachidi. Impronte digitali: Ilaria Mura (multiple, su tutta la superficie). |
+| **Significato probatorio** | **PROVA CHIAVE DELL'INDAGINE.** La presenza di tracce di proteina di arachide nell'astuccio professionale della sommelier e incompatibile con il normale utilizzo dello strumento e non trova giustificazione nella sua attivita lavorativa. Questo reperto collega direttamente Ilaria Mura all'allergene che ha causato la morte di Fontana. L'ipotesi investigativa e che Mura abbia nascosto la fiala contagocce (REP-013) all'interno della tasca con zip dell'astuccio, utilizzandola per versare l'olio di arachidi nel risotto di Fontana durante il servizio del vino (21:49-21:50). Le tracce residue sono compatibili con un travaso o una fuoriuscita minima dalla fiala. |
 
 ---
 
@@ -134,9 +134,9 @@ Tutti i reperti sono stati raccolti, catalogati e sigillati secondo le procedure
 |-------|-----------|
 | **Numero reperto** | REP-009 |
 | **Descrizione** | Bottiglia di vino rosso: Barolo Riserva 2015, produttore Giacomo Conterno, denominazione "Monfortino". Capacita 750 ml. Bottiglia aperta (tappo in sughero rimosso). |
-| **Luogo di rinvenimento** | Sala Leonardo, 1° piano — sulla credenza laterale, accanto all'astuccio di Salis (REP-008). |
+| **Luogo di rinvenimento** | Sala Leonardo, 1° piano — sulla credenza laterale, accanto all'astuccio di Mura (REP-008). |
 | **Condizione al momento del sequestro** | Aperta. Contenuto residuo: circa 200 ml di vino. Tappo in sughero integro, con segni di cavatappi. Etichetta integra. |
-| **Analisi forense** | Analisi chimica del vino residuo e del collo della bottiglia (HPLC e test ELISA). **RISULTATO NEGATIVO:** nessuna traccia di proteina di arachide o olio di arachidi. Composizione del vino conforme alle caratteristiche del Barolo Riserva. Impronte digitali sulla bottiglia: Veronica Salis (predominanti), tracce parziali non identificate. |
+| **Analisi forense** | Analisi chimica del vino residuo e del collo della bottiglia (HPLC e test ELISA). **RISULTATO NEGATIVO:** nessuna traccia di proteina di arachide o olio di arachidi. Composizione del vino conforme alle caratteristiche del Barolo Riserva. Impronte digitali sulla bottiglia: Ilaria Mura (predominanti), tracce parziali non identificate. |
 | **Significato probatorio** | Esclude la bottiglia come vettore dell'allergene. L'olio di arachidi non e stato introdotto nel vino ma direttamente nel piatto di risotto. |
 
 ---
@@ -163,20 +163,20 @@ Tutti i reperti sono stati raccolti, catalogati e sigillati secondo le procedure
 | **Luogo di rinvenimento** | Cucina, piano terra — stazione allergie separata. |
 | **Condizione al momento del sequestro** | Utilizzati (residui di cottura di risotto, burro, funghi porcini, brodo). Non lavati al momento del sequestro. |
 | **Analisi forense** | Analisi chimica completa (tamponi superficiali, HPLC, test ELISA) su ciascun utensile. **RISULTATO NEGATIVO: NESSUNA traccia di proteina di arachide (Ara h 1) o di olio di arachidi rilevata su alcun utensile o superficie della stazione allergie.** |
-| **Significato probatorio** | **PROVA FONDAMENTALE A DISCARICO DELLA CUCINA.** Conferma che il protocollo allergie in cucina e stato rispettato scrupolosamente. Il risotto destinato a Fontana e stato preparato senza alcuna contaminazione da arachidi. Questo dato, combinato con REP-001 (risotto contaminato) e REP-008 (tracce sull'astuccio di Salis), dimostra che la contaminazione e avvenuta **dopo** l'uscita del piatto dalla cucina, ovvero nella Sala Leonardo. |
+| **Significato probatorio** | **PROVA FONDAMENTALE A DISCARICO DELLA CUCINA.** Conferma che il protocollo allergie in cucina e stato rispettato scrupolosamente. Il risotto destinato a Fontana e stato preparato senza alcuna contaminazione da arachidi. Questo dato, combinato con REP-001 (risotto contaminato) e REP-008 (tracce sull'astuccio di Mura), dimostra che la contaminazione e avvenuta **dopo** l'uscita del piatto dalla cucina, ovvero nella Sala Leonardo. |
 
 ---
 
-### REP-012 — Smartphone di Veronica Salis
+### REP-012 — Smartphone di Ilaria Mura
 
 | Campo | Dettaglio |
 |-------|-----------|
 | **Numero reperto** | REP-012 |
 | **Descrizione** | Samsung Galaxy S24, colore nero, 128 GB. Protetto da PIN e impronta digitale. |
-| **Luogo di rinvenimento** | Sequestrato dalla persona di Veronica Salis durante le operazioni di identificazione (9/03/2025, ore 01:45). |
+| **Luogo di rinvenimento** | Sequestrato dalla persona di Ilaria Mura durante le operazioni di identificazione (9/03/2025, ore 01:45). |
 | **Condizione al momento del sequestro** | Integro e funzionante. Batteria al 42%. |
 | **Analisi forense** | Sbloccato previa autorizzazione del GIP (decreto del 10/03/2025). Analisi forense effettuata da Cellebrite UFED presso il RIS di Parma. Estratti: messaggi WhatsApp, cronologia navigazione, email, registro chiamate. Contenuti rilevanti: (a) Messaggio WhatsApp a Sara Ferretti del 06/03: "Sabato sera sara l'ultima volta che quel bastardo rovina la vita a qualcuno. Fidati di me." (b) Cronologia browser: ricerche su "allergia arachidi sintomi" (02/03), "shock anafilattico tempo di reazione" (02/03), "olio di arachidi tracce rilevabili" (04/03). (c) Conferma ordine AsiaMarket.it del 22/02 nell'email. |
-| **Significato probatorio** | **PROVA FONDAMENTALE PER LA PREMEDITAZIONE.** Le ricerche sul browser dimostrano che Salis si e documentata sullo shock anafilattico e sulla rilevabilita delle tracce di olio di arachidi nei giorni precedenti il delitto. Il messaggio WhatsApp a Sara Ferretti costituisce una dichiarazione di intento. Questi elementi, combinati con l'ordine dell'olio di arachidi (22/02), configurano una premeditazione articolata su almeno due settimane. |
+| **Significato probatorio** | **PROVA FONDAMENTALE PER LA PREMEDITAZIONE.** Le ricerche sul browser dimostrano che Mura si e documentata sullo shock anafilattico e sulla rilevabilita delle tracce di olio di arachidi nei giorni precedenti il delitto. Il messaggio WhatsApp a Sara Ferretti costituisce una dichiarazione di intento. Questi elementi, combinati con l'ordine dell'olio di arachidi (22/02), configurano una premeditazione articolata su almeno due settimane. |
 
 ---
 
@@ -188,8 +188,8 @@ Tutti i reperti sono stati raccolti, catalogati e sigillati secondo le procedure
 | **Descrizione** | Fiala contagocce in vetro ambrato con tappo in gomma e pipetta, capacita 10 ml. Priva di etichetta. Contenuto residuo: circa 0,5 ml di liquido oleoso trasparente. |
 | **Luogo di rinvenimento** | Bagno del personale, piano terra — all'interno del cestino dei rifiuti, sotto carta assorbente. Rinvenuta durante la perquisizione del 09/03/2025, ore 08:00. |
 | **Condizione al momento del sequestro** | Integra. Tappo in gomma presente ma non completamente avvitato. Residuo oleoso visibile all'interno. |
-| **Analisi forense** | Analisi chimica del residuo oleoso (GC-MS, HPLC, test ELISA): **RISULTATO POSITIVO — olio di arachidi raffinato confermato.** Profilo lipidico compatibile con olio di arachidi commerciale. Tracce di proteina Ara h 1 rilevate sulla pipetta. Impronte digitali: **un'impronta parziale (pollice sinistro) compatibile con Veronica Salis** (match AFIS: 12 punti di corrispondenza su 16 rilevati). DNA su tappo in gomma: profilo compatibile con Veronica Salis (analisi STR). |
-| **Significato probatorio** | **PROVA FONDAMENTALE.** Questa e la fiala utilizzata per trasportare e somministrare l'olio di arachidi nel risotto di Fontana. L'impronta digitale e il profilo DNA collegano direttamente Salis al reperto. L'ipotesi e che Salis abbia trasportato la fiala nella tasca con zip dell'astuccio cavatappi (REP-008), l'abbia utilizzata durante il servizio del vino al posto 1, e successivamente l'abbia gettata nel cestino del bagno del personale. |
+| **Analisi forense** | Analisi chimica del residuo oleoso (GC-MS, HPLC, test ELISA): **RISULTATO POSITIVO — olio di arachidi raffinato confermato.** Profilo lipidico compatibile con olio di arachidi commerciale. Tracce di proteina Ara h 1 rilevate sulla pipetta. Impronte digitali: **un'impronta parziale (pollice sinistro) compatibile con Ilaria Mura** (match AFIS: 12 punti di corrispondenza su 16 rilevati). DNA su tappo in gomma: profilo compatibile con Ilaria Mura (analisi STR). |
+| **Significato probatorio** | **PROVA FONDAMENTALE.** Questa e la fiala utilizzata per trasportare e somministrare l'olio di arachidi nel risotto di Fontana. L'impronta digitale e il profilo DNA collegano direttamente Mura al reperto. L'ipotesi e che Mura abbia trasportato la fiala nella tasca con zip dell'astuccio cavatappi (REP-008), l'abbia utilizzata durante il servizio del vino al posto 1, e successivamente l'abbia gettata nel cestino del bagno del personale. |
 
 ---
 
@@ -201,8 +201,8 @@ Tutti i reperti sono stati raccolti, catalogati e sigillati secondo le procedure
 | **Descrizione** | Registrazioni video digitali provenienti da n. 4 telecamere di sorveglianza del ristorante "Il Cenacolo d'Oro". Formato: H.264/MP4. Risoluzione: 1080p. Frame rate: 15 fps. Durata: 8 ore ciascuna (dalle 16:00 alle 00:00 dell'8-9 marzo 2025). |
 | **Luogo di rinvenimento** | Server NVR (Network Video Recorder) ubicato nel locale tecnico al piano terra del ristorante. |
 | **Condizione al momento del sequestro** | Integre. Nessun segno di manomissione o interruzione nella registrazione. Timestamp sincronizzati con server NTP. Hash MD5 calcolati per ciascun file al momento dell'acquisizione per garantire l'integrita della prova. |
-| **Analisi forense** | Analisi video frame-by-frame effettuata dalla Polizia Scientifica. Sequenze rilevanti: (a) CAM 1 — ore 21:47: ingresso di Salis nella Sala Leonardo con bottiglia di Barolo; (b) CAM 2 — ore 21:35: Salis imbocca le scale di servizio verso la cantina; (c) CAM 3 — ore 21:35: Salis scende in cantina; ore 21:46 circa: Salis risale dalla cantina; (d) CAM 2 — ore 21:42: piatti della terza portata al passavivande; (e) CAM 1 — ore 21:10 e 21:15: uscita e rientro di Avv. Mancini. |
-| **Significato probatorio** | Le registrazioni confermano i movimenti di Salis e collocano con precisione la sua discesa in cantina (21:35) e il suo ingresso nella Sala Leonardo (21:47). I 12 minuti trascorsi in cantina e il percorso cantina → sala (senza passare dalla cucina con il piatto) sono coerenti con l'ipotesi di preparazione della fiala in cantina e successiva contaminazione in sala. |
+| **Analisi forense** | Analisi video frame-by-frame effettuata dalla Polizia Scientifica. Sequenze rilevanti: (a) CAM 1 — ore 21:47: ingresso di Mura nella Sala Leonardo con bottiglia di Barolo; (b) CAM 2 — ore 21:35: Mura imbocca le scale di servizio verso la cantina; (c) CAM 3 — ore 21:35: Mura scende in cantina; ore 21:46 circa: Mura risale dalla cantina; (d) CAM 2 — ore 21:42: piatti della terza portata al passavivande; (e) CAM 1 — ore 21:10 e 21:15: uscita e rientro di Avv. Mancini. |
+| **Significato probatorio** | Le registrazioni confermano i movimenti di Mura e collocano con precisione la sua discesa in cantina (21:35) e il suo ingresso nella Sala Leonardo (21:47). I 12 minuti trascorsi in cantina e il percorso cantina → sala (senza passare dalla cucina con il piatto) sono coerenti con l'ipotesi di preparazione della fiala in cantina e successiva contaminazione in sala. |
 
 ---
 
@@ -214,7 +214,7 @@ Tutti i reperti sono stati raccolti, catalogati e sigillati secondo le procedure
 | **Descrizione** | Tovaglia in lino bianco (dimensioni 220 x 160 cm), utilizzata per la cena nella Sala Leonardo. |
 | **Luogo di rinvenimento** | Sala Leonardo, 1° piano — distesa sul tavolo ovale. |
 | **Condizione al momento del sequestro** | Usata. Macchie multiple di vino, cibo e condimento. Una macchia di unto di particolare interesse nella zona corrispondente al posto 1. |
-| **Analisi forense** | Analisi chimica della macchia di unto nella zona del posto 1 (GC-MS, test ELISA): **profilo lipidico compatibile con olio di arachidi.** La macchia, di dimensioni circa 2 x 1,5 cm, e posizionata a destra del piatto (REP-001), in corrispondenza della zona dove Veronica Salis si trovava durante il servizio del vino. Nessuna altra macchia di unto anomala rilevata nelle zone degli altri posti. |
+| **Analisi forense** | Analisi chimica della macchia di unto nella zona del posto 1 (GC-MS, test ELISA): **profilo lipidico compatibile con olio di arachidi.** La macchia, di dimensioni circa 2 x 1,5 cm, e posizionata a destra del piatto (REP-001), in corrispondenza della zona dove Ilaria Mura si trovava durante il servizio del vino. Nessuna altra macchia di unto anomala rilevata nelle zone degli altri posti. |
 | **Significato probatorio** | La macchia di olio di arachidi sulla tovaglia, localizzata esclusivamente nella zona del posto 1, e compatibile con una fuoriuscita accidentale durante il versamento dell'olio dalla fiala contagocce (REP-013) nel piatto di risotto. Questo reperto fornisce un ulteriore elemento di corroborazione della dinamica ipotizzata. |
 
 ---
@@ -226,7 +226,7 @@ Tutti i reperti sono stati raccolti, catalogati e sigillati secondo le procedure
        |                                          |
        |   impronta + DNA                         |   Ara h 1 confermata
        ↓                                          ↓
-  VERONICA SALIS ←── Ara h 1 ──→ REP-008 (astuccio cavatappi)
+  ILARIA MURA ←── Ara h 1 ──→ REP-008 (astuccio cavatappi)
        |                                          |
        |   smartphone                             |   trasporto fiala
        ↓                                          ↓
@@ -256,13 +256,13 @@ L'analisi complessiva dei reperti consente di affermare con ragionevole certezza
 
 2. La contaminazione e avvenuta nella **Sala Leonardo**, nel lasso di tempo tra il servizio del piatto (21:45) e l'inizio del consumo (21:51).
 
-3. L'unica persona ad aver avuto accesso diretto al piatto di Fontana in quel lasso di tempo e la sommelier **Veronica Salis**, durante il servizio del vino (21:47-21:52).
+3. L'unica persona ad aver avuto accesso diretto al piatto di Fontana in quel lasso di tempo e la sommelier **Ilaria Mura**, durante il servizio del vino (21:47-21:52).
 
-4. L'astuccio cavatappi di Salis (REP-008) presenta tracce di proteina di arachide, compatibili con il trasporto della fiala contagocce (REP-013).
+4. L'astuccio cavatappi di Mura (REP-008) presenta tracce di proteina di arachide, compatibili con il trasporto della fiala contagocce (REP-013).
 
-5. La fiala contagocce (REP-013), contenente olio di arachidi, reca impronte digitali e DNA di Salis.
+5. La fiala contagocce (REP-013), contenente olio di arachidi, reca impronte digitali e DNA di Mura.
 
-6. L'analisi dello smartphone di Salis (REP-012) documenta la premeditazione dell'atto.
+6. L'analisi dello smartphone di Mura (REP-012) documenta la premeditazione dell'atto.
 
 ---
 

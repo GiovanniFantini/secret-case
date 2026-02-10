@@ -59,7 +59,7 @@ Sei delle otto persone presenti alla cena sono considerate sospettate dall'indag
 
 Proprietario e chef stellato del ristorante "Il Cenacolo d'Oro". Diplomato all'Alma — Scuola Internazionale di Cucina Italiana, ha lavorato per otto anni in ristoranti stellati tra Parigi e Londra prima di aprire il suo ristorante a Parma nel 2015. Prima stella Michelin nel 2018. Quella sera ha preparato personalmente tutti i piatti per il tavolo della Sala Leonardo, applicando il protocollo allergie per Fontana.
 
-### 2. Veronica Salis (42 anni)
+### 2. Ilaria Mura (42 anni)
 
 Head sommelier del ristorante, responsabile della carta dei vini e del programma di abbinamento. Diplomata all'AIS con il titolo di Miglior Sommelier della Sardegna 2016, si e trasferita a Parma nel 2017. Donna elegante e determinata, con una profonda conoscenza del vino e della gastronomia. Durante la serata si muoveva tra la Sala Leonardo e la cantina al piano interrato.
 
@@ -105,7 +105,7 @@ Rapporti ufficiali, interrogatori e verbali delle forze dell'ordine.
 | 3 | `verbale-primo-intervento.md` | Verbale dei primi soccorsi e del personale del 118 |
 | 4 | `lista-prove-fisiche.md` | Elenco e analisi delle prove fisiche raccolte sulla scena |
 | 5 | `verbale-interrogatorio-sospetto-1.md` | Interrogatorio di Chef Tommaso Rizzoli |
-| 6 | `verbale-interrogatorio-sospetto-2.md` | Interrogatorio di Veronica Salis |
+| 6 | `verbale-interrogatorio-sospetto-2.md` | Interrogatorio di Ilaria Mura |
 | 7 | `verbale-interrogatorio-sospetto-3.md` | Interrogatorio del Dott. Sergio Mancini |
 | 8 | `verbale-interrogatorio-sospetto-4.md` | Interrogatorio di Giorgio Pellegrini |
 | 9 | `verbale-interrogatorio-sospetto-5.md` | Interrogatorio di Claudia Fontana |

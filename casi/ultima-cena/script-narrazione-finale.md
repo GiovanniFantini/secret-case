@@ -128,9 +128,9 @@ Ombre. Tutte ombre. Perche i segreti sono come i condimenti: ognuno ne ha, ognun
 
 *[Tono: drammatico, con crescendo progressivo. Partire lenti, quasi sussurrando, e accelerare fino alla rivelazione. Questo e il cuore della narrazione.]*
 
-Veronica Salis aveva quarantadue anni e una grazia che non si imparava in nessuna scuola. Sommelier capo del Cenacolo d'Oro, diploma AIS con il punteggio piu alto della sua annata, cinque anni di esperienza in Borgogna, due in Piemonte, una reputazione costruita calice dopo calice, annata dopo annata. Quando Veronica parlava di vino, le persone smettevano di bere e iniziavano ad ascoltare. Conosceva ogni bottiglia della cantina come una madre conosce i propri figli.
+Ilaria Mura aveva quarantadue anni e una grazia che non si imparava in nessuna scuola. Sommelier capo del Cenacolo d'Oro, diploma AIS con il punteggio piu alto della sua annata, cinque anni di esperienza in Borgogna, due in Piemonte, una reputazione costruita calice dopo calice, annata dopo annata. Quando Ilaria parlava di vino, le persone smettevano di bere e iniziavano ad ascoltare. Conosceva ogni bottiglia della cantina come una madre conosce i propri figli.
 
-Ma Veronica conosceva anche Massimo Fontana. Lo conosceva come nessun altro in quella sala.
+Ma Ilaria conosceva anche Massimo Fontana. Lo conosceva come nessun altro in quella sala.
 
 *[Tono piu intimo.]*
 
@@ -138,7 +138,7 @@ Tre anni. Tre anni di una relazione segreta, consumata in hotel discreti tra Mil
 
 Invece, le aveva tolto tutto.
 
-Prima il denaro. Centoventimila euro che Veronica aveva investito nel progetto della wine bar, su consiglio — su insistenza — di Fontana. Un progetto che lui aveva abbandonato senza preavviso, portando con se i fondi e le illusioni. Poi l'amore. Un messaggio, nemmeno una telefonata. *"Non possiamo continuare. Non e piu opportuno."* Diciotto parole per cancellare tre anni di promesse. E infine, il colpo finale. La notizia, trapelata due settimane prima della cena, che nella nuova edizione della Guida Fontana il Cenacolo d'Oro sarebbe stato declassato, e accanto al nome di Veronica sarebbe comparsa un'annotazione che nessun professionista del vino vorrebbe mai leggere.
+Prima il denaro. Centoventimila euro che Ilaria aveva investito nel progetto della wine bar, su consiglio — su insistenza — di Fontana. Un progetto che lui aveva abbandonato senza preavviso, portando con se i fondi e le illusioni. Poi l'amore. Un messaggio, nemmeno una telefonata. *"Non possiamo continuare. Non e piu opportuno."* Diciotto parole per cancellare tre anni di promesse. E infine, il colpo finale. La notizia, trapelata due settimane prima della cena, che nella nuova edizione della Guida Fontana il Cenacolo d'Oro sarebbe stato declassato, e accanto al nome di Ilaria sarebbe comparsa un'annotazione che nessun professionista del vino vorrebbe mai leggere.
 
 *"Sommelier inadeguata."*
 
@@ -146,7 +146,7 @@ Due parole. Due parole che avrebbero distrutto vent'anni di carriera. Due parole
 
 *[Pausa. Il tono si fa piu freddo, piu controllato.]*
 
-Veronica Salis non era una donna impulsiva. Era una professionista del dettaglio, dell'attesa, della pazienza. Le stesse qualita che fanno un grande sommelier fecero, quella volta, una perfetta assassina.
+Ilaria Mura non era una donna impulsiva. Era una professionista del dettaglio, dell'attesa, della pazienza. Le stesse qualita che fanno un grande sommelier fecero, quella volta, una perfetta assassina.
 
 Due settimane prima della cena, ordino online un flacone di olio di arachidi raffinato. Consegna a un punto di ritiro anonimo. Pagamento con carta prepagata. L'olio raffinato — quasi inodore, quasi insapore — era la scelta di chi conosceva le allergie alimentari con la competenza di chi ci lavora ogni giorno.
 
@@ -158,7 +158,7 @@ Ore ventuno e quarantacinque. Terza portata. Il risotto ai funghi porcini esce d
 
 Ed ecco il momento.
 
-Veronica si avvicina al tavolo con una bottiglia di Barolo Riserva 2016. Serve Fontana. Inclina la bottiglia con quel gesto fluido che aveva ripetuto migliaia di volte. Spiega l'abbinamento — le note terrose del Nebbiolo che dialogano con i funghi porcini, il tannino che abbraccia il Parmigiano, l'annata che richiama i boschi d'autunno. Parla, e tutti ascoltano. E il gesto piu naturale del mondo: la sommelier che serve il vino e racconta il matrimonio tra il calice e il piatto.
+Ilaria si avvicina al tavolo con una bottiglia di Barolo Riserva 2016. Serve Fontana. Inclina la bottiglia con quel gesto fluido che aveva ripetuto migliaia di volte. Spiega l'abbinamento — le note terrose del Nebbiolo che dialogano con i funghi porcini, il tannino che abbraccia il Parmigiano, l'annata che richiama i boschi d'autunno. Parla, e tutti ascoltano. E il gesto piu naturale del mondo: la sommelier che serve il vino e racconta il matrimonio tra il calice e il piatto.
 
 Mentre la sua mano sinistra reggeva la bottiglia, la destra — nascosta dal proprio corpo, nell'angolo cieco di ogni sguardo — lascio cadere quattro gocce di olio di arachidi nel risotto di Massimo Fontana.
 
@@ -184,7 +184,7 @@ Alle ventidue e dodici, Massimo Fontana — l'uomo della forchetta, il giudice s
 
 *[Tono che rallenta.]*
 
-Gli indizi. Le telecamere di sicurezza che registrarono i dodici minuti che Veronica trascorse in cantina prima della cena — dodici minuti inspiegabili per prelevare una bottiglia che richiedeva trenta secondi. Le tracce di proteina di arachide trovate all'interno del suo astuccio da sommelier durante la perquisizione. L'ordine online dell'olio, rintracciato dalla Polizia Postale. Il messaggio WhatsApp inviato a un'amica tre giorni prima — *"Presto sara tutto finito. Non potra piu fare del male a nessuno."* — che l'amica aveva interpretato come una rottura sentimentale e che era, invece, l'annuncio di un omicidio. Le pagine del suo diario, ritrovato nel cassetto della scrivania, in cui mesi di dolore si trasformavano, riga dopo riga, in un piano. E la testimonianza di Elena, la cameriera, che quella sera aveva notato Veronica indugiare accanto al piatto di Fontana un istante di troppo.
+Gli indizi. Le telecamere di sicurezza che registrarono i dodici minuti che Ilaria trascorse in cantina prima della cena — dodici minuti inspiegabili per prelevare una bottiglia che richiedeva trenta secondi. Le tracce di proteina di arachide trovate all'interno del suo astuccio da sommelier durante la perquisizione. L'ordine online dell'olio, rintracciato dalla Polizia Postale. Il messaggio WhatsApp inviato a un'amica tre giorni prima — *"Presto sara tutto finito. Non potra piu fare del male a nessuno."* — che l'amica aveva interpretato come una rottura sentimentale e che era, invece, l'annuncio di un omicidio. Le pagine del suo diario, ritrovato nel cassetto della scrivania, in cui mesi di dolore si trasformavano, riga dopo riga, in un piano. E la testimonianza di Elena, la cameriera, che quella sera aveva notato Ilaria indugiare accanto al piatto di Fontana un istante di troppo.
 
 Un istante. Quattro gocce. Una vita.
 
@@ -194,7 +194,7 @@ Un istante. Quattro gocce. Una vita.
 
 *[Tono: calmo, malinconico, conclusivo. Come l'ultima nota di un concerto. Ritmo lento, quasi una veglia.]*
 
-Veronica Salis fu arrestata il 14 marzo 2025, sei giorni dopo la cena, nel suo appartamento di Parma. Non oppose resistenza. Quando i Carabinieri entrarono, era seduta al tavolo della cucina con una bottiglia di Barolo aperta — lo stesso Barolo Riserva 2016 che aveva servito quella sera. Non aveva bevuto.
+Ilaria Mura fu arrestata il 14 marzo 2025, sei giorni dopo la cena, nel suo appartamento di Parma. Non oppose resistenza. Quando i Carabinieri entrarono, era seduta al tavolo della cucina con una bottiglia di Barolo aperta — lo stesso Barolo Riserva 2016 che aveva servito quella sera. Non aveva bevuto.
 
 *[Pausa.]*
 
@@ -233,7 +233,7 @@ Il caso e chiuso.
 > - **Sezione 2 (L'Uomo della Forchetta):** Iniziate con rispetto quasi reverenziale, poi lasciate emergere l'ombra. Il ritratto deve passare dall'ammirazione al disagio. La rivelazione dell'allergia deve arrivare come un dettaglio apparentemente secondario — che il pubblico riconoscera come fatale.
 > - **Sezione 3 (Sei Storie, Sei Segreti):** Ogni ritratto ha un colore diverso: orgoglioso per Rizzoli, amaro per Mancini, arrogante per Pellegrini, dolente per Claudia, giovane e ferito per Galli. La frase finale — "E poi c'era lei" — deve essere pronunciata dopo una pausa lunga, cambiando completamente registro. Piu bassa, piu lenta, quasi un sussurro.
 > - **Sezione 4 (Le False Piste):** Tono riflessivo, da investigatore che ragiona ad alta voce. Ogni sospetto viene sollevato e deposto con rispetto.
-> - **Sezione 5 (La Verita):** Il crescendo drammatico. Partite dal ritratto intimo di Veronica — quasi con tenerezza — poi lasciate che il tradimento di Fontana generi indignazione. Il momento dell'avvelenamento deve essere letto con estrema lentezza, gesto per gesto, goccia per goccia. Poi accelerate sulla reazione anafilattica. Rallentate bruscamente su "Troppo tardi." La lista degli indizi va letta con ritmo scandito, come prove depositate su un tavolo.
+> - **Sezione 5 (La Verita):** Il crescendo drammatico. Partite dal ritratto intimo di Ilaria — quasi con tenerezza — poi lasciate che il tradimento di Fontana generi indignazione. Il momento dell'avvelenamento deve essere letto con estrema lentezza, gesto per gesto, goccia per goccia. Poi accelerate sulla reazione anafilattica. Rallentate bruscamente su "Troppo tardi." La lista degli indizi va letta con ritmo scandito, come prove depositate su un tavolo.
 > - **Sezione 6 (Epilogo):** Calma, malinconia, accettazione. Non e un trionfo: e la fine di una tragedia. L'ultima riflessione deve essere letta come una sentenza — lenta, solenne, definitiva. "Il caso e chiuso" va pronunciato dopo un lungo silenzio.
 >
 > **Ambientazione consigliata:**

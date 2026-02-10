@@ -122,7 +122,7 @@ Se i giocatori faticano a ricostruire gli spostamenti, possono utilizzare questo
 ```
 TIMELINE — SERA DELL'8 MARZO 2025 (Ristorante "Il Cenacolo d'Oro")
 
-Ora        | Rizzoli   | Salis     | Mancini   | Pellegrini | C. Fontana | Galli     | Fontana
+Ora        | Rizzoli   | Mura     | Mancini   | Pellegrini | C. Fontana | Galli     | Fontana
 -----------|-----------|-----------|-----------|------------|------------|-----------|--------
 20:00      |           |           |           |            |            |           |
 20:15      |           |           |           |            |            |           |

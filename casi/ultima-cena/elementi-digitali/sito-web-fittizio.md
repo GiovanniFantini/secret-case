@@ -66,7 +66,7 @@ Telefono: +39 0521 847392
 Sito web: www.ilcenacolodoro.it
 Proprietario: Giorgio Pellegrini
 Chef: Tommaso Rizzoli
-Sommelier: Veronica Salis
+Sommelier: Ilaria Mura
 Fascia di prezzo: €€€€ (menu degustazione da 145 euro)
 Chiusura settimanale: lunedi
 
@@ -85,7 +85,7 @@ costante sulle materie prime e sulle tecniche di cottura. Il suo risotto
 alla parmigiana con crema di Parmigiano Reggiano 36 mesi e considerato
 uno dei piatti simbolo della ristorazione parmense.
 
-La carta dei vini, curata dalla sommelier Veronica Salis, conta oltre
+La carta dei vini, curata dalla sommelier Ilaria Mura, conta oltre
 600 etichette con una selezione particolarmente profonda sui vini
 emiliani e piemontesi. Il servizio in sala e impeccabile.
 
@@ -338,7 +338,7 @@ piatti sono eseguiti con precisione quasi chirurgica. Tuttavia, si
 avverte una certa stanchezza creativa: il menu e rimasto sostanzialmente
 invariato rispetto allo scorso anno. Il risotto alla parmigiana resta
 un piatto notevole, ma non basta a giustificare l'immobilismo.
-La carta dei vini e eccellente e il servizio della sommelier Salis
+La carta dei vini e eccellente e il servizio della sommelier Mura
 e professionale, anche se a tratti meccanico. Pellegrini farebbe
 bene a investire in innovazione piuttosto che in arredamento."
 

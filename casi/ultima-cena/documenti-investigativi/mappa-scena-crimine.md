@@ -159,11 +159,11 @@ Sala rettangolare di circa **6 x 5 metri** (30 mq), situata al primo piano del r
     8   │ Isabella PELLEGRINI    │ Moglie di Marco Pellegrini
   ──────┼────────────────────────┼──────────────────────────────
    N/A  │ Chef Davide RIZZOLI    │ In cucina (non seduto a tavola)
-   N/A  │ Veronica SALIS         │ Sommelier (in servizio)
+   N/A  │ Ilaria MURA         │ Sommelier (in servizio)
    N/A  │ Lucia FERRETTI         │ Cameriera (in servizio)
 ```
 
-### 2.4 Percorso della sommelier Veronica Salis durante il servizio del vino (21:47-21:52)
+### 2.4 Percorso della sommelier Ilaria Mura durante il servizio del vino (21:47-21:52)
 
 ```
                 ╭─────────────────╮
@@ -285,8 +285,8 @@ Sala rettangolare di circa **6 x 5 metri** (30 mq), situata al primo piano del r
 ```
 
 **Note:**
-- La telecamera all'ingresso della cantina (CAM 3) riprende chiunque scenda le scale di servizio. Veronica Salis e stata ripresa alle ore 21:35 in discesa e alle ore 21:46 circa in risalita.
-- Il **tavolo di servizio** al centro della cantina viene utilizzato per la decantazione e la preparazione delle bottiglie. Si ipotizza che Salis possa aver preparato la fiala contagocce in questo punto, fuori dalla portata delle telecamere.
+- La telecamera all'ingresso della cantina (CAM 3) riprende chiunque scenda le scale di servizio. Ilaria Mura e stata ripresa alle ore 21:35 in discesa e alle ore 21:46 circa in risalita.
+- Il **tavolo di servizio** al centro della cantina viene utilizzato per la decantazione e la preparazione delle bottiglie. Si ipotizza che Mura possa aver preparato la fiala contagocce in questo punto, fuori dalla portata delle telecamere.
 - La bottiglia di **Barolo Riserva 2015 Giacomo Conterno** (REP-009) si trovava sullo scaffale "Barolo e Nebbiolo", a circa 5 metri dall'ingresso.
 
 ---
@@ -299,10 +299,10 @@ Sala rettangolare di circa **6 x 5 metri** (30 mq), situata al primo piano del r
     CAM 1       │ Corridoio, 1° piano        │ Porta principale Sala Leonardo,  │ Riprende entrate e
                 │ (angolo alto sx)           │ corridoio, scale principali      │ uscite dalla sala
     ────────────┼────────────────────────────┼──────────────────────────────────┼──────────────────────
-    CAM 2       │ Cucina, piano terra        │ Area preparazione, passavivande, │ Riprende Salis alle
+    CAM 2       │ Cucina, piano terra        │ Area preparazione, passavivande, │ Riprende Mura alle
                 │ (angolo alto dx)           │ ingresso scale di servizio       │ 21:35 verso cantina
     ────────────┼────────────────────────────┼──────────────────────────────────┼──────────────────────
-    CAM 3       │ Ingresso cantina,          │ Pianerottolo scale di servizio,  │ Riprende Salis in
+    CAM 3       │ Ingresso cantina,          │ Pianerottolo scale di servizio,  │ Riprende Mura in
                 │ seminterrato               │ porta accesso cantina            │ discesa e risalita
     ────────────┼────────────────────────────┼──────────────────────────────────┼──────────────────────
     CAM 4       │ Ingresso principale,       │ Porta d'ingresso del ristorante, │ Non rilevante per
@@ -322,14 +322,14 @@ Sala rettangolare di circa **6 x 5 metri** (30 mq), situata al primo piano del r
 
 ### 6.1 Punto di contaminazione ipotizzato
 
-Il piatto di Fontana (posto 1) e stato contaminato con olio di arachidi mentre era gia servito al tavolo. L'ipotesi investigativa colloca il momento della contaminazione tra le **21:47 e le 21:50**, quando Veronica Salis si trovava presso il posto 1 durante il servizio del vino.
+Il piatto di Fontana (posto 1) e stato contaminato con olio di arachidi mentre era gia servito al tavolo. L'ipotesi investigativa colloca il momento della contaminazione tra le **21:47 e le 21:50**, quando Ilaria Mura si trovava presso il posto 1 durante il servizio del vino.
 
 ### 6.2 Percorso della prova chiave (olio di arachidi)
 
 ```
     AsiaMarket.it (22/02) → Spedizione corriere BRT
          ↓
-    Domicilio Sara Ferretti, Fidenza (25/02) → trasferimento a Salis
+    Domicilio Sara Ferretti, Fidenza (25/02) → trasferimento a Mura
          ↓
     Ristorante "Il Cenacolo d'Oro" (data incerta, 06-08/03)
          ↓

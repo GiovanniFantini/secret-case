@@ -103,13 +103,13 @@ Il soggetto viene informato ai sensi degli artt. 64 e 65 c.p.p. della facoltà d
 
 **COMM. FERRO:** Mi parli del servizio della terza portata. Ha notato qualcosa?
 
-**PELLEGRINI:** Il risotto ai funghi porcini. È arrivato accompagnato dal servizio vino di Veronica. Lei ha stappato il Barolo, lo ha fatto decantare brevemente, e ha servito tutti i commensali. Professionale come sempre. Veronica è bravissima nel suo lavoro.
+**PELLEGRINI:** Il risotto ai funghi porcini. È arrivato accompagnato dal servizio vino di Ilaria. Lei ha stappato il Barolo, lo ha fatto decantare brevemente, e ha servito tutti i commensali. Professionale come sempre. Ilaria è bravissima nel suo lavoro.
 
-**COMM. FERRO:** Ha notato qualcosa di insolito nel comportamento di Veronica durante quel servizio?
+**COMM. FERRO:** Ha notato qualcosa di insolito nel comportamento di Ilaria durante quel servizio?
 
 **PELLEGRINI:** *(riflette)* No, onestamente no. Mi è sembrata professionale come sempre. Forse un filo più seria del solito, ma lo attribuivo alla pressione della serata. Avevamo un critico della caratura di Fontana al tavolo, è normale essere un po' tesi.
 
-**COMM. FERRO:** Ha visto Veronica avvicinarsi al piatto di Fontana?
+**COMM. FERRO:** Ha visto Ilaria avvicinarsi al piatto di Fontana?
 
 **PELLEGRINI:** Non ho fatto caso. Ero concentrato su Elena Moretti, che mi stava raccontando di un articolo che stava preparando sull'evoluzione della cucina parmigiana. Non stavo osservando il servizio in dettaglio.
 
@@ -131,7 +131,7 @@ Il soggetto viene informato ai sensi degli artt. 64 e 65 c.p.p. della facoltà d
 
 **COMM. FERRO:** Mi creda, signor Pellegrini, sto solo esplorando tutte le ipotesi. Un'ultima domanda: ha notato qualcosa di insolito durante la serata, qualcosa che le sia rimasto impresso, anche un dettaglio apparentemente insignificante?
 
-**PELLEGRINI:** *(ci pensa a lungo)* Una cosa, forse. Prima della cena, quando gli ospiti stavano arrivando, ho visto Veronica nell'ingresso. Parlava al telefono. Quando mi ha visto, ha chiuso la chiamata in fretta e mi ha sorriso. Non ci ho pensato più fino a ora. Ma il modo in cui ha chiuso quella telefonata... era come se non volesse che io sentissi.
+**PELLEGRINI:** *(ci pensa a lungo)* Una cosa, forse. Prima della cena, quando gli ospiti stavano arrivando, ho visto Ilaria nell'ingresso. Parlava al telefono. Quando mi ha visto, ha chiuso la chiamata in fretta e mi ha sorriso. Non ci ho pensato più fino a ora. Ma il modo in cui ha chiuso quella telefonata... era come se non volesse che io sentissi.
 
 **COMM. FERRO:** Ricorda a che ora era?
 
@@ -169,13 +169,13 @@ Il soggetto viene informato ai sensi degli artt. 64 e 65 c.p.p. della facoltà d
 **Comportamento durante l'interrogatorio:** Inizialmente sulla difensiva e preoccupato per la propria immagine. Si è agitato alla menzione della telefonata minacciosa ma ha ammesso spontaneamente. Atteggiamento complessivamente cooperativo. L'argomento logico sull'autolesionismo della morte di Fontana per i propri interessi è solido.
 
 **Elementi rilevanti emersi:**
-- La telefonata del 20:00 di Veronica Salis nell'ingresso del ristorante, interrotta bruscamente all'arrivo di Pellegrini, è un nuovo elemento. Necessario verificare i tabulati di Salis per identificare l'interlocutore.
+- La telefonata del 20:00 di Ilaria Mura nell'ingresso del ristorante, interrotta bruscamente all'arrivo di Pellegrini, è un nuovo elemento. Necessario verificare i tabulati di Mura per identificare l'interlocutore.
 - La conferma che Pellegrini ha organizzato personalmente la cena e selezionato gli invitati fornisce contesto sulla composizione del tavolo.
-- La percezione di Veronica come "professionale come sempre" contrasta con le osservazioni di Rizzoli e Mancini, che l'hanno notata nervosa. Ciò potrebbe indicare che Pellegrini era troppo concentrato sui propri obiettivi per notare i dettagli, oppure che Salis era capace di mascherare il nervosismo in certe situazioni.
+- La percezione di Ilaria come "professionale come sempre" contrasta con le osservazioni di Rizzoli e Mancini, che l'hanno notata nervosa. Ciò potrebbe indicare che Pellegrini era troppo concentrato sui propri obiettivi per notare i dettagli, oppure che Mura era capace di mascherare il nervosismo in certe situazioni.
 
 **LIVELLO DI SOSPETTO: MEDIO-BASSO** (minaccia registrata preoccupante, ma logica del movente autolesionistico convincente; nessuna opportunità concreta; nessuna conoscenza dell'allergene).
 
-**Azione successiva:** Verificare alibi con commensali adiacenti (Moretti, Basetti). Verificare tabulati Salis per la telefonata delle 20:00. Approfondire rapporti finanziari Pellegrini-ristorante per escludere polizze assicurative o clausole contrattuali che potrebbero beneficiarlo in caso di chiusura.
+**Azione successiva:** Verificare alibi con commensali adiacenti (Moretti, Basetti). Verificare tabulati Mura per la telefonata delle 20:00. Approfondire rapporti finanziari Pellegrini-ristorante per escludere polizze assicurative o clausole contrattuali che potrebbero beneficiarlo in caso di chiusura.
 
 ---
 *Fine verbale -- Protocollo PR-2025-1287/4 -- Pagina unica*
