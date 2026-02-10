@@ -47,7 +47,7 @@ Il vostro compito e scoprire chi, perche e come.
 Sei persone sono sotto indagine. Ciascuna aveva un legame con la vittima e una potenziale ragione per desiderarne la morte:
 
 1. **Chef Alessandro Rizzoli, 52 anni** — Chef patron e proprietario de "Il Cenacolo d'Oro", una stella Michelin, reputazione costruita in trent'anni di carriera
-2. **Veronica Salis, 37 anni** — Sommelier del ristorante, professionista stimata nel settore, diploma AIS con specializzazione in vini emiliani
+2. **Ilaria Mura, 37 anni** — Sommelier del ristorante, professionista stimata nel settore, diploma AIS con specializzazione in vini emiliani
 3. **Dott. Federico Mancini, 48 anni** — Editore gastronomico, commensale al tavolo di Fontana quella sera, socio in affari con la vittima
 4. **Giulia Pellegrini, 41 anni** — Giornalista enogastronomica, commensale al tavolo di Fontana, collega e rivale professionale della vittima
 5. **Claudia Fontana, 34 anni** — Figlia della vittima, commensale al tavolo, rapporti tesi con il padre da anni

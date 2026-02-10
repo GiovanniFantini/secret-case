@@ -28,9 +28,9 @@
 │   "Dopo che i piatti sono stati serviti al tavolo        │
 │   della Sala Leonardo, solo DUE persone del              │
 │   personale vi sono entrate: la cameriera Lucia          │
-│   Ferretti e la sommelier Veronica Salis. Lucia          │
+│   Ferretti e la sommelier Ilaria Mura. Lucia          │
 │   ha portato il vassoio e se ne e andata subito.         │
-│   Veronica e rimasta nella sala per 5 minuti,            │
+│   Ilaria e rimasta nella sala per 5 minuti,            │
 │   servendo il vino ai commensali. Chi dei due            │
 │   aveva il tempo e la prossimita al piatto di            │
 │   Fontana?"                                              │
@@ -40,7 +40,7 @@
 └──────────────────────────────────────────────────────────┘
 ```
 
-**Effetto:** Questo suggerimento riduce drasticamente i sospettati con opportunita reale a due sole persone — e subito elimina Lucia Ferretti, che ha portato il vassoio e se ne e andata. Veronica Salis, invece, e rimasta 5 minuti, servendo il vino a ogni commensale. Aveva tempo e prossimita fisica al piatto di Fontana. I giocatori dovrebbero ora concentrare l'indagine sulla sommelier.
+**Effetto:** Questo suggerimento riduce drasticamente i sospettati con opportunita reale a due sole persone — e subito elimina Lucia Ferretti, che ha portato il vassoio e se ne e andata. Ilaria Mura, invece, e rimasta 5 minuti, servendo il vino a ogni commensale. Aveva tempo e prossimita fisica al piatto di Fontana. I giocatori dovrebbero ora concentrare l'indagine sulla sommelier.
 
 ---
 
@@ -52,7 +52,7 @@
 │   PROCURA DELLA REPUBBLICA DI PARMA                     │
 │   Ufficio Indagini — Comunicazione urgente              │
 │                                                          │
-│   "Controllate il tempo che Veronica Salis ha            │
+│   "Controllate il tempo che Ilaria Mura ha            │
 │   trascorso nella cantina del ristorante prima del       │
 │   servizio. Il registro delle telecamere mostra          │
 │   un accesso alla cantina alle 20:38, con uscita         │
@@ -65,7 +65,7 @@
 └──────────────────────────────────────────────────────────┘
 ```
 
-**Effetto:** 13 minuti in cantina per scegliere una bottiglia sono un tempo anomalo per una professionista esperta. Questo suggerimento implica che Veronica stava facendo qualcos'altro in cantina — preparando l'olio di arachide, nascondendolo nell'astuccio del cavatappi, o assicurandosi di non essere osservata. I giocatori dovrebbero incrociare questo dato con le prove fisiche della cantina.
+**Effetto:** 13 minuti in cantina per scegliere una bottiglia sono un tempo anomalo per una professionista esperta. Questo suggerimento implica che Ilaria stava facendo qualcos'altro in cantina — preparando l'olio di arachide, nascondendolo nell'astuccio del cavatappi, o assicurandosi di non essere osservata. I giocatori dovrebbero incrociare questo dato con le prove fisiche della cantina.
 
 ---
 
@@ -91,7 +91,7 @@
 └──────────────────────────────────────────────────────────┘
 ```
 
-**Effetto:** Questo suggerimento orienta i giocatori verso la pista finanziaria. Gli estratti conto e i contratti rivelano che Fontana aveva un debito di 85.000 euro nei confronti di una persona specifica. La frase "il debito non era solo metaforico" suggerisce un intreccio tra sentimenti e denaro. I giocatori dovrebbero cercare tracce di prestiti, promesse non mantenute e rapporti sentimentali nascosti nei documenti.
+**Effetto:** Questo suggerimento orienta i giocatori verso la pista finanziaria. Gli estratti conto e i contratti rivelano che Fontana aveva un debito di 68.000 euro nei confronti di una persona specifica. La frase "il debito non era solo metaforico" suggerisce un intreccio tra sentimenti e denaro. I giocatori dovrebbero cercare tracce di prestiti, promesse non mantenute e rapporti sentimentali nascosti nei documenti.
 
 ---
 
@@ -116,7 +116,7 @@
 └──────────────────────────────────────────────────────────┘
 ```
 
-**Effetto:** Questo suggerimento punta direttamente a una prova fisica chiave: l'astuccio del cavatappi di Veronica Salis conteneva tracce di proteina di arachide. Un kit da sommelier non dovrebbe mai contenere tracce alimentari di questo tipo. E la prova forense che collega fisicamente Veronica al mezzo usato per uccidere Fontana. Se i giocatori rileggono la lista delle prove, il collegamento diventa evidente.
+**Effetto:** Questo suggerimento punta direttamente a una prova fisica chiave: l'astuccio del cavatappi di Ilaria Mura conteneva tracce di proteina di arachide. Un kit da sommelier non dovrebbe mai contenere tracce alimentari di questo tipo. E la prova forense che collega fisicamente Ilaria al mezzo usato per uccidere Fontana. Se i giocatori rileggono la lista delle prove, il collegamento diventa evidente.
 
 ---
 
@@ -126,7 +126,7 @@ Dopo i suggerimenti di Livello 2, i giocatori dovrebbero essere in grado di stab
 
 | Elemento | Conclusione |
 |----------|-------------|
-| **Chi** | La sommelier Veronica Salis (unica persona con tempo e prossimita al piatto + tracce nell'astuccio) |
+| **Chi** | La sommelier Ilaria Mura (unica persona con tempo e prossimita al piatto + tracce nell'astuccio) |
 | **Perche** | Un legame personale e finanziario con Fontana (da approfondire con i documenti) |
 | **Come** | Ancora da determinare nei dettagli — i suggerimenti di Livello 2 non rivelano il metodo esatto ne il tipo di sostanza |
 

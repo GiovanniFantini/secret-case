@@ -7,11 +7,11 @@
 
 ---
 
-## ESTRATTO CONTO N. 1 - VERONICA SALIS
+## ESTRATTO CONTO N. 1 - ILARIA MURA
 
 **Istituto:** Poste Italiane S.p.A. - BancoPosta
-**Intestatario:** Salis Veronica, nata a Cagliari il 03/09/1982
-**C.F.:** SLSVNC82P43B354X
+**Intestatario:** Mura Ilaria, nata a Cagliari il 03/09/1982
+**C.F.:** MRULRI82P43B354Z
 **Tipo conto:** Conto BancoPosta Piu
 **IBAN:** IT45 P076 0112 8000 0004 5821 930
 **Carta PostePay associata:** n. **** **** **** 4821
@@ -51,11 +51,11 @@
 | 08/03/2025 | PagoBancomat - BAR PASTICCERIA TORINO Parma - ore 11:23 | 4,50 | | 7.301,69 |
 | | **SALDO FINALE AL 09/03/2025** | | | **7.301,69** |
 
-### Riepilogo patrimoniale Veronica Salis:
+### Riepilogo patrimoniale Ilaria Mura:
 - **Saldo conto corrente:** Euro 7.301,69
 - **Libretto di risparmio postale:** Euro 2.340,00 (ultimo aggiornamento 31/12/2024)
-- **Debito verso Massimo Fontana:** Euro 85.000,00 (come da lettera di messa in mora del 15/01/2025)
-- **Patrimonio netto stimato:** Euro -75.358,31
+- **Debito verso Massimo Fontana:** Euro 68.000,00 (come da lettera di messa in mora del 15/01/2025)
+- **Patrimonio netto stimato:** Euro -58.358,31
 
 ### Nota investigativa:
 > **ELEMENTO CHIAVE:** Il pagamento del 22/02/2025 a "ASIAMARKET.IT" di Euro 18,90 tramite carta PostePay n. **** 4821 corrisponde all'ordine n. AM-2025-08834, relativo all'acquisto di "Olio di Arachidi Raffinato Premium 250ml". La correlazione con la ricevuta di AsiaMarket.it (vd. fascicolo ricevute-scontrini) e con i messaggi WhatsApp del 4 marzo 2025 (richiesta di consegna all'indirizzo di Sara Ferretti) configura un quadro probatorio di particolare gravita.
@@ -75,7 +75,11 @@
 | Data | Descrizione operazione | Dare (EUR) | Avere (EUR) | Saldo (EUR) |
 |------|----------------------|------------|-------------|-------------|
 | ... | *[Movimenti precedenti omessi]* | | | |
-| **18/07/2022** | **Bonifico a SALIS VERONICA - IBAN IT45 P076...4821 930 - Causale: "Finanziamento progetto La Vigna"** | **85.000,00** | | **412.670,34** |
+| **18/07/2022** | **Bonifico a MURA ILARIA - IBAN IT45 P076...4821 930 - Causale: "Finanziamento progetto La Vigna"** | **68.000,00** | | **412.670,34** |
+| ... | *[Movimenti intermedi omessi]* | | | |
+| **10/03/2023** | **Bonifico a COLOMBO FRANCO - IBAN IT22 K030...7845 120 - Causale: "Prestito personale spese universitarie"** | **12.000,00** | | **389.450,12** |
+| **15/06/2023** | Accredito da COLOMBO FRANCO - Causale: "Restituzione parziale prestito" | | 4.000,00 | 393.450,12 |
+| **05/09/2023** | **Bonifico a MORETTI ELENA - IBAN IT88 R054...2390 670 - Causale: "Anticipo progetto editoriale Le Cene dei Grandi"** | **25.000,00** | | **368.450,12** |
 | ... | *[Movimenti intermedi omessi]* | | | |
 | 01/01/2025 | SALDO INIZIALE 2025 | | | 687.445,12 |
 | 02/01/2025 | Accredito - GUIDA FONTANA EDIZIONI SRL - Compenso direttore editoriale | | 18.500,00 | 705.945,12 |
@@ -97,11 +101,15 @@
 - **Immobile: Appartamento Parma, Via D'Azeglio 8:** Valore catastale Euro 520.000,00
 - **Immobile: Villa Torrechiara, Strada Provinciale 18:** Valore catastale Euro 380.000,00
 - **Quote societarie: Guida Fontana Edizioni SRL (100%):** Valore stimato Euro 4.500.000,00 (come da accordo Springer)
-- **Crediti: Verso Salis Veronica:** Euro 85.000,00
-- **Patrimonio netto stimato:** Euro 7.575.318,12
+- **Crediti: Verso Mura Ilaria:** Euro 68.000,00
+- **Crediti: Verso Colombo Franco:** Euro 8.000,00 (residuo prestito personale di Euro 12.000, parzialmente restituito)
+- **Crediti: Verso Moretti Elena:** Euro 25.000,00 (anticipo progetto editoriale "Le Cene dei Grandi", annullato)
+- **Patrimonio netto stimato:** Euro 7.608.318,12
 
 ### Nota investigativa:
 > L'accredito del 28/02/2025 di Euro 450.000,00 da Springer Gastronomie GmbH rappresenta un anticipo del 10% sul prezzo di cessione della Guida Fontana (totale: Euro 4.500.000,00). Il Sig. Fontana disponeva di un patrimonio molto rilevante. La figlia Claudia Fontana risulta unica erede testamentaria (vd. testamento olografo depositato presso Notaio Dott. Alessandro Verdi, Parma).
+>
+> **CREDITI VERSO TERZI:** Oltre al credito di Euro 68.000 verso Mura Ilaria, risultano: (a) un prestito personale di Euro 12.000 al maitre Franco Colombo (marzo 2023), di cui Euro 4.000 restituiti — residuo Euro 8.000; (b) un anticipo di Euro 25.000 alla giornalista Elena Moretti (settembre 2023) per il progetto editoriale "Le Cene dei Grandi", successivamente annullato — importo non restituito. Entrambi i crediti configurano rapporti finanziari tra la vittima e persone presenti alla cena dell'8 marzo.
 
 ---
 

@@ -99,7 +99,7 @@ Procedete nell'ordine: prima la Domanda 1, poi la 2, poi la 3.
 Selezionate la vostra risposta:
 
 ### a) Chef Tommaso Rizzoli
-### b) Veronica Salis
+### b) Ilaria Mura
 ### c) Dott. Sergio Mancini
 ### d) Giorgio Pellegrini
 ### e) Claudia Fontana
@@ -126,11 +126,11 @@ Rizzoli e la **falsa pista principale** del caso: il sospettato piu ovvio, proge
 </details>
 
 <details>
-<summary>Hai risposto (b) — Veronica Salis? Clicca qui.</summary>
+<summary>Hai risposto (b) — Ilaria Mura? Clicca qui.</summary>
 
 **RISPOSTA CORRETTA!**
 
-Eccellente lavoro investigativo. Veronica Salis, la sommelier, e la colpevole. Le prove chiave che avrebbero dovuto condurti a lei:
+Eccellente lavoro investigativo. Ilaria Mura, la sommelier, e la colpevole. Le prove chiave che avrebbero dovuto condurti a lei:
 
 - Le **telecamere a circuito chiuso** la riprendono nei pressi dell'abitazione di Fontana in orari sospetti.
 - Le **tracce rinvenute nella custodia del cavatappi** collegano il suo equipaggiamento all'olio di arachidi.
@@ -225,7 +225,7 @@ Selezionate la vostra risposta:
 
 **RISPOSTA ERRATA.**
 
-La vendetta per una recensione negativa e il movente che si applicherebbe a figure come Galli o Rizzoli, non alla colpevole. Veronica Salis non agiva per una semplice critica professionale: la sua motivazione era molto piu profonda e personale, radicata nella distruzione sistematica della sua vita da parte della vittima.
+La vendetta per una recensione negativa e il movente che si applicherebbe a figure come Galli o Rizzoli, non alla colpevole. Ilaria Mura non agiva per una semplice critica professionale: la sua motivazione era molto piu profonda e personale, radicata nella distruzione sistematica della sua vita da parte della vittima.
 
 **Punteggio per questa domanda: 0 punti.**
 </details>
@@ -235,7 +235,7 @@ La vendetta per una recensione negativa e il movente che si applicherebbe a figu
 
 **RISPOSTA ERRATA.**
 
-L'interesse economico diretto e il movente apparente di Pellegrini o di Claudia Fontana. Veronica Salis aveva certamente subito un danno economico, ma il movente immediato non era il profitto: era la **ritorsione per la devastazione totale** che Fontana le aveva inflitto. La differenza e fondamentale: Salis non ha ucciso per guadagnare denaro, ma per vendicarsi di chi le aveva tolto tutto.
+L'interesse economico diretto e il movente apparente di Pellegrini o di Claudia Fontana. Ilaria Mura aveva certamente subito un danno economico, ma il movente immediato non era il profitto: era la **ritorsione per la devastazione totale** che Fontana le aveva inflitto. La differenza e fondamentale: Mura non ha ucciso per guadagnare denaro, ma per vendicarsi di chi le aveva tolto tutto.
 
 **Punteggio per questa domanda: 0 punti.**
 </details>
@@ -245,13 +245,13 @@ L'interesse economico diretto e il movente apparente di Pellegrini o di Claudia 
 
 **RISPOSTA CORRETTA!**
 
-Perfetto. Il movente di Veronica Salis non era il denaro, una recensione o un'attivita illecita: era una **vendetta totale, personale e professionale**, maturata dopo che la vittima aveva sistematicamente distrutto la sua vita.
+Perfetto. Il movente di Ilaria Mura non era il denaro, una recensione o un'attivita illecita: era una **vendetta totale, personale e professionale**, maturata dopo che la vittima aveva sistematicamente distrutto la sua vita.
 
-Fontana, suo ex amante, aveva posto fine alla relazione e poi aveva agito con deliberata crudelta: l'aveva caricata di debiti, aveva usato la propria influenza per chiuderle ogni porta nel settore enogastronomico, e aveva demolito la sua reputazione professionale. Salis si era ritrovata senza carriera, senza risorse e senza futuro.
+Fontana, suo ex amante, aveva posto fine alla relazione e poi aveva agito con deliberata crudelta: l'aveva caricata di debiti, aveva usato la propria influenza per chiuderle ogni porta nel settore enogastronomico, e aveva demolito la sua reputazione professionale. Mura si era ritrovata senza carriera, senza risorse e senza futuro.
 
 Le prove del movente:
 - **La relazione passata**: confermata da corrispondenza e testimonianze della cerchia intima
-- **I debiti accumulati**: documentazione finanziaria che collega il dissesto economico di Salis alle azioni di Fontana
+- **I debiti accumulati**: documentazione finanziaria che collega il dissesto economico di Mura alle azioni di Fontana
 - **La distruzione della carriera**: una serie di referenze negative e pressioni sui datori di lavoro, tutte riconducibili alla vittima
 - **La conoscenza dell'allergia**: un'informazione intima, acquisita durante la relazione, trasformata in arma letale
 
@@ -263,7 +263,7 @@ Le prove del movente:
 
 **RISPOSTA ERRATA.**
 
-Non esiste alcuna attivita illecita da proteggere in questo caso. Veronica Salis non stava coprendo un segreto criminale: stava agendo per vendetta contro chi le aveva distrutto la vita. Il movente e personale e professionale, non legato alla protezione di operazioni illegali.
+Non esiste alcuna attivita illecita da proteggere in questo caso. Ilaria Mura non stava coprendo un segreto criminale: stava agendo per vendetta contro chi le aveva distrutto la vita. Il movente e personale e professionale, non legato alla protezione di operazioni illegali.
 
 **Punteggio per questa domanda: 0 punti.**
 </details>
@@ -288,7 +288,7 @@ Selezionate la vostra risposta:
 
 **RISPOSTA ERRATA.**
 
-Ipotesi logica, data la professione della colpevole, ma le analisi di laboratorio la smentiscono: il **bicchiere di vino della vittima non presentava alcuna traccia** di contaminante. Il vino era pulito. Salis ha sfruttato il suo ruolo di sommelier non per contaminare il vino, ma per avere **accesso legittimo al tavolo** nel momento del servizio, usando la mescita come copertura per agire sul piatto.
+Ipotesi logica, data la professione della colpevole, ma le analisi di laboratorio la smentiscono: il **bicchiere di vino della vittima non presentava alcuna traccia** di contaminante. Il vino era pulito. Mura ha sfruttato il suo ruolo di sommelier non per contaminare il vino, ma per avere **accesso legittimo al tavolo** nel momento del servizio, usando la mescita come copertura per agire sul piatto.
 
 **Punteggio per questa domanda: 0 punti.**
 </details>
@@ -314,7 +314,7 @@ Se hai scelto questa risposta, la colpevole ti ha ingannato con la sua strategia
 
 **RISPOSTA CORRETTA!**
 
-Esattamente. Veronica Salis ha introdotto **olio di arachidi nel risotto** della vittima approfittando del momento in cui si trovava al tavolo per il **servizio del vino**. Il suo ruolo di sommelier le garantiva accesso diretto e legittimo al tavolo, e il gesto di versare il vino distoglieva l'attenzione dei commensali dal piatto.
+Esattamente. Ilaria Mura ha introdotto **olio di arachidi nel risotto** della vittima approfittando del momento in cui si trovava al tavolo per il **servizio del vino**. Il suo ruolo di sommelier le garantiva accesso diretto e legittimo al tavolo, e il gesto di versare il vino distoglieva l'attenzione dei commensali dal piatto.
 
 Le prove del metodo:
 - **Analisi del bicchiere**: il vino era pulito, escludendo la contaminazione della bevanda
@@ -442,7 +442,7 @@ Sommate i punti ottenuti nelle tre domande:
 
 | Domanda | Risposta Corretta | Spiegazione Sintetica |
 |---------|-------------------|-----------------------|
-| **1. Chi?** | **(b) Veronica Salis** | CCTV la colloca a casa Fontana. Tracce nella custodia del cavatappi. Visita cantina 12 min. Conosceva allergia dalla relazione. Acquisto olio di arachidi online. |
+| **1. Chi?** | **(b) Ilaria Mura** | CCTV la colloca a casa Fontana. Tracce nella custodia del cavatappi. Visita cantina 12 min. Conosceva allergia dalla relazione. Acquisto olio di arachidi online. |
 | **2. Perché?** | **(c) Vendetta personale e professionale** | Ex amante che le aveva distrutto carriera, causato debiti e rovinato la reputazione. Ritorsione totale. |
 | **3. Come?** | **(c) Olio di arachidi nel risotto durante servizio vino** | Introduzione dell'allergene nel piatto sfruttando il ruolo di sommelier. Cucina pulita. Vino pulito. EpiPen funzionante ma tardivo. |
 

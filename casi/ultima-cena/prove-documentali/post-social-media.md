@@ -139,19 +139,19 @@ I contenuti social media di seguito riportati sono stati acquisiti mediante:
 
 ---
 
-## POST N. 4 - INSTAGRAM DI VERONICA SALIS (Post cancellato - Dicembre 2024)
+## POST N. 4 - INSTAGRAM DI ILARIA MURA (Post cancellato - Dicembre 2024)
 
 **Piattaforma:** Instagram
-**Account:** @veronica_salis_sommelier (Veronica Salis)
+**Account:** @ilaria_mura_sommelier (Ilaria Mura)
 **Data pubblicazione:** 23 dicembre 2024, ore 23:47
 **Data cancellazione:** 24 dicembre 2024, ore 07:12 (cancellato dopo circa 7 ore)
 **Stato:** Cancellato dall'autrice. Screenshot acquisito dal profilo di un follower e recuperato dalla Polizia Postale.
 
 ---
 
-> **@veronica_salis_sommelier**
+> **@ilaria_mura_sommelier**
 >
-> *[FOTO: Immagine a luce calda, ambientazione intima di un ristorante. Veronica Salis e Massimo Fontana seduti allo stesso tavolo, di profilo, con due calici di vino rosso. Lei sorride guardandolo. Lui le tiene la mano sul tavolo. Sullo sfondo, una candela accesa e una bottiglia di Barolo. La foto sembra scattata da terzi, probabilmente in un ristorante fuori Parma.]*
+> *[FOTO: Immagine a luce calda, ambientazione intima di un ristorante. Ilaria Mura e Massimo Fontana seduti allo stesso tavolo, di profilo, con due calici di vino rosso. Lei sorride guardandolo. Lui le tiene la mano sul tavolo. Sullo sfondo, una candela accesa e una bottiglia di Barolo. La foto sembra scattata da terzi, probabilmente in un ristorante fuori Parma.]*
 >
 > **Didascalia:** "Ci sono sere che non tornano. Persone che non tornano. Vini che non tornano. Questa foto e di un anno fa, in un posto che non esiste piu, con una persona che non esiste piu.
 >
@@ -166,12 +166,12 @@ I contenuti social media di seguito riportati sono stati acquisiti mediante:
 > **Commenti selezionati (recuperati):**
 > - @sara_ferretti_82: "Vero... stai bene? Chiamami"
 > - @winegirl_milano: "Chi e il signore? Belli insieme!"
-> - @veronica_salis_sommelier: "@winegirl_milano Nessuno. Un fantasma."
+> - @ilaria_mura_sommelier: "@winegirl_milano Nessuno. Un fantasma."
 
 ---
 
 ### Nota investigativa (Post N. 4):
-> Il post, pubblicato e cancellato nella notte del 23-24 dicembre 2024, e l'unica prova fotografica pubblica della relazione tra la Salis e il Fontana. La foto, scattata presumibilmente nel dicembre 2023, mostra i due in un atteggiamento inequivocabilmente intimo. La cancellazione dopo poche ore suggerisce un gesto impulsivo, probabilmente legato al consumo di alcol (vd. annotazione diario personale, 18 dicembre 2024). La Salis, interrogata sulla foto, ha dichiarato: "Era una cena di lavoro. Eravamo colleghi. La didascalia era un momento di debolezza natalizia."
+> Il post, pubblicato e cancellato nella notte del 23-24 dicembre 2024, e l'unica prova fotografica pubblica della relazione tra la Mura e il Fontana. La foto, scattata presumibilmente nel dicembre 2023, mostra i due in un atteggiamento inequivocabilmente intimo. La cancellazione dopo poche ore suggerisce un gesto impulsivo, probabilmente legato al consumo di alcol (vd. annotazione diario personale, 18 dicembre 2024). La Mura, interrogata sulla foto, ha dichiarato: "Era una cena di lavoro. Eravamo colleghi. La didascalia era un momento di debolezza natalizia."
 
 ---
 

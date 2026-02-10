@@ -25,8 +25,8 @@ STATO: SPEDITO - Consegnato il 24/02/2025
 
 ------------------------------------------------------------
 DATI CLIENTE:
-Nome: Veronica Salis
-Email: veronica.salis@gmail.com
+Nome: Ilaria Mura
+Email: ilaria.mura@gmail.com
 Telefono: +39 347 882 1456
 
 INDIRIZZO DI SPEDIZIONE:
@@ -36,7 +36,7 @@ Via Verdi 15
 Italia
 
 INDIRIZZO DI FATTURAZIONE:
-Veronica Salis
+Ilaria Mura
 Via Costituente 8, int. 3
 43121 Parma (PR)
 Italia
@@ -64,7 +64,7 @@ DETTAGLIO PRODOTTI:
 
 METODO DI PAGAMENTO:
 Carta PostePay n. **** **** **** 4821
-Intestata a: SALIS VERONICA
+Intestata a: MURA ILARIA
 Autorizzazione: TXN-20250222-104712-4821
 Esito: PAGAMENTO APPROVATO
 
@@ -83,15 +83,15 @@ www.asiamarket.it | P.IVA 0345678901
 ```
 
 ### Nota investigativa:
-> **PROVA FONDAMENTALE.** La ricevuta documenta l'acquisto di olio di arachidi raffinato da parte della Sig.ra Veronica Salis il 22 febbraio 2025, quattordici giorni prima della morte del Sig. Fontana. Elementi di rilievo:
+> **PROVA FONDAMENTALE.** La ricevuta documenta l'acquisto di olio di arachidi raffinato da parte della Sig.ra Ilaria Mura il 22 febbraio 2025, quattordici giorni prima della morte del Sig. Fontana. Elementi di rilievo:
 >
-> 1. **L'indirizzo di spedizione** non corrisponde al domicilio della Salis ma a quello dell'amica Sara Ferretti (Via Verdi 15, Fidenza). Cio indica un deliberato tentativo di dissimulazione dell'acquisto.
-> 2. **Il pagamento** e stato effettuato con la carta PostePay n. **** 4821, intestata alla Salis, come confermato dall'estratto conto BancoPosta.
+> 1. **L'indirizzo di spedizione** non corrisponde al domicilio della Mura ma a quello dell'amica Sara Ferretti (Via Verdi 15, Fidenza). Cio indica un deliberato tentativo di dissimulazione dell'acquisto.
+> 2. **Il pagamento** e stato effettuato con la carta PostePay n. **** 4821, intestata alla Mura, come confermato dall'estratto conto BancoPosta.
 > 3. **Il prodotto** - olio di arachidi puro al 100% - contiene la proteina allergenica (Ara h 1, Ara h 2) che ha causato la reazione anafilattica fatale nel Sig. Fontana.
 > 4. **La correlazione temporale** con il messaggio WhatsApp del 4 marzo 2025 ("posso usare il tuo indirizzo per una consegna?") conferma la premeditazione.
-> 5. La Sig.ra Ferretti ha dichiarato (verbale SIT del 12/03/2025) di aver ritirato il pacco e di averlo consegnato chiuso alla Salis il giorno stesso, senza conoscerne il contenuto.
+> 5. La Sig.ra Ferretti ha dichiarato (verbale SIT del 12/03/2025) di aver ritirato il pacco e di averlo consegnato chiuso alla Mura il giorno stesso, senza conoscerne il contenuto.
 >
-> Il prodotto (bottiglia in vetro da 250ml, marca Golden Dragon) **non e stato rinvenuto** presso il domicilio della Salis ne presso il ristorante. La Salis, interrogata sul punto, ha dichiarato di non ricordare tale acquisto.
+> Il prodotto (bottiglia in vetro da 250ml, marca Golden Dragon) **non e stato rinvenuto** presso il domicilio della Mura ne presso il ristorante. La Mura, interrogata sul punto, ha dichiarato di non ricordare tale acquisto.
 
 ---
 
@@ -121,7 +121,7 @@ ORA: 15:32
       Manico in legno d'olivo
       Lama e spirale in acciaio inox 440
       N. serie: GC-19-07234
-      Incisione personalizzata: "V. Salis - AIS"
+      Incisione personalizzata: "V. Mura - AIS"
 
       Subtotale:                                  EUR 289,00
       IVA inclusa (22%):                          EUR  52,13
@@ -137,7 +137,7 @@ Garanzia: 10 anni dalla data di acquisto
 ```
 
 ### Nota investigativa:
-> Il cavatappi professionale Laguiole "Grand Cru" con incisione "V. Salis - AIS" (Associazione Italiana Sommelier) e lo strumento professionale abitualmente utilizzato dalla Sig.ra Salis nel servizio al tavolo. Secondo le testimonianze raccolte, la Salis ha utilizzato questo cavatappi la sera dell'8 marzo 2025 per aprire le bottiglie di vino servite durante la cena. L'oggetto e stato sequestrato e sottoposto ad analisi: non sono state rinvenute tracce di olio di arachidi sulla lama o sulla spirale.
+> Il cavatappi professionale Laguiole "Grand Cru" con incisione "V. Mura - AIS" (Associazione Italiana Sommelier) e lo strumento professionale abitualmente utilizzato dalla Sig.ra Mura nel servizio al tavolo. Secondo le testimonianze raccolte, la Mura ha utilizzato questo cavatappi la sera dell'8 marzo 2025 per aprire le bottiglie di vino servite durante la cena. L'oggetto e stato sequestrato e sottoposto ad analisi: non sono state rinvenute tracce di olio di arachidi sulla lama o sulla spirale.
 
 ---
 
@@ -276,7 +276,7 @@ SPEDIZIONE: Corriere refrigerato - Consegna 6 marzo 2025
 ```
 
 ### Nota investigativa:
-> La selezione dei vini per la cena e stata curata dalla Sig.ra Salis, come confermato dallo chef Rizzoli e dal Sig. Pellegrini. Il Barolo Riserva 2015 era il vino previsto per l'abbinamento con il risotto alla parmigiana con tartufo nero. La bottiglia servita al tavolo (Barolo Riserva 2015, bottiglia n. 2 su 3) e stata sequestrata e analizzata: non sono state rinvenute tracce di proteine di arachidi nel vino.
+> La selezione dei vini per la cena e stata curata dalla Sig.ra Mura, come confermato dallo chef Rizzoli e dal Sig. Pellegrini. Il Barolo Riserva 2015 era il vino previsto per l'abbinamento con il risotto alla parmigiana con tartufo nero. La bottiglia servita al tavolo (Barolo Riserva 2015, bottiglia n. 2 su 3) e stata sequestrata e analizzata: non sono state rinvenute tracce di proteine di arachidi nel vino.
 
 ---
 
@@ -313,7 +313,7 @@ AUT: 78234
 
 ---
 
-## RICEVUTA N. 6 - SCONTRINO PROFUMERIA (SALIS - 7 MARZO)
+## RICEVUTA N. 6 - SCONTRINO PROFUMERIA (MURA - 7 MARZO)
 
 ---
 
@@ -340,7 +340,7 @@ AUT: 45678
 ```
 
 ### Nota investigativa:
-> Acquisto effettuato dalla Sig.ra Salis il giorno precedente la cena. La scelta di un profumo costoso (in rapporto alla sua situazione finanziaria) per la vigilia dell'evento puo essere indicativa della rilevanza che la Salis attribuiva alla serata dell'8 marzo. Da sola, la circostanza non ha valore probatorio, ma si inserisce nel quadro complessivo descritto nel diario personale (vd. annotazione del 7 marzo 2025: "Domani sara perfetta").
+> Acquisto effettuato dalla Sig.ra Mura il giorno precedente la cena. La scelta di un profumo costoso (in rapporto alla sua situazione finanziaria) per la vigilia dell'evento puo essere indicativa della rilevanza che la Mura attribuiva alla serata dell'8 marzo. Da sola, la circostanza non ha valore probatorio, ma si inserisce nel quadro complessivo descritto nel diario personale (vd. annotazione del 7 marzo 2025: "Domani sara perfetta").
 
 ---
 

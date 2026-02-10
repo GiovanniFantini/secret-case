@@ -71,10 +71,10 @@ Di conseguenza, l'unico punto di osservazione per gli accessi alla Sala Leonardo
 | Timestamp | Descrizione |
 |---|---|
 | 20:05 — 20:50 | Lucia Ferretti (cameriera) effettua molteplici ingressi e uscite dalla Sala Leonardo per il servizio aperitivo e primo piatto. Ogni accesso e accompagnato da vassoi o stoviglie. Movimenti regolari e coerenti con il servizio. |
-| 20:28 | Veronica Salis (sommelier di sala) visibile nel corridoio con bottiglia di vino. Entra nella Sala Leonardo per il servizio vini del primo piatto. |
-| 20:32 | Veronica Salis esce dalla Sala Leonardo. |
+| 20:28 | Ilaria Mura (sommelier di sala) visibile nel corridoio con bottiglia di vino. Entra nella Sala Leonardo per il servizio vini del primo piatto. |
+| 20:32 | Ilaria Mura esce dalla Sala Leonardo. |
 | 20:55 — 21:08 | Lucia Ferretti effettua il servizio del secondo piatto. Accessi multipli, tutti con vassoi. |
-| 21:02 | Veronica Salis entra nella Sala Leonardo con bottiglia per il servizio vini del secondo piatto. Esce alle 21:06. |
+| 21:02 | Ilaria Mura entra nella Sala Leonardo con bottiglia per il servizio vini del secondo piatto. Esce alle 21:06. |
 
 ### 3.3 Uscita di Elena Mancini (21:10 — 21:15)
 
@@ -94,8 +94,8 @@ Di conseguenza, l'unico punto di osservazione per gli accessi alla Sala Leonardo
 | 21:15:03 | Elena Mancini rientra nella Sala Leonardo. | Ultimo rientro di un commensale. |
 | 21:15:03 — 21:42:58 | **NESSUN MOVIMENTO NEL CORRIDOIO.** La porta della Sala Leonardo rimane chiusa. Nessuna persona transita nel corridoio. | **27 minuti e 55 secondi senza alcun accesso.** |
 | **21:42:58** | **Lucia Ferretti** appare nel corridoio proveniente dalle scale. Trasporta un vassoio di grandi dimensioni con piatti coperti da cloche. Entra nella Sala Leonardo. | Trasporta il terzo piatto (risotto ai funghi porcini). Il vassoio e visibilmente pesante. |
-| **21:47:14** | **Veronica Salis** appare nel corridoio proveniente dalle scale. Trasporta una singola bottiglia di vino nella mano destra. Entra nella Sala Leonardo. | **Bottiglia identificata successivamente come Barolo DOCG Bartolo Mascarello 2016.** Veronica NON proviene dalla cucina — arriva dalla direzione delle scale, coerente con un passaggio dalla cantina. |
-| **21:52:38** | **Veronica Salis** esce dalla Sala Leonardo. Si dirige verso le scale e scende al piano inferiore. | **Permanenza nella Sala Leonardo: 5 minuti e 24 secondi.** |
+| **21:47:14** | **Ilaria Mura** appare nel corridoio proveniente dalle scale. Trasporta una singola bottiglia di vino nella mano destra. Entra nella Sala Leonardo. | **Bottiglia identificata successivamente come Barolo DOCG Bartolo Mascarello 2016.** Ilaria NON proviene dalla cucina — arriva dalla direzione delle scale, coerente con un passaggio dalla cantina. |
+| **21:52:38** | **Ilaria Mura** esce dalla Sala Leonardo. Si dirige verso le scale e scende al piano inferiore. | **Permanenza nella Sala Leonardo: 5 minuti e 24 secondi.** |
 | 21:52:38 — 22:04:11 | **NESSUN MOVIMENTO NEL CORRIDOIO.** La porta della Sala Leonardo rimane chiusa. | **11 minuti e 33 secondi senza alcun accesso.** |
 | **22:04:11** | Si percepiscono **rumori concitati** provenienti dall'interno della Sala Leonardo. Voci sovrapposte, toni allarmati. Suono di sedie spostate. | Inizio della fase critica. Compatibile con la manifestazione dei sintomi anafilattici della vittima. |
 | **22:05:02** | **Franco Colombo** (maitre) esce rapidamente dalla Sala Leonardo. Si dirige verso l'attaccapanni nel corridoio. Prende un oggetto dalla giacca appesa (successivamente identificato come l'EpiPen del Prof. Fontana). Rientra immediatamente nella Sala Leonardo. | Permanenza nel corridoio: circa 12 secondi. |
@@ -111,9 +111,9 @@ Di conseguenza, l'unico punto di osservazione per gli accessi alla Sala Leonardo
 | # | Persona | Ingresso | Uscita | Permanenza | Oggetti trasportati |
 |---|---|---|---|---|---|
 | 1 | Lucia Ferretti (cameriera) | 21:42:58 | Non registrata su CAM-01 (*) | — | Vassoio con piatti del terzo piatto |
-| 2 | Veronica Salis (sommelier) | 21:47:14 | 21:52:38 | **5 min 24 sec** | 1 bottiglia di Barolo |
+| 2 | Ilaria Mura (sommelier) | 21:47:14 | 21:52:38 | **5 min 24 sec** | 1 bottiglia di Barolo |
 
-(*) *Nota: L'uscita di Lucia Ferretti dalla Sala Leonardo non e stata individuata su CAM-01 nel segmento 21:42-21:47. E possibile che sia uscita prima dell'ingresso di Veronica Salis (21:47:14), in un breve intervallo in cui si trovava fuori campo, oppure che fosse ancora presente nella sala al momento dell'arrivo di Veronica. Le dichiarazioni di Ferretti confermano che ha lasciato la Sala Leonardo circa 2 minuti dopo aver posato i piatti (intorno alle 21:45), dunque prima dell'ingresso di Salis.*
+(*) *Nota: L'uscita di Lucia Ferretti dalla Sala Leonardo non e stata individuata su CAM-01 nel segmento 21:42-21:47. E possibile che sia uscita prima dell'ingresso di Ilaria Mura (21:47:14), in un breve intervallo in cui si trovava fuori campo, oppure che fosse ancora presente nella sala al momento dell'arrivo di Ilaria. Le dichiarazioni di Ferretti confermano che ha lasciato la Sala Leonardo circa 2 minuti dopo aver posato i piatti (intorno alle 21:45), dunque prima dell'ingresso di Mura.*
 
 **NESSUN'ALTRA PERSONA HA FATTO INGRESSO O USCITA DALLA SALA LEONARDO IN QUESTO INTERVALLO.**
 
@@ -128,7 +128,7 @@ Di conseguenza, l'unico punto di osservazione per gli accessi alla Sala Leonardo
 | Timestamp | Descrizione |
 |---|---|
 | 16:00 — 19:30 | Fase di preparazione. Chef Tommaso Rizzoli visibile alla sua stazione per l'intera durata. Mise en place, preparazione basi, organizzazione ingredienti. Matteo Galli (sous-chef) e Roberto Marini (commis) visibili alle rispettive stazioni. |
-| 19:30 — 20:00 | Intensificazione attivita. Veronica Salis transita piu volte nella cucina per il ritiro delle bottiglie dall'area di servizio. |
+| 19:30 — 20:00 | Intensificazione attivita. Ilaria Mura transita piu volte nella cucina per il ritiro delle bottiglie dall'area di servizio. |
 | 20:00 — 21:30 | Servizio in corso. Preparazione e impiattamento del primo e del secondo piatto. Chef Rizzoli coordina la cucina dalla stazione principale. |
 
 ### 4.2 Preparazione del terzo piatto — SEGMENTO CRITICO (21:30 — 21:42)
@@ -137,20 +137,20 @@ Di conseguenza, l'unico punto di osservazione per gli accessi alla Sala Leonardo
 |---|---|---|
 | **21:30:05** | Chef Rizzoli si sposta dalla stazione principale alla **stazione allergie** (piano di lavoro separato, lato sinistro della cucina, chiaramente visibile in camera). Inizia la preparazione del risotto ai funghi porcini destinato al Prof. Fontana. | **Protocollo allergie attivato.** Rizzoli utilizza stoviglie e utensili dedicati, contrassegnati con etichetta rossa visibile. |
 | 21:30 — 21:40 | Rizzoli lavora alla stazione allergie in modo continuativo. **Nessun'altra persona si avvicina alla stazione allergie durante l'intera preparazione.** | Matteo Galli e visibile alla stazione principale, a circa 3 metri di distanza. Roberto Marini opera all'area lavaggio. Nessuno dei due si avvicina alla postazione di Rizzoli. |
-| **21:35:22** | **Veronica Salis** attraversa la cucina camminando dal lato destro (lato opposto alla stazione allergie). Si dirige verso la porta delle **scale di servizio** che conducono al seminterrato (cantina). Esce dalla cucina attraverso la porta di servizio. | **Veronica NON si avvicina alla stazione allergie.** Il suo percorso e a distanza di almeno 4 metri dalla stazione di Rizzoli. |
+| **21:35:22** | **Ilaria Mura** attraversa la cucina camminando dal lato destro (lato opposto alla stazione allergie). Si dirige verso la porta delle **scale di servizio** che conducono al seminterrato (cantina). Esce dalla cucina attraverso la porta di servizio. | **Ilaria NON si avvicina alla stazione allergie.** Il suo percorso e a distanza di almeno 4 metri dalla stazione di Rizzoli. |
 | **21:40:12** | Chef Rizzoli completa la preparazione del risotto per Fontana. Impiatta il risotto su un piatto della stoviglia dedicata (contrassegno rosso visibile). Posiziona il piatto sul vassoio insieme agli altri piatti del terzo piatto preparati precedentemente. Copre con cloche. | Il vassoio completo e pronto per il servizio. |
 | **21:42:30** | **Lucia Ferretti** (cameriera) entra nell'inquadratura, prende il vassoio con i piatti e si dirige verso le scale che portano al primo piano (Sala Leonardo). Esce dall'inquadratura della CAM-02. | Il vassoio lascia la cucina. Da questo momento il piatto non e piu visibile in CAM-02. |
 
-### 4.3 Osservazione critica — Percorso di Veronica Salis
+### 4.3 Osservazione critica — Percorso di Ilaria Mura
 
 | Timestamp | Telecamera | Evento |
 |---|---|---|
-| 21:35:22 | CAM-02 | Veronica Salis attraversa la cucina e scende verso la cantina tramite le scale di servizio. |
-| 21:35:48 | CAM-03 | Veronica Salis entra nella cantina (vedi Sezione 5). |
-| 21:47:02 | CAM-03 | Veronica Salis esce dalla cantina con una bottiglia (vedi Sezione 5). |
-| 21:47:14 | CAM-01 | Veronica Salis appare nel corridoio del primo piano ed entra nella Sala Leonardo. |
+| 21:35:22 | CAM-02 | Ilaria Mura attraversa la cucina e scende verso la cantina tramite le scale di servizio. |
+| 21:35:48 | CAM-03 | Ilaria Mura entra nella cantina (vedi Sezione 5). |
+| 21:47:02 | CAM-03 | Ilaria Mura esce dalla cantina con una bottiglia (vedi Sezione 5). |
+| 21:47:14 | CAM-01 | Ilaria Mura appare nel corridoio del primo piano ed entra nella Sala Leonardo. |
 
-> **NOTA INVESTIGATIVA: Veronica Salis NON ritorna attraverso la cucina (CAM-02) dopo essere uscita dalla cantina. Non e presente alcun fotogramma che la ritragga nella cucina tra le 21:35 e la fine della serata. Questo indica che, dopo aver lasciato la cantina, Veronica ha raggiunto il primo piano utilizzando un percorso alternativo (scale di servizio dirette al corridoio del primo piano) SENZA passare dalla cucina. Questo percorso e confermato dalla planimetria del ristorante.**
+> **NOTA INVESTIGATIVA: Ilaria Mura NON ritorna attraverso la cucina (CAM-02) dopo essere uscita dalla cantina. Non e presente alcun fotogramma che la ritragga nella cucina tra le 21:35 e la fine della serata. Questo indica che, dopo aver lasciato la cantina, Ilaria ha raggiunto il primo piano utilizzando un percorso alternativo (scale di servizio dirette al corridoio del primo piano) SENZA passare dalla cucina. Questo percorso e confermato dalla planimetria del ristorante.**
 
 ### 4.4 Posizioni del personale di cucina (21:30 — 21:45)
 
@@ -159,24 +159,24 @@ Di conseguenza, l'unico punto di osservazione per gli accessi alla Sala Leonardo
 | Tommaso Rizzoli | Chef/Proprietario | Stazione allergie (21:30-21:40), poi stazione principale | **UNICA persona alla stazione allergie** |
 | Matteo Galli | Sous-chef | Stazione principale | **MAI avvicinatosi alla stazione allergie** |
 | Roberto Marini | Commis | Area lavaggio/preparazione | **MAI avvicinatosi alla stazione allergie** |
-| Veronica Salis | Sommelier | Transito in cucina (21:35) | **NON si avvicina alla stazione allergie** — percorso sul lato opposto della cucina |
+| Ilaria Mura | Sommelier | Transito in cucina (21:35) | **NON si avvicina alla stazione allergie** — percorso sul lato opposto della cucina |
 | Lucia Ferretti | Cameriera | Ritiro vassoio (21:42) | Preleva il vassoio dal bancone di servizio, non dalla stazione allergie |
 
 ---
 
 ## 5. REGISTRO FILMATI — CAM-03 (INGRESSO CANTINA)
 
-**Rilevanza: ALTA — Comportamento anomalo della sommelier Veronica Salis.**
+**Rilevanza: ALTA — Comportamento anomalo della sommelier Ilaria Mura.**
 
 ### 5.1 Registro completo accessi alla cantina (serata 8 marzo 2025)
 
 | # | Timestamp ingresso | Timestamp uscita | Persona | Durata permanenza | Oggetti in uscita |
 |---|---|---|---|---|---|
-| 1 | 19:22:15 | 19:25:40 | Veronica Salis | **3 min 25 sec** | 2 bottiglie |
-| 2 | 19:55:08 | 19:58:30 | Veronica Salis | **3 min 22 sec** | 1 bottiglia |
-| 3 | 20:28:44 | 20:32:51 | Veronica Salis | **4 min 07 sec** | 2 bottiglie |
-| 4 | 21:02:10 | 21:05:18 | Veronica Salis | **3 min 08 sec** | 1 bottiglia |
-| **5** | **21:35:48** | **21:47:02** | **Veronica Salis** | **11 min 14 sec** | **1 bottiglia** |
+| 1 | 19:22:15 | 19:25:40 | Ilaria Mura | **3 min 25 sec** | 2 bottiglie |
+| 2 | 19:55:08 | 19:58:30 | Ilaria Mura | **3 min 22 sec** | 1 bottiglia |
+| 3 | 20:28:44 | 20:32:51 | Ilaria Mura | **4 min 07 sec** | 2 bottiglie |
+| 4 | 21:02:10 | 21:05:18 | Ilaria Mura | **3 min 08 sec** | 1 bottiglia |
+| **5** | **21:35:48** | **21:47:02** | **Ilaria Mura** | **11 min 14 sec** | **1 bottiglia** |
 
 ### 5.2 Analisi comparativa delle visite in cantina
 
@@ -191,16 +191,16 @@ Di conseguenza, l'unico punto di osservazione per gli accessi alla Sala Leonardo
 **Media durata visite 1-4: 3 minuti e 30 secondi.**
 **Durata visita 5: 11 minuti e 14 secondi — superiore di un fattore 3,2 rispetto alla media.**
 
-> **ANOMALIA RILEVATA: La quinta visita in cantina di Veronica Salis e di durata marcatamente superiore a tutte le visite precedenti della serata, nonostante il ritiro di una sola bottiglia. Le visite precedenti, anche quelle con ritiro di due bottiglie, non hanno mai superato i 4 minuti e 07 secondi. Non si individua alcuna giustificazione operativa per una permanenza di 11 minuti e 14 secondi in cantina per il prelievo di un'unica bottiglia.**
+> **ANOMALIA RILEVATA: La quinta visita in cantina di Ilaria Mura e di durata marcatamente superiore a tutte le visite precedenti della serata, nonostante il ritiro di una sola bottiglia. Le visite precedenti, anche quelle con ritiro di due bottiglie, non hanno mai superato i 4 minuti e 07 secondi. Non si individua alcuna giustificazione operativa per una permanenza di 11 minuti e 14 secondi in cantina per il prelievo di un'unica bottiglia.**
 
 ### 5.3 Dettaglio filmato — Visita 5
 
 | Timestamp | Descrizione |
 |---|---|
-| 21:35:48 | Veronica Salis entra nella cantina. Mani libere. Non trasporta oggetti visibili (*). |
-| 21:47:02 | Veronica Salis esce dalla cantina. Trasporta una bottiglia nella mano destra. La mano sinistra e lungo il fianco. Non sono visibili altri oggetti. |
+| 21:35:48 | Ilaria Mura entra nella cantina. Mani libere. Non trasporta oggetti visibili (*). |
+| 21:47:02 | Ilaria Mura esce dalla cantina. Trasporta una bottiglia nella mano destra. La mano sinistra e lungo il fianco. Non sono visibili altri oggetti. |
 
-(*) *Nota: La CAM-03 inquadra esclusivamente l'ingresso della cantina. L'interno della cantina NON e coperto da videosorveglianza. Non e possibile determinare le attivita svolte da Veronica Salis durante gli 11 minuti e 14 secondi trascorsi all'interno della cantina.*
+(*) *Nota: La CAM-03 inquadra esclusivamente l'ingresso della cantina. L'interno della cantina NON e coperto da videosorveglianza. Non e possibile determinare le attivita svolte da Ilaria Mura durante gli 11 minuti e 14 secondi trascorsi all'interno della cantina.*
 
 ---
 
@@ -232,12 +232,12 @@ Durante l'intera finestra critica (21:30 — 22:10), la CAM-04 non registra alcu
 | Ora | CAM-01 (Corridoio 1 piano) | CAM-02 (Cucina) | CAM-03 (Cantina) | CAM-04 (Ingresso) |
 |---|---|---|---|---|
 | 21:30 | Nessun movimento | Rizzoli inizia preparazione alla stazione allergie | — | Nessun mov. rilevante |
-| 21:35 | Nessun movimento | **Veronica attraversa la cucina** verso scale di servizio | **Veronica entra in cantina** | Nessun mov. rilevante |
-| 21:40 | Nessun movimento | Rizzoli completa il risotto Fontana | Veronica ancora in cantina | Nessun mov. rilevante |
-| 21:42 | Nessun movimento | **Lucia prende vassoio**, esce verso scale | Veronica ancora in cantina | Nessun mov. rilevante |
-| 21:43 | **Lucia entra in Sala Leonardo** | — | Veronica ancora in cantina | Nessun mov. rilevante |
-| 21:47 | **Veronica entra in Sala Leonardo** (con bottiglia) | — | **Veronica esce dalla cantina** (con bottiglia) | Nessun mov. rilevante |
-| 21:52 | **Veronica esce da Sala Leonardo** | — | — | Nessun mov. rilevante |
+| 21:35 | Nessun movimento | **Ilaria attraversa la cucina** verso scale di servizio | **Ilaria entra in cantina** | Nessun mov. rilevante |
+| 21:40 | Nessun movimento | Rizzoli completa il risotto Fontana | Ilaria ancora in cantina | Nessun mov. rilevante |
+| 21:42 | Nessun movimento | **Lucia prende vassoio**, esce verso scale | Ilaria ancora in cantina | Nessun mov. rilevante |
+| 21:43 | **Lucia entra in Sala Leonardo** | — | Ilaria ancora in cantina | Nessun mov. rilevante |
+| 21:47 | **Ilaria entra in Sala Leonardo** (con bottiglia) | — | **Ilaria esce dalla cantina** (con bottiglia) | Nessun mov. rilevante |
+| 21:52 | **Ilaria esce da Sala Leonardo** | — | — | Nessun mov. rilevante |
 | 22:00 | Nessun movimento (sintomi Fontana, interno sala) | Attivita regolare | — | Nessun mov. rilevante |
 | 22:04 | Rumori concitati dalla sala | — | — | — |
 | 22:05 | **Colombo esce/rientra** (EpiPen) | — | — | — |
@@ -255,7 +255,7 @@ Sulla base dell'analisi incrociata dei filmati, la catena di custodia del piatto
 | Servizio in sala | 21:43 — ~21:45 | Lucia Ferretti | — (interno sala, non coperto) | Ferretti dichiara di aver posato i piatti e di essere uscita. |
 | Piatto sulla tavola | ~21:45 — 22:00 | — | — (interno sala, non coperto) | Il piatto e sulla tavola, accessibile ai presenti in sala. |
 
-> **NOTA CRITICA: L'unica persona che accede alla Sala Leonardo dopo il posizionamento dei piatti da parte di Lucia Ferretti e VERONICA SALIS (ingresso 21:47:14, uscita 21:52:38). Veronica si trova nella sala con il piatto gia posizionato davanti alla vittima per un periodo di circa 5 minuti e 24 secondi, durante i quali il servizio del vino le richiedeva di avvicinarsi a ciascun commensale, incluso il Prof. Fontana.**
+> **NOTA CRITICA: L'unica persona che accede alla Sala Leonardo dopo il posizionamento dei piatti da parte di Lucia Ferretti e ILARIA MURA (ingresso 21:47:14, uscita 21:52:38). Ilaria si trova nella sala con il piatto gia posizionato davanti alla vittima per un periodo di circa 5 minuti e 24 secondi, durante i quali il servizio del vino le richiedeva di avvicinarsi a ciascun commensale, incluso il Prof. Fontana.**
 
 ---
 
@@ -267,25 +267,25 @@ Sulla base dell'analisi sistematica e incrociata dei filmati di tutte e quattro 
 
 Nell'intervallo temporale compreso tra la partenza del piatto dalla cucina (21:42) e la manifestazione dei primi sintomi del Prof. Fontana (~22:00), **soltanto due persone** hanno fatto accesso alla Sala Leonardo:
 
-1. **Lucia Ferretti** (cameriera) — ingresso alle 21:42:58, con vassoio contenente i piatti del terzo piatto. Ha posizionato i piatti e ha lasciato la sala prima dell'ingresso di Veronica Salis.
+1. **Lucia Ferretti** (cameriera) — ingresso alle 21:42:58, con vassoio contenente i piatti del terzo piatto. Ha posizionato i piatti e ha lasciato la sala prima dell'ingresso di Ilaria Mura.
 
-2. **Veronica Salis** (sommelier) — ingresso alle 21:47:14 con una bottiglia di Barolo, uscita alle 21:52:38. Permanenza: **5 minuti e 24 secondi**.
+2. **Ilaria Mura** (sommelier) — ingresso alle 21:47:14 con una bottiglia di Barolo, uscita alle 21:52:38. Permanenza: **5 minuti e 24 secondi**.
 
 Nessun'altra persona ha fatto ingresso o uscita dalla Sala Leonardo in questo intervallo. Questo dato e **certo e incontrovertibile**, essendo la CAM-01 l'unico punto di accesso alla sala ed essendo i filmati integri e continui.
 
-### 8.2 Comportamento anomalo di Veronica Salis in cantina
+### 8.2 Comportamento anomalo di Ilaria Mura in cantina
 
-La quinta visita in cantina di Veronica Salis (21:35:48 — 21:47:02) presenta una **durata anomala di 11 minuti e 14 secondi**, a fronte di una media di 3 minuti e 30 secondi per le quattro visite precedenti della stessa serata. La visita ha prodotto il ritiro di una sola bottiglia, il che rende la durata ancora meno giustificabile dal punto di vista operativo.
+La quinta visita in cantina di Ilaria Mura (21:35:48 — 21:47:02) presenta una **durata anomala di 11 minuti e 14 secondi**, a fronte di una media di 3 minuti e 30 secondi per le quattro visite precedenti della stessa serata. La visita ha prodotto il ritiro di una sola bottiglia, il che rende la durata ancora meno giustificabile dal punto di vista operativo.
 
-L'assenza di copertura video all'interno della cantina non consente di determinare le attivita svolte da Salis durante gli 11 minuti trascorsi nel locale.
+L'assenza di copertura video all'interno della cantina non consente di determinare le attivita svolte da Mura durante gli 11 minuti trascorsi nel locale.
 
-### 8.3 Percorso anomalo di Veronica Salis
+### 8.3 Percorso anomalo di Ilaria Mura
 
-Dopo l'uscita dalla cantina (21:47:02, CAM-03), Veronica Salis **non transita dalla cucina** (nessun riscontro su CAM-02). Si dirige invece al primo piano attraverso le scale di servizio, raggiungendo direttamente il corridoio esterno alla Sala Leonardo (CAM-01, 21:47:14). Nelle visite precedenti, Salis era sempre transitata dalla cucina sia in andata che in ritorno. Questo cambiamento di percorso, in concomitanza con la visita anomala in cantina, costituisce un ulteriore elemento meritevole di approfondimento.
+Dopo l'uscita dalla cantina (21:47:02, CAM-03), Ilaria Mura **non transita dalla cucina** (nessun riscontro su CAM-02). Si dirige invece al primo piano attraverso le scale di servizio, raggiungendo direttamente il corridoio esterno alla Sala Leonardo (CAM-01, 21:47:14). Nelle visite precedenti, Mura era sempre transitata dalla cucina sia in andata che in ritorno. Questo cambiamento di percorso, in concomitanza con la visita anomala in cantina, costituisce un ulteriore elemento meritevole di approfondimento.
 
 ### 8.4 Opportunita
 
-L'analisi video dimostra che Veronica Salis disponeva di:
+L'analisi video dimostra che Ilaria Mura disponeva di:
 
 - **Accesso non sorvegliato alla cantina** per 11 minuti e 14 secondi (interno cantina non coperto da telecamere);
 - **Accesso alla Sala Leonardo** per 5 minuti e 24 secondi con il piatto del Prof. Fontana gia posizionato sulla tavola;
@@ -300,9 +300,9 @@ L'analisi video dimostra che Veronica Salis disponeva di:
 |---|---|
 | ALL. A | Supporto digitale contenente copia integrale dei filmati (4 telecamere, 16:00-23:00) — REP. VID-2025-0342 |
 | ALL. B | Fotogrammi estratti — Ingresso Lucia Ferretti in Sala Leonardo (21:42:58) |
-| ALL. C | Fotogrammi estratti — Ingresso Veronica Salis in Sala Leonardo (21:47:14) |
-| ALL. D | Fotogrammi estratti — Uscita Veronica Salis dalla Sala Leonardo (21:52:38) |
-| ALL. E | Fotogrammi estratti — Veronica Salis in transito cucina verso cantina (21:35:22) |
+| ALL. C | Fotogrammi estratti — Ingresso Ilaria Mura in Sala Leonardo (21:47:14) |
+| ALL. D | Fotogrammi estratti — Uscita Ilaria Mura dalla Sala Leonardo (21:52:38) |
+| ALL. E | Fotogrammi estratti — Ilaria Mura in transito cucina verso cantina (21:35:22) |
 | ALL. F | Fotogrammi estratti — Ingresso e uscita cantina, visita 5 (21:35:48 / 21:47:02) |
 | ALL. G | Tabella comparativa durata visite in cantina (tutte le visite della serata) |
 | ALL. H | Planimetria del ristorante con indicazione posizione telecamere e percorsi |

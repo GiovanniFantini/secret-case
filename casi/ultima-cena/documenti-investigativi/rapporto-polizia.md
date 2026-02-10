@@ -135,7 +135,7 @@ Il tavolo ovale della Sala Leonardo era apparecchiato per 8 coperti, disposti co
 | **Posto 8** | Chef Tommaso Rizzoli | *Vuoto* — posto apparecchiato a suo nome, mai occupato: lo Chef era in cucina per l'intera serata |
 
 Personale di sala presente nella Sala Leonardo durante il servizio:
-- **Veronica Salis** — Head sommelier, incaricata del servizio vini
+- **Ilaria Mura** — Head sommelier, incaricata del servizio vini
 - **Lucia Ferretti** — Cameriera di sala, incaricata del servizio piatti
 - **Franco Colombo** — Maitre di sala, supervisione generale
 
@@ -152,7 +152,7 @@ Personale di sala presente nella Sala Leonardo durante il servizio:
 | REP-005 | Smartphone della vittima (iPhone 15 Pro, colore titanio naturale) | Tasca interna della giacca (REP-004) |
 | REP-006 | Valigetta in pelle della vittima contenente documenti cartacei relativi alla Guida Fontana 2025 | Pavimento, accanto alla sedia del posto 1 |
 | REP-007 | Braccialetto di allerta medica (incisione: "SEVERE PEANUT ALLERGY — ANAPHYLAXIS") | Polso sinistro della vittima |
-| REP-008 | Astuccio cavatappi professionale da sommelier (Laguiole) appartenente a Veronica Salis — **tracce di proteina di arachide (Ara h 1) rilevate** | Consegnato spontaneamente dalla Salis durante le operazioni di identificazione |
+| REP-008 | Astuccio cavatappi professionale da sommelier (Laguiole) appartenente a Ilaria Mura — **tracce di proteina di arachide (Ara h 1) rilevate** | Consegnato spontaneamente dalla Mura durante le operazioni di identificazione |
 | REP-009 | Bottiglia di vino: Barolo Riserva 2015, Giacomo Conterno (parzialmente consumata) | Tavolo di servizio laterale, Sala Leonardo |
 | REP-010 | Tovaglioli da tavolo prelevati da tutti gli 8 posti | Tavolo, posti 1-8 |
 
@@ -167,7 +167,7 @@ Personale di sala presente nella Sala Leonardo durante il servizio:
 | N. | Nome | Eta | Ruolo / Relazione | Status |
 |---|---|---|---|---|
 | 1 | Chef Tommaso Rizzoli | 48 | Proprietario e chef stellato del Cenacolo d'Oro. Ha preparato personalmente il piatto della vittima | Indagato |
-| 2 | Veronica Salis | 42 | Head sommelier del Cenacolo d'Oro. Ha servito il vino durante la cena | Indagata |
+| 2 | Ilaria Mura | 42 | Head sommelier del Cenacolo d'Oro. Ha servito il vino durante la cena | Indagata |
 | 3 | Dott. Sergio Mancini | 58 | Critico gastronomico, ex collaboratore della Guida Fontana. Ospite al posto 5 | Indagato |
 | 4 | Giorgio Pellegrini | 55 | Imprenditore, socio finanziario del Cenacolo d'Oro (40% delle quote). Ospite al posto 3 | Indagato |
 | 5 | Claudia Fontana | 36 | Figlia della vittima, direttrice editoriale della Guida Fontana. Ospite al posto 2 | Indagata |
@@ -189,7 +189,7 @@ Personale di sala presente nella Sala Leonardo durante il servizio:
 
 1. **Chef Tommaso Rizzoli** — Ha preparato il piatto in cui sono state rinvenute le tracce di allergene. Il Prof. Fontana stava per declassare il ristorante da 2 a 1 stella nella nuova Guida Fontana 2025. Un tale declassamento avrebbe comportato una perdita stimata del 30% del fatturato e danni gravissimi alla reputazione del ristorante, nel quale Rizzoli ha investito l'intera carriera e un mutuo di oltre un milione di euro. Risulta che lo Chef fosse gia stato informato del declassamento da una fonte interna alla guida prima della sera della cena.
 
-2. **Veronica Salis** — In qualita di head sommelier, aveva accesso legittimo al tavolo e ai posti dei commensali durante il servizio del vino. Risultano da verificare la natura e l'estensione del rapporto personale con la vittima, eventuali contenziosi economici in corso e la nota critica presente nella bozza della nuova Guida Fontana 2025, che a quanto risulta nomina la Salis espressamente in termini negativi riguardo al programma dei vini del ristorante.
+2. **Ilaria Mura** — In qualita di head sommelier, aveva accesso legittimo al tavolo e ai posti dei commensali durante il servizio del vino. Risultano da verificare la natura e l'estensione del rapporto personale con la vittima, eventuali contenziosi economici in corso e la nota critica presente nella bozza della nuova Guida Fontana 2025, che a quanto risulta nomina la Mura espressamente in termini negativi riguardo al programma dei vini del ristorante.
 
 3. **Dott. Sergio Mancini** — Ex collaboratore e vicedirettore della Guida Fontana (2008-2018), allontanato a seguito di una pubblica accusa di plagio mossa dalla vittima nel 2023. Lo scandalo ha severamente danneggiato la carriera professionale di Mancini. Risultano dichiarazioni pubbliche di natura minacciosa nei confronti della vittima. Mancini e inoltre autore del blog anonimo "Il Mangione Critico", dal quale da mesi conduceva una campagna diffamatoria contro Fontana.
 
@@ -221,7 +221,7 @@ Personale di sala presente nella Sala Leonardo durante il servizio:
 
 9. **Ore 00:15 (9 marzo)** — Identificazione di tutti i presenti. Raccolta dichiarazioni spontanee preliminari da parte dei 6 soggetti poi indagati e dei testimoni.
 
-10. **Ore 02:00** — Ricezione dei risultati preliminari del laboratorio: presenza di proteina di arachide (Ara h 1) nel piatto della vittima e nell'astuccio del cavatappi della sommelier Veronica Salis. Assenza di allergeni nei piatti degli altri commensali e nei tegami della cucina.
+10. **Ore 02:00** — Ricezione dei risultati preliminari del laboratorio: presenza di proteina di arachide (Ara h 1) nel piatto della vittima e nell'astuccio del cavatappi della sommelier Ilaria Mura. Assenza di allergeni nei piatti degli altri commensali e nei tegami della cucina.
 
 11. **Ore 02:15** — Riclassificazione del caso da morte accidentale a **omicidio volontario**. Attivazione del protocollo omicidi. Comunicazione al PM di turno.
 
@@ -245,9 +245,9 @@ La scena del crimine e i primi riscontri di laboratorio presentano elementi che 
 
 1. **La contaminazione post-preparazione e l'anomalia centrale del caso.** Il piatto della vittima e stato preparato seguendo un protocollo allergie rigoroso, su stazione separata, con stoviglie dedicate. Le analisi confermano l'assenza di allergeni nella cucina e nei piatti degli altri commensali. Ne consegue che **solo una persona con accesso al piatto DOPO l'uscita dalla cucina** poteva introdurre l'allergene. Cio circoscrive significativamente il campo dei sospettati a coloro che avevano ragione di avvicinarsi al tavolo durante il servizio.
 
-2. **Il ruolo della sommelier.** La head sommelier Veronica Salis e la figura professionale che, per ragioni di servizio, aveva il **piu legittimo e frequente accesso a ciascun posto a tavola** durante il servizio del vino. Il servizio del Barolo per il terzo piatto coincide temporalmente con il momento della contaminazione. Si rende necessario un confronto dettagliato dei suoi movimenti con i filmati delle telecamere.
+2. **Il ruolo della sommelier.** La head sommelier Ilaria Mura e la figura professionale che, per ragioni di servizio, aveva il **piu legittimo e frequente accesso a ciascun posto a tavola** durante il servizio del vino. Il servizio del Barolo per il terzo piatto coincide temporalmente con il momento della contaminazione. Si rende necessario un confronto dettagliato dei suoi movimenti con i filmati delle telecamere.
 
-3. **L'astuccio del cavatappi (REP-008).** Il ritrovamento di tracce di proteina di arachide nell'astuccio del cavatappi professionale della sommelier Salis costituisce un elemento di forte interesse investigativo. Un cavatappi da sommelier non ha alcuna ragione di entrare in contatto con allergeni alimentari. L'astuccio potrebbe essere stato utilizzato per custodire il vettore della contaminazione (fiala, contagocce o simile).
+3. **L'astuccio del cavatappi (REP-008).** Il ritrovamento di tracce di proteina di arachide nell'astuccio del cavatappi professionale della sommelier Mura costituisce un elemento di forte interesse investigativo. Un cavatappi da sommelier non ha alcuna ragione di entrare in contatto con allergeni alimentari. L'astuccio potrebbe essere stato utilizzato per custodire il vettore della contaminazione (fiala, contagocce o simile).
 
 4. **La posizione dell'EpiPen.** L'autoiniettore di adrenalina della vittima si trovava nella tasca interna della giacca, appesa all'attaccapanni presso l'ingresso della Sala Leonardo, a circa 4 metri dal tavolo. La vittima non lo aveva sulla persona durante la cena. Questo elemento potrebbe risultare rilevante: chiunque fosse a conoscenza dell'allergia della vittima e dell'abitudine di riporre l'EpiPen nella giacca, sapeva che la distanza tra la vittima e il farmaco salvavita avrebbe ridotto i tempi utili per l'intervento, aumentando la probabilita di esito letale.
 

@@ -27,7 +27,7 @@ Secondo le prime ricostruzioni, Fontana si sarebbe sentito male intorno alle ore
 
 ### Una cena tra pochi intimi
 
-La cena si svolgeva nella Sala Leonardo, una saletta privata al primo piano del ristorante, e vedeva la partecipazione di un ristretto numero di ospiti: la figlia di Fontana, Claudia (34 anni), vicedirettrice della Guida; Giorgio Pellegrini (66), imprenditore e comproprietario del ristorante; lo chef Luca Rizzoli (45); il giornalista gastronomico Sergio Mancini (54); e il fotografo Matteo Galli (38). Il servizio dei vini era curato dalla sommelier del ristorante, Veronica Salis (42).
+La cena si svolgeva nella Sala Leonardo, una saletta privata al primo piano del ristorante, e vedeva la partecipazione di un ristretto numero di ospiti: la figlia di Fontana, Claudia (34 anni), vicedirettrice della Guida; Giorgio Pellegrini (66), imprenditore e comproprietario del ristorante; lo chef Luca Rizzoli (45); il giornalista gastronomico Sergio Mancini (54); e il fotografo Matteo Galli (38). Il servizio dei vini era curato dalla sommelier del ristorante, Ilaria Mura (42).
 
 ### "Ha iniziato a non respirare"
 
