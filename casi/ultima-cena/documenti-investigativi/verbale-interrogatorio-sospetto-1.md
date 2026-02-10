@@ -99,11 +99,11 @@ Il soggetto viene informato ai sensi degli artt. 64 e 65 c.p.p. della facoltà d
 
 **COMM. FERRO:** Tra il momento in cui il piatto ha lasciato la sua postazione e il momento in cui è arrivato davanti a Fontana, chi ha avuto accesso?
 
-**RIZZOLI:** Il piatto è stato preso dalla mia postazione da Lucia Ferretti, la nostra cameriera senior. Lei lo ha portato in sala. Ma c'è stato anche il passaggio del servizio vini. Veronica... la nostra sommelier, Veronica Salis, era al tavolo per il servizio del Barolo che accompagnava il risotto.
+**RIZZOLI:** Il piatto è stato preso dalla mia postazione da Lucia Ferretti, la nostra cameriera senior. Lei lo ha portato in sala. Ma c'è stato anche il passaggio del servizio vini. Ilaria... la nostra sommelier, Ilaria Mura, era al tavolo per il servizio del Barolo che accompagnava il risotto.
 
-**COMM. FERRO:** Parliamo di Veronica Salis. Come la descriverebbe?
+**COMM. FERRO:** Parliamo di Ilaria Mura. Come la descriverebbe?
 
-**RIZZOLI:** Veronica è una professionista eccezionale. Lavora con noi da sei anni. È la miglior sommelier con cui abbia mai lavorato. Ha un palato straordinario e una conoscenza enciclopedica dei vini.
+**RIZZOLI:** Ilaria è una professionista eccezionale. Lavora con noi da sei anni. È la miglior sommelier con cui abbia mai lavorato. Ha un palato straordinario e una conoscenza enciclopedica dei vini.
 
 **COMM. FERRO:** Come si è comportata ieri sera?
 
@@ -119,7 +119,7 @@ Il soggetto viene informato ai sensi degli artt. 64 e 65 c.p.p. della facoltà d
 
 **COMM. FERRO:** Quanto tempo è stata via?
 
-**RIZZOLI:** Non saprei dirle con precisione. Ero concentrato sulla preparazione. Ma mi è sembrato un po' più del solito. Normalmente Veronica scende e risale in tre, quattro minuti. Conosce quella cantina come le sue tasche. Ieri sera mi è parso che sia stata via un po' di più. Ma non ci ho fatto caso sul momento.
+**RIZZOLI:** Non saprei dirle con precisione. Ero concentrato sulla preparazione. Ma mi è sembrato un po' più del solito. Normalmente Ilaria scende e risale in tre, quattro minuti. Conosce quella cantina come le sue tasche. Ieri sera mi è parso che sia stata via un po' di più. Ma non ci ho fatto caso sul momento.
 
 **COMM. FERRO:** Signor Rizzoli, lei ha mai lasciato la cucina durante la serata?
 
@@ -169,16 +169,16 @@ Il soggetto viene informato ai sensi degli artt. 64 e 65 c.p.p. della facoltà d
 **Comportamento durante l'interrogatorio:** Collaborativo, visibilmente scosso, emotivo ma coerente. Nessuna contraddizione rilevante nelle dichiarazioni. Ha fornito spontaneamente informazioni sul protocollo allergie e sulla struttura organizzativa della cucina.
 
 **Elementi rilevanti emersi:**
-- Conferma il nervosismo di Veronica Salis durante la serata
-- La discesa in cantina di Salis intorno alle 21:35 è un dato da incrociare con le altre deposizioni
+- Conferma il nervosismo di Ilaria Mura durante la serata
+- La discesa in cantina di Mura intorno alle 21:35 è un dato da incrociare con le altre deposizioni
 - Il piatto era pulito alla partenza dalla cucina: la contaminazione è avvenuta nella fase di trasferimento cucina-tavolo o al tavolo stesso
 - Il protocollo allergie esclude contaminazione accidentale in cucina
 
-**Note sulla timeline:** Da verificare con le registrazioni video l'esatto momento di uscita del terzo piatto dalla cucina e l'esatta durata dell'assenza di Salis in cantina.
+**Note sulla timeline:** Da verificare con le registrazioni video l'esatto momento di uscita del terzo piatto dalla cucina e l'esatta durata dell'assenza di Mura in cantina.
 
 **LIVELLO DI SOSPETTO: MEDIO** (per la forza del movente) con tendenza al **BASSO** (per assenza totale di opportunità confermata da prove oggettive).
 
-**Azione successiva:** Acquisire e analizzare filmati cucina. Verificare fatture fornitori. Procedere con interrogatorio di Veronica Salis.
+**Azione successiva:** Acquisire e analizzare filmati cucina. Verificare fatture fornitori. Procedere con interrogatorio di Ilaria Mura.
 
 ---
 *Fine verbale -- Protocollo PR-2025-1287/1 -- Pagina unica*

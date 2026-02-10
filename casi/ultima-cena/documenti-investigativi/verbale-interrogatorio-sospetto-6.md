@@ -89,13 +89,13 @@ Il soggetto viene informato ai sensi degli artt. 64 e 65 c.p.p. della facoltà d
 
 **GALLI:** Lucia. Lucia Ferretti, la cameriera senior. È entrata in cucina, ha preso il piatto dalla postazione quattro, e lo ha portato in sala. Io ho visto tutto perché ero a meno di tre metri.
 
-**COMM. FERRO:** Parliamo di Veronica Salis. L'ha vista ieri sera in cucina?
+**COMM. FERRO:** Parliamo di Ilaria Mura. L'ha vista ieri sera in cucina?
 
-**GALLI:** *(annuisce)* Sì. Veronica è passata per la cucina per scendere in cantina. La porta della cantina è in fondo al corridoio dietro la cucina, bisogna attraversarla.
+**GALLI:** *(annuisce)* Sì. Ilaria è passata per la cucina per scendere in cantina. La porta della cantina è in fondo al corridoio dietro la cucina, bisogna attraversarla.
 
 **COMM. FERRO:** A che ora è passata?
 
-**GALLI:** Intorno alle ventuno e trenta, trentacinque. Eravamo nel pieno della preparazione del risotto. Me lo ricordo perché normalmente Veronica non passa dalla cucina durante il servizio. Ha un suo percorso che va dalla sala al bar e viceversa, senza disturbare la brigata. Quando deve andare in cantina, di solito si coordina con lo chef per passare in un momento di calma. Ieri sera è passata durante il rush.
+**GALLI:** Intorno alle ventuno e trenta, trentacinque. Eravamo nel pieno della preparazione del risotto. Me lo ricordo perché normalmente Ilaria non passa dalla cucina durante il servizio. Ha un suo percorso che va dalla sala al bar e viceversa, senza disturbare la brigata. Quando deve andare in cantina, di solito si coordina con lo chef per passare in un momento di calma. Ieri sera è passata durante il rush.
 
 **COMM. FERRO:** Come le è sembrata?
 
@@ -111,7 +111,7 @@ Il soggetto viene informato ai sensi degli artt. 64 e 65 c.p.p. della facoltà d
 
 **COMM. FERRO:** L'astuccio da sommelier. L'ha visto aperto?
 
-**GALLI:** No. Era chiuso, appeso alla cintura o in mano, non ricordo. Ma Commissario, perché tutte queste domande su Veronica?
+**GALLI:** No. Era chiuso, appeso alla cintura o in mano, non ricordo. Ma Commissario, perché tutte queste domande su Ilaria?
 
 **COMM. FERRO:** Stiamo raccogliendo informazioni su tutti, signor Galli. Parliamo di lei e Fontana. Lo aveva mai incontrato personalmente prima di ieri sera?
 
@@ -137,9 +137,9 @@ Il soggetto viene informato ai sensi degli artt. 64 e 65 c.p.p. della facoltà d
 
 **GALLI:** No. Era il piatto preparato dallo chef alla postazione quattro. E so per certo che era pulito quando è uscito dalla cucina. Se qualcosa è finito in quel risotto, non è stata la cucina. Non è stato lo chef. E non sono stato io.
 
-**COMM. FERRO:** Un'ultima domanda. Lei conosce Veronica Salis al di fuori del lavoro?
+**COMM. FERRO:** Un'ultima domanda. Lei conosce Ilaria Mura al di fuori del lavoro?
 
-**GALLI:** Non molto. Ci salutiamo, scambiamo qualche parola durante il servizio. Sa, in cucina si lavora spalla a spalla ma ognuno ha il suo ruolo. Veronica è riservata. Non esce mai con noi dopo il servizio. Non viene alle cene della brigata. È sempre un po'... distaccata. Gentile, ma distaccata. L'unica cosa che so della sua vita privata è che una volta, qualche mese fa, l'ho sentita al telefono nel cortile sul retro. Parlava con qualcuno, forse un avvocato, non lo so. Sembrava... disperata. Piangeva. Quando mi ha visto si è asciugata gli occhi e mi ha detto "tutto bene, Matteo" con un sorriso finto. Non ho chiesto altro.
+**GALLI:** Non molto. Ci salutiamo, scambiamo qualche parola durante il servizio. Sa, in cucina si lavora spalla a spalla ma ognuno ha il suo ruolo. Ilaria è riservata. Non esce mai con noi dopo il servizio. Non viene alle cene della brigata. È sempre un po'... distaccata. Gentile, ma distaccata. L'unica cosa che so della sua vita privata è che una volta, qualche mese fa, l'ho sentita al telefono nel cortile sul retro. Parlava con qualcuno, forse un avvocato, non lo so. Sembrava... disperata. Piangeva. Quando mi ha visto si è asciugata gli occhi e mi ha detto "tutto bene, Matteo" con un sorriso finto. Non ho chiesto altro.
 
 **COMM. FERRO:** Ricorda quando è stato?
 
@@ -184,11 +184,11 @@ Il soggetto viene informato ai sensi degli artt. 64 e 65 c.p.p. della facoltà d
 
 **Elementi rilevanti emersi:**
 
-1. **Conferma passaggio di Salis in cucina:** Galli conferma che Veronica Salis è passata attraverso la cucina intorno alle 21:30-35 per scendere in cantina. La descrive "di fretta" e "tesa." Questo è coerente con le dichiarazioni di Rizzoli.
+1. **Conferma passaggio di Mura in cucina:** Galli conferma che Ilaria Mura è passata attraverso la cucina intorno alle 21:30-35 per scendere in cantina. La descrive "di fretta" e "tesa." Questo è coerente con le dichiarazioni di Rizzoli.
 
-2. **Osservazione sulla risalita dalla cantina:** Galli ha notato che Salis si è fermata un momento ai piedi della scala prima di attraversare la cucina al ritorno dalla cantina. Aveva la bottiglia nella mano destra e l'astuccio da sommelier nell'altra. La pausa ai piedi della scala potrebbe indicare un momento di preparazione mentale.
+2. **Osservazione sulla risalita dalla cantina:** Galli ha notato che Mura si è fermata un momento ai piedi della scala prima di attraversare la cucina al ritorno dalla cantina. Aveva la bottiglia nella mano destra e l'astuccio da sommelier nell'altra. La pausa ai piedi della scala potrebbe indicare un momento di preparazione mentale.
 
-3. **Telefonata di Salis nel cortile (gennaio/febbraio):** Galli ha sentito Salis piangere al telefono, apparentemente parlando con un avvocato, circa un mese o due prima dell'omicidio. Questo è temporalmente compatibile con la ricezione della lettera dell'Avv. Brunetti (datata 15 febbraio 2025) che intimava il pagamento di 85.000 euro. Questa testimonianza corrobora l'ipotesi di un grave stato di pressione finanziaria e emotiva su Salis nel periodo precedente all'omicidio.
+3. **Telefonata di Mura nel cortile (gennaio/febbraio):** Galli ha sentito Mura piangere al telefono, apparentemente parlando con un avvocato, circa un mese o due prima dell'omicidio. Questo è temporalmente compatibile con la ricezione della lettera dell'Avv. Brunetti (datata 15 febbraio 2025) che intimava il pagamento di 68.000 euro. Questa testimonianza corrobora l'ipotesi di un grave stato di pressione finanziaria e emotiva su Mura nel periodo precedente all'omicidio.
 
 4. **Conferma della pulizia del piatto:** La testimonianza di Galli conferma ulteriormente che il piatto per Fontana era privo di contaminanti quando ha lasciato la postazione dello chef. La contaminazione è avvenuta necessariamente dopo l'uscita del piatto dalla cucina.
 
@@ -198,13 +198,13 @@ Il soggetto viene informato ai sensi degli artt. 64 e 65 c.p.p. della facoltà d
 
 Al termine dei sei interrogatori della giornata, il quadro investigativo si delinea come segue:
 
-**Soggetto con livello di sospetto ALTO:** Veronica Salis. Concentrazione di movente (debito di 85.000 euro, relazione personale con la vittima, pressione legale), opportunità (accesso al tavolo, assenza prolungata in cantina, presenza durante il servizio del terzo piatto), e mezzo potenziale (astuccio da sommelier come possibile contenitore dell'agente contaminante). Molteplici testimoni indipendenti segnalano il suo comportamento anomalo e la sua sosta prolungata al posto della vittima.
+**Soggetto con livello di sospetto ALTO:** Ilaria Mura. Concentrazione di movente (debito di 68.000 euro, relazione personale con la vittima, pressione legale), opportunità (accesso al tavolo, assenza prolungata in cantina, presenza durante il servizio del terzo piatto), e mezzo potenziale (astuccio da sommelier come possibile contenitore dell'agente contaminante). Molteplici testimoni indipendenti segnalano il suo comportamento anomalo e la sua sosta prolungata al posto della vittima.
 
 **Priorità investigative per domani:**
-- Analisi forense dell'astuccio da sommelier di Salis
+- Analisi forense dell'astuccio da sommelier di Mura
 - Acquisizione e analisi filmati di sorveglianza (cucina, sala, cantina)
-- Tabulati telefonici di Salis
-- Movimenti bancari di Salis
+- Tabulati telefonici di Mura
+- Movimenti bancari di Mura
 - Contatto con Avv. Brunetti
 - Ricerca dell'EpiPen mancante di Fontana
 - Interrogatorio di Lucia Ferretti (cameriera, testimone chiave del servizio)

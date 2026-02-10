@@ -41,11 +41,11 @@ Commissariato di Polizia di Parma
 
 Il signor Fontana era al tavolo quattro, il tavolo d'angolo. Quello vicino alla vetrata. Era da solo, ma poi lo hanno raggiunto altre persone durante la serata: il dottor Mancini, la figlia Claudia, e il signor Galli, il giornalista. Il signor Pellegrini passava spesso al tavolo per salutare.
 
-Io mi occupavo dei tavoli uno, due e tre. Il tavolo quattro era assegnato a Veronica... alla signora Salis, la sommelier. Era lei che serviva quel tavolo direttamente. Il signor Pellegrini aveva detto che il tavolo di Fontana doveva avere un servizio speciale, e Veronica era la piu qualificata.
+Io mi occupavo dei tavoli uno, due e tre. Il tavolo quattro era assegnato a Ilaria... alla signora Mura, la sommelier. Era lei che serviva quel tavolo direttamente. Il signor Pellegrini aveva detto che il tavolo di Fontana doveva avere un servizio speciale, e Ilaria era la piu qualificata.
 
 *(pausa, si tocca il viso)*
 
-Verso le... saranno state le ventuno e trenta, forse un po' piu tardi, stavo portando un piatto al tavolo due. Ho visto Veronica al tavolo del signor Fontana. Stava versando il vino. Ma mi ha colpito una cosa: era li da troppo tempo. Di solito il servizio del vino dura... non so, trenta secondi? Un minuto al massimo, se il cliente vuole parlare del vino. Ma lei era li da diversi minuti. E il signor Fontana non la stava guardando, parlava con il dottor Mancini. Lei era piegata verso il tavolo, come se stesse... non so... sistemando qualcosa.
+Verso le... saranno state le ventuno e trenta, forse un po' piu tardi, stavo portando un piatto al tavolo due. Ho visto Ilaria al tavolo del signor Fontana. Stava versando il vino. Ma mi ha colpito una cosa: era li da troppo tempo. Di solito il servizio del vino dura... non so, trenta secondi? Un minuto al massimo, se il cliente vuole parlare del vino. Ma lei era li da diversi minuti. E il signor Fontana non la stava guardando, parlava con il dottor Mancini. Lei era piegata verso il tavolo, come se stesse... non so... sistemando qualcosa.
 
 *(pausa)*
 
@@ -55,7 +55,7 @@ E poi c'e un'altra cosa. Verso le nove di sera, prima che iniziasse la cena, son
 
 *(si morde il labbro)*
 
-Non sto accusando nessuno. Dico solo quello che ho visto. Veronica e sempre stata gentile con me. Ma quella sera era strana. Tesa. Concentrata in un modo... diverso dal solito. Come se avesse qualcosa in mente."
+Non sto accusando nessuno. Dico solo quello che ho visto. Ilaria e sempre stata gentile con me. Ma quella sera era strana. Tesa. Concentrata in un modo... diverso dal solito. Come se avesse qualcosa in mente."
 
 ### Posizionamento nel Fascicolo
 
@@ -138,7 +138,7 @@ Il tour permette ai giocatori di esplorare virtualmente gli spazi del ristorante
 - Piccolo bancone laterale con esposizione di bottiglie selezionate.
 - Cassetto sotto il bancone (chiuso) per gli strumenti di servizio.
 - Distanza dal tavolo 4: circa 4 metri.
-- *Nota investigativa:* "La postazione di Veronica Salis si trovava a pochi passi dal tavolo della vittima. Da qui poteva raggiungere il tavolo 4 in tre secondi, inosservata durante i momenti in cui l'attenzione della sala era rivolta altrove."
+- *Nota investigativa:* "La postazione di Ilaria Mura si trovava a pochi passi dal tavolo della vittima. Da qui poteva raggiungere il tavolo 4 in tre secondi, inosservata durante i momenti in cui l'attenzione della sala era rivolta altrove."
 
 **Punto 4 -- Cucina**
 - Cucina professionale a vista parziale (separata dalla sala da una parete con oblò).
@@ -150,12 +150,12 @@ Il tour permette ai giocatori di esplorare virtualmente gli spazi del ristorante
 - Piccola stanza adiacente alla cucina, usata per le scorte di tovagliato e prodotti di pulizia.
 - Ripiano in basso dove Lucia Ferretti ha visto la "bottiglietta senza etichetta".
 - Armadietti del personale (sei armadietti metallici con lucchetto).
-- *Nota investigativa:* "L'armadietto numero 3, assegnato a Veronica Salis, e stato aperto durante la perquisizione del 9 marzo. All'interno sono stati trovati: effetti personali, un cambio di divisa, e tracce di olio su un fazzoletto di stoffa. L'analisi di laboratorio ha confermato che si tratta di olio di arachidi."
+- *Nota investigativa:* "L'armadietto numero 3, assegnato a Ilaria Mura, e stato aperto durante la perquisizione del 9 marzo. All'interno sono stati trovati: effetti personali, un cambio di divisa, e tracce di olio su un fazzoletto di stoffa. L'analisi di laboratorio ha confermato che si tratta di olio di arachidi."
 
 **Punto 6 -- Corridoio di Servizio**
 - Corridoio stretto che collega la cucina alla sala, usato dal personale per il servizio.
 - Percorso che passa accanto alla dispensa secondaria.
-- *Nota investigativa:* "Questo corridoio e il percorso che Veronica Salis avrebbe utilizzato per prelevare la bottiglietta dalla dispensa e raggiungere il tavolo 4 senza passare davanti alla cucina principale."
+- *Nota investigativa:* "Questo corridoio e il percorso che Ilaria Mura avrebbe utilizzato per prelevare la bottiglietta dalla dispensa e raggiungere il tavolo 4 senza passare davanti alla cucina principale."
 
 ### Posizionamento nel Fascicolo
 
@@ -200,13 +200,13 @@ Nome investigatore / Nome squadra: [campo di testo]
 
 **Domanda 1:** Chi e il colpevole della morte di Massimo Fontana?
 - a) Chef Tommaso Rizzoli
-- b) Veronica Salis **(risposta corretta)**
+- b) Ilaria Mura **(risposta corretta)**
 - c) Dott. Sergio Mancini
 - d) Giorgio Pellegrini
 - e) Claudia Fontana
 - f) Matteo Galli
 
-*Feedback per risposta corretta:* "Esatto. Veronica Salis, sommelier del ristorante ed ex compagna di Fontana, ha introdotto l'allergene nel suo piatto."
+*Feedback per risposta corretta:* "Esatto. Ilaria Mura, sommelier del ristorante ed ex compagna di Fontana, ha introdotto l'allergene nel suo piatto."
 *Feedback per risposta errata:* "Non corretto. Rivedi gli indizi legati al servizio al tavolo e alle relazioni personali della vittima."
 
 **Domanda 2:** Qual e il movente del crimine?
@@ -215,7 +215,7 @@ Nome investigatore / Nome squadra: [campo di testo]
 - c) Vendetta personale e professionale: ritorsione per la fine della relazione, i debiti, e la distruzione sistematica della sua carriera **(risposta corretta)**
 - d) Proteggere un segreto o un'attivita illecita
 
-*Feedback per risposta corretta:* "Corretto. Il movente e un intreccio di vendetta personale (fine della relazione, richiesta di restituzione di 85.000 euro) e professionale (sabotaggio sistematico della carriera di Veronica nel mondo della sommellerie)."
+*Feedback per risposta corretta:* "Corretto. Il movente e un intreccio di vendetta personale (fine della relazione, richiesta di restituzione di 68.000 euro) e professionale (sabotaggio sistematico della carriera di Ilaria nel mondo della sommellerie)."
 *Feedback per risposta errata:* "Non corretto. Il movente e piu complesso di cosi. Cerca gli indizi che collegano la sfera sentimentale a quella professionale."
 
 **Domanda 3:** Come e stato commesso il crimine?
@@ -224,7 +224,7 @@ Nome investigatore / Nome squadra: [campo di testo]
 - c) Introduzione di olio di arachidi nel piatto durante il servizio del vino, sfruttando l'allergia nota della vittima **(risposta corretta)**
 - d) Sostituzione dell'EpiPen con un dispositivo inefficace
 
-*Feedback per risposta corretta:* "Esatto. Veronica ha versato una piccola quantita di olio di arachidi nel risotto di Fontana mentre si trovava al suo tavolo per il servizio del vino, sfruttando la sua conoscenza dell'allergia alle arachidi della vittima."
+*Feedback per risposta corretta:* "Esatto. Ilaria ha versato una piccola quantita di olio di arachidi nel risotto di Fontana mentre si trovava al suo tavolo per il servizio del vino, sfruttando la sua conoscenza dell'allergia alle arachidi della vittima."
 *Feedback per risposta errata:* "Non corretto. Rifletti su chi aveva accesso diretto al piatto della vittima una volta uscito dalla cucina, e quale occasione avrebbe avuto per agire inosservata."
 
 **Pagina dei risultati:**

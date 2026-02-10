@@ -119,7 +119,7 @@ Il Venditore: *(firma)* Massimo Fontana
 
 ## DOCUMENTO LEGALE N. 2
 # LETTERA DI MESSA IN MORA
-## Avv. Marco Brunetti per conto di Massimo Fontana a Veronica Salis
+## Avv. Marco Brunetti per conto di Massimo Fontana a Ilaria Mura
 
 ---
 
@@ -127,15 +127,15 @@ Il Venditore: *(firma)* Massimo Fontana
 
 **Data:** 15 gennaio 2025
 **Mittente:** Avv. Marco Brunetti, Studio Legale Brunetti & Associati, Via Garibaldi 22, Parma
-**Destinatario:** Sig.ra Veronica Salis, Via Costituente 8, int. 3, 43121 Parma
-**Oggetto:** Restituzione somma di Euro 85.000,00
+**Destinatario:** Sig.ra Ilaria Mura, Via Costituente 8, int. 3, 43121 Parma
+**Oggetto:** Restituzione somma di Euro 68.000,00
 
-**Sintesi:** Diffida formale per la restituzione integrale di Euro 85.000,00 erogati il 18/07/2022 a titolo di "finanziamento" per il progetto "La Vigna di Veronica". Termine di 15 giorni per il pagamento, con avvertimento di azione giudiziaria in caso di inadempimento.
+**Sintesi:** Diffida formale per la restituzione integrale di Euro 68.000,00 erogati il 18/07/2022 a titolo di "finanziamento" per il progetto "La Vigna di Ilaria". Termine di 15 giorni per il pagamento, con avvertimento di azione giudiziaria in caso di inadempimento.
 
-**Stato:** La Sig.ra Salis non ha provveduto al pagamento nel termine indicato. L'Avv. Brunetti ha dichiarato (verbale SIT del 12/03/2025) che il Sig. Fontana aveva dato istruzione di procedere con il decreto ingiuntivo, previsto per la prima settimana di aprile 2025.
+**Stato:** La Sig.ra Mura non ha provveduto al pagamento nel termine indicato. L'Avv. Brunetti ha dichiarato (verbale SIT del 12/03/2025) che il Sig. Fontana aveva dato istruzione di procedere con il decreto ingiuntivo, previsto per la prima settimana di aprile 2025.
 
 ### Nota investigativa (Documento N. 2):
-> La messa in mora costituisce il primo atto formale nella controversia economica tra Fontana e la Salis. Documenta l'esistenza del debito di Euro 85.000 e la pressione legale esercitata sulla Salis. La tempistica dell'azione legale (gennaio 2025) si colloca in un contesto di progressiva escalation delle ostilita tra i due, culminata nell'omicidio del marzo 2025.
+> La messa in mora costituisce il primo atto formale nella controversia economica tra Fontana e la Mura. Documenta l'esistenza del debito di Euro 68.000 e la pressione legale esercitata sulla Mura. La tempistica dell'azione legale (gennaio 2025) si colloca in un contesto di progressiva escalation delle ostilita tra i due, culminata nell'omicidio del marzo 2025.
 
 ---
 

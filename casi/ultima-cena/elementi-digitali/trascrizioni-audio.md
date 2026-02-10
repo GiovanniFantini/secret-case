@@ -88,23 +88,23 @@ Ogni trascrizione riporta: intestazione ufficiale, dati tecnici della registrazi
 
 ---
 
-## Audio 2: Messaggio vocale di Veronica Salis a Sara Ferretti
+## Audio 2: Messaggio vocale di Ilaria Mura a Sara Ferretti
 
 **Classificazione:** Messaggio vocale acquisito da dispositivo mobile (WhatsApp)
 **Numero di protocollo:** ACQ-DIG-2025-PR-00087
 **Data registrazione:** 5 marzo 2025
 **Ora:** 23:22
 **Durata:** 1 minuto e 48 secondi
-**Mittente:** Veronica Salis (+39 333 *** **57)
-**Destinataria:** Sara Ferretti (+39 340 *** **23) -- amica personale della Salis
-**Dispositivo di acquisizione:** Smartphone Samsung Galaxy S23 della Salis, sequestrato il 9 marzo 2025
+**Mittente:** Ilaria Mura (+39 333 *** **57)
+**Destinataria:** Sara Ferretti (+39 340 *** **23) -- amica personale della Mura
+**Dispositivo di acquisizione:** Smartphone Samsung Galaxy S23 della Mura, sequestrato il 9 marzo 2025
 **Trascrizione a cura di:** Agente Scelto Marco Damiani, Polizia Giudiziaria
 
 ---
 
 **[INIZIO MESSAGGIO VOCALE -- 23:22:14]**
 
-**VERONICA:** *(voce bassa, tesa, si percepisce un respiro affannoso)*
+**ILARIA:** *(voce bassa, tesa, si percepisce un respiro affannoso)*
 
 Sara, scusa se ti mando questo messaggio a quest'ora. Non riesco a dormire. Di nuovo.
 
@@ -114,7 +114,7 @@ Sabato c'e la cena. Pellegrini ha organizzato tutto. Il menu speciale, i vini, t
 
 *(voce che si incrina)*
 
-Non ne posso piu. Tre anni della mia vita buttati via per quell'uomo. Tre anni. E poi? Poi mi ha scaricata come... come una bottiglia vuota. E non gli e bastato. Mi ha chiuso tutte le porte. Tutte. Ho mandato il curriculum a venti ristoranti l'anno scorso, Sara. Venti. E sai quanti mi hanno risposto? Zero. Perche lui ha fatto il giro delle telefonate. "Non prendete la Salis, non e affidabile." Lo so perche me lo ha detto Marco, quello del Bistrot a Milano. Me lo ha detto in faccia: "Mi dispiace, Veronica, ma Fontana ci ha sconsigliato di assumerti."
+Non ne posso piu. Tre anni della mia vita buttati via per quell'uomo. Tre anni. E poi? Poi mi ha scaricata come... come una bottiglia vuota. E non gli e bastato. Mi ha chiuso tutte le porte. Tutte. Ho mandato il curriculum a venti ristoranti l'anno scorso, Sara. Venti. E sai quanti mi hanno risposto? Zero. Perche lui ha fatto il giro delle telefonate. "Non prendete la Mura, non e affidabile." Lo so perche me lo ha detto Marco, quello del Bistrot a Milano. Me lo ha detto in faccia: "Mi dispiace, Ilaria, ma Fontana ci ha sconsigliato di assumerti."
 
 *(pausa di 4 secondi, respiro profondo)*
 
@@ -133,11 +133,11 @@ Scusami, Sara. Avevo bisogno di sfogarmi. Ci vediamo domenica per il pranzo, se 
 ---
 
 **NOTE INVESTIGATIVE:**
-- Il messaggio vocale e stato trovato sul dispositivo della Salis durante l'analisi forense post-sequestro.
-- Sara Ferretti, ascoltata come persona informata sui fatti il 10 marzo 2025, ha confermato di aver ricevuto il messaggio e di aver percepito Veronica come "molto provata, arrabbiata, ma non al punto da fare qualcosa di grave."
-- Il riferimento ai "tre anni" corrisponde alla durata della relazione tra Veronica Salis e Massimo Fontana (2019-2022), confermata da entrambe le parti.
-- La lettera dell'avvocato menzionata dalla Salis e stata acquisita agli atti (rif. DOC-2025-PR-00156): studio legale Bernardi & Associati, datata 15 febbraio 2025, in cui si intima la restituzione di 85.000 euro entro 60 giorni.
-- Il dettaglio "gli servo il Barolo" conferma che Veronica era assegnata al servizio del tavolo di Fontana la sera dell'8 marzo.
+- Il messaggio vocale e stato trovato sul dispositivo della Mura durante l'analisi forense post-sequestro.
+- Sara Ferretti, ascoltata come persona informata sui fatti il 10 marzo 2025, ha confermato di aver ricevuto il messaggio e di aver percepito Ilaria come "molto provata, arrabbiata, ma non al punto da fare qualcosa di grave."
+- Il riferimento ai "tre anni" corrisponde alla durata della relazione tra Ilaria Mura e Massimo Fontana (2019-2022), confermata da entrambe le parti.
+- La lettera dell'avvocato menzionata dalla Mura e stata acquisita agli atti (rif. DOC-2025-PR-00156): studio legale Bernardi & Associati, datata 15 febbraio 2025, in cui si intima la restituzione di 68.000 euro entro 60 giorni.
+- Il dettaglio "gli servo il Barolo" conferma che Ilaria era assegnata al servizio del tavolo di Fontana la sera dell'8 marzo.
 - L'espressione "Non ne posso piu" e il tono complessivo del messaggio evidenziano uno stato di forte pressione emotiva nei giorni precedenti al fatto.
 
 ---

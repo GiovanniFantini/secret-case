@@ -102,7 +102,7 @@
 
 ---
 
-### Sospettato 2: Veronica Salis (42 anni) — LA COLPEVOLE
+### Sospettato 2: Ilaria Mura (42 anni) — LA COLPEVOLE
 
 **Ruolo:** Head sommelier del ristorante "Il Cenacolo d'Oro"
 
@@ -114,16 +114,16 @@
 
 **Relazione con la vittima:**
 - **Relazione sentimentale segreta durata 3 anni** (2021-2024), iniziata quando Fontana visito il ristorante per una recensione
-- Fontana l'aveva corteggiata con promesse di aiuto professionale: le aveva prospettato il finanziamento di un wine bar tutto suo ("Enoteca Salis")
-- Fontana aveva investito €85.000 nel progetto del wine bar, poi si era ritirato improvvisamente nel settembre 2024, richiedendo la restituzione del denaro
+- Fontana l'aveva corteggiata con promesse di aiuto professionale: le aveva prospettato il finanziamento di un wine bar tutto suo ("Enoteca Mura")
+- Fontana aveva investito €68.000 nel progetto del wine bar, poi si era ritirato improvvisamente nel settembre 2024, richiedendo la restituzione del denaro
 - La relazione si era chiusa bruscamente nello stesso periodo, con Fontana che l'aveva definita "un errore di gioventu"
-- Fontana aveva anche usato la sua influenza per bloccare la candidatura di Veronica come sommelier al ristorante rivale "La Lanterna" a Bologna
+- Fontana aveva anche usato la sua influenza per bloccare la candidatura di Ilaria come sommelier al ristorante rivale "La Lanterna" a Bologna
 
 **Movente reale:**
-- **Rovina finanziaria:** L'avvocato di Fontana le aveva inviato una lettera di messa in mora per €85.000 — cifra che non poteva restituire
-- **Umiliazione professionale:** La bozza della nuova Guida Fontana conteneva una nota specifica che criticava il programma dei vini del Cenacolo d'Oro, nominando Veronica come "sommelier inadeguata al livello del ristorante" — un commento che l'avrebbe fatta licenziare
+- **Rovina finanziaria:** L'avvocato di Fontana le aveva inviato una lettera di messa in mora per €68.000 — cifra che non poteva restituire
+- **Umiliazione professionale:** La bozza della nuova Guida Fontana conteneva una nota specifica che criticava il programma dei vini del Cenacolo d'Oro, nominando Ilaria come "sommelier inadeguata al livello del ristorante" — un commento che l'avrebbe fatta licenziare
 - **Vendetta personale:** Fontana l'aveva usata, abbandonata e ora stava sistematicamente distruggendo la sua vita professionale e finanziaria
-- **La sera della cena, Veronica sapeva che la nuova guida avrebbe segnato la fine della sua carriera a Parma e in tutta Italia**
+- **La sera della cena, Ilaria sapeva che la nuova guida avrebbe segnato la fine della sua carriera a Parma e in tutta Italia**
 
 **Alibi dichiarato:**
 - In sala per tutta la serata, svolgendo il proprio ruolo di sommelier
@@ -132,7 +132,7 @@
 
 **Alibi reale:**
 - **La telecamera del corridoio del primo piano la riprende mentre si avvicina al tavolo della Sala Leonardo alle 21:47, con in mano una bottiglia di Barolo**
-- **La cameriera Lucia Ferretti testimonia che Veronica si e attardata al posto di Fontana piu del necessario durante il servizio del terzo piatto, circa 40 secondi in piu rispetto agli altri commensali**
+- **La cameriera Lucia Ferretti testimonia che Ilaria si e attardata al posto di Fontana piu del necessario durante il servizio del terzo piatto, circa 40 secondi in piu rispetto agli altri commensali**
 - **Le telecamere della cantina la riprendono alle 21:35, 12 minuti prima del servizio del terzo piatto — tempo sufficiente per preparare la fiala**
 
 **Ruolo reale nel caso: LA COLPEVOLE**
@@ -305,32 +305,32 @@
 
 ### Il Colpevole
 
-**Veronica Salis, 42 anni, head sommelier del Cenacolo d'Oro**
+**Ilaria Mura, 42 anni, head sommelier del Cenacolo d'Oro**
 
 ### Il Movente
 
-Veronica Salis e Massimo Fontana avevano avuto una relazione sentimentale segreta durata tre anni (2021-2024). Fontana l'aveva corteggiata con promesse professionali, aveva investito €85.000 nel progetto di un wine bar ("Enoteca Salis"), e poi si era ritirato improvvisamente nel settembre 2024, chiudendo sia la relazione che il finanziamento, e pretendendo la restituzione del denaro.
+Ilaria Mura e Massimo Fontana avevano avuto una relazione sentimentale segreta durata tre anni (2021-2024). Fontana l'aveva corteggiata con promesse professionali, aveva investito €68.000 nel progetto di un wine bar ("Enoteca Mura"), e poi si era ritirato improvvisamente nel settembre 2024, chiudendo sia la relazione che il finanziamento, e pretendendo la restituzione del denaro.
 
-Nei mesi successivi, Veronica aveva scoperto tre cose devastanti:
-1. L'avvocato di Fontana, Avv. Marco Brunetti, le aveva inviato una lettera di messa in mora per €85.000 con minaccia di azione legale
-2. La bozza della nuova Guida Fontana 2025 conteneva una nota che criticava specificamente il programma dei vini del Cenacolo d'Oro, citando Veronica per nome come "sommelier inadeguata al livello del ristorante"
-3. Fontana aveva raccomandato al ristorante rivale "La Lanterna" di non assumere Veronica, bloccando la sua unica via di fuga professionale
+Nei mesi successivi, Ilaria aveva scoperto tre cose devastanti:
+1. L'avvocato di Fontana, Avv. Marco Brunetti, le aveva inviato una lettera di messa in mora per €68.000 con minaccia di azione legale
+2. La bozza della nuova Guida Fontana 2025 conteneva una nota che criticava specificamente il programma dei vini del Cenacolo d'Oro, citando Ilaria per nome come "sommelier inadeguata al livello del ristorante"
+3. Fontana aveva raccomandato al ristorante rivale "La Lanterna" di non assumere Ilaria, bloccando la sua unica via di fuga professionale
 
-Per Veronica, Fontana stava distruggendo sistematicamente la sua vita: la carriera, le finanze, la dignita. La cena di presentazione della guida era l'occasione perfetta per agire.
+Per Ilaria, Fontana stava distruggendo sistematicamente la sua vita: la carriera, le finanze, la dignita. La cena di presentazione della guida era l'occasione perfetta per agire.
 
 ### Il Metodo
 
 **Sequenza degli eventi:**
 
-1. **Due settimane prima (22 febbraio 2025)** — Veronica ordina online una bottiglia di "Olio di Arachidi Raffinato Premium" dal sito AsiaMarket.it, utilizzando il proprio telefono. L'olio raffinato e quasi inodore e insapore, ideale per essere nascosto in un piatto dal sapore intenso. La consegna e effettuata all'indirizzo di un'amica, Sara Ferretti, a Fidenza, per non riceverlo al ristorante.
+1. **Due settimane prima (22 febbraio 2025)** — Ilaria ordina online una bottiglia di "Olio di Arachidi Raffinato Premium" dal sito AsiaMarket.it, utilizzando il proprio telefono. L'olio raffinato e quasi inodore e insapore, ideale per essere nascosto in un piatto dal sapore intenso. La consegna e effettuata all'indirizzo di un'amica, Sara Ferretti, a Fidenza, per non riceverlo al ristorante.
 
-2. **Il giorno della cena (8 marzo 2025, pomeriggio)** — Veronica versa una piccola quantita di olio di arachidi in una fiala contagocce da 10 ml (di quelle usate per gli aromi da cocktail) e la nasconde nell'astuccio del suo cavatappi professionale da sommelier Laguiole.
+2. **Il giorno della cena (8 marzo 2025, pomeriggio)** — Ilaria versa una piccola quantita di olio di arachidi in una fiala contagocce da 10 ml (di quelle usate per gli aromi da cocktail) e la nasconde nell'astuccio del suo cavatappi professionale da sommelier Laguiole.
 
-3. **Ore 21:35** — Veronica scende nella cantina al piano interrato per prelevare la bottiglia di Barolo Riserva 2015, abbinamento per il terzo piatto (risotto ai funghi porcini con crema di Parmigiano Reggiano 36 mesi). Le telecamere della cantina la riprendono. Nei 12 minuti che trascorre in cantina, prepara la fiala.
+3. **Ore 21:35** — Ilaria scende nella cantina al piano interrato per prelevare la bottiglia di Barolo Riserva 2015, abbinamento per il terzo piatto (risotto ai funghi porcini con crema di Parmigiano Reggiano 36 mesi). Le telecamere della cantina la riprendono. Nei 12 minuti che trascorre in cantina, prepara la fiala.
 
-4. **Ore 21:47** — Veronica entra nella Sala Leonardo con la bottiglia di Barolo. Inizia il giro di servizio del vino, partendo dal lato opposto del tavolo rispetto a Fontana. Il terzo piatto e gia stato servito.
+4. **Ore 21:47** — Ilaria entra nella Sala Leonardo con la bottiglia di Barolo. Inizia il giro di servizio del vino, partendo dal lato opposto del tavolo rispetto a Fontana. Il terzo piatto e gia stato servito.
 
-5. **Ore 21:49-21:50** — Veronica arriva al posto di Fontana (posto 1). Mentre versa il Barolo nel calice e spiega l'abbinamento con il risotto ai funghi porcini, con un gesto rapido e professionale, versa 4-5 gocce di olio di arachidi dalla fiala nel piatto di Fontana. La crema di Parmigiano e i funghi porcini mascherano completamente l'olio. Veronica si attarda circa 40 secondi in piu rispetto al servizio degli altri commensali.
+5. **Ore 21:49-21:50** — Ilaria arriva al posto di Fontana (posto 1). Mentre versa il Barolo nel calice e spiega l'abbinamento con il risotto ai funghi porcini, con un gesto rapido e professionale, versa 4-5 gocce di olio di arachidi dalla fiala nel piatto di Fontana. La crema di Parmigiano e i funghi porcini mascherano completamente l'olio. Ilaria si attarda circa 40 secondi in piu rispetto al servizio degli altri commensali.
 
 6. **Ore 21:51** — Fontana inizia a mangiare il risotto.
 
@@ -354,15 +354,15 @@ Per Veronica, Fontana stava distruggendo sistematicamente la sua vita: la carrie
 
 1. **La telecamera del corridoio.** Le telecamere del ristorante la riprendono sia entrando in cantina (21:35) che rientrando nella Sala Leonardo (21:47). L'intervallo di 12 minuti per prelevare una singola bottiglia e anomalo — di solito bastano 3-4 minuti.
 
-2. **Tracce sull'astuccio del cavatappi.** L'analisi forense dell'astuccio del cavatappi professionale di Veronica rivela tracce microscopiche di proteina di arachide (Ara h 1). La fiala era stata custodita nello stesso astuccio.
+2. **Tracce sull'astuccio del cavatappi.** L'analisi forense dell'astuccio del cavatappi professionale di Ilaria rivela tracce microscopiche di proteina di arachide (Ara h 1). La fiala era stata custodita nello stesso astuccio.
 
 3. **L'acquisto online.** L'ordine su AsiaMarket.it e stato effettuato dal suo smartphone (tracciabile tramite IP e cookies). Il pagamento con carta prepagata PostePay e riconducibile a lei. La consegna a casa dell'amica Sara Ferretti e confermata dal corriere.
 
-4. **Il messaggio WhatsApp.** Due giorni prima della cena, Veronica ha inviato un messaggio a un'amica: *"Sabato sera sara l'ultima volta che quell'uomo mi fara del male. Te lo prometto."* Il messaggio e stato recuperato dall'analisi forense del telefono.
+4. **Il messaggio WhatsApp.** Due giorni prima della cena, Ilaria ha inviato un messaggio a un'amica: *"Sabato sera sara l'ultima volta che quell'uomo mi fara del male. Te lo prometto."* Il messaggio e stato recuperato dall'analisi forense del telefono.
 
-5. **La testimonianza della cameriera.** Lucia Ferretti, cameriera di sala, ha notato che Veronica si e attardata al posto di Fontana piu del necessario durante il servizio del terzo piatto e che era "insolitamente agitata" quella sera.
+5. **La testimonianza della cameriera.** Lucia Ferretti, cameriera di sala, ha notato che Ilaria si e attardata al posto di Fontana piu del necessario durante il servizio del terzo piatto e che era "insolitamente agitata" quella sera.
 
-6. **Il diario personale.** Il diario di Veronica, sequestrato dalla polizia, documenta in dettaglio la discesa nell'odio verso Fontana nei mesi precedenti e contiene una frase chiave datata 2 marzo 2025: *"L'unico modo per fermare un uomo come lui e togliergli il potere. Definitivamente."*
+6. **Il diario personale.** Il diario di Ilaria, sequestrato dalla polizia, documenta in dettaglio la discesa nell'odio verso Fontana nei mesi precedenti e contiene una frase chiave datata 2 marzo 2025: *"L'unico modo per fermare un uomo come lui e togliergli il potere. Definitivamente."*
 
 ---
 
@@ -372,30 +372,30 @@ Per Veronica, Fontana stava distruggendo sistematicamente la sua vita: la carrie
 
 | Prova | Documento | Significato |
 |-------|-----------|-------------|
-| Tracce di proteina di arachide (Ara h 1) sull'astuccio del cavatappi di Veronica | `lista-prove-fisiche.md` | Collega fisicamente Veronica all'allergene usato come arma |
-| Telecamere: Veronica in cantina per 12 minuti (21:35-21:47), poi nella Sala Leonardo al posto di Fontana | `registro-telecamere.md` | Dimostra opportunita e tempistica compatibile |
+| Tracce di proteina di arachide (Ara h 1) sull'astuccio del cavatappi di Ilaria | `lista-prove-fisiche.md` | Collega fisicamente Ilaria all'allergene usato come arma |
+| Telecamere: Ilaria in cantina per 12 minuti (21:35-21:47), poi nella Sala Leonardo al posto di Fontana | `registro-telecamere.md` | Dimostra opportunita e tempistica compatibile |
 | Report medico-legale: morte per shock anafilattico da allergene introdotto nel piatto | `report-medico-legale.md` | Conferma che non si tratta di incidente ma di contaminazione deliberata |
-| Acquisto online di olio di arachidi raffinato tracciato alla carta di Veronica | `ricevute-scontrini.md` / `estratti-conto.md` | Prova l'acquisto premeditato dell'arma del delitto |
+| Acquisto online di olio di arachidi raffinato tracciato alla carta di Ilaria | `ricevute-scontrini.md` / `estratti-conto.md` | Prova l'acquisto premeditato dell'arma del delitto |
 
 ### Prove Connettenti (40% del totale)
 
 | Prova | Documento | Significato |
 |-------|-----------|-------------|
 | Messaggio WhatsApp: "Sabato sera sara l'ultima volta che quell'uomo mi fara del male" | `email-messaggi.md` | Indica premeditazione |
-| Lettera di messa in mora dell'Avv. Brunetti per €85.000 | `contratti-documenti-legali.md` | Documenta il movente finanziario |
-| Bozza Guida Fontana 2025 con nota negativa che nomina Veronica | `bozza-guida-fontana.md` | Documenta il movente professionale |
+| Lettera di messa in mora dell'Avv. Brunetti per €68.000 | `contratti-documenti-legali.md` | Documenta il movente finanziario |
+| Bozza Guida Fontana 2025 con nota negativa che nomina Ilaria | `bozza-guida-fontana.md` | Documenta il movente professionale |
 | Diario personale con frase del 2 marzo 2025 | `diario-personale.md` | Conferma la pianificazione e il rancore crescente |
-| Testimonianza Lucia Ferretti: Veronica agitata e attardata al posto di Fontana | `verbale-interrogatorio-sospetto-2.md` / testimonianze | Osservazione diretta del comportamento sospetto |
-| Email di Fontana a "La Lanterna" che blocca l'assunzione di Veronica | `email-messaggi.md` | Documenta la persecuzione professionale sistematica |
+| Testimonianza Lucia Ferretti: Ilaria agitata e attardata al posto di Fontana | `verbale-interrogatorio-sospetto-2.md` / testimonianze | Osservazione diretta del comportamento sospetto |
+| Email di Fontana a "La Lanterna" che blocca l'assunzione di Ilaria | `email-messaggi.md` | Documenta la persecuzione professionale sistematica |
 | Estratto conto: pagamento AsiaMarket.it il 22/02/2025 | `estratti-conto.md` | Traccia l'acquisto dell'olio di arachidi |
 
 ### Prove Nascoste (20% del totale)
 
 | Prova | Documento | Significato |
 |-------|-----------|-------------|
-| Tempo anomalo in cantina (12 minuti vs 3-4 normali) | `registro-telecamere.md` / `timeline-eventi.md` | Suggerisce che Veronica ha usato il tempo per preparare la fiala |
-| Post Instagram di Veronica del dicembre 2024: foto di una cena con Fontana con didascalia nostalgica, poi cancellato | `post-social-media.md` | Rivela la relazione segreta e il suo stato emotivo |
-| Discrepanza tra alibi di Veronica ("non mi sono mai avvicinata ai piatti") e la testimonianza di Lucia Ferretti | `verbale-interrogatorio-sospetto-2.md` / testimonianze | Veronica mente sulla sua vicinanza al piatto |
+| Tempo anomalo in cantina (12 minuti vs 3-4 normali) | `registro-telecamere.md` / `timeline-eventi.md` | Suggerisce che Ilaria ha usato il tempo per preparare la fiala |
+| Post Instagram di Ilaria del dicembre 2024: foto di una cena con Fontana con didascalia nostalgica, poi cancellato | `post-social-media.md` | Rivela la relazione segreta e il suo stato emotivo |
+| Discrepanza tra alibi di Ilaria ("non mi sono mai avvicinata ai piatti") e la testimonianza di Lucia Ferretti | `verbale-interrogatorio-sospetto-2.md` / testimonianze | Ilaria mente sulla sua vicinanza al piatto |
 | Analisi del piatto: contaminazione avvenuta dopo la preparazione in cucina | `report-medico-legale.md` / `lista-prove-fisiche.md` | Esclude la cucina come punto di contaminazione |
 
 ### False Piste (10% del totale)
@@ -457,7 +457,7 @@ Come erede unica, Claudia avrebbe ereditato la Guida Fontana (valore €6-8 mili
 
 ### Domanda 1: Chi e il colpevole?
 - a) Chef Tommaso Rizzoli
-- **b) Veronica Salis** <- RISPOSTA CORRETTA
+- **b) Ilaria Mura** <- RISPOSTA CORRETTA
 - c) Dott. Sergio Mancini
 - d) Giorgio Pellegrini
 - e) Claudia Fontana
@@ -497,10 +497,10 @@ Come erede unica, Claudia avrebbe ereditato la Guida Fontana (valore €6-8 mili
 |---------|------------------|----------------------|
 | 1 - Scena del crimine | Rapporto polizia, Report ML, Prove fisiche, Foto | Causa della morte, allergia, EpiPen, dinamica |
 | 2 - Sospettati | Interrogatori (6) | Alibi, relazioni, moventi apparenti |
-| 3 - Vite private | Email, Diario, Social, Bozza guida | Relazione Veronica-Fontana, blog Mancini, vendita Springer |
-| 4 - Soldi | Estratti conto, Ricevute, Contratti | Acquisto olio arachidi, debito €85.000, investimento Pellegrini |
+| 3 - Vite private | Email, Diario, Social, Bozza guida | Relazione Ilaria-Fontana, blog Mancini, vendita Springer |
+| 4 - Soldi | Estratti conto, Ricevute, Contratti | Acquisto olio arachidi, debito €68.000, investimento Pellegrini, prestiti Colombo (€8.000) e Moretti (€25.000) |
 | 5 - Contesto | Articoli giornale | Background Fontana, scandalo Mancini, storia ristorante |
-| 6 - Prove decisive | Telecamere, Timeline, Analisi lab | Veronica al posto di Fontana, tempo in cantina, tracce astuccio |
+| 6 - Prove decisive | Telecamere, Timeline, Analisi lab | Ilaria al posto di Fontana, tempo in cantina, tracce astuccio |
 
 ---
 
@@ -508,14 +508,14 @@ Come erede unica, Claudia avrebbe ereditato la Guida Fontana (valore €6-8 mili
 
 | Personaggio | Eta | Ruolo | Funzione nel caso |
 |-------------|-----|-------|-------------------|
-| **Lucia Ferretti** | 28 | Cameriera di sala | Testimone chiave: nota l'attardamento di Veronica al posto di Fontana e la sua agitazione |
-| **Franco Colombo** | 52 | Maitre di sala | Corre a prendere l'EpiPen; conferma la disposizione dei posti; testimone degli alibi |
-| **Elena Moretti** | 45 | Giornalista enogastronomica, ospite | Conferma gli alibi di Mancini, Pellegrini e Claudia; fornisce contesto sul mondo della critica |
+| **Lucia Ferretti** | 28 | Cameriera di sala | Testimone chiave: nota l'attardamento di Ilaria al posto di Fontana e la sua agitazione |
+| **Franco Colombo** | 52 | Maitre di sala | Corre a prendere l'EpiPen; conferma la disposizione dei posti; testimone degli alibi. Ha un debito personale di €8.000 verso Fontana (residuo di un prestito di €12.000 per le spese universitarie della figlia, erogato nel 2023) |
+| **Elena Moretti** | 45 | Giornalista enogastronomica, ospite | Conferma gli alibi di Mancini, Pellegrini e Claudia; fornisce contesto sul mondo della critica. Ha ricevuto un anticipo di €25.000 da Fontana per un progetto editoriale congiunto ("Le Cene dei Grandi") poi annullato nel 2024; il contratto prevedeva la restituzione dell'anticipo |
 | **Dr. Luca Venturi** | 50 | Medico presente al piano terra | Interviene per i soccorsi; primo a riconoscere lo shock anafilattico |
 | **Commissario Antonio Ferro** | 54 | Questura di Parma, Squadra Mobile | Conduce le indagini, firma i rapporti |
 | **Dott.ssa Sara Conti** | 40 | Medico legale | Autrice del report medico-legale |
 | **Avv. Marco Brunetti** | 60 | Avvocato di Fontana | Autore della lettera di messa in mora; rivela la trattativa Springer |
-| **Sara Ferretti** | 38 | Amica di Veronica a Fidenza | Indirizzo di consegna dell'olio di arachidi |
+| **Sara Ferretti** | 38 | Amica di Ilaria a Fidenza | Indirizzo di consegna dell'olio di arachidi |
 | **Roberto Marini** | 45 | Commis di cucina | Conferma l'alibi di Rizzoli e Galli in cucina |
 | **Alessandro Sartori** | 48 | Rappresentante Guida Fontana | Ospite alla cena, fornisce informazioni sulla bozza della guida |
 
@@ -533,7 +533,7 @@ Come erede unica, Claudia avrebbe ereditato la Guida Fontana (valore €6-8 mili
 
 4. **Difficolta calibrata.** Il caso e progettato per essere risolvibile in 2-4 ore. La chiave e l'incrocio tra le telecamere, la testimonianza di Lucia Ferretti, e le prove documentali (acquisto online, diario, messaggi).
 
-5. **La mappa dei posti a tavola.** E fondamentale che i giocatori comprendano la disposizione dei posti: chi era seduto dove, chi poteva fisicamente avvicinarsi al piatto di Fontana. Solo Veronica, nel suo ruolo di sommelier, si avvicinava a tutti i posti.
+5. **La mappa dei posti a tavola.** E fondamentale che i giocatori comprendano la disposizione dei posti: chi era seduto dove, chi poteva fisicamente avvicinarsi al piatto di Fontana. Solo Ilaria, nel suo ruolo di sommelier, si avvicinava a tutti i posti.
 
 ---
 

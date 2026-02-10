@@ -87,13 +87,13 @@ Il soggetto viene informato ai sensi degli artt. 64 e 65 c.p.p. della facoltà d
 
 **FONTANA:** Il risotto. Quando è arrivato, mio padre lo ha osservato attentamente, come faceva sempre. Ha annusato, ha valutato la consistenza visiva. Poi la sommelier ha servito il Barolo. Ricordo che mio padre ha scambiato qualche parola con lei sul vino.
 
-**COMM. FERRO:** Con la sommelier, Veronica Salis?
+**COMM. FERRO:** Con la sommelier, Ilaria Mura?
 
-**FONTANA:** Sì. Veronica. Mi è sembrato che tra loro ci fosse... come dire... una familiarità. Non saprei definirla meglio. La sommelier si è attardata al posto di mio padre un po' più che agli altri posti. Gli ha detto qualcosa sul vino, lui ha annuito. Lei ha versato, e poi... mi è parso che la sua mano sia passata sopra il piatto. Ma forse stava solo porgendo il calice, non saprei.
+**FONTANA:** Sì. Ilaria. Mi è sembrato che tra loro ci fosse... come dire... una familiarità. Non saprei definirla meglio. La sommelier si è attardata al posto di mio padre un po' più che agli altri posti. Gli ha detto qualcosa sul vino, lui ha annuito. Lei ha versato, e poi... mi è parso che la sua mano sia passata sopra il piatto. Ma forse stava solo porgendo il calice, non saprei.
 
 **COMM. FERRO:** La sua mano è passata sopra il piatto?
 
-**FONTANA:** Io ero alla sua destra, Veronica serviva dalla sinistra di mio padre. Da dove ero io, ho visto la mano di Veronica muoversi nell'area tra il calice e il piatto. Ma ripeto, potrebbe essere stato un gesto del tutto normale nel servire il vino. Non ci ho fatto caso in quel momento.
+**FONTANA:** Io ero alla sua destra, Ilaria serviva dalla sinistra di mio padre. Da dove ero io, ho visto la mano di Ilaria muoversi nell'area tra il calice e il piatto. Ma ripeto, potrebbe essere stato un gesto del tutto normale nel servire il vino. Non ci ho fatto caso in quel momento.
 
 **COMM. FERRO:** Capisco. Dopo il servizio del vino, suo padre ha iniziato a mangiare?
 
@@ -111,17 +111,17 @@ Il soggetto viene informato ai sensi degli artt. 64 e 65 c.p.p. della facoltà d
 
 **FONTANA:** No. Voglio continuare. Per lui.
 
-**COMM. FERRO:** Le chiedo di parlarmi di Veronica Salis. La conosceva?
+**COMM. FERRO:** Le chiedo di parlarmi di Ilaria Mura. La conosceva?
 
 **FONTANA:** Non personalmente. Ma sapevo chi era. Cioè, sapevo che era la sommelier del Cenacolo d'Oro. Mio padre mi aveva parlato di lei qualche volta. Diceva che era molto competente, che aveva un talento naturale per il vino. Ma...
 
 **COMM. FERRO:** Ma?
 
-**FONTANA:** *(esita)* Commissario, non vorrei dire cose che non so. Ma ho avuto l'impressione, negli ultimi anni, che tra mio padre e Veronica ci fosse qualcosa di più di un rapporto professionale. Non ne ho mai avuto la certezza. Non ho mai chiesto.
+**FONTANA:** *(esita)* Commissario, non vorrei dire cose che non so. Ma ho avuto l'impressione, negli ultimi anni, che tra mio padre e Ilaria ci fosse qualcosa di più di un rapporto professionale. Non ne ho mai avuto la certezza. Non ho mai chiesto.
 
 **COMM. FERRO:** Cosa le ha dato questa impressione?
 
-**FONTANA:** Piccole cose. Il modo in cui mio padre la menzionava. Non era lo stesso tono che usava per parlare di altri professionisti del settore. C'era una nota diversa nella voce. E poi, quando venivamo a cena qui, notavo che Veronica aveva con mio padre un'attenzione particolare. Sguardi che duravano un attimo di troppo. Niente di esplicito, mai. Ma una figlia nota queste cose.
+**FONTANA:** Piccole cose. Il modo in cui mio padre la menzionava. Non era lo stesso tono che usava per parlare di altri professionisti del settore. C'era una nota diversa nella voce. E poi, quando venivamo a cena qui, notavo che Ilaria aveva con mio padre un'attenzione particolare. Sguardi che duravano un attimo di troppo. Niente di esplicito, mai. Ma una figlia nota queste cose.
 
 **COMM. FERRO:** Ha mai chiesto a suo padre?
 
@@ -153,31 +153,31 @@ Il soggetto viene informato ai sensi degli artt. 64 e 65 c.p.p. della facoltà d
 
 **COMM. FERRO:** Descriva questa lettera.
 
-**FONTANA:** Era una lettera su carta intestata. Uno studio legale. Avvocato Antonio Brunetti, con studio in Via Montenapoleone a Milano. La lettera era indirizzata a una certa... *(cerca nella borsa, estrae un foglio in una busta di plastica)* ...Veronica Salis. Ecco, l'ho portata.
+**FONTANA:** Era una lettera su carta intestata. Uno studio legale. Avvocato Antonio Brunetti, con studio in Via Montenapoleone a Milano. La lettera era indirizzata a una certa... *(cerca nella borsa, estrae un foglio in una busta di plastica)* ...Ilaria Mura. Ecco, l'ho portata.
 
 **COMM. FERRO:** *(prende la busta)* Questa è la lettera originale?
 
-**FONTANA:** Sì. Non sapevo se dovevo portarla o no, ma ho pensato che potesse essere importante. Quando ho visto il nome Veronica Salis... ho fatto il collegamento con la sommelier.
+**FONTANA:** Sì. Non sapevo se dovevo portarla o no, ma ho pensato che potesse essere importante. Quando ho visto il nome Ilaria Mura... ho fatto il collegamento con la sommelier.
 
 **COMM. FERRO:** Cosa dice la lettera?
 
-**FONTANA:** È una richiesta di pagamento. L'avvocato Brunetti, per conto del suo assistito Massimo Fontana, chiede alla signora Veronica Salis la restituzione della somma di ottantacinquemila euro. La lettera parla di un "prestito personale non formalizzato" concesso in diverse tranches tra il 2022 e il 2024, e intima il pagamento entro trenta giorni dalla ricezione. La lettera è datata 15 febbraio 2025.
+**FONTANA:** È una richiesta di pagamento. L'avvocato Brunetti, per conto del suo assistito Massimo Fontana, chiede alla signora Ilaria Mura la restituzione della somma di ottantacinquemila euro. La lettera parla di un "prestito personale non formalizzato" concesso in diverse tranches tra il 2022 e il 2024, e intima il pagamento entro trenta giorni dalla ricezione. La lettera è datata 15 febbraio 2025.
 
 **COMM. FERRO:** Meno di un mese fa.
 
-**FONTANA:** Sì. E io non ne sapevo niente. Non sapevo che mio padre avesse prestato denaro a Veronica Salis. Non sapevo nemmeno che avessero un rapporto che giustificasse un prestito di quella entità. Ottantacinquemila euro, Commissario. Non è una cifra che si presta a un conoscente.
+**FONTANA:** Sì. E io non ne sapevo niente. Non sapevo che mio padre avesse prestato denaro a Ilaria Mura. Non sapevo nemmeno che avessero un rapporto che giustificasse un prestito di quella entità. Ottantacinquemila euro, Commissario. Non è una cifra che si presta a un conoscente.
 
 **COMM. FERRO:** Ha ragione. Signora Fontana, questa lettera è un elemento investigativo fondamentale. La acquisiremo come prova.
 
-**FONTANA:** La prego, la tenga. Se Veronica Salis ha qualcosa a che fare con la morte di mio padre... *(si interrompe, si morde il labbro)* Io devo sapere. Ho il diritto di sapere.
+**FONTANA:** La prego, la tenga. Se Ilaria Mura ha qualcosa a che fare con la morte di mio padre... *(si interrompe, si morde il labbro)* Io devo sapere. Ho il diritto di sapere.
 
-**COMM. FERRO:** Faremo tutto il possibile. Un'ultima domanda: quando è arrivata ieri sera al ristorante, e ha interagito con Veronica Salis?
+**COMM. FERRO:** Faremo tutto il possibile. Un'ultima domanda: quando è arrivata ieri sera al ristorante, e ha interagito con Ilaria Mura?
 
-**FONTANA:** Sono arrivata con mio padre intorno alle venti. Veronica ci ha accolti all'ingresso. È stata cortese, professionale. Ha salutato mio padre con... direi con una certa calorosità. Un bacio sulla guancia, mi sembra. A me ha stretto la mano e sorriso. Non ho notato nulla di strano in quel momento.
+**FONTANA:** Sono arrivata con mio padre intorno alle venti. Ilaria ci ha accolti all'ingresso. È stata cortese, professionale. Ha salutato mio padre con... direi con una certa calorosità. Un bacio sulla guancia, mi sembra. A me ha stretto la mano e sorriso. Non ho notato nulla di strano in quel momento.
 
-**COMM. FERRO:** E durante la serata? Ha avuto altre interazioni con Veronica?
+**COMM. FERRO:** E durante la serata? Ha avuto altre interazioni con Ilaria?
 
-**FONTANA:** Solo il servizio del vino. Veronica mi ha descritto ogni vino con competenza. Ma ora che ci penso... quando serviva il vino a mio padre, non gli descriveva il vino come faceva con gli altri. Si chinava un po' di più verso di lui, gli diceva qualcosa a bassa voce, e lui annuiva. Come se avessero un loro linguaggio.
+**FONTANA:** Solo il servizio del vino. Ilaria mi ha descritto ogni vino con competenza. Ma ora che ci penso... quando serviva il vino a mio padre, non gli descriveva il vino come faceva con gli altri. Si chinava un po' di più verso di lui, gli diceva qualcosa a bassa voce, e lui annuiva. Come se avessero un loro linguaggio.
 
 **COMM. FERRO:** Signora Fontana, la ringrazio infinitamente per la sua collaborazione e per la lettera. Le rinnovo le mie condoglianze. Se le venisse in mente qualsiasi altro dettaglio, non esiti a contattarci.
 
@@ -211,27 +211,27 @@ Il soggetto viene informato ai sensi degli artt. 64 e 65 c.p.p. della facoltà d
 ### ELEMENTI INVESTIGATIVI CRITICI EMERSI
 
 **1. La lettera dell'Avv. Brunetti (REP-2025-1287/12):**
-Questo è il collegamento finanziario tra Fontana e Veronica Salis che stavamo cercando. Un prestito personale di 85.000 euro, erogato in più tranches tra il 2022 e il 2024, con richiesta di restituzione datata 15 febbraio 2025 -- meno di un mese prima dell'omicidio. Questo elemento:
-- Conferma l'esistenza di un rapporto personale tra Fontana e Salis che va ben oltre il professionale (Salis ha mentito durante il suo interrogatorio).
-- Stabilisce un potenziale movente economico per Salis: un debito di 85.000 euro con intimazione di pagamento.
+Questo è il collegamento finanziario tra Fontana e Ilaria Mura che stavamo cercando. Un prestito personale di 68.000 euro, erogato in più tranches tra il 2022 e il 2024, con richiesta di restituzione datata 15 febbraio 2025 -- meno di un mese prima dell'omicidio. Questo elemento:
+- Conferma l'esistenza di un rapporto personale tra Fontana e Mura che va ben oltre il professionale (Mura ha mentito durante il suo interrogatorio).
+- Stabilisce un potenziale movente economico per Mura: un debito di 68.000 euro con intimazione di pagamento.
 - La tempistica è significativa: la richiesta legale precede l'omicidio di sole tre settimane.
 
 **2. La scomparsa dell'EpiPen:**
-Fontana portava SEMPRE con sé l'autoiniettore di adrenalina. La sua assenza dalla giacca la sera dell'omicidio non può essere casuale. Ipotesi: qualcuno ha sottratto l'EpiPen per garantire che lo shock anafilattico fosse letale. Questo eleva la premeditazione a un livello superiore. Chi ha avuto accesso alla giacca di Fontana durante la serata? La giacca era sulla sedia, al posto 1. Salis, durante il servizio al tavolo, avrebbe avuto accesso.
+Fontana portava SEMPRE con sé l'autoiniettore di adrenalina. La sua assenza dalla giacca la sera dell'omicidio non può essere casuale. Ipotesi: qualcuno ha sottratto l'EpiPen per garantire che lo shock anafilattico fosse letale. Questo eleva la premeditazione a un livello superiore. Chi ha avuto accesso alla giacca di Fontana durante la serata? La giacca era sulla sedia, al posto 1. Mura, durante il servizio al tavolo, avrebbe avuto accesso.
 
 **3. Le telefonate in tedesco e Springer Gastronomie:**
-Fontana stava trattando con una società editoriale tedesca. Se si trattasse di una vendita o licenza della Guida Fontana, le implicazioni economiche sarebbero enormi. Da approfondire: Salis era al corrente di queste trattative? Il debito di 85.000 euro è collegato a questa operazione?
+Fontana stava trattando con una società editoriale tedesca. Se si trattasse di una vendita o licenza della Guida Fontana, le implicazioni economiche sarebbero enormi. Da approfondire: Mura era al corrente di queste trattative? Il debito di 68.000 euro è collegato a questa operazione?
 
-**4. L'osservazione sul gesto di Salis durante il servizio:**
-Claudia Fontana ha notato la mano di Salis muoversi "nell'area tra il calice e il piatto." Questo corrobora parzialmente l'osservazione di Mancini sulla sosta prolungata di Salis al posto di Fontana. Due testimoni indipendenti che notano un comportamento anomalo di Salis al tavolo della vittima.
+**4. L'osservazione sul gesto di Mura durante il servizio:**
+Claudia Fontana ha notato la mano di Mura muoversi "nell'area tra il calice e il piatto." Questo corrobora parzialmente l'osservazione di Mancini sulla sosta prolungata di Mura al posto di Fontana. Due testimoni indipendenti che notano un comportamento anomalo di Mura al tavolo della vittima.
 
 **LIVELLO DI SOSPETTO: BASSO** (nessun movente, dolore genuino, collaborazione attiva e fondamentale per l'indagine).
 
 **Azione successiva URGENTE:**
 - Analisi forense della lettera dell'Avv. Brunetti.
-- Contatto con l'Avv. Brunetti per acquisire il fascicolo completo del credito Fontana-Salis.
-- Ricerca dell'EpiPen mancante: perquisizione del ristorante, della cantina, e dell'armadietto di Salis.
-- Verifica dei movimenti bancari di Salis per confermare le tranches del prestito.
+- Contatto con l'Avv. Brunetti per acquisire il fascicolo completo del credito Fontana-Mura.
+- Ricerca dell'EpiPen mancante: perquisizione del ristorante, della cantina, e dell'armadietto di Mura.
+- Verifica dei movimenti bancari di Mura per confermare le tranches del prestito.
 - Contatto con Springer Gastronomie.
 
 ---

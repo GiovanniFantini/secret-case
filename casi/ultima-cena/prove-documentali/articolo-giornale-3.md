@@ -52,7 +52,7 @@ La Procura ha iscritto nel registro degli indagati tutti e sei i partecipanti al
 1. **Claudia Fontana**, 34 anni, figlia della vittima, vicedirettrice della Guida Fontana
 2. **Giorgio Pellegrini**, 66 anni, imprenditore, comproprietario del ristorante
 3. **Luca Rizzoli**, 45 anni, chef e comproprietario del ristorante
-4. **Veronica Salis**, 42 anni, head sommelier del ristorante
+4. **Ilaria Mura**, 42 anni, head sommelier del ristorante
 5. **Sergio Mancini**, 54 anni, giornalista gastronomico
 6. **Matteo Galli**, 38 anni, fotografo gastronomico
 
@@ -66,7 +66,7 @@ Il percorso del piatto, dalla cucina al tavolo, e al centro delle indagini. La c
 
 "In quel corridoio", ha confermato una fonte investigativa, "c'e una telecamera di sorveglianza. Le immagini sono state acquisite e sono in corso di analisi. Ma ci sono anche punti ciechi."
 
-La sommelier Veronica Salis era incaricata del servizio al tavolo per i vini, ma fonti del ristorante confermano che durante la serata si e occupata anche del trasporto di alcuni piatti dalla zona di servizio al tavolo, pratica comune nei ristoranti di alto livello durante le cene private.
+La sommelier Ilaria Mura era incaricata del servizio al tavolo per i vini, ma fonti del ristorante confermano che durante la serata si e occupata anche del trasporto di alcuni piatti dalla zona di servizio al tavolo, pratica comune nei ristoranti di alto livello durante le cene private.
 
 ### Quel che sappiamo sugli ospiti
 
@@ -82,7 +82,7 @@ Le indagini si concentrano sui moventi e sulle opportunita di ciascun indagato. 
 
 - **Matteo Galli**, fotografo della Guida, aveva pubblicato commenti ambigui sui social media riferiti ai critici gastronomici.
 
-- **Veronica Salis**, sommelier, era stata oggetto di giudizi professionali negativi da parte di Fontana nella bozza della nuova Guida.
+- **Ilaria Mura**, sommelier, era stata oggetto di giudizi professionali negativi da parte di Fontana nella bozza della nuova Guida.
 
 ### La citta sotto shock
 
@@ -100,5 +100,5 @@ Fuori dal Cenacolo d'Oro, ancora sotto sequestro, qualcuno ha deposto un mazzo d
 > Articolo acquisito in copia originale cartacea e in formato digitale dal sito web de la Repubblica (www.repubblica.it) il 13 marzo 2025. L'articolo e il primo a rendere pubblica la riclassificazione del caso come omicidio volontario con premeditazione. Si segnala che:
 > 1. Le informazioni sulle analisi tossicologiche sono sostanzialmente accurate e coerenti con la perizia ufficiale.
 > 2. L'articolo menziona correttamente che la contaminazione e avvenuta "post-cucina", elemento centrale dell'indagine.
-> 3. I profili dei sei indagati sono sommari ma corretti. Tuttavia, l'articolo non menziona la relazione sentimentale tra la Salis e il Fontana, ne il debito di Euro 85.000, elementi non ancora emersi sulla stampa alla data di pubblicazione.
+> 3. I profili dei sei indagati sono sommari ma corretti. Tuttavia, l'articolo non menziona la relazione sentimentale tra la Mura e il Fontana, ne il debito di Euro 68.000, elementi non ancora emersi sulla stampa alla data di pubblicazione.
 > 4. Il riferimento al corridoio con telecamera e ai "punti ciechi" e un'informazione investigativamente sensibile la cui diffusione e stata oggetto di verifica interna.

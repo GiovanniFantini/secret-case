@@ -115,23 +115,23 @@ Il soggetto viene informato ai sensi degli artt. 64 e 65 c.p.p. della facoltà d
 
 **COMM. FERRO:** In che senso?
 
-**MANCINI:** La sommelier. Veronica, credo si chiami. Ha servito un Barolo straordinario, un Monfortino. Ma... sa, io osservo per mestiere. È una deformazione professionale. E ho notato che durante il servizio del vino, Veronica si è attardata un po' di più al posto di Fontana rispetto agli altri commensali.
+**MANCINI:** La sommelier. Ilaria, credo si chiami. Ha servito un Barolo straordinario, un Monfortino. Ma... sa, io osservo per mestiere. È una deformazione professionale. E ho notato che durante il servizio del vino, Ilaria si è attardata un po' di più al posto di Fontana rispetto agli altri commensali.
 
 **COMM. FERRO:** Si è attardata. Quanto di più?
 
 **MANCINI:** Difficile da quantificare. Forse trenta secondi in più? Un minuto? A me ha servito il vino in dieci secondi: ha versato, ha fatto un mezzo sorriso, è passata al prossimo. Con Fontana mi è sembrato che ci fosse uno scambio di parole, un gesto in più. Ma potrebbe essere semplicemente perché Fontana era il critico più importante al tavolo e lei voleva fare bella figura.
 
-**COMM. FERRO:** Ha visto Veronica toccare il piatto di Fontana? Avvicinarsi al piatto?
+**COMM. FERRO:** Ha visto Ilaria toccare il piatto di Fontana? Avvicinarsi al piatto?
 
 **MANCINI:** *(ci pensa)* Non saprei dirle con certezza. Ero dall'altra parte del tavolo e il centrotavola ostruiva parzialmente la vista. Ma mi è rimasta l'impressione che le sue mani si siano mosse in prossimità del piatto mentre serviva il vino. Potrebbe essere un'impressione sbagliata, sia chiaro. La luce era bassa, c'erano le candele.
 
-**COMM. FERRO:** Come le è sembrata Veronica durante la serata, in generale?
+**COMM. FERRO:** Come le è sembrata Ilaria durante la serata, in generale?
 
 **MANCINI:** Tesa. Professionale, certamente, ma tesa. Io conosco quel tipo di tensione: la tensione di chi ha qualcosa in mente che va oltre il proprio lavoro. La vedevo nei ristoranti che recensivo, quando un cameriere sapeva di poter essere licenziato. Ma lì era diverso. Era qualcosa di più... personale.
 
 **COMM. FERRO:** Personale?
 
-**MANCINI:** È solo un'impressione, Commissario. Non voglio accusare nessuno. Ma mi è sembrato che Veronica fosse agitata in un modo che andava oltre il nervosismo da prestazione professionale. I suoi movimenti erano leggermente più bruschi del necessario, e più di una volta l'ho vista guardare verso Fontana quando lui non la stava osservando.
+**MANCINI:** È solo un'impressione, Commissario. Non voglio accusare nessuno. Ma mi è sembrato che Ilaria fosse agitata in un modo che andava oltre il nervosismo da prestazione professionale. I suoi movimenti erano leggermente più bruschi del necessario, e più di una volta l'ho vista guardare verso Fontana quando lui non la stava osservando.
 
 **COMM. FERRO:** Descriviamo ora il momento della crisi. Dove si trovava esattamente?
 
@@ -181,13 +181,13 @@ Il soggetto viene informato ai sensi degli artt. 64 e 65 c.p.p. della facoltà d
 **Comportamento durante l'interrogatorio:** Sorprendentemente cooperativo e diretto. Il soggetto ha ammesso il proprio rancore senza tentare di minimizzarlo. Questo atteggiamento può indicare sia genuina innocenza sia una strategia difensiva calcolata (ammettere il movente per apparire trasparente sapendo di avere un alibi solido). Intelligenza e capacità dialettica elevate.
 
 **Elementi rilevanti emersi:**
-- La testimonianza spontanea su Veronica Salis è significativa: il soggetto ha notato che Salis si è attardata al posto di Fontana durante il servizio del vino, e ha percepito una tensione "personale" nel suo comportamento. Questo è coerente con le osservazioni emerse dall'interrogatorio di Rizzoli.
-- L'impressione che le mani di Salis si siano mosse "in prossimità del piatto" durante il servizio del vino è un dato da incrociare con altre testimonianze e con eventuali filmati.
+- La testimonianza spontanea su Ilaria Mura è significativa: il soggetto ha notato che Mura si è attardata al posto di Fontana durante il servizio del vino, e ha percepito una tensione "personale" nel suo comportamento. Questo è coerente con le osservazioni emerse dall'interrogatorio di Rizzoli.
+- L'impressione che le mani di Mura si siano mosse "in prossimità del piatto" durante il servizio del vino è un dato da incrociare con altre testimonianze e con eventuali filmati.
 - La questione del blog "Il Mangione Critico" va approfondita tramite analisi informatica, ma non è direttamente rilevante per il caso in oggetto.
 
 **LIVELLO DI SOSPETTO: MEDIO** (per la forza del movente, ma limitato dall'alibi solido e dall'assenza di opportunità concreta).
 
-**Azione successiva:** Verificare alibi con i tre testimoni indicati. Approfondire la questione del blog per completezza investigativa. Acquisire la sua testimonianza su Salis come elemento da confrontare con altri riscontri.
+**Azione successiva:** Verificare alibi con i tre testimoni indicati. Approfondire la questione del blog per completezza investigativa. Acquisire la sua testimonianza su Mura come elemento da confrontare con altri riscontri.
 
 ---
 *Fine verbale -- Protocollo PR-2025-1287/3 -- Pagina unica*
