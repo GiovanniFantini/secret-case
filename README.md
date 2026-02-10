@@ -151,7 +151,7 @@ Tre domande finali a scelta multipla:
 
 Per ogni caso generato, vengono prodotti:
 
-1. Istruzioni per i giocatori
+1. Istruzioni per i giocatori (manuale utente)
 2. Documento master con soluzione completa e spiegazione
 3. Tutti i documenti investigativi (formato testo)
 4. Descrizione dettagliata di prove fisiche e foto
