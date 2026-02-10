@@ -21,13 +21,14 @@ Ogni caso è composto da un crimine (omicidio, rapina, scomparsa) ambientato in 
 
 - **Vittima**: nome, età, background dettagliato
 - **Circostanze**: come è stato scoperto il crimine
-- **Sospetti**: 4–6 persone con moventi credibili
+- **NPC**: 8-12 persone (compresi i sospetti) per arricchire informazioni di contorno utili al caso
+- **Sospetti**: 6–10 persone con moventi credibili
 - **Colpo di scena**: almeno 2 false piste convincenti
 - **Soluzione**: deducibile logicamente dagli indizi forniti
 
-## Materiali da Produrre (40+ elementi)
+## Materiali da Produrre (60+ elementi)
 
-### Documenti Investigativi (15–20 pezzi)
+### Documenti Investigativi (15-30 pezzi)
 
 1. Rapporto di polizia iniziale (2–3 pagine)
 2. Verbali di interrogatorio per ogni sospetto (1 pagina ciascuno)
@@ -36,7 +37,7 @@ Ogni caso è composto da un crimine (omicidio, rapina, scomparsa) ambientato in 
 5. Mappe della scena del crimine
 6. Lista di prove fisiche trovate
 
-### Prove Documentali (15–20 pezzi)
+### Prove Documentali (15–30 pezzi)
 
 1. Articoli di giornale (3–4, con evoluzione della storia)
 2. Post social media delle vittime/sospetti
@@ -47,7 +48,7 @@ Ogni caso è composto da un crimine (omicidio, rapina, scomparsa) ambientato in 
 7. Diari personali / note
 8. Foto della scena del crimine (6–8, o descrizione testuale)
 
-### Elementi Digitali (5–10 pezzi)
+### Elementi Digitali (5–15 pezzi)
 
 1. Sito web fittizio per verifiche (opzionale)
 2. Registrazioni audio — trascrizioni / video (opzionale)
@@ -117,13 +118,13 @@ Tre domande finali a scelta multipla:
 ### Coerenza
 
 - Ogni indizio deve avere uno scopo
-- Nessuna contraddizione tra gli elementi
+- Importante: Nessuna contraddizione tra gli elementi
 - La soluzione deve essere l'**unica** logicamente coerente
 - Timeline verificabile e senza buchi
 
 ## Elementi di Immersione
 
-### Autenticità visiva
+### Autenticità visiva (opzionale)
 
 - Documenti con loghi e timbri ufficiali
 - Formato realistico (font istituzionali, layout appropriati)
@@ -151,7 +152,7 @@ Tre domande finali a scelta multipla:
 
 Per ogni caso generato, vengono prodotti:
 
-1. Istruzioni per i giocatori (manuale utente)
+1. Istruzioni per i giocatori (manuale utente con suddivisione documenti es. "per il caso", "soluzione(spoiler)", "istruzioni" trova tu il cluster giusto)
 2. Documento master con soluzione completa e spiegazione
 3. Tutti i documenti investigativi (formato testo)
 4. Descrizione dettagliata di prove fisiche e foto
@@ -159,6 +160,7 @@ Per ogni caso generato, vengono prodotti:
 6. 3 livelli di suggerimenti progressivi
 7. Script della narrazione audio finale (10–15 minuti) che spiega la soluzione
 8. Documenti raggruppati per categoria (es. "Prove documentali", "Documenti investigativi")
+9. Produci anche documenti di supporto (eg. foglio appunti "customizzato" per risolvere il caso, che non dia aiuti, versione stampabile)
 
 ## Checklist di Qualità
 
