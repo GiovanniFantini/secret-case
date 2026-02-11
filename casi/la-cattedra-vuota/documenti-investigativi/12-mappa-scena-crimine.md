@@ -1,0 +1,495 @@
+# MAPPA DELLA SCENA DEL CRIMINE
+
+## Procura della Repubblica presso il Tribunale di Bologna
+### Proc. N. 2025/1847 — Fascicolo "Cattedra Vuota"
+
+---
+
+**PLANIMETRIA SCHEMATICA — PALAZZO SCARANI**
+
+**Indirizzo**: Via Zamboni 38, 40126 Bologna
+**Edificio**: Palazzo Scarani — Sede del Dipartimento di Scienze Giuridiche, Alma Mater Studiorum — Università di Bologna
+**Data del rilievo**: 9-10 febbraio 2025
+**Responsabile**: Sov. Capo Marco Trevisan, Polizia Scientifica — Gabinetto Regionale Emilia-Romagna
+
+---
+
+## 1. PANORAMICA DELL'EDIFICIO E CONTESTO URBANO
+
+```
+                          VIA ZAMBONI (direzione est →)
+    ═══════════════════════════════════════════════════════════
+                    N. 38
+         ┌──────────────────────────────────┐
+         │                                  │
+         │        PALAZZO SCARANI           │
+         │     (3 piani + seminterrato)     │
+         │                                  │
+         │    ┌────────────────────┐        │
+         │    │                    │        │
+         │    │  CORTILE INTERNO   │        │
+         │    │                    │        │
+         │    │   [area aperta]    │        │
+         │    │                    │        │
+         │    └────────────────────┘        │
+         │                                  │
+         │                                  │
+         └──────────────┬───────────────────┘
+                        │
+                        │  (lato)
+                        │
+              VIA DELLE MOLINE
+```
+
+### Legenda degli accessi:
+
+```
+    VIA ZAMBONI 38
+    ════════════════════════════════════════════════
+         │                                    │
+    [A]══╪════════════════════════════════════╪══
+         │  INGRESSO PRINCIPALE               │
+         │  • Porta doppia vetro/legno        │
+         │  • Lettore badge bidirezionale     │
+         │  • Telecamera (Hikvision 4MP)      │
+         │  • Portineria con custode          │
+         │                                    │
+         │           . . .                    │
+         │                                    │
+         │                              [B]══╪══ VIA DELLE MOLINE
+         │                                    │
+         │  PORTA DI SERVIZIO LATERALE        │
+         │  • Porta metallica grigia          │
+         │  • Lettore badge SOLO INGRESSO     │
+         │  • Uscita con maniglione antipanico│
+         │  • ⚠ NESSUNA TELECAMERA ⚠         │
+         │  • Accesso al cortile interno      │
+         │    e scala interna                 │
+         │                                    │
+    ════════════════════════════════════════════
+
+    [A] = Ingresso principale — Via Zamboni 38
+    [B] = Porta di servizio — lato Via delle Moline
+
+    Distanza [A] → [B]: circa 35 metri (perimetro esterno)
+```
+
+### Posizionamento nel contesto urbano:
+
+```
+    ┌─────────────────────────────────────────────────────────┐
+    │                    MAPPA QUARTIERE                      │
+    │                                                         │
+    │   Via Irnerio                                           │
+    │   ══════════════════════════════                        │
+    │           │                                             │
+    │   Via     │        Via Belle Arti 42                    │
+    │   delle   │        [ARCHIVI ATENEO]                     │
+    │   Moline  │        ★ Santini (20:00-22:30)             │
+    │           │            ~400m                            │
+    │    [B]────┤                                             │
+    │           │                                             │
+    │   Via Zamboni ══════════════════════════════════         │
+    │           │                                             │
+    │    [A]────┤ N.38 PALAZZO SCARANI ← SCENA CRIMINE       │
+    │           │                                             │
+    │           │     ~50m ↕                                  │
+    │           │     [P] Auto Conti (BMW BO 429 XF)          │
+    │           │                                             │
+    │           │     ~200m                                   │
+    │           │                                             │
+    │           │  PIAZZA VERDI                               │
+    │           │  ★ Moretti + Rossi (20:30-21:45)            │
+    │           │                                             │
+    │           │     ~300m                                   │
+    │           │                                             │
+    │           │  Via Belle Arti (parcheggio Valdi)           │
+    │           │  ★ Fiat 500 FE 823 NP                      │
+    │                                                         │
+    └─────────────────────────────────────────────────────────┘
+
+    ★ = Posizione dei sospettati la sera dell'8 febbraio
+    [P] = Posizione parcheggio Federica Conti
+```
+
+---
+
+## 2. PLANIMETRIA PER PIANO
+
+### PIANO TERRA
+
+```
+    ┌──────────────────────────────────────────────────────┐
+    │                    PIANO TERRA                        │
+    │                                                      │
+    │  ┌─────────┐  ┌──────────────────┐  ┌────────────┐  │
+    │  │         │  │                  │  │            │  │
+    │  │ PORTI-  │  │                  │  │  AULA A    │  │
+    │  │ NERIA   │  │    ATRIO         │  │ (lezioni)  │  │
+    │  │         │  │                  │  │            │  │
+    │  │ Custode │  │  ┌────┐         │  │            │  │
+    │  │ Mancini │  │  │SCAL│         │  └────────────┘  │
+    │  │         │  │  │ A  │         │                  │
+    │  └────╥────┘  │  │PRIN│         │  ┌────────────┐  │
+    │  [A]══╬═══════╡  │CIPA│         │  │            │  │
+    │  INGR.║PRINC. │  │LE │         │  │  AULA B    │  │
+    │       ║       │  └──┬─┘         │  │ (lezioni)  │  │
+    │       ║       │     │           │  │            │  │
+    │       ║       │     │  CORTILE  │  │            │  │
+    │       ║       │     │  INTERNO  │  └────────────┘  │
+    │       ║       │     │           │                  │
+    │       ║       │  ┌──┴──┐       │                  │
+    │       ║       │  │SCALA│       │                  │
+    │       ║       │  │INT. │       │                  │
+    │       ║       │  └──┬──┘       │                  │
+    │       ║       │     │          ╠══[B] PORTA       │
+    │       ║       │     │          ║    SERVIZIO      │
+    │       ║       └─────┴──────────╝                  │
+    │       ║                                           │
+    └───────╨───────────────────────────────────────────┘
+
+    SCALA PRINCIPALE: scala in marmo, accesso da atrio
+                      → conduce ai piani superiori (lato Via Zamboni)
+    SCALA INTERNA:    scala di servizio in pietra, accesso dal cortile
+                      → conduce ai piani superiori (lato Via delle Moline)
+                      → direttamente raggiungibile dalla porta di servizio [B]
+```
+
+### PRIMO PIANO — CUCINA DEL DIPARTIMENTO
+
+```
+    ┌──────────────────────────────────────────────────────┐
+    │                    PRIMO PIANO                        │
+    │                                                      │
+    │  ┌──────────┐  ┌──────────┐  ┌───────────────────┐  │
+    │  │ Studio   │  │ Studio   │  │                   │  │
+    │  │ 101      │  │ 102      │  │  Studio 103       │  │
+    │  │ (Prof.   │  │ (Prof.   │  │  (Prof. Bruni)    │  │
+    │  │ Gentili) │  │ Colombo) │  │                   │  │
+    │  └────┬─────┘  └────┬─────┘  └────────┬──────────┘  │
+    │       │             │                 │              │
+    │  ─────┴─────────────┴─────────────────┴──────────    │
+    │                  CORRIDOIO                           │
+    │  ─────┬─────────────┬─────────────────┬──────────    │
+    │       │             │                 │              │
+    │  ┌────┴─────┐  ┌────┴─────┐  ┌───────┴──────────┐  │
+    │  │ Studio   │  │ Studio   │  │                   │  │
+    │  │ 104      │  │ 105      │  │  ★ CUCINA ★      │  │
+    │  │ (Dott.   │  │ (Segr.)  │  │  DIPARTIMENTO    │  │
+    │  │ Valdi)   │  │          │  │  (v. dettaglio)   │  │
+    │  └──────────┘  └──────────┘  └───────────────────┘  │
+    │                                                      │
+    │  ┌────────┐                        ┌────────┐        │
+    │  │ SCALA  │                        │ SCALA  │        │
+    │  │ PRINC. │                        │ INT.   │        │
+    │  └────────┘                        └────────┘        │
+    │                                                      │
+    └──────────────────────────────────────────────────────┘
+
+    ★ CUCINA = Luogo di preparazione del caffè avvelenato
+    PERCORSO ASSASSINA: Porta servizio [B] → Scala interna → 1° piano
+                        → Cucina (preparazione caffè) → Scala principale
+                        → 2° piano → Studio 204
+```
+
+### SECONDO PIANO — STUDIO 204 (SCENA DEL CRIMINE)
+
+```
+    ┌──────────────────────────────────────────────────────┐
+    │                    SECONDO PIANO                      │
+    │                                                      │
+    │  ┌──────────┐  ┌──────────┐  ┌───────────────────┐  │
+    │  │ Studio   │  │ Studio   │  │                   │  │
+    │  │ 201      │  │ 202      │  │  Studio 203       │  │
+    │  │          │  │          │  │  (Sala riunioni)  │  │
+    │  └────┬─────┘  └────┬─────┘  └────────┬──────────┘  │
+    │       │             │                 │              │
+    │  ─────┴─────────────┴─────────────────┴──────────    │
+    │                  CORRIDOIO                           │
+    │  ─────┬─────────────┬─────────────────┬──────────    │
+    │       │             │                 │              │
+    │  ┌────┴─────┐  ┌────┴─────┐  ┌───────┴──────────┐  │
+    │  │          │  │ Studio   │  │                   │  │
+    │  │ ★★★★★★  │  │ 205      │  │  Studio 206      │  │
+    │  │ STUDIO   │  │ (Dott.   │  │  (Archivio)      │  │
+    │  │ 204 ★★★  │  │ Fabbri)  │  │                   │  │
+    │  │ (MARINI) │  │          │  │                   │  │
+    │  └──────────┘  └──────────┘  └───────────────────┘  │
+    │                                                      │
+    │  ┌────────┐                        ┌────────┐        │
+    │  │ SCALA  │                        │ SCALA  │        │
+    │  │ PRINC. │                        │ INT.   │        │
+    │  └────────┘                        └────────┘        │
+    │                                                      │
+    └──────────────────────────────────────────────────────┘
+
+    ★★★ STUDIO 204 = Scena del crimine (v. dettaglio sotto)
+    Nota: Studio 205 = Dr.ssa Laura Fabbri (assente — a Roma)
+```
+
+---
+
+## 3. DETTAGLIO — STUDIO 204 (SCENA PRIMARIA DEL CRIMINE)
+
+```
+    Dimensioni: circa 5m x 5m (~25 mq)
+    Orientamento: finestra su Via Zamboni (parete OVEST)
+
+    PARETE NORD (corridoio)
+    ┌─────────────────────────────────────────────────┐
+    │                                                 │
+    │  [PORTA]                                        │
+    │  ╔══════╗                                       │
+    │  ║ Chia-║                                       │
+    │  ║ vi-  ║                                       │
+    │  ║ stel-║                                       │
+    │  ║ lo   ║  REP-007                              │
+    │  ╚══╦═══╝                                       │
+    │     ║                                           │
+    │     ║     ┌─────────────────┐                   │
+    │     ║     │                 │                   │
+    │ P   ║     │  SCAFFALATURA   │   ┌────────────┐  │  P
+    │ A   ║     │  LIBRI          │   │            │  │  A
+    │ R   ║     │  (parete est)   │   │  DIVANO    │  │  R
+    │ E   ║     │                 │   │  IN PELLE  │  │  E
+    │ T   ║     │  Impronte       │   │            │  │  T
+    │ E   ║     │  Valdi          │   │            │  │  E
+    │     ║     │  (vecchie,      │   └────────────┘  │
+    │ E   ║     │   3° ripiano)   │                   │  O
+    │ S   ║     │                 │   ┌────────────┐  │  V
+    │ T   ║     └─────────────────┘   │ARCHIVIO    │  │  E
+    │     ║                           │METALLICO   │  │  S
+    │     ║                           │(4 cassetti)│  │  T
+    │     ║                           └────────────┘  │
+    │     ║                                           │
+    │     ║    ┌────────────────────────────────┐      │
+    │     ║    │           SCRIVANIA            │      │
+    │     ║    │         (REP-001)              │      │
+    │     ║    │                                │      │
+    │     ║    │  [REP-003]    [REP-002]        │      │
+    │     ║    │  iPhone       MacBook Pro      │      │
+    │     ║    │               (aperto)         │      │
+    │     ║    │  [REP-004]                     │      │
+    │     ║    │  Penna Montblanc               │      │
+    │     ║    │  (cappuccio aperto)            │      │
+    │     ║    │                                │      │
+    │     ║    │         ╔══════════╗           │      │
+    │     ║    │         ║  CORPO   ║           │      │
+    │     ║    │         ║  VITTIMA ║           │      │
+    │     ║    │         ║(accascia-║           │      │
+    │     ║    │         ║ to in    ║           │      │
+    │     ║    │         ║ avanti)  ║           │      │
+    │     ║    │         ╚══════════╝           │      │
+    │     ║    │    [POLTRONA IN PELLE]         │      │
+    │     ║    └────────────────────────────────┘      │
+    │     ║                                           │
+    │     ║         [REP-006] Posacenere              │
+    │     ║         [REP-005] Sigaro                  │
+    │     ║         ┌─────────────────────────────┐   │
+    │     ║         │     DAVANZALE FINESTRA      │   │
+    │     ║         ╞═════════════════════════════╡   │
+    │     ║         │  ▓▓▓▓ FINESTRA ▓▓▓▓▓▓▓▓▓▓  │   │
+    │     ║         │  (REP-008)                  │   │
+    │     ║         │  Aperta 5 cm (anta destra)  │   │
+    │     ║         └─────────────────────────────┘   │
+    │                                                 │
+    └─────────────────────────────────────────────────┘
+                    PARETE SUD (Via Zamboni)
+
+    POSIZIONE DEL CORPO: Prof. Marini trovato accasciato in avanti
+    sulla scrivania, testa appoggiata sulle braccia/documenti,
+    seduto sulla poltrona in pelle. Posizione compatibile con
+    malore improvviso durante il lavoro.
+
+    NOTA: NESSUNA TAZZINA DI CAFFÈ PRESENTE NELLO STUDIO
+```
+
+---
+
+## 4. DETTAGLIO — CUCINA DEL DIPARTIMENTO (1° PIANO)
+
+```
+    Dimensioni: circa 3m x 4m (~12 mq)
+
+    ┌──────────────────────────────────────────┐
+    │              CUCINA DIPARTIMENTO          │
+    │                                          │
+    │  [PORTA]                                 │
+    │  ╔════╗                                  │
+    │  ╚══╦═╝                                  │
+    │     ║                                    │
+    │     ║    ┌───────────┐  ┌──────────────┐ │
+    │     ║    │           │  │              │ │
+    │     ║    │  FRIGO-   │  │  MICROONDE   │ │
+    │     ║    │  RIFERO   │  │              │ │
+    │     ║    │           │  └──────────────┘ │
+    │     ║    └───────────┘                   │
+    │     ║                                    │
+    │     ║    ┌──────────────────────────────┐ │
+    │     ║    │      PIANO DI LAVORO        │ │
+    │     ║    │                              │ │
+    │     ║    │  ┌──────┐  ┌─────────────┐  │ │
+    │     ║    │  │LAVAND│  │  PIANO      │  │ │
+    │     ║    │  │ INO  │  │  COTTURA    │  │ │
+    │     ║    │  │      │  │             │  │ │
+    │     ║    │  │REP-  │  │  ★ REP-009  │  │ │
+    │     ║    │  │011   │  │  Moka "RM"  │  │ │
+    │     ║    │  │(sifo-│  │  (sul forne-│  │ │
+    │     ║    │  │ ne)  │  │   llo ant.  │  │ │
+    │     ║    │  │      │  │   sinistro) │  │ │
+    │     ║    │  └──────┘  └─────────────┘  │ │
+    │     ║    │                              │ │
+    │     ║    │  [Detersivo] [Spugna]        │ │
+    │     ║    │  [Barattolo caffè Illy]      │ │
+    │     ║    │  [Zuccheriera]               │ │
+    │     ║    └──────────────────────────────┘ │
+    │     ║                                    │
+    │     ║    ┌──────────────────────────────┐ │
+    │     ║    │      CREDENZA A MURO        │ │
+    │     ║    │                              │ │
+    │     ║    │  Ripiano sup: bicchieri      │ │
+    │     ║    │                              │ │
+    │     ║    │  ★ Ripiano 2: REP-010       │ │
+    │     ║    │    6 tazzine espresso        │ │
+    │     ║    │    6 piattini                │ │
+    │     ║    │    2 cucchiaini              │ │
+    │     ║    │    (TUTTE PULITE E ASCIUTTE) │ │
+    │     ║    │                              │ │
+    │     ║    │  Ripiano inf: piatti, tazze  │ │
+    │     ║    └──────────────────────────────┘ │
+    │     ║                                    │
+    │     ║    ┌──────────────────────────────┐ │
+    │     ║    │  SCAFFALE MOKA              │ │
+    │     ║    │                              │ │
+    │     ║    │  4 moka varie dimensioni     │ │
+    │     ║    │  (1tz, 2tz, 6tz, 6tz)       │ │
+    │     ║    │  TUTTE ASCIUTTE E IMPOLVERATE│ │
+    │     ║    └──────────────────────────────┘ │
+    │                                          │
+    └──────────────────────────────────────────┘
+
+    ★ = Reperti critici
+
+    NOTA: La moka "RM" (REP-009) era sul piano cottura,
+    NON sullo scaffale con le altre. Ancora UMIDA all'interno.
+    Tracce di DIGOSSINA nel sifone del lavandino (REP-011).
+```
+
+---
+
+## 5. PERCORSI E DISTANZE INTERNE
+
+### Percorso dell'assassina (ricostruito):
+
+```
+    PORTA SERVIZIO [B]     Scala interna      CUCINA 1° piano
+    (Piano Terra)    ──────────────────────>   (preparazione caffè)
+         Badge 22:55       ~30 secondi              ~10 minuti
+                                              (prepara moka, scioglie
+                                               digossina, attende
+                                               ebollizione, versa)
+                              │
+                              │  Scala principale
+                              │  ~30 secondi
+                              ▼
+                        STUDIO 204 — 2° piano
+                        (consegna caffè a Marini)
+                              ~10-15 minuti
+                        (conversazione breve,
+                         Marini beve il caffè,
+                         Elena recupera tazzina)
+                              │
+                              │  Scala principale
+                              │  ~30 secondi
+                              ▼
+                        CUCINA 1° piano
+                        (lava tazzina + moka,
+                         ripone tazzina in credenza,
+                         posa moka su piano cottura)
+                              ~5 minuti
+                              │
+                              │  Scala interna
+                              │  ~30 secondi
+                              ▼
+                        PORTA SERVIZIO [B]
+                        (uscita con maniglione
+                         antipanico — no badge,
+                         no registrazione, no camera)
+
+    TEMPO TOTALE STIMATO NELL'EDIFICIO: ~25-30 minuti (22:55 — ~23:25)
+```
+
+### Distanze chiave:
+
+| Da | A | Distanza | Tempo a piedi |
+|----|---|----------|---------------|
+| Porta servizio [B] | Cucina (1° piano, scala interna) | ~40 m (1 rampa di scale) | ~1 minuto |
+| Cucina (1° piano) | Studio 204 (2° piano, scala principale) | ~50 m (1 rampa + corridoio) | ~1,5 minuti |
+| Studio 204 | Cucina (1° piano) | ~50 m (1 rampa + corridoio) | ~1,5 minuti |
+| Cucina | Porta servizio [B] (scala interna) | ~40 m (1 rampa) | ~1 minuto |
+| Porta servizio [B] | Parcheggio Via Belle Arti (esterno) | ~300 m | ~4 minuti |
+| Parcheggio Conti (Via Zamboni) | Porta servizio [B] | ~50 m | Visibilità diretta (con limitazioni notturne) |
+| Palazzo Scarani | Piazza Verdi | ~200 m | ~3 minuti |
+| Palazzo Scarani | Archivi Via Belle Arti 42 | ~400 m | ~5 minuti |
+
+---
+
+## 6. LEGENDA DEI MARCATORI DI PROVA
+
+| Marcatore | Reperto | Posizione | Rilevanza |
+|-----------|---------|-----------|-----------|
+| REP-001 | Scrivania | Studio 204 | Assenza tazzina |
+| REP-002 | MacBook Pro | Studio 204, scrivania | File cancellati, timeline |
+| REP-003 | iPhone 15 Pro | Studio 204, scrivania | Messaggi WhatsApp |
+| REP-004 | Penna Montblanc | Studio 204, scrivania | Interruzione improvvisa |
+| REP-005 | Sigaro toscano | Studio 204, davanzale | Tempo di fumata, spegnimento naturale |
+| REP-006 | Posacenere | Studio 204, davanzale | Conferma abitudini |
+| REP-007 | Chiavistello porta | Studio 204, porta | Chiuso dall'interno |
+| REP-008 | Finestra | Studio 204, parete ovest | Aperta 5 cm |
+| REP-009 | Moka "RM" | Cucina 1° piano, piano cottura | **UMIDA — uso recente** |
+| REP-010 | 6 tazzine | Cucina 1° piano, credenza | **Tutte pulite — tazzina usata lavata** |
+| REP-011 | Sifone lavandino | Cucina 1° piano, sotto lavandino | **DIGOSSINA 0,003 mg/mL** |
+| REP-012 | Impronte digitali | Studio 204, varie superfici | Marini, Bruni (fresche), Valdi (vecchie) |
+| REP-013 | Porta servizio | Piano terra, lato Via delle Moline | Punto di accesso assassina |
+
+---
+
+## 7. TELECAMERE DI SORVEGLIANZA
+
+```
+    VIA ZAMBONI
+    ════════════════════════════════════════
+         │
+    [A]──┤  📷 CAM-01: Ingresso principale
+         │           (Hikvision 4MP, IR notturno)
+         │           Copre: atrio, porta, marciapiede
+         │           ✓ FUNZIONANTE
+         │
+         │           . . .
+         │
+         │
+    [B]──┤  ⚠ NESSUNA TELECAMERA
+         │           Porta servizio laterale
+         │           ✗ NON INSTALLATA
+         │           (segnalata come criticità
+         │            nel rapporto sicurezza 2023)
+         │
+    ════════════════════════════════════════
+
+    TELECAMERE ESTERNE (Comune di Bologna):
+    📷 Via Zamboni / Via Belle Arti — cattura parcheggio BMW Conti
+    📷 Piazza Verdi — cattura figure compatibili Moretti/Rossi
+```
+
+---
+
+**Documento redatto da:**
+
+Sov. Capo Marco Trevisan — Polizia Scientifica, Gabinetto Regionale Emilia-Romagna
+
+---
+
+*Procura della Repubblica presso il Tribunale di Bologna*
+*Proc. N. 2025/1847 — Fascicolo "Cattedra Vuota"*
+*Documento classificato: RISERVATO — Atti d'indagine*
+*Allegati: planimetrie catastali originali (Catasto di Bologna, fg. 172, part. 89)*
