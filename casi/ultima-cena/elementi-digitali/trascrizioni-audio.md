@@ -80,14 +80,6 @@ Ogni trascrizione riporta: intestazione ufficiale, dati tecnici della registrazi
 
 ---
 
-**NOTE INVESTIGATIVE:**
-- La frase "Se ci togli la seconda stella, me la paghi. Non sai con chi hai a che fare" e stata acquisita come potenziale elemento indiziario.
-- L'invito a cena menzionato da Pellegrini corrisponde alla serata dell'8 marzo 2025, confermato da successive comunicazioni via email.
-- Il tono minaccioso di Pellegrini e stato valutato dagli inquirenti. Si noti tuttavia che la minaccia e di natura generica e non fa riferimento a violenza fisica o azioni specifiche contro la vittima.
-- Pellegrini risulta avere debiti bancari significativi legati alla ristrutturazione del locale (mutuo residuo: 380.000 euro).
-
----
-
 ## Audio 2: Messaggio vocale di Ilaria Mura a Sara Ferretti
 
 **Classificazione:** Messaggio vocale acquisito da dispositivo mobile (WhatsApp)
@@ -118,7 +110,7 @@ Non ne posso piu. Tre anni della mia vita buttati via per quell'uomo. Tre anni. 
 
 *(pausa di 4 secondi, respiro profondo)*
 
-E adesso rivuole anche i soldi. Ottantacinquemila euro. Me li ha prestati quando stavamo insieme, per il corso a Bordeaux e per l'affitto. E adesso il suo avvocato mi ha mandato una lettera. Ottantacinquemila euro che non ho. Che non avro mai. E lui lo sa.
+E adesso rivuole anche i soldi. Sessantottomila euro. Me li ha prestati quando stavamo insieme, per il corso a Bordeaux e per l'affitto. E adesso il suo avvocato mi ha mandato una lettera. Sessantottomila euro che non ho. Che non avro mai. E lui lo sa.
 
 *(voce piu bassa, quasi un sussurro)*
 
@@ -129,16 +121,6 @@ Sabato sera lo guardo in faccia e gli servo il Barolo con il sorriso. Perche que
 Scusami, Sara. Avevo bisogno di sfogarmi. Ci vediamo domenica per il pranzo, se ti va. Un bacio.
 
 **[FINE MESSAGGIO VOCALE -- 23:24:02]**
-
----
-
-**NOTE INVESTIGATIVE:**
-- Il messaggio vocale e stato trovato sul dispositivo della Mura durante l'analisi forense post-sequestro.
-- Sara Ferretti, ascoltata come persona informata sui fatti il 10 marzo 2025, ha confermato di aver ricevuto il messaggio e di aver percepito Ilaria come "molto provata, arrabbiata, ma non al punto da fare qualcosa di grave."
-- Il riferimento ai "tre anni" corrisponde alla durata della relazione tra Ilaria Mura e Massimo Fontana (2019-2022), confermata da entrambe le parti.
-- La lettera dell'avvocato menzionata dalla Mura e stata acquisita agli atti (rif. DOC-2025-PR-00156): studio legale Bernardi & Associati, datata 15 febbraio 2025, in cui si intima la restituzione di 68.000 euro entro 60 giorni.
-- Il dettaglio "gli servo il Barolo" conferma che Ilaria era assegnata al servizio del tavolo di Fontana la sera dell'8 marzo.
-- L'espressione "Non ne posso piu" e il tono complessivo del messaggio evidenziano uno stato di forte pressione emotiva nei giorni precedenti al fatto.
 
 ---
 
@@ -215,17 +197,6 @@ Scusami, Sara. Avevo bisogno di sfogarmi. Ci vediamo domenica per il pranzo, se 
 **COLOMBO:** Grazie... grazie...
 
 **[FINE REGISTRAZIONE -- 22:13:18]**
-
----
-
-**NOTE INVESTIGATIVE:**
-- L'ambulanza del 118 e giunta sul posto alle 22:14. Il personale sanitario ha praticato la somministrazione di adrenalina intramuscolo e le manovre di rianimazione, senza successo.
-- Il decesso di Massimo Fontana e stato constatato alle 22:38 dal medico del 118, Dott.ssa Paola Ricci.
-- Il Dott. Sergio Mancini, medico personale di Fontana presente come ospite alla cena, ha tentato un intervento di primo soccorso tra le 22:10 e le 22:14, inclusa la RCP.
-- La voce femminile che dichiara di non aver trovato l'EpiPen nella giacca e stata identificata come Lucia Ferretti, cameriera del ristorante.
-- Franco Colombo ha dichiarato di non essersi allontanato dal tavolo di Fontana dal momento del malore fino all'arrivo dei soccorsi.
-- La dichiarazione di Colombo "Non usiamo arachidi" e confermata dalla carta del ristorante e dai fornitori abituali. L'origine dell'olio di arachidi trovato nel piatto resta il fulcro dell'indagine.
-- L'assenza dell'EpiPen dalla giacca di Fontana e un elemento investigativo rilevante: secondo la figlia Claudia, il padre lo portava sempre con se. L'autoiniettore e stato successivamente ritrovato nella borsa della vittima, lasciata in auto.
 
 ---
 

@@ -17,7 +17,7 @@ Il quaderno contiene annotazioni manoscritte in inchiostro blu e nero, con alcun
 
 ## 3 dicembre 2024
 
-Oggi ho scoperto che Massimo ha parlato con l'avvocato. Non per una questione qualsiasi. Per me. Vuole indietro i soldi. Tutti gli 85mila euro. Quelli che mi aveva dato sorridendo, dicendomi "questo e il nostro sogno, Ilaria. La Vigna sara il nostro posto".
+Oggi ho scoperto che Massimo ha parlato con l'avvocato. Non per una questione qualsiasi. Per me. Vuole indietro i soldi. Tutti i 68mila euro. Quelli che mi aveva dato sorridendo, dicendomi "questo e il nostro sogno, Ilaria. La Vigna sara il nostro posto".
 
 Il nostro sogno. Le sue parole. E adesso che non sono piu "la sua Ilaria" ma solo "quella sommelier", rivuole tutto.
 
@@ -115,9 +115,7 @@ Ho pensato a lungo in questi giorni. A quello che posso fare. A quello che devo 
 
 Non si puo ragionare con un uomo come Massimo. Non lo conosce nessuno come lo conosco io. Dietro il sorriso affabile, dietro il palato sopraffino, c'e un uomo che gode nel controllare le vite degli altri. Che decide chi sale e chi scende. Che gioca con le carriere come un bambino con i soldatini.
 
-L'allergia alle arachidi. Ne parlavamo spesso. Era la sua unica debolezza, l'unica cosa che lo spaventava davvero. "Se mangio anche solo una traccia, ho dieci minuti", diceva. "Per questo porto sempre l'EpiPen." E si toccava la tasca della giacca, come un tic nervoso.
-
-Dieci minuti. L'EpiPen nella tasca destra della giacca.
+L'allergia alle arachidi. Ne parlavamo spesso. Era la sua unica debolezza, l'unica cosa che lo spaventava davvero. Portava sempre l'autoiniettore con se, nella giacca. Un uomo che controlla tutto, terrorizzato da qualcosa di cosi piccolo.
 
 Non so perche ho scritto questo. Forse perche stasera ho bevuto troppo. Forse perche certi pensieri hanno bisogno di uscire, anche solo su carta.
 
@@ -125,15 +123,13 @@ Non so perche ho scritto questo. Forse perche stasera ho bevuto troppo. Forse pe
 
 ## 2 marzo 2025
 
-L'unico modo per fermare un uomo come lui e togliergli il potere. Definitivamente.
-
 Non posso restituire 68.000 euro. Non posso impedire l'uscita della Guida. Non posso cancellare quell'email a La Lanterna. Non posso tornare indietro nel tempo e non innamorarmi di lui.
 
-Ma posso fare una cosa. Posso assicurarmi che sabato 8 marzo sia l'ultima sera in cui Massimo Fontana giudica qualcuno.
+Ma non posso nemmeno continuare cosi. Qualcosa deve cambiare. Qualcosa cambiera.
 
-Ho deciso. E strano, ma mi sento calma. Come quando apri una bottiglia perfetta e sai, dal primo profumo, che sara straordinaria. Quella certezza. Quella pace.
+E strano, ma mi sento calma. Come quando apri una bottiglia perfetta e sai, dal primo profumo, che sara straordinaria. Quella certezza. Quella pace.
 
-Sabato saro impeccabile. Il servizio migliore della mia vita. L'ultimo che conta.
+Sabato saro impeccabile. Il servizio migliore della mia vita.
 
 ---
 
@@ -141,11 +137,9 @@ Sabato saro impeccabile. Il servizio migliore della mia vita. L'ultimo che conta
 
 Ho studiato il menu che Rizzoli ha preparato per sabato. Antipasto di astice, risotto alla parmigiana con tartufo nero, filetto di Fassona, dessert al cioccolato. Per i vini: Champagne Krug per l'aperitivo, Barbaresco per l'astice, Barolo Riserva 2015 per il risotto, Moscato d'Asti per il dessert.
 
-Il risotto. E il momento perfetto. Il Barolo viene servito appena prima, la complessita del piatto copre qualsiasi sfumatura. E io saro quella che porta il piatto dal corridoio della cantina alla sala. Come sempre.
+Conosco a memoria il percorso dalla cantina alla sala. Conosco ogni piatto, ogni abbinamento, ogni secondo della serata. Conosco Massimo. Le sue abitudini, le sue debolezze, le cose che non cambiera mai.
 
-Devo stare attenta all'EpiPen. Se lo raggiunge in tempo, sopravvive. Ma Massimo appende sempre la giacca all'ingresso quando entra in una sala privata. "Non si sta a tavola con la giacca", dice sempre. E l'appendiabiti della Sala Leonardo e lontano dal tavolo. Almeno cinque, sei metri.
-
-Basta poco. Poche gocce. Nel risotto, mescolate al brodo e al Parmigiano. Nessuno sentira la differenza. Nessuno vedra nulla.
+Tre anni a osservare un uomo da vicino insegnano cose che non si dimenticano.
 
 ---
 
@@ -153,39 +147,13 @@ Basta poco. Poche gocce. Nel risotto, mescolate al brodo e al Parmigiano. Nessun
 
 Domani sera.
 
-Ho preparato tutto. La bottiglia e nella mia borsa, avvolta in un foulard di seta. Domattina la porto in cantina, la nascondo dietro le casse di Barolo, nello scaffale in fondo. La prendo quando salgo con i piatti.
+Ho preparato tutto. Il vestito nero, il Chanel che ho comprato oggi, il cavatappi Laguiole lucidato. Tutto impeccabile.
 
-Domani sara perfetta. Il vestito nero, il Chanel che ho comprato oggi, il cavatappi Laguiole lucidato. Tutto impeccabile. L'ultimo servizio della sommelier Ilaria Mura.
+Non ho paura. Non ho rimorsi. Qualunque cosa succeda domani, succede perche doveva succedere.
 
-Non ho paura. Non ho rimorsi. Un uomo che usa il suo potere per distruggere le persone che ha amato non merita pieta. Merita giustizia.
-
-Domani, alla sua ultima cena, il grande critico assaggera l'unico piatto che non ha mai recensito.
+Domani sara perfetta.
 
 ---
-
-## NOTA INVESTIGATIVA
-
-**Redatta da:** Ispettore Capo Lorenzo De Santis
-**Data:** 15 marzo 2025
-
-### Analisi del diario - Elementi di rilievo:
-
-Il diario personale della Sig.ra Ilaria Mura costituisce un elemento probatorio di eccezionale rilevanza, documentando in modo dettagliato:
-
-1. **L'evoluzione del movente:** Le annotazioni mostrano una progressione dal sentimento di tradimento e disperazione (dicembre 2024) alla determinazione omicida (marzo 2025), passando per la scoperta della distruzione professionale (febbraio 2025).
-
-2. **La premeditazione:** L'annotazione del **2 marzo 2025** ("L'unico modo per fermare un uomo come lui e togliergli il potere. Definitivamente.") e quella del **5 marzo 2025** (descrizione dettagliata del piano) documentano una premeditazione di almeno sei giorni.
-
-3. **La conoscenza dell'allergia:** L'annotazione del 25 febbraio 2025 dimostra che la Mura conosceva perfettamente la gravita dell'allergia del Fontana alle arachidi, i tempi di reazione ("dieci minuti") e la posizione dell'autoiniettore di adrenalina ("tasca destra della giacca").
-
-4. **Il piano operativo:** L'annotazione del 5 marzo descrive con precisione il momento scelto per la contaminazione (il risotto), la copertura organolettica ("la complessita del piatto copre qualsiasi sfumatura"), il ruolo della Mura nel trasporto del piatto dalla cucina alla sala, e la strategia relativa all'EpiPen.
-
-5. **Le pagine mancanti (pagg. 34-35):** Corrispondono cronologicamente al periodo 26-28 febbraio 2025. Sono state strappate. Non e possibile stabilire quando e da chi.
-
-6. **Valore probatorio:** Il diario, unitamente alle prove digitali (acquisto olio di arachidi, messaggi WhatsApp), configura un quadro indiziario grave, preciso e concordante ai sensi dell'art. 192 c.p.p.
-
-### AVVERTENZA:
-La Sig.ra Mura, tramite il suo difensore Avv. Laura Costa, ha contestato l'autenticita delle annotazioni successive al 22 febbraio 2025, sostenendo che il diario potrebbe essere stato alterato. La perizia grafologica (Rif. n. 67/2025) ha tuttavia confermato che tutte le annotazioni sono state redatte dalla stessa mano, con la medesima penna (inchiostro Parker Quink Blu), e non presentano segni di alterazione o sovrascrittura.
 
 ---
 

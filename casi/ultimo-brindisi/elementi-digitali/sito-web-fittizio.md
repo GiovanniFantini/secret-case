@@ -36,8 +36,6 @@ La nostra missione è semplice: portare nelle case e nei ristoranti italiani vin
 
 Presso la nostra sede operativa a **Scandicci (FI)**, disponiamo di un **laboratorio enologico attrezzato** per il controllo qualità di ogni partita. Analisi chimiche, degustazioni comparative e certificazioni sono parte integrante del nostro processo.
 
-> *Dettaglio investigativo nascosto:* Il laboratorio è dotato di pressa da imbottigliamento, capsulatrice e tutti gli strumenti necessari per l'imbottigliamento professionale. Queste attrezzature sono necessarie per "il controllo qualità", ma sono le stesse che permetterebbero di ri-tappare una bottiglia in modo professionale.
-
 ### Il Team
 
 - **Marco Ferretti** — Co-fondatore e Direttore Editoriale. Il palato che guida le nostre scelte.
@@ -70,8 +68,6 @@ Presso la nostra sede operativa a **Scandicci (FI)**, disponiamo di un **laborat
 | Pinot Noir, Domaine Lefèvre, Borgogna | 2020 | €35,00 |
 | Châteauneuf-du-Pape, Clos des Vignes | 2019 | €28,00 |
 
-> *Dettaglio investigativo nascosto:* I prezzi della "Selezione Toscana" sono sistematicamente **30-40% inferiori** alla media di mercato per vini di quelle denominazioni e annate. Questo è coerente con un prodotto di qualità inferiore venduto con etichette prestigiose. Un esperto (o un giocatore attento) noterebbe l'anomalia.
-
 ---
 
 ## Pagina 4 — Contatti
@@ -87,18 +83,6 @@ Presso la nostra sede operativa a **Scandicci (FI)**, disponiamo di un **laborat
 | P.IVA | 06789012340 |
 
 **Orari:** Lun-Ven 9:00-18:00
-
-> *Dettaglio investigativo nascosto:* La sede operativa (laboratorio) è a **Scandicci** — la stessa zona dove ha sede **ChemLab Toscana S.r.l.** (Via dell'Industria 12, Scandicci), il fornitore del metanolo. Le due aziende si trovano nella stessa via, a pochi numeri civici di distanza.
-
----
-
-## Riepilogo Indizi per Pagina
-
-| Pagina | Indizio | Difficoltà |
-|--------|---------|------------|
-| Chi Siamo | Laboratorio attrezzato con pressa da imbottigliamento | Media |
-| Catalogo | Prezzi 30-40% sotto mercato (coerente con contraffazione) | Difficile |
-| Contatti | Sede operativa a Scandicci, stessa via di ChemLab Toscana | Difficile |
 
 ---
 

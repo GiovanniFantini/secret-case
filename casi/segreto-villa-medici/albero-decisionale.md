@@ -132,11 +132,13 @@ La Contessa e la **falsa pista principale** del caso: il sospettato piu ovvio, p
 
 Eccellente lavoro investigativo. Il Dott. Lorenzo Bassi e il colpevole. Le prove chiave che avrebbero dovuto condurti a lui:
 
-- Le **telecamere di sicurezza** lo riprendono in biblioteca dalle 23:15 alle 23:48, nell'ora della morte.
-- E l'**unico sospettato senza alibi verificabile** da terzi.
-- Il **messaggio WhatsApp** "Il vecchio sa tutto. Devo risolvere stasera" dimostra la premeditazione.
-- I **risultati dell'analisi UV** rivelano i pigmenti sintetici moderni, collegando i falsi alla sua attivita.
-- Le **annotazioni nel diario di Maldini** indicavano gia i sospetti verso Bassi.
+- Le **telecamere di sicurezza (CAM-03)** mostrano che è uscito dalla stanza alle 23:15 e rientrato alle 23:49 — 34 minuti non giustificati durante la finestra della morte, nonostante abbia dichiarato di non essersi mosso.
+- La **figura in giacca scura** ripresa da CAM-02 alle 23:48 nel corridoio, proveniente dalla biblioteca, è compatibile con la sua corporatura.
+- I **messaggi WhatsApp cancellati** (23:42-23:55) e il frammento "preso tutto" suggeriscono la sottrazione delle prove.
+- Il messaggio "**Devo parlargli stasera**" colloca un appuntamento notturno con la vittima.
+- I **risultati dell'analisi UV** rivelano i pigmenti sintetici moderni, collegando i falsi alla sua attività.
+- Le **annotazioni nel diario di Maldini** indicavano i sospetti verso Bassi.
+- La **borsa alle 05:45** (esce con borsa, rientra senza) suggerisce occultamento di prove.
 
 **Punteggio per questa domanda: 1 punto.**
 </details>
@@ -433,7 +435,7 @@ Sommate i punti ottenuti nelle tre domande:
 
 | Domanda | Risposta Corretta | Spiegazione Sintetica |
 |---------|-------------------|-----------------------|
-| **1. Chi?** | **(b) Dott. Lorenzo Bassi** | Telecamere lo collocano in biblioteca 23:15-23:48. Unico senza alibi. Messaggio WhatsApp premeditazione. |
+| **1. Chi?** | **(b) Dott. Lorenzo Bassi** | CAM-03 lo colloca fuori dalla stanza 23:15-23:49. Figura compatibile alle 23:48 da biblioteca. WhatsApp cancellati + "preso tutto". Unico senza alibi. |
 | **2. Perché?** | **(c) Coprire falsificazione artistica** | Operazione triennale di falsi smascherata dall'analisi UV di Maldini. Rischiava carcere e rovina. |
 | **3. Come?** | **(c) Fermalibri di bronzo + inscenamento caduta** | Colpo alla testa con fermalibri di Atena (3,2 kg). Angolo ferita incompatibile con caduta. Laptop sottratto. |
 

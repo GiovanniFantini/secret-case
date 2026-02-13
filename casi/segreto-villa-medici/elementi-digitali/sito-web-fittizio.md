@@ -184,8 +184,6 @@ PIANO TERRA
 └──────────────────────────────────────────┘
 ```
 
-> **NOTA PER I GIOCATORI:** La disposizione delle stanze e importante per ricostruire gli spostamenti dei sospettati nella notte del 15 novembre. Osservate chi aveva accesso diretto alla scala che conduce alla biblioteca.
-
 **Nota sulla camera di Riccardo Farnese:** Riccardo Farnese, figlio della Contessa, non occupava una delle sei camere per gli ospiti. Disponeva di una propria stanza privata nell'ala dei proprietari al primo piano (ala est, oltre la Stanza del Conte), dove risiedeva saltuariamente. La sera del 15 novembre, tuttavia, Riccardo si trovava al bar del paese fino a tarda ora.
 
 ---

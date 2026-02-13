@@ -69,58 +69,45 @@ Il caso è ispirato da "Knives Out" - una famiglia ricca piena di segreti, tradi
 
 ## I Sospetti
 
-| Sospetto | Età | Relazione | Motivo Apparente | Alibi | Vero Ruolo |
-|----------|-----|-----------|---|---|---|
-| **Giulia Rossi** | 38 | Figlia | Eredità (350 M €) | Debole ❌ | ⚔️ **COLPEVOLE** |
-| Francesca Morelli | 34 | Moglie | Eredità (700 M €) | Forte ✓ | Innocente |
-| Marco Rossi | 45 | Figlio | Eredità (beneficio) | Forte ✓ | Innocente |
-| Dr. Santini | 55 | Medico | Denuncia imminente | Forte ✓ | Innocente |
-| Pietro Rossi | 22 | Nipote | Debiti di gioco | Debole ❌ | Innocente |
-| Sofia Bianchi | 29 | Chef | Perdita di lavoro | Forte ✓ | Innocente |
-| Vittoria Rossi | 75 | Sorella | Nessuno | Forte ✓ | Innocente |
-| Enrico Fermi | 62 | Avvocato | Nessuno | Forte ✓ | Innocente |
-| Thomas Mueller | 58 | Ospite | Rivalità commerciale | Forte ✓ | Innocente |
+| Sospetto | Età | Relazione | Motivo Apparente | Forza Alibi |
+|----------|-----|-----------|---|---|
+| **Giulia Rossi** | 38 | Figlia | Eredità (modifiche testamentarie) | Debole ❌ |
+| Francesca Morelli | 34 | Moglie | Eredità (700 M €) | Forte ✓ |
+| Marco Rossi | 45 | Figlio | Eredità e controllo aziendale | Forte ✓ |
+| Dr. Santini | 55 | Medico | Denuncia imminente | Forte ✓ |
+| Pietro Rossi | 22 | Nipote | Debiti di gioco | Debole ❌ |
+| Sofia Bianchi | 29 | Chef | Perdita di lavoro | Forte ✓ |
+| Vittoria Rossi | 75 | Sorella | Questioni eredità familiari | Forte ✓ |
+| Enrico Fermi | 62 | Avvocato | Interessi finanziari | Forte ✓ |
+| Thomas Mueller | 58 | Ospite | Rivalità commerciale | Forte ✓ |
 
 ---
 
-## Chiavi di Investigazione
+## Elementi Chiave dell'Investigazione
 
-### Indizi Diretti
-- **Video di sorveglianza**: Giulia in cucina alle 20:13 (4 minuti prima del servizio)
-- **Email di Fermi**: Modifica testamentaria specifica 350 milioni perduti
-- **Diario di Giulia**: Confessione completa con date e timeline
+### Tipi di Prove Disponibili
 
-### Indizi di Collegamento
-- **Messaggi WhatsApp**: "Se non faccio qualcosa, perderò tutto" (10 giugno)
-- **Ordine online**: Semi di ricino ordinati il 2 giugno da rete di Villa Rossi
-- **Estratti conto**: Acquisti sospetti (guanti, mascherina, VPN)
+- **Video di sorveglianza**: Registrazioni della sera del crimine con timeline completa
+- **Documenti finanziari**: Email, estratti conto, modifiche testamentarie
+- **Prove digitali**: Messaggi WhatsApp, ricerche online, ordini e-commerce
+- **Testimonianze**: Verbali di interrogatorio dei 6 sospetti principali
+- **Evidenze forensi**: Analisi tossicologiche, impronte, tracce biologiche
+- **Diari personali**: Annotazioni private di alcuni sospetti
 
-### Indizi Nascosti
-- **Cambio di abito**: Giulia indossa abiti diversi prima/dopo il crimine
-- **Testimonianza di Sofia**: Ricorda "una persona" passare in cucina alle 20:13
-- **Tracce biologiche**: Semi di ricino trovati in camera di Giulia e nel laboratorio di Andrea
+### Focus dell'Indagine
 
-### False Piste
-- **Francesca Morelli**: Motivo finanziario ovvio, ma alibi video inattaccabile
-- **Dr. Santini**: Accesso a veleni come medico, ma in cucina con Sofia durante il momento critico
-- **Pietro Rossi**: Disperato per soldi, ma troppo giovane e maldestro
+- **Motivo finanziario**: Chi aveva il maggior interesse economico nella morte di Andrea?
+- **Accesso e opportunità**: Chi aveva accesso al laboratorio privato e alla cucina?
+- **Timeline critica**: Ricostruire i movimenti di ogni sospetto nei momenti chiave
+- **Competenze tecniche**: Chi aveva le conoscenze per estrarre e usare ricina?
+- **Premeditazione**: Cercate prove di pianificazione anticipata
 
----
+### Sfide Investigative
 
-## Timeline Critica
-
-| Data | Evento |
-|------|--------|
-| 31 Maggio | Giulia scopre della modifica testamentaria (-350M €) |
-| 2 Giugno | Giulia ordina semi di ricino online |
-| 5 Giugno | Semina consegnati |
-| 5-12 Giugno | Giulia estrae ricina nel laboratorio di Andrea |
-| 13 Giugno | Test su topo (muore in 23 minuti) |
-| 14 Giugno | Preparazione finale della ricina |
-| 15 Giugno 20:13 | Giulia aggiunge ricina al semifreddo in cucina |
-| 15 Giugno 20:15 | Sofia serve il dessert |
-| 15 Giugno 20:20 | Andrea mostra primi sintomi |
-| 15 Giugno 20:47 | Andrea muore (32 minuti dopo ingestione) |
+- **False piste credibili**: Diversi sospetti hanno motivi forti e alibi deboli
+- **Complessità finanziaria**: Le modifiche testamentarie coinvolgono cifre enormi
+- **Familiari conflittuali**: Tutti i membri della famiglia hanno tensioni con Andrea
+- **Timeline complessa**: Eventi sovrapposti e testimonianze contraddittorie
 
 ---
 
@@ -144,11 +131,11 @@ Il caso è ispirato da "Knives Out" - una famiglia ricca piena di segreti, tradi
 
 ## Consigli per il Game Master (se presente)
 
-1. **Tempi**: Se i giocatori si bloccan dopo 90 minuti sulla Domanda 1, suggerire di controllare il video di sorveglianza
-2. **False Piste**: Incoraggiare i giocatori a NOT scartare Francesca troppo presto
-3. **Numero Critico**: Enfatizzare che i 350 milioni sono il numero critico che identifica il colpevole
-4. **Premeditazione**: Mostrare come il diario documenta la pianificazione su 2 settimane
-5. **Chiusura**: Leggere lentamente lo Script di Narrazione Finale dopo la verifica
+1. **Gestione tempo**: Se i giocatori si bloccano oltre 90 minuti, suggerite di rivedere le testimonianze video
+2. **False piste**: Non indirizzate troppo presto verso o contro un sospetto specifico
+3. **Documenti chiave**: Incoraggiate l'analisi incrociata di documenti finanziari e timeline
+4. **Dettagli forensi**: I dettagli scientifici sono importanti ma non devono sopraffare l'indagine
+5. **Chiusura**: Leggete lo Script di Narrazione Finale dopo la verifica delle risposte
 
 ---
 
@@ -159,9 +146,9 @@ Il caso è ispirato da "Knives Out" - una famiglia ricca piena di segreti, tradi
 - **Prove Documentali**: 15+
 - **Documenti Investigativi**: 9+
 - **Elementi Digitali**: 5+
-- **Suggerimenti Progressivi**: 3 livelli x 3 domande = 9 suggerimenti
-- **Profondità Temporale**: 2 settimane di pianificazione + 1 notte di esecuzione
-- **Motivi Finanziari**: 350 milioni di euro (il numero critico)
+- **Suggerimenti Progressivi**: 3 livelli
+- **Durata stimata**: 3-4 ore
+- **Difficoltà**: Media-Alta
 
 ---
 
@@ -169,14 +156,20 @@ Il caso è ispirato da "Knives Out" - una famiglia ricca piena di segreti, tradi
 
 ### Ispirazioni
 - **Knives Out**: Famiglia ricca, sospetti multipli, denaro come motore
-- **Ambiente Luxury**: Villa sul Lago Como, miliardario, stile di vita sophisticato
+- **Ambiente Luxury**: Villa sul Lago Como, miliardario, stile di vita sofisticato
 - **Omicidio Sofisticato**: Veleno (vs arma), pianificazione (vs crimine d'impulso)
 
-### Tema Centrale
-Il caso esplora come il denaro corrode le relazioni familiari. Andrea ama il denaro più della famiglia. Giulia uccide per proteggere il denaro. Francesca seduce per il denaro. Marco vuole il controllo aziendale (potere finanziario). Il denaro è il vero colpevole - Andrea è solo una vittima della sua stessa avidità.
+### Temi Centrali
+- Il denaro e le dinamiche familiari
+- Eredità e conflitti generazionali
+- Apparenza vs realtà nelle famiglie ricche
+- Il costo della ricchezza sulle relazioni
 
-### Psicologia di Giulia
-Non è una criminale emotiva. Non ha ucciso per odio cieco. Ha ucciso per fredda razionalità finanziaria. Ha calcolato il costo-beneficio e ha scelto l'omicidio. Questo la rende più interessante (e spaventevole) che una vittima di impulso.
+### Caratteristiche del Caso
+- Non è un omicidio passionale ma calcolato
+- Richiede attenzione ai dettagli finanziari e temporali
+- Le prove forensi sono decisive ma non ovvie
+- La soluzione emerge dall'incrocio di più tipi di prove
 
 ---
 

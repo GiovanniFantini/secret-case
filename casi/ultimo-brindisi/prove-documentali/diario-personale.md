@@ -54,7 +54,7 @@
 
 > Ho scritto a Luca. L'articolo è quasi pronto. "Il più grande scandalo enologico degli ultimi vent'anni" — non esagero. Ci sono prove documentali, tracce bancarie, volumi di importazione. Sarà una bomba.
 
-> **Davide non è quello che sembra. Ho le prove.**
+> Davide non è quello che sembra. Ho le prove.
 
 ---
 
@@ -85,7 +85,3 @@
 > Ho chiamato Davide stasera per la spedizione dalla Borgogna. Tutto ok. Sembrava di buon umore. Forse troppo.
 
 > Domani chiamo Pellegrini per fissare l'appuntamento per il testamento. E la settimana prossima, l'articolo. Sta per cambiare tutto.
-
----
-
-> **NOTA PER I GIOCATORI:** Il diario riflette il punto di vista soggettivo della vittima. Le informazioni qui contenute vanno incrociate con le altre prove documentali per separare i fatti dalle impressioni personali.

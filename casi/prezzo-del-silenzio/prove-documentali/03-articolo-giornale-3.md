@@ -39,5 +39,3 @@ I familiari dei tre pazienti deceduti durante le sperimentazioni hanno appreso l
 Alla notizia dell'indagine, il titolo PharmaNova ha perso il **18%** nella seduta di lunedì, bruciando oltre 200 milioni di euro di capitalizzazione. La Consob ha disposto la sospensione cautelare delle contrattazioni.
 
 ---
-
-> **Nota per i giocatori:** Questo articolo rivela il quadro completo: l'inchiesta su PharmaNova è il cuore del caso. Ora sapete cosa stava scoprendo Ferraris e chi aveva più da perdere dalla pubblicazione. Collegate queste informazioni con gli interrogatori, le prove finanziarie e i dati digitali.

@@ -187,9 +187,6 @@
     └──────────────────────────────────────────────────────┘
 
     ★ CUCINA = Luogo di preparazione del caffè avvelenato
-    PERCORSO ASSASSINA: Porta servizio [B] → Scala interna → 1° piano
-                        → Cucina (preparazione caffè) → Scala principale
-                        → 2° piano → Studio 204
 ```
 
 ### SECONDO PIANO — STUDIO 204 (SCENA DEL CRIMINE)
@@ -379,46 +376,6 @@
 
 ## 5. PERCORSI E DISTANZE INTERNE
 
-### Percorso dell'assassina (ricostruito):
-
-```
-    PORTA SERVIZIO [B]     Scala interna      CUCINA 1° piano
-    (Piano Terra)    ──────────────────────>   (preparazione caffè)
-         Badge 22:55       ~30 secondi              ~10 minuti
-                                              (prepara moka, scioglie
-                                               digossina, attende
-                                               ebollizione, versa)
-                              │
-                              │  Scala principale
-                              │  ~30 secondi
-                              ▼
-                        STUDIO 204 — 2° piano
-                        (consegna caffè a Marini)
-                              ~10-15 minuti
-                        (conversazione breve,
-                         Marini beve il caffè,
-                         Elena recupera tazzina)
-                              │
-                              │  Scala principale
-                              │  ~30 secondi
-                              ▼
-                        CUCINA 1° piano
-                        (lava tazzina + moka,
-                         ripone tazzina in credenza,
-                         posa moka su piano cottura)
-                              ~5 minuti
-                              │
-                              │  Scala interna
-                              │  ~30 secondi
-                              ▼
-                        PORTA SERVIZIO [B]
-                        (uscita con maniglione
-                         antipanico — no badge,
-                         no registrazione, no camera)
-
-    TEMPO TOTALE STIMATO NELL'EDIFICIO: ~25-30 minuti (22:55 — ~23:25)
-```
-
 ### Distanze chiave:
 
 | Da | A | Distanza | Tempo a piedi |
@@ -450,7 +407,7 @@
 | REP-010 | 6 tazzine | Cucina 1° piano, credenza | **Tutte pulite — tazzina usata lavata** |
 | REP-011 | Sifone lavandino | Cucina 1° piano, sotto lavandino | **DIGOSSINA 0,003 mg/mL** |
 | REP-012 | Impronte digitali | Studio 204, varie superfici | Marini, Bruni (fresche), Valdi (vecchie) |
-| REP-013 | Porta servizio | Piano terra, lato Via delle Moline | Punto di accesso assassina |
+| REP-013 | Porta servizio | Piano terra, lato Via delle Moline | Punto di accesso non sorvegliato |
 
 ---
 

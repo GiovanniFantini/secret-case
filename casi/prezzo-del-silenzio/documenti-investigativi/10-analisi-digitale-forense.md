@@ -33,7 +33,7 @@
 | Durata scrittura | ~24 secondi |
 | Applicazione | TextEdit |
 
-> **DATO CRITICO:** Il file è stato creato alle **21:52**. Secondo il rapporto medico-legale, il midazolam (trovato nel sangue con concentrazione di 0,42 mg/L) provoca sedazione profonda entro 20-30 minuti dall'ingestione. Se la somministrazione è avvenuta tra le 21:00 e le 21:15, alle 21:52 la vittima sarebbe stata in stato di **sedazione profonda o incoscienza**, rendendo impossibile la scrittura volontaria di un testo.
+> **Nota dell'analista:** Il file è stato creato alle **21:52**. Secondo il rapporto medico-legale, il midazolam rilevato nel sangue (concentrazione 0,42 mg/L) provoca sedazione significativa entro 20-30 minuti dall'ingestione. Si rimanda alla relazione medico-legale per la valutazione dell'effettiva capacità cognitiva della vittima a quell'orario.
 
 ### Analisi stilistica della nota
 
@@ -78,7 +78,7 @@ I file sono stati cancellati tramite **svuotamento del Cestino** — operazione 
 
 ### Stato del dispositivo
 
-> **DATO CRITICO:** Il telefono è stato sottoposto a un **factory reset** (ripristino alle impostazioni di fabbrica). L'operazione è stata eseguita il **18/01/2025 alle 21:58** (timestamp rilevato dal sistema di gestione Apple). Questo ha cancellato tutti i dati: contatti, messaggi, foto, app, cronologia chiamate.
+> **Nota dell'analista:** Il telefono è stato sottoposto a un **factory reset** (ripristino alle impostazioni di fabbrica). L'operazione è stata eseguita il **18/01/2025 alle 21:58** (timestamp rilevato dal sistema di gestione Apple). Questo ha cancellato tutti i dati: contatti, messaggi, foto, app, cronologia chiamate.
 
 | Dato | Prima del reset | Dopo il reset |
 |------|-----------------|---------------|
@@ -116,7 +116,7 @@ Il backup contiene l'**intera cartella dell'inchiesta su PharmaNova**, sincroniz
 | `foto_documenti/` | 1,8 GB | Foto di documenti cartacei |
 | `note_investigative.txt` | 234 KB | Appunti e ipotesi di Ferraris |
 
-> **Nota per i giocatori:** L'assassino ha cancellato i file dal laptop e resettato il telefono. Ma non sapeva del backup automatico su Tresorit. L'inchiesta completa è sopravvissuta. Consultate il documento "Documenti inchiesta Ferraris" per il contenuto.
+> **Nota tecnica:** L'assassino ha cancellato i file dal laptop e resettato il telefono. Tuttavia, un backup automatico su piattaforma cloud ha preservato parte del materiale. Consultate il documento "Documenti inchiesta Ferraris" per il contenuto recuperato.
 
 ---
 
@@ -134,19 +134,18 @@ Su ordinanza del PM (N. 2025/1287), è stato analizzato il computer dell'ufficio
 
 | Data | Ora | Ricerca / URL | Browser |
 |------|-----|--------------|---------|
-| 03/01/2025 | 14:22 | "gunshot wound suicide angle temple" | Chrome |
-| 03/01/2025 | 14:35 | "self-inflicted gunshot wound forensic characteristics" | Chrome |
-| 08/01/2025 | 11:15 | "midazolam detection in post-mortem toxicology" | Chrome |
-| 08/01/2025 | 11:28 | "midazolam half-life blood concentration" | Chrome |
-| 08/01/2025 | 11:42 | "how long does midazolam cause sedation oral dose" | Chrome |
-| 12/01/2025 | 09:50 | "GSR gunshot residue pattern suicide vs homicide" | Chrome |
-| 12/01/2025 | 10:05 | "residui di sparo distribuzione mano suicidio" | Chrome |
-| 15/01/2025 | 16:30 | "factory reset iPhone remote delete data" | Chrome |
+| 03/01/2025 | 14:22 | "ferita arma da fuoco tempia angolo sparo" | Chrome |
+| 03/01/2025 | 14:35 | "suicidio arma da fuoco caratteristiche forensi" | Chrome |
+| 03/01/2025 | 15:10 | "regolamentazione sperimentazioni cliniche fase III Europa" | Chrome |
+| 08/01/2025 | 11:15 | "midazolam rilevamento tossicologia post mortem" | Chrome |
+| 08/01/2025 | 11:42 | "midazolam emivita sedazione dose orale" | Chrome |
+| 08/01/2025 | 14:30 | "farmacovigilanza segnalazione reazioni avverse AIFA normativa" | Chrome |
+| 12/01/2025 | 09:50 | "residui di sparo distribuzione mano suicidio omicidio differenze" | Chrome |
+| 15/01/2025 | 16:30 | "ripristino fabbrica iPhone eliminare tutti i dati" | Chrome |
 | 15/01/2025 | 16:45 | "come cancellare file Mac definitivamente" | Chrome |
+| 15/01/2025 | 17:10 | "data retention policy documenti aziendali GDPR" | Chrome |
 
-> **DATO CRITICO:** Le ricerche coprono un arco di due settimane (3-15 gennaio) e mostrano una **pianificazione sistematica**: studio dell'angolo di ferita per simulare un suicidio, farmacocinetica del midazolam come sedativo, distribuzione dei residui di sparo, e metodi per cancellare prove digitali. Le ricerche sono state effettuate in **lingua inglese** (probabilmente per evitare tracciamento in italiano) e in Chrome (browser non predefinito aziendale — l'azienda utilizza Edge).
-
-### Registro badge aziendale
+> **Nota dell'analista:** Le ricerche si concentrano su tre aree tematiche: balistica forense, farmacologia (midazolam) e cancellazione di dati digitali. Sono alternate a ricerche di natura aziendale/normativa (farmacovigilanza, data retention, sperimentazioni cliniche). Le ricerche sono state effettuate su Chrome, browser non predefinito aziendale (l'azienda utilizza Edge).
 
 | Data | Evento | Ora |
 |------|--------|-----|
@@ -160,15 +159,15 @@ Su ordinanza del PM (N. 2025/1287), è stato analizzato il computer dell'ufficio
 
 ## Conclusioni dell'Analista
 
-1. La nota di suicidio è stata scritta alle **21:52** — orario in cui la vittima era probabilmente già sotto l'effetto del midazolam. È stata scritta da **qualcun altro**.
+1. La nota di suicidio è stata creata alle **21:52** — la capacità cognitiva della vittima a quell'orario richiede valutazione alla luce dei risultati tossicologici.
 
-2. I file dell'inchiesta sono stati cancellati dal laptop alle **21:54** e il telefono è stato resettato alle **21:58** — operazioni eseguite dall'assassino dopo lo sparo.
+2. I file dell'inchiesta sono stati cancellati dal laptop alle **21:54** e il telefono è stato resettato alle **21:58** — operazioni in sequenza ravvicinata.
 
-3. Il backup cloud su Tresorit ha preservato l'intera inchiesta — l'assassino non ne era a conoscenza.
+3. Il backup cloud su Tresorit ha preservato l'intera cartella dell'inchiesta — l'autore della cancellazione non ne era a conoscenza.
 
-4. Il computer di lavoro di Andrea Ferro mostra ricerche **sistematiche e premeditate** su come simulare un suicidio, sull'uso del midazolam come sedativo e sulla cancellazione di prove digitali.
+4. Il computer aziendale del Dott. Andrea Ferro contiene ricerche su balistica forense, midazolam e cancellazione dati, alternate a ricerche di natura aziendale/normativa.
 
-5. Il badge aziendale di Ferro smentisce parzialmente la sua dichiarazione sull'orario di uscita dall'ufficio.
+5. Il badge aziendale di Ferro registra l'uscita alle 19:22, con una discrepanza rispetto alla dichiarazione.
 
 ---
 

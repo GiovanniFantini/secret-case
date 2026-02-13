@@ -50,20 +50,16 @@ L'analisi si basa sulla **localizzazione tramite celle telefoniche** (Cell-ID). 
 | Ora | Cella connessa | Zona coperta | Interpretazione |
 |-----|----------------|--------------|-----------------|
 | 08:15-19:20 | TO-CFR-007 | Corso Francia / Sede PharmaNova | In ufficio |
-| **19:22-19:40** | **TO-CFR-007 → TO-CEN-031** | **Corso Francia → Centro** | **In spostamento** |
-| **19:45-20:10** | **TO-CEN-031 → TO-CRO-015** | **Centro → zona Crocetta** | **In spostamento verso Crocetta** |
-| **20:50** | **TO-CRO-018** | **Via Principe Amedeo / Crocetta** | **NELLA ZONA DI FERRARIS** |
-| **21:00-22:05** | **TO-CRO-018** | **Via Principe Amedeo** | **STAZIONARIO — NELLA ZONA DI FERRARIS** |
-| **22:08** | **TO-CRO-018 → TO-SSA-009** | **Crocetta → San Salvario** | **In spostamento** |
-| **22:15** | **TO-SSA-009 → TO-CEN-025** | **San Salvario → Piazza Carignano** | **Direzione ristorante** |
+| 19:22-19:40 | TO-CFR-007 → TO-CEN-031 | Corso Francia → Centro | In spostamento |
+| 19:45-20:10 | TO-CEN-031 → TO-CRO-015 | Centro → zona Crocetta | In spostamento |
+| 20:50 | TO-CRO-018 | Via Principe Amedeo / Crocetta | Stazionario |
+| 21:00-22:05 | TO-CRO-018 | Via Principe Amedeo | Stazionario |
+| 22:08 | TO-CRO-018 → TO-SSA-009 | Crocetta → San Salvario | In spostamento |
+| 22:15 | TO-SSA-009 → TO-CEN-025 | San Salvario → Piazza Carignano | In spostamento |
 | 22:20-23:30 | TO-CEN-025 | Piazza Carignano / Il Cambio | Al ristorante |
 | 23:35 | TO-CEN-025 → TO-CGA-003 | Centro → Corso Galileo Ferraris | Rientro a casa |
 
-> **DATO CRITICO:** Il telefono di Ferro è connesso alla cella **TO-CRO-018** (zona Via Principe Amedeo / Crocetta) dalle **20:50 alle 22:05** — esattamente il periodo in cui l'assassino era nell'appartamento di Ferraris. Ferro dichiara di essere stato *"in ufficio in Corso Francia fino alle 19:45"* e poi *"al ristorante dalle 20:00-20:15"*. Il GPS smentisce entrambe le dichiarazioni:
->
-> 1. È uscito dall'ufficio alle 19:22 (confermato dal badge)
-> 2. Alle 20:50 era nella zona di Ferraris (non al ristorante)
-> 3. Alle 22:15 si sposta verso il ristorante (arriva alle 22:20)
+> **Nota dell'analista:** Il tracciato mostra uno spostamento dalla sede aziendale (Corso Francia) verso la zona Crocetta, con una sosta prolungata (20:50-22:05) nella zona coperta dalla cella TO-CRO-018, prima di un ulteriore spostamento verso Piazza Carignano. Si rileva una discrepanza tra l'orario di uscita dall'ufficio dichiarato ("verso le 19:45") e quello registrato dal badge aziendale (19:22).
 
 ---
 
@@ -124,13 +120,13 @@ L'analisi si basa sulla **localizzazione tramite celle telefoniche** (Cell-ID). 
 
 | Persona | Posizione GPS | Zona | Compatibilità con alibi |
 |---------|---------------|------|------------------------|
-| **Andrea Ferro** | **TO-CRO-018** | **Via Principe Amedeo** | **INCOMPATIBILE** — dichiara di essere al ristorante |
+| Andrea Ferro | TO-CRO-018 | Via Principe Amedeo | DA VERIFICARE — dichiara di essere al ristorante |
 | Sara Ferraris | TO-SSE-012 | Via San Secondo | COMPATIBILE |
 | Valentina Ferraris | TO-GAR-005 | Via Garibaldi | COMPATIBILE |
 | Vittorio Mazza | TO-VEM-003 | Corso V. Emanuele II | COMPATIBILE |
-| Paolo Baldini | TO-AUR-008 | Aurora / Borgo Dora | PARZIALMENTE COMPATIBILE |
+| Paolo Baldini | TO-AUR-008 | Aurora / Borgo Dora | DA VERIFICARE — assente dalla Questura |
 
-> **Nota per i giocatori:** Solo il telefono di Ferro si trova nella zona dell'appartamento di Ferraris durante il momento critico del delitto. Tutti gli altri sospetti sono altrove. Il GPS non mente.
+> **Nota dell'analista:** Le posizioni rilevate tramite celle telefoniche hanno un margine di imprecisione di 100-300 metri in area urbana. La cella TO-CRO-018 copre un'area che include diverse vie nella zona Crocetta.
 
 ---
 

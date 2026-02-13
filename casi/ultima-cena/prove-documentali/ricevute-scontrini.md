@@ -9,8 +9,6 @@
 
 ## RICEVUTA N. 1 - ORDINE ASIAMARKET.IT
 
-### *** ELEMENTO PROBATORIO CHIAVE ***
-
 ---
 
 ```
@@ -82,17 +80,6 @@ www.asiamarket.it | P.IVA 0345678901
 ============================================================
 ```
 
-### Nota investigativa:
-> **PROVA FONDAMENTALE.** La ricevuta documenta l'acquisto di olio di arachidi raffinato da parte della Sig.ra Ilaria Mura il 22 febbraio 2025, quattordici giorni prima della morte del Sig. Fontana. Elementi di rilievo:
->
-> 1. **L'indirizzo di spedizione** non corrisponde al domicilio della Mura ma a quello dell'amica Sara Ferretti (Via Verdi 15, Fidenza). Cio indica un deliberato tentativo di dissimulazione dell'acquisto.
-> 2. **Il pagamento** e stato effettuato con la carta PostePay n. **** 4821, intestata alla Mura, come confermato dall'estratto conto BancoPosta.
-> 3. **Il prodotto** - olio di arachidi puro al 100% - contiene la proteina allergenica (Ara h 1, Ara h 2) che ha causato la reazione anafilattica fatale nel Sig. Fontana.
-> 4. **La correlazione temporale** con il messaggio WhatsApp del 4 marzo 2025 ("posso usare il tuo indirizzo per una consegna?") conferma la premeditazione.
-> 5. La Sig.ra Ferretti ha dichiarato (verbale SIT del 12/03/2025) di aver ritirato il pacco e di averlo consegnato chiuso alla Mura il giorno stesso, senza conoscerne il contenuto.
->
-> Il prodotto (bottiglia in vetro da 250ml, marca Golden Dragon) **non e stato rinvenuto** presso il domicilio della Mura ne presso il ristorante. La Mura, interrogata sul punto, ha dichiarato di non ricordare tale acquisto.
-
 ---
 
 ## RICEVUTA N. 2 - CAVATAPPI PROFESSIONALE LAGUIOLE
@@ -135,9 +122,6 @@ Autorizzazione: OK
 Garanzia: 10 anni dalla data di acquisto
 ============================================================
 ```
-
-### Nota investigativa:
-> Il cavatappi professionale Laguiole "Grand Cru" con incisione "V. Mura - AIS" (Associazione Italiana Sommelier) e lo strumento professionale abitualmente utilizzato dalla Sig.ra Mura nel servizio al tavolo. Secondo le testimonianze raccolte, la Mura ha utilizzato questo cavatappi la sera dell'8 marzo 2025 per aprire le bottiglie di vino servite durante la cena. L'oggetto e stato sequestrato e sottoposto ad analisi: non sono state rinvenute tracce di olio di arachidi sulla lama o sulla spirale.
 
 ---
 
@@ -227,11 +211,6 @@ schede tecniche con indicazione completa degli allergeni.
 ============================================================
 ```
 
-### Nota investigativa:
-> **ELEMENTO RILEVANTE:** La fattura Metro relativa alla fornitura per la cena dell'8 marzo 2025 certifica espressamente l'**assenza di arachidi** tra gli ingredienti acquistati. La dichiarazione allergeni, conforme al Regolamento UE 1169/2011, esclude categoricamente la presenza di arachidi nella fornitura. Cio conferma che la contaminazione del piatto del Sig. Fontana non e avvenuta durante la preparazione in cucina con ingredienti regolari, ma e stata introdotta successivamente, in una fase del servizio successiva alla preparazione del risotto.
->
-> Lo chef Rizzoli ha inoltre esibito il registro HACCP del ristorante, che documenta controlli regolari sull'assenza di allergeni non dichiarati. L'ultima verifica e datata 7 marzo 2025.
-
 ---
 
 ## RICEVUTA N. 4 - FATTURA VINI PER LA CENA
@@ -275,9 +254,6 @@ SPEDIZIONE: Corriere refrigerato - Consegna 6 marzo 2025
 ============================================================
 ```
 
-### Nota investigativa:
-> La selezione dei vini per la cena e stata curata dalla Sig.ra Mura, come confermato dallo chef Rizzoli e dal Sig. Pellegrini. Il Barolo Riserva 2015 era il vino previsto per l'abbinamento con il risotto alla parmigiana con tartufo nero. La bottiglia servita al tavolo (Barolo Riserva 2015, bottiglia n. 2 su 3) e stata sequestrata e analizzata: non sono state rinvenute tracce di proteine di arachidi nel vino.
-
 ---
 
 ## RICEVUTA N. 5 - SCONTRINO BAR SPORT (MANCINI - POMERIGGIO 8 MARZO)
@@ -308,9 +284,6 @@ AUT: 78234
 ============================================================
 ```
 
-### Nota investigativa:
-> Lo scontrino colloca il Sig. Mancini presso il Bar Sport di Via Mazzini, Parma, alle ore 16:42 dell'8 marzo 2025, circa quattro ore prima della cena. Il consumo di due Negroni nel pomeriggio e coerente con le dichiarazioni dei testimoni circa lo stato di leggera ebbrezza del Mancini all'arrivo al ristorante (ore 20:15 circa). Il titolare del bar, Sig. Mario Colombo, ha confermato (verbale SIT del 13/03/2025) che il Mancini era un cliente occasionale e che quel pomeriggio "era seduto da solo, scriveva sul telefono e beveva. Sembrava nervoso."
-
 ---
 
 ## RICEVUTA N. 6 - SCONTRINO PROFUMERIA (MURA - 7 MARZO)
@@ -338,9 +311,6 @@ Carta BancoPosta: **** 4821
 AUT: 45678
 ============================================================
 ```
-
-### Nota investigativa:
-> Acquisto effettuato dalla Sig.ra Mura il giorno precedente la cena. La scelta di un profumo costoso (in rapporto alla sua situazione finanziaria) per la vigilia dell'evento puo essere indicativa della rilevanza che la Mura attribuiva alla serata dell'8 marzo. Da sola, la circostanza non ha valore probatorio, ma si inserisce nel quadro complessivo descritto nel diario personale (vd. annotazione del 7 marzo 2025: "Domani sara perfetta").
 
 ---
 

@@ -206,23 +206,4 @@ Da una stella a due. Meritatissime.
 
 ---
 
-## NOTA INVESTIGATIVA
-
-**Redatta da:** Ispettore Capo Lorenzo De Santis
-**Data:** 15 marzo 2025
-
-### Analisi della bozza - Elementi di rilievo:
-
-1. **Declassamento de Il Cenacolo d'Oro:** La scheda documenta il passaggio da 2 stelle a 1 stella, con una motivazione centrata in modo preponderante sul programma enologico della Mura. La critica e severa, specifica e nominale ("curato dalla sommelier Ilaria Mura"), una scelta editoriale inusuale per la Guida, che normalmente non menziona il personale di sala per nome nelle valutazioni negative.
-
-2. **Nota manoscritta a pagina 212:** L'annotazione "Bertoldi e l'esempio di cosa dovrebbe essere un sommelier oggi. L'opposto della Mura" conferma che il giudizio negativo sulla Mura era profondamente radicato e non limitato alla scheda del Cenacolo. Fontana la utilizzava come termine di paragone negativo.
-
-3. **Impatto economico del declassamento:** Come documentato nel contratto Pellegrini-Rizzoli (Art. 6 - Clausola di salvaguardia), la perdita della seconda stella avrebbe attivato il diritto di recesso del Pellegrini con restituzione di Euro 800.000. Il ristorante, gia sotto pressione finanziaria (vd. estratto conto Rizzoli), non avrebbe potuto sostenere tale restituzione.
-
-4. **La scheda de La Lanterna (Bologna):** Il ristorante a cui Fontana aveva sconsigliato l'assunzione della Mura (vd. email del 20/02/2025) riceve tre stelle e una nota entusiastica sul sommelier Federico Zanetti. Il contrasto con il giudizio sulla Mura e evidente e potrebbe aver amplificato il senso di ingiustizia e umiliazione della sommelier.
-
-5. **Luogo di rinvenimento:** La bozza era nella valigetta di Fontana, portata con se alla cena dell'8 marzo. E possibile che Fontana intendesse discutere le valutazioni della Guida durante la serata, o che volesse annunciare il declassamento agli interessati. Questa circostanza e coerente con l'affermazione di Fontana alla figlia ("Qualche sorpresa quest'anno", WhatsApp del 4 marzo).
-
----
-
 *Fine documento - Pag. 1 di 1 - La bozza originale (fascicolo a spirale, 487 pagine) e conservata in busta sigillata presso l'Ufficio Corpi di Reato del Tribunale di Parma.*

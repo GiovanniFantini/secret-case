@@ -46,22 +46,3 @@
 **Q: Ha accesso al laboratorio privato di Andrea?**
 
 **F. Morelli**: Andrea aveva una stanza con attrezzature scientifiche, sì. Ma io non entro mai lì. Non mi interessa. Non capirei nulla.
-
----
-
-## CONCLUSIONE INVESTIGATORE
-
-**Alibi**: SOLIDO - Video di sorveglianza confirma presenza al tavolo durante la tempistica critica.
-
-**Motivo**: PRESENTE - Nuovo testamento favorevole confermato. Tuttavia, il testamento non è mai stato eseguito a causa dell'indagine per omicidio.
-
-**Accesso**: NO - Non era in cucina durante la preparazione del dessert. Nessun movimento sospetto.
-
-**Livello di Sospetto**: BASSO (pulito su accesso e alibi, ma motivo evidente rimane fattore psicologico)
-
-**Conclusione**: Sebbene avesse motivo finanziario, l'alibi video è incontestabile. Non poteva aver aggiunto la ricina al dessert.
-
----
-
-**Firma**: Maresciallo Molinari
-**Data**: 17 Giugno 2024

@@ -35,5 +35,3 @@ La Procura della Repubblica di Torino, nella persona della PM Dott.ssa Silvia Ma
 Al momento, la pista privilegiata sembra essere quella del suicidio, ma le autorità non escludono nessuna ipotesi.
 
 ---
-
-> **Nota per i giocatori:** Osservate le dichiarazioni riportate nell'articolo. Il direttore del giornale menziona "un'inchiesta molto importante". Baldini parla subito di "gesto estremo". Due versioni diverse dello stesso evento.

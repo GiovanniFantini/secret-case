@@ -3,10 +3,6 @@
 
 ---
 
-> **NOTA PER I GIOCATORI:** Questa timeline è stata ricostruita dalla Polizia sulla base dei documenti raccolti. Alcune informazioni provengono da fonti diverse e potrebbero contenere contraddizioni. Sta a voi individuarle.
-
----
-
 ## SETTIMANA PRECEDENTE (11-14 Novembre 2024)
 
 | Data | Ora | Evento | Fonte | Certezza |

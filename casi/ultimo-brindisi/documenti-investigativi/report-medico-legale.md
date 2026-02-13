@@ -72,14 +72,14 @@ Il cadavere è quello di un uomo di apparente età corrispondente a quella anagr
 
 | Analisi | Campione | Risultato | Valore normale |
 |---------|----------|-----------|----------------|
-| Metanolo (sangue) | Sangue periferico | **285 mg/dL** | < 0,5 mg/dL |
-| Metanolo (urina) | Urina | **192 mg/dL** | Assente |
-| Acido formico (sangue) | Sangue periferico | **47 mg/dL** | < 2 mg/dL |
+| Metanolo (sangue) | Sangue periferico | 285 mg/dL | < 0,5 mg/dL |
+| Metanolo (urina) | Urina | 192 mg/dL | Assente |
+| Acido formico (sangue) | Sangue periferico | 47 mg/dL | < 2 mg/dL |
 | Etanolo (sangue) | Sangue periferico | 68 mg/dL | < 50 mg/dL (sobrietà) |
 | pH arterioso | Sangue arterioso | 6,89 | 7,35 – 7,45 |
-| Metanolo (contenuto gastrico) | Liquido gastrico | **Presente — elevata concentrazione** | — |
-| Metanolo (residuo bottiglia) | Vino dalla bottiglia sequestrata | **1.420 mg/L** | Tracce fisiologiche (< 10 mg/L) |
-| Metanolo (residuo calice) | Vino dal calice | **1.380 mg/L** | Tracce fisiologiche (< 10 mg/L) |
+| Metanolo (contenuto gastrico) | Liquido gastrico | Presente — elevata concentrazione | — |
+| Metanolo (residuo bottiglia) | Vino dalla bottiglia sequestrata | 1.420 mg/L | Tracce fisiologiche (< 10 mg/L) |
+| Metanolo (residuo calice) | Vino dal calice | 1.380 mg/L | Tracce fisiologiche (< 10 mg/L) |
 | Screening farmacologico | Sangue/Urina | Negativo | — |
 | Screening stupefacenti | Sangue/Urina | Negativo | — |
 
@@ -99,13 +99,13 @@ La concentrazione di metanolo nel sangue (285 mg/dL) e la grave acidosi metaboli
 
 ## Osservazioni Rilevanti
 
-1. **La contaminazione della bottiglia è di natura dolosa.** La concentrazione di metanolo nel vino (1.420 mg/L) è oltre 140 volte superiore al limite fisiologico. Non può essere attribuita a difetti di produzione, fermentazione anomala o contaminazione accidentale.
+1. I risultati sono compatibili con un'alterazione intenzionale del prodotto. La concentrazione di metanolo nel vino (1.420 mg/L) è oltre 140 volte superiore al limite fisiologico.
 
 2. **Esame del tappo in sughero (Reperto n. 3):** Il tappo presenta segni compatibili con una doppia estrazione e reinserimento. In particolare, si rilevano:
    - Micro-abrasioni longitudinali sulla superficie laterale non coerenti con un'unica estrazione
    - Lieve deformazione dell'estremità inferiore compatibile con compressione da reinserimento meccanico
-   - **Tracce di silicone alimentare** sulla superficie esterna, utilizzato comunemente per la ri-sigillatura professionale di bottiglie
-   - Il tappo è stato rimosso e reinserito **con attrezzatura professionale** (tipo di pressa da imbottigliamento), non manualmente
+   - Tracce di silicone alimentare sulla superficie esterna, utilizzato comunemente per la ri-sigillatura professionale di bottiglie
+   - Il tappo è stato rimosso e reinserito con attrezzatura professionale (tipo di pressa da imbottigliamento), non manualmente
 
 3. **Tempistica:** L'analisi dello stato digestivo del contenuto gastrico e dei livelli di metabolizzazione del metanolo suggerisce l'ingestione tra le 21:30 e le 22:00 del 18 ottobre 2024. Il decesso è sopraggiunto entro 1-2 ore dall'ingestione.
 

@@ -151,31 +151,4 @@ Il soggetto viene informato ai sensi degli artt. 64 e 65 c.p.p. della facoltà d
 
 ---
 
-## NOTA INVESTIGATIVA RISERVATA
-
-**CLASSIFICAZIONE:** RISERVATO -- Solo personale investigativo autorizzato
-
-**Redatta da:** Commissario Antonio Ferro
-**Data:** 9 marzo 2025
-
-### Valutazione del soggetto: PELLEGRINI, Giorgio
-
-**Movente:** AMBIVALENTE. Da un lato, la minaccia telefonica del 17 gennaio ("Se ci togli la seconda stella, me la paghi") è un elemento oggettivo grave. Dall'altro, l'argomento del soggetto ha una sua logica: la morte di Fontana nel ristorante è catastrofica per i suoi interessi economici. L'investimento di 800.000 euro è a rischio totale. Il movente di vendetta è plausibile ma controproducente rispetto ai suoi interessi.
-
-**Opportunità:** BASSA. Il soggetto era al posto 3, non adiacente alla vittima (posto 1). Dichiara di non aver mai lasciato il tavolo, dato da verificare con gli altri commensali. Non risulta abbia avuto accesso ai piatti.
-
-**Mezzo:** NON ACCERTATO. Il soggetto dichiara di non aver conosciuto lo specifico allergene della vittima. Questa affermazione è plausibile dato il suo profilo professionale (imprenditore, non addetto alla ristorazione attiva).
-
-**Comportamento durante l'interrogatorio:** Inizialmente sulla difensiva e preoccupato per la propria immagine. Si è agitato alla menzione della telefonata minacciosa ma ha ammesso spontaneamente. Atteggiamento complessivamente cooperativo. L'argomento logico sull'autolesionismo della morte di Fontana per i propri interessi è solido.
-
-**Elementi rilevanti emersi:**
-- La telefonata del 20:00 di Ilaria Mura nell'ingresso del ristorante, interrotta bruscamente all'arrivo di Pellegrini, è un nuovo elemento. Necessario verificare i tabulati di Mura per identificare l'interlocutore.
-- La conferma che Pellegrini ha organizzato personalmente la cena e selezionato gli invitati fornisce contesto sulla composizione del tavolo.
-- La percezione di Ilaria come "professionale come sempre" contrasta con le osservazioni di Rizzoli e Mancini, che l'hanno notata nervosa. Ciò potrebbe indicare che Pellegrini era troppo concentrato sui propri obiettivi per notare i dettagli, oppure che Mura era capace di mascherare il nervosismo in certe situazioni.
-
-**LIVELLO DI SOSPETTO: MEDIO-BASSO** (minaccia registrata preoccupante, ma logica del movente autolesionistico convincente; nessuna opportunità concreta; nessuna conoscenza dell'allergene).
-
-**Azione successiva:** Verificare alibi con commensali adiacenti (Moretti, Basetti). Verificare tabulati Mura per la telefonata delle 20:00. Approfondire rapporti finanziari Pellegrini-ristorante per escludere polizze assicurative o clausole contrattuali che potrebbero beneficiarlo in caso di chiusura.
-
----
 *Fine verbale -- Protocollo PR-2025-1287/4 -- Pagina unica*

@@ -25,8 +25,8 @@
 | Raccolta da | Sovr. Galli |
 | Condizioni | Integra, nessun danno visibile all'etichetta. Capsula in stagno rimossa e presente accanto alla bottiglia |
 | Analisi richiesta | Analisi tossicologica del contenuto; rilevamento impronte digitali; analisi residui sul collo della bottiglia |
-| Risultati analisi | **Metanolo: 1.420 mg/L** (valore fisiologico < 10 mg/L). Impronte digitali: vittima + **impronte parziali di un secondo soggetto** (in fase di comparazione). Tracce di silicone alimentare sul collo interno |
-| Rilevanza stimata | **CRITICA** |
+| Risultati analisi | Metanolo: 1.420 mg/L (valore fisiologico < 10 mg/L). Impronte digitali: vittima + impronte parziali di un secondo soggetto (in fase di comparazione). Tracce di silicone alimentare sul collo interno |
+| Rilevanza stimata | da valutare |
 
 ### Reperto n. 2 — Calice da degustazione
 
@@ -38,7 +38,7 @@
 | Raccolta da | Sovr. Galli |
 | Condizioni | Integro, nessuna scheggiatura |
 | Analisi richiesta | Analisi tossicologica del contenuto; rilevamento impronte; analisi tracce biologiche sul bordo |
-| Risultati analisi | **Metanolo: 1.380 mg/L**. Impronte digitali: solo vittima. Tracce di saliva della vittima sul bordo |
+| Risultati analisi | Metanolo: 1.380 mg/L. Impronte digitali: solo vittima. Tracce di saliva della vittima sul bordo |
 | Rilevanza stimata | Alta |
 
 ### Reperto n. 3 — Tappo in sughero
@@ -51,8 +51,8 @@
 | Raccolta da | Sovr. Galli |
 | Condizioni | Integro ma con segni anomali |
 | Analisi richiesta | Esame microscopico superficie; analisi residui chimici |
-| Risultati analisi | **Micro-abrasioni longitudinali** compatibili con doppia estrazione (il tappo è stato rimosso e reinserito). **Tracce di silicone alimentare** sulla superficie esterna. Deformazione dell'estremità inferiore compatibile con compressione meccanica da **pressa da imbottigliamento professionale** |
-| Rilevanza stimata | **CRITICA** |
+| Risultati analisi | Micro-abrasioni longitudinali compatibili con doppia estrazione (il tappo è stato rimosso e reinserito). Tracce di silicone alimentare sulla superficie esterna. Deformazione dell'estremità inferiore compatibile con compressione meccanica da pressa da imbottigliamento professionale |
+| Rilevanza stimata | da valutare |
 
 ### Reperto n. 4 — Taccuino di degustazione
 
@@ -116,23 +116,8 @@
 | Raccolta da | Sovr. Galli |
 | Condizioni | Taglio netto con tagliacapsule |
 | Analisi richiesta | Esame microscopico |
-| Risultati analisi | Il taglio è coerente con un'apertura standard. La capsula presenta **micro-pieghe compatibili con riapplicazione**, suggerendo che era stata rimossa e riposizionata prima dell'apertura finale da parte della vittima |
+| Risultati analisi | Il taglio è coerente con un'apertura standard. La capsula presenta micro-pieghe compatibili con riapplicazione, suggerendo che era stata rimossa e riposizionata prima dell'apertura finale da parte della vittima |
 | Rilevanza stimata | Alta |
-
----
-
-## Riepilogo Prove
-
-| Reperto | Descrizione sintetica | Rilevanza |
-|---------|----------------------|-----------|
-| 1 | Bottiglia di Brunello contaminata con metanolo | CRITICA |
-| 2 | Calice con vino contaminato | Alta |
-| 3 | Tappo con segni di ri-tappatura professionale | CRITICA |
-| 4 | Taccuino con note interrotte bruscamente | Alta |
-| 5 | Penna stilografica | Bassa |
-| 6 | Cellulare della vittima | Alta |
-| 7 | Chiave cantina con impronte multiple | Media |
-| 8 | Capsula con segni di riapplicazione | Alta |
 
 ---
 

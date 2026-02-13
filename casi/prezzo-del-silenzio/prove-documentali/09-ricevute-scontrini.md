@@ -47,7 +47,7 @@ Intestatario: FERRO ANDREA
 ═══════════════════════════════════
 ```
 
-> **DATO CRITICO:** Il pagamento è alle **22:47**. L'importo di **€145 per 5 persone** copre solo **drinks e dessert** — nessun primo, secondo o contorno. Ferro ha dichiarato di essere al ristorante "dalle 20:00 alle 23:30" per una cena di lavoro. Ma il conto suggerisce che si è unito ai colleghi a fine serata, non dall'inizio. Confrontate con le testimonianze dei colleghi CdA.
+> **Nota dell'analista:** Il pagamento risulta alle **22:47**. L'importo di **€145 per 5 persone** copre drinks e dessert. Si rimanda al confronto con le dichiarazioni dei commensali.
 
 ---
 
@@ -75,7 +75,7 @@ Intestatario: FERRO ANDREA
 ═══════════════════════════════════
 ```
 
-> **DATO CRITICO:** Il giorno prima del delitto, Ferro acquista un **Barolo Riserva da €185**. Nell'appartamento di Ferraris sono state trovate **tracce di vino rosso nel lavandino** e un **cavatappi usato con residui di vino**, ma **nessuna bottiglia di vino rosso**. Inoltre, il post Instagram di Ferro del 17/01 mostra una bottiglia di Barolo Riserva con la caption "per le occasioni speciali". Ferro ha portato questa bottiglia nell'appartamento e l'ha poi portata via insieme al proprio bicchiere.
+> **Nota dell'analista:** Acquisto di un Barolo Riserva (€185) il 17 gennaio. Si rimanda alla relazione prove fisiche per eventuali riscontri.
 
 ---
 
@@ -121,7 +121,7 @@ Non è una ricevuta, ma una dichiarazione acquisita il 26/01/2025:
 
 > *"Il tavolo 12 era prenotato per 5 persone a nome PharmaNova. Sono arrivati in 4 verso le 20:00-20:15. Il quinto — il Dott. Ferro, quello che ha pagato — è arrivato **molto più tardi, direi verso le 22:15-22:20**. Ricordo che i colleghi avevano già finito di cenare. Ferro ha ordinato un whisky e hanno preso dessert e champagne. Ha pagato lui per tutto il tavolo alle 22:47."*
 
-> **DATO CRITICO:** Il cameriere conferma che Ferro è arrivato alle **22:15-22:20** — oltre **due ore** dopo l'orario dichiarato da Ferro (20:15-20:20). Questo colloca Ferro **senza alibi** tra le 19:22 (uscita ufficio) e le 22:20 (arrivo ristorante) — finestra che copre interamente l'orario del delitto (21:00-22:05).
+> **Nota dell'analista:** Il cameriere indica un orario di arrivo del Dott. Ferro alle 22:15-22:20 circa, con un conto limitato a drinks e dessert.
 
 ---
 

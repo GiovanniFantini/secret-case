@@ -54,28 +54,3 @@
 **Q: Ha mai ricercato informazioni su veleni?**
 
 **Sofia**: No, assolutamente no. Sono una chef, non una tossicologia. Conosco solo il cibo.
-
----
-
-## CONCLUSIONE INVESTIGATORE
-
-**Alibi**: PARZIALE - Era principalmente in cucina, ma non monitorava costantemente il dessert.
-
-**Motivo**: DEBOLE - Perdita di lavoro è conseguenza, non motivo sufficiente per omicidio.
-
-**Accesso**: PRESENTE - Era in cucina e aveva accesso ai piatti di dessert.
-
-**Competenza**: NO - È una chef, non un tossiclogo. Nessun indicazione di conoscenza di veleni.
-
-**Movimento Sospetto**: Ha osservato una "persona" passare in cucina alle 20:13, il timing esatto quando il dessert potrebbe essere stato avvelenato.
-
-**Livello di Sospetto**: BASSO - Ha osservato il movimento sospetto ma non ha identificato la persona. Alibi ragionevole (era occupata in cucina). Nessun motivo critico. Nessuna competenza.
-
-**Nota Investigativa Importante**: La testimonianza di Sofia sul movimento in cucina alle 20:13 è coerente con il video di sorveglianza che mostra Giulia in cucina nello stesso momento. Questo è un collegamento chiave.
-
-**Conclusione**: Sofia è una vittima secondaria della situazione. Non è coinvolta nell'omicidio, ma la sua osservazione del "movimento sospetto" è un indizio verso l'identità del colpevole.
-
----
-
-**Firma**: Maresciallo Molinari
-**Data**: 17 Giugno 2024

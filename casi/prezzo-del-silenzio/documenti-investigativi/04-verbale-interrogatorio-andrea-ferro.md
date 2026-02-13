@@ -37,8 +37,6 @@ R: Sì, una volta. A novembre, credo intorno al 20. Mi aveva invitato per un'int
 
 R: No. Cioè, sapevo che aveva una pistola — me lo aveva detto lui, durante quella visita. Aveva detto qualcosa come "da quando ho pubblicato il libro sulla sanità, tengo una Beretta nel cassetto, non si sa mai". Ma non sapevo esattamente dove fosse. Non è il genere di cosa a cui faccio attenzione.
 
-> **Nota per i giocatori:** Ferro ammette di sapere che Ferraris possedeva una pistola e di averla vista nel contesto dello studio. Confrontate questa informazione con le prove fisiche.
-
 ---
 
 ## Alibi per la Sera del 18 Gennaio
@@ -66,8 +64,6 @@ R: Siamo stati al ristorante fino alle **23:00-23:30** circa. Poi ci siamo salut
 **D: Ha pagato con carta?**
 
 R: Sì, ho pagato io per tutti. Con la carta aziendale.
-
-> **Nota per i giocatori:** Verificate l'orario del pagamento con carta nelle ricevute. Confrontate la dichiarazione di Ferro sull'orario di arrivo con le testimonianze dei colleghi e con i dati GPS.
 
 ---
 

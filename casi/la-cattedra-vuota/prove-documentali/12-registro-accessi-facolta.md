@@ -106,16 +106,6 @@ FINE ESTRATTO — NESSUN ALTRO TRANSITO NEL PERIODO INDICATO
 | Uscita | 08/02/2025, ore 19:48:11 — Ingresso principale |
 | Permanenza | **45 minuti e 38 secondi** |
 
-> **NOTA INVESTIGATIVA (Mar.llo Ferretti, 11/02/2025):**
-> Il Prof. Carlo Bruni è entrato nell'edificio alle 19:02 ed è uscito alle 19:48, permanendo per circa 46 minuti. In sede di interrogatorio (11/02/2025), il Prof. Bruni ha dichiarato: "Sono passato in facoltà sabato sera verso le sette per recuperare dei documenti dal mio studio. Ero con mia moglie Paola, dovevamo andare a cena da amici. Paola mi ha aspettato in macchina. Sono salito, ho preso quello che mi serviva dallo studio [Studio 201, primo piano], e sono uscito."
->
-> **Verifiche:**
-> - La moglie Paola Bruni ha confermato la versione (verbale del 12/02/2025).
-> - Lo studio del Prof. Bruni (201) si trova al primo piano — non al secondo piano dove si trova lo Studio 204 di Marini.
-> - Tuttavia, la permanenza di 46 minuti per "recuperare dei documenti" appare **eccessiva**. Interpellato su questo punto, il Bruni ha dichiarato di aver "anche controllato alcune email e riordinato la scrivania."
-> - **Non è possibile stabilire** dai soli dati di accesso se il Bruni sia salito al secondo piano o abbia avuto contatti con Marini durante la sua permanenza. Nessuna telecamera interna è presente nell'edificio.
-> - Il Bruni è uscito alle 19:48, oltre **tre ore prima** dell'orario stimato del decesso (23:30-00:30). L'alibi per il resto della serata è stato confermato dalla cena presso amici (Famiglia De Santis, Via Farini 27, Bologna — ore 20:30-23:00 circa, confermato dai De Santis).
-
 ---
 
 #### TRANSITO 4 — Badge FABBRI Laura
@@ -128,28 +118,6 @@ FINE ESTRATTO — NESSUN ALTRO TRANSITO NEL PERIODO INDICATO
 | Direzione | ENTRY |
 | Uscita registrata | **NESSUNA** (push-bar, nessuna registrazione in uscita) |
 
-> **⚠ NOTA INVESTIGATIVA CRITICA (Mar.llo Ferretti, 12/02/2025):**
->
-> Questo è il transito più significativo dell'intero registro.
->
-> **Il badge appartiene alla Dr.ssa Laura Fabbri** (RTD-A, ricercatrice a tempo determinato di tipo A, settore IUS/08). Tuttavia, **la Dr.ssa Fabbri NON si trovava a Bologna la sera dell'8 febbraio 2025.**
->
-> **Verifica della posizione della Dr.ssa Fabbri:**
-> - Biglietto aereo Ryanair n. FR 4521, tratta Bologna (BLQ) — Roma Fiumicino (FCO), data: **07/02/2025, ore 07:15** (partenza). Confermato dalla compagnia aerea.
-> - Biglietto aereo Ryanair n. FR 4528, tratta Roma Fiumicino (FCO) — Bologna (BLQ), data: **09/02/2025, ore 20:30** (partenza). Confermato dalla compagnia aerea.
-> - Hotel Diana, Via Principe Amedeo 4, Roma: check-in 07/02, check-out 09/02. Confermato dall'hotel.
-> - La Dr.ssa Fabbri era a **Roma dal 7 al 9 febbraio** per un convegno presso la Sapienza ("Nuove Prospettive del Diritto Pubblico Italiano", 8 febbraio 2025).
->
-> **Dichiarazione della Dr.ssa Fabbri (verbale del 13/02/2025):**
-> "Ho prestato il mio badge alla Dr.ssa Elena Valdi alla fine di gennaio, credo intorno al 28 o 29 gennaio. Mi ha detto che aveva bisogno di accedere al laboratorio informatico della facoltà nel weekend per completare un lavoro di ricerca e che il suo badge non era abilitato per l'accesso nel fine settimana. Non ho pensato fosse un problema, l'ho fatto anche in passato con altri colleghi. Non avrei mai immaginato che..."
->
-> **Riscontri:**
-> - Il badge della Fabbri (FBR-0089) risulta effettivamente abilitato per l'accesso 24/7, in quanto la Fabbri ha un progetto di ricerca che richiede accesso serale e nel weekend al laboratorio informatico (piano terra).
-> - Il badge della Valdi (VLD-0103) risulta abilitato per l'accesso Lun-Ven ore 07:00-22:00 e Sabato ore 08:00-14:00. **Non è abilitato per l'accesso sabato sera.**
-> - La Valdi ha quindi utilizzato il badge della Fabbri per aggirare le restrizioni orarie del proprio badge e accedere all'edificio in un orario (22:55 di sabato) in cui il suo badge personale non avrebbe funzionato.
->
-> **Utilizzo dell'ingresso di servizio:** La Valdi ha scelto deliberatamente l'ingresso di Via delle Moline per due ragioni: (1) assenza di telecamera di videosorveglianza (presente invece sull'ingresso principale); (2) possibilità di uscire senza registrazione badge tramite il push-bar. Non risulta un transito di uscita: la Valdi è uscita tramite il maniglione antipanico senza lasciare traccia elettronica.
-
 ---
 
 #### TRANSITO 5-6-7 — MANCINI Giuseppe (custode)
@@ -159,13 +127,6 @@ FINE ESTRATTO — NESSUN ALTRO TRANSITO NEL PERIODO INDICATO
 | Primo ingresso | 09/02/2025, ore 08:12:45 — Ingresso principale |
 | Uscita | 09/02/2025, ore 08:47:22 — Ingresso principale |
 | Secondo ingresso | 09/02/2025, ore 09:03:18 — Ingresso principale |
-
-> **NOTA INVESTIGATIVA (Mar.llo Ferretti, 10/02/2025):**
-> Il custode Giuseppe Mancini (63 anni, in servizio presso Palazzo Scarani dal 1998) è la persona che ha scoperto il corpo del Prof. Marini. La sua dichiarazione (verbale del 09/02/2025, ore 10:30):
->
-> "Sono arrivato come ogni domenica mattina verso le otto per controllare l'edificio e fare il mio giro. Ho visto che la luce era accesa al secondo piano, nell'ufficio del professor Marini. Non mi sono preoccupato subito perché il professore spesso lavorava fino a tardi e qualche volta si addormentava lì — da quando si era separato, praticamente viveva nel suo studio. Sono salito al secondo piano e ho bussato alla porta del 204. Nessuna risposta. Ho bussato più forte. Niente. Ho provato ad aprire con il mazzo chiavi ma la porta non si apriva — il chiavistello interno era chiuso. Ho guardato attraverso il vetro smerigliato: si vedeva la sagoma di qualcuno seduto alla scrivania, immobile. Ho chiamato il 112. Poi sono sceso ad aspettare fuori, perché avevo paura. I vigili del fuoco sono arrivati verso le nove meno un quarto e hanno aperto la porta. Il professore era morto, accasciato sulla scrivania. Ho chiamato anche il preside e la segreteria."
->
-> L'uscita di Mancini alle 08:47 e il rientro alle 09:03 corrispondono alla sua discesa per attendere i soccorsi e al successivo rientro con i Vigili del Fuoco e il personale medico del 118.
 
 ---
 
@@ -208,13 +169,6 @@ Il sistema Kaba SafeRoute **NON ha registrato alcun transito** per le seguenti p
 | 19:48 | Prof. Bruni esce dal portone principale. Si dirige a piedi verso sinistra (direzione Piazza Verdi). |
 | 23:15 | La **BMW Serie 3 blu scuro** (stessa già identificata alle 14:55) **lascia il parcheggio** in Via Zamboni e si allontana in direzione est (verso Porta San Donato). La targa posteriore è ora meglio visibile: **BO 4_9 XF** — compatibile con **BO 429 XF**. |
 
-> **⚠ NOTA INVESTIGATIVA (Mar.llo Ferretti, 12/02/2025):**
-> La BMW Serie 3 con targa compatibile BO 429 XF è intestata a **CONTI Federica**, ex moglie della vittima (cfr. visura PRA). La Conti ha ammesso di essersi recata in Via Zamboni la sera dell'8 febbraio, ma ha dichiarato di non essere entrata in Palazzo Scarani: "Sono andata in Via Zamboni per parlare con Renato. Ho visto la luce accesa nel suo studio dal marciapiede. Ma non ho il badge per entrare. Ho provato a telefonargli ma non rispondeva. Ho aspettato un po' in macchina sperando che uscisse. Alla fine me ne sono andata. Non sono mai entrata nell'edificio."
->
-> **Verifica:** Il tabulato telefonico della Conti (cfr. altra documentazione) registra effettivamente **3 chiamate in uscita** al numero di Marini tra le 20:30 e le 22:45, tutte senza risposta. La permanenza della BMW dal 14:55 alle 23:15 (circa **8 ore e 20 minuti**) appare tuttavia **eccessiva** per una semplice attesa. La Conti ha spiegato di aver "fatto un giro per Bologna, preso un caffè, e di essere tornata in Via Zamboni più tardi in serata." I movimenti intermedi non sono documentati dalla telecamera di Via Zamboni (la BMW potrebbe aver lasciato e fatto ritorno senza essere ripresa, se ha utilizzato una strada diversa).
->
-> **Nota critica sulla targa:** La lettura completa della targa non è possibile con certezza assoluta dalla telecamera di Palazzo Scarani a causa della distanza (30 m) e dell'angolazione. La corrispondenza parziale "BO 4_9 XF" è tuttavia fortemente compatibile con "BO 429 XF", e la Conti ha confermato la sua presenza.
-
 ---
 
 ### Telecamera Comune di Bologna — Via Zamboni
@@ -241,8 +195,6 @@ Il sistema Kaba SafeRoute **NON ha registrato alcun transito** per le seguenti p
 ### Copertura Via delle Moline (ingresso servizio)
 
 **NESSUNA TELECAMERA** è presente su Via delle Moline nel tratto corrispondente all'ingresso di servizio di Palazzo Scarani. La telecamera comunale più vicina (palo MBE-07, incrocio Via delle Moline / Via Augusto Righi) si trova a circa 120 m dall'ingresso di servizio e **non ha campo visivo** sulla porta.
-
-> **NOTA INVESTIGATIVA:** L'assenza di videosorveglianza su Via delle Moline è stata evidentemente considerata dalla Dr.ssa Valdi nella pianificazione dell'accesso all'edificio. La scelta dell'ingresso di servizio — privo di telecamera, con uscita push-bar non registrata — è un ulteriore elemento indicativo della premeditazione.
 
 ---
 

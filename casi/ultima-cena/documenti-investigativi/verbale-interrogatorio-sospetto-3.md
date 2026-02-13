@@ -163,31 +163,4 @@ Il soggetto viene informato ai sensi degli artt. 64 e 65 c.p.p. della facoltà d
 
 ---
 
-## NOTA INVESTIGATIVA RISERVATA
-
-**CLASSIFICAZIONE:** RISERVATO -- Solo personale investigativo autorizzato
-
-**Redatta da:** Commissario Antonio Ferro
-**Data:** 9 marzo 2025
-
-### Valutazione del soggetto: MANCINI, Sergio
-
-**Movente:** PRESENTE E FORTE. Otto anni di rancore per il presunto plagio e la successiva distruzione della sua carriera professionale. Il soggetto ammette apertamente di aver odiato la vittima. La questione del blog anonimo "Il Mangione Critico" resta aperta: il soggetto non ha negato esplicitamente, limitandosi a una risposta evasiva. Se confermato, il blog dimostrerebbe un'ossessione attiva e continuata verso Fontana.
-
-**Opportunità:** LIMITATA. Il soggetto era seduto al posto 5, dal lato opposto del tavolo rispetto alla vittima. Ha lasciato il tavolo per andare al bagno intorno alle 21:10, ma questo momento precede il servizio della terza portata di almeno 20-25 minuti. Tre testimoni (da verificare: Moretti, Basetti, e presumibilmente Pellegrini) possono confermare la sua presenza al tavolo durante il periodo critico. La distanza fisica dal posto della vittima rende estremamente difficile un intervento diretto sul piatto.
-
-**Mezzo:** NON ACCERTATO. Non risultano elementi che colleghino il soggetto al possesso o all'accesso a prodotti contenenti arachidi. Tuttavia, la conoscenza dell'allergia di Fontana era dichiaratamente nota.
-
-**Comportamento durante l'interrogatorio:** Sorprendentemente cooperativo e diretto. Il soggetto ha ammesso il proprio rancore senza tentare di minimizzarlo. Questo atteggiamento può indicare sia genuina innocenza sia una strategia difensiva calcolata (ammettere il movente per apparire trasparente sapendo di avere un alibi solido). Intelligenza e capacità dialettica elevate.
-
-**Elementi rilevanti emersi:**
-- La testimonianza spontanea su Ilaria Mura è significativa: il soggetto ha notato che Mura si è attardata al posto di Fontana durante il servizio del vino, e ha percepito una tensione "personale" nel suo comportamento. Questo è coerente con le osservazioni emerse dall'interrogatorio di Rizzoli.
-- L'impressione che le mani di Mura si siano mosse "in prossimità del piatto" durante il servizio del vino è un dato da incrociare con altre testimonianze e con eventuali filmati.
-- La questione del blog "Il Mangione Critico" va approfondita tramite analisi informatica, ma non è direttamente rilevante per il caso in oggetto.
-
-**LIVELLO DI SOSPETTO: MEDIO** (per la forza del movente, ma limitato dall'alibi solido e dall'assenza di opportunità concreta).
-
-**Azione successiva:** Verificare alibi con i tre testimoni indicati. Approfondire la questione del blog per completezza investigativa. Acquisire la sua testimonianza su Mura come elemento da confrontare con altri riscontri.
-
----
 *Fine verbale -- Protocollo PR-2025-1287/3 -- Pagina unica*

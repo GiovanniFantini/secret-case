@@ -82,7 +82,7 @@
 
 ## SEZIONE D — MOVIMENTI DEI SINGOLI SOSPETTATI
 
-### D.1 — Ilaria Mura (Sommelier) — PRINCIPALE INDIZIATA
+### D.1 — Ilaria Mura (Sommelier)
 
 | Ora | Evento | Fonte | Certezza |
 |-----|--------|-------|----------|
@@ -151,16 +151,6 @@
 | **21:43** | **Ritira i piatti della terza portata dal passavivande e li porta nella Sala Leonardo.** | **CCTV cucina (Camera 2); dichiarazione Lucia Ferretti** | **Certa** |
 | 21:45 | Tutti i piatti serviti. Lucia esce dalla Sala Leonardo tramite la porta di servizio. | Dichiarazione Lucia Ferretti | Dichiarata |
 | 21:45-22:04 | Non presente nella Sala Leonardo. Si trova tra la cucina e il corridoio di servizio. | CCTV cucina (Camera 2) | Certa |
-
----
-
-## NOTE INVESTIGATIVE
-
-1. **Finestra critica (21:43 — 21:52):** Il risotto di Fontana lascia la cucina alle 21:42, viene servito alle 21:45 e Fontana inizia a mangiare alle 21:51. La contaminazione con olio di arachidi deve essere avvenuta in questo intervallo. L'unica persona che ha avuto accesso diretto al piatto di Fontana dopo il servizio e prima del consumo e **Ilaria Mura**, durante il servizio del vino (21:47-21:52).
-
-2. **I 12 minuti in cantina (21:35 — 21:47):** Il tempo trascorso da Mura in cantina e ritenuto eccessivo. La cantina si trova a circa 30 secondi dalle scale di servizio. Il prelievo di una singola bottiglia richiede normalmente 2-3 minuti. Ipotesi: Mura ha utilizzato il tempo residuo per preparare la fiala contagocce (REP-013) con l'olio di arachidi e nasconderla nell'astuccio cavatappi (REP-008).
-
-3. **Le 40 secondi al posto 1:** La sosta prolungata di Ilaria al posto di Fontana, rispetto alla media di 15-20 secondi per gli altri commensali, e compatibile con il tempo necessario per versare il vino e, contestualmente, versare alcune gocce di olio di arachidi nel risotto.
 
 ---
 

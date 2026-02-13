@@ -35,8 +35,6 @@
 | Tempi stimati | 15-20 giorni lavorativi |
 | Nota | La modifica non era stata finalizzata. Al momento del decesso, il beneficiario legale restava Sara Ferraris |
 
-> **Nota per i giocatori:** La polizza vale €400.000 ed è ancora intestata a Sara. Ma Ferraris stava cambiando il beneficiario a favore di Valentina — senza dire nulla a Sara. La modifica non è stata completata in tempo. Questo dà a Sara un movente apparente, ma valutate: Sara sapeva del cambio?
-
 ---
 
 ## Documento 2 — Testamento di Luca Ferraris
@@ -64,8 +62,6 @@
 >
 > *Torino, 16 gennaio 2025*
 > *Luca Ferraris"*
-
-> **Nota per i giocatori:** Il testamento è stato scritto 2 giorni prima della morte. Ferraris ha preso precauzioni specifiche per proteggere la sua inchiesta anche in caso di morte. Il punto 3 è particolarmente significativo: sapeva che qualcuno poteva volerlo fermare.
 
 ---
 
@@ -107,8 +103,6 @@
 | Novembre 2024 | **Non pagato** | |
 | Dicembre 2024 | **Non pagato** | |
 | Gennaio 2025 | **Non pagato** | Telefonata accesa il 18/01 |
-
-> **Nota per i giocatori:** Ferraris era indietro di 3 mesi sugli alimenti (€2.400 totali). Questo spiega la telefonata accesa con Sara il pomeriggio del delitto. Ma è un movente per omicidio? Valutate in proporzione alla polizza vita.
 
 ---
 

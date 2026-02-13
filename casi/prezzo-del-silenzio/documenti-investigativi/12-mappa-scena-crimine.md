@@ -121,8 +121,6 @@ Via Principe Amedeo 42 → Portone (con citofono) → Atrio → Ascensore o scal
 ### Uscita di servizio
 Appartamento 7B → Scala di servizio (porta sul retro dell'ingresso) → Cortile interno → Cancello garage seminterrato → Uscita su Via San Quintino (laterale)
 
-> **Nota per i giocatori:** L'assassino potrebbe essere entrato dall'ingresso principale (citofono) e uscito dalle scale di servizio verso il garage, evitando la telecamera dell'ingresso in uscita. Confrontate con il registro accessi palazzo.
-
 ---
 
 ## Distanze Rilevanti

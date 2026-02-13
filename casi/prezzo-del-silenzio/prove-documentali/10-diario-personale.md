@@ -34,8 +34,6 @@
 >
 > *Mentre parlavo, i suoi occhi hanno fatto il giro dello studio. Ha guardato la scrivania, il laptop, il mobiletto. Come se stesse mappando l'ambiente. Forse è solo curiosità. O forse no.*
 
-> **Nota per i giocatori:** Ferraris nota il comportamento osservatore di Ferro — come se "stesse mappando l'ambiente". Ferro ora conosce la posizione della pistola, del laptop, e la disposizione dello studio.
-
 ### 28 dicembre 2024
 
 > *L'inchiesta è quasi pronta. 40 pagine di articolo, decine di documenti di supporto, 12 registrazioni audio. Revelli ha dato il primo ok legale. Giorgio è entusiasta ma nervoso.*
@@ -55,8 +53,6 @@
 > *Sanno. PharmaNova sa che sto scrivendo qualcosa. La domanda è: come? Non l'ho detto a nessuno tranne Giorgio e Revelli. C'è una falla da qualche parte.*
 >
 > *Ho chiamato Paolo [Baldini]. Volevo chiedergli se avesse sentito qualcosa nel giro della questura. È stato evasivo. Strano.*
-
-> **Nota per i giocatori:** Ferraris si chiede come PharmaNova abbia saputo dell'inchiesta. La falla potrebbe essere Baldini, che passava informazioni a Mazza?
 
 ### 15 gennaio 2025
 

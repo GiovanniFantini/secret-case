@@ -39,8 +39,6 @@ Studio Legale Brunetti & Associati
 Via Garibaldi 22, 43121 Parma
 Tel. 0521-287654 | PEC: m.brunetti@pec.avvocatiparma.it
 
-*[Nota investigativa: Email acquisita dal server di posta della Sig.ra Mura con decreto di sequestro probatorio del 11/03/2025]*
-
 ---
 
 ### DOCUMENTO A-2
@@ -72,8 +70,6 @@ Massimo Fontana
 Fondatore e Direttore Editoriale
 Guida Fontana - La Bibbia della Ristorazione Italiana
 guidafontana.it | Tel. 0521-998877
-
-*[Nota investigativa: Email acquisita dal server di posta del Sig. Fontana con decreto di sequestro probatorio del 11/03/2025. Si rileva che la Sig.ra Mura era stata informata dell'esistenza di questa email dalla Sig.ra Sara Ferretti, la quale ne era venuta a conoscenza tramite un conoscente impiegato presso "La Lanterna". Vd. messaggi WhatsApp successivi.]*
 
 ---
 
@@ -111,8 +107,6 @@ Chief Acquisition Officer
 Springer Gastronomie GmbH
 Friedrichstrasse 78, 10117 Berlin
 Tel. +49 30 5557890
-
-*[Nota investigativa: Email acquisita dal server di posta del Sig. Fontana. Si evidenzia che nell'accordo non vi e alcun riferimento alla Sig.ra Claudia Fontana, figlia del defunto. La clausola relativa al personale lascia intendere che l'acquirente non avrebbe mantenuto l'attuale struttura editoriale. Da verificare se la Sig.ra Claudia Fontana fosse a conoscenza di questo accordo e delle relative condizioni.]*
 
 ---
 
@@ -286,8 +280,6 @@ Tel. +49 30 5557890
 
 [10:28] **Massimo:** Anch'io tesoro. A sabato.
 
-*[Nota investigativa: La conversazione non contiene alcun riferimento all'accordo con Springer Gastronomie. Da verificare se il Sig. Fontana avesse informato la figlia dell'operazione di cessione in altra sede.]*
-
 ---
 
 ### DOCUMENTO B-3
@@ -326,27 +318,6 @@ Tel. +49 30 5557890
 [08:29] **Rizzoli:** Ma ti rendi conto di che gioco stai facendo?
 
 [08:30] **Pellegrini:** So esattamente quello che faccio. Sabato sera si gioca tutto. E io non ho intenzione di perdere.
-
----
-
-## NOTA INVESTIGATIVA RIEPILOGATIVA
-
-**Redatta da:** Ispettore Capo Lorenzo De Santis
-**Data:** 15 marzo 2025
-
-### Analisi dei messaggi - Elementi di rilievo:
-
-1. **PRIORITA MASSIMA - Messaggio del 6 marzo 2025 (Mura a Ferretti, ore 23:22):** Il messaggio *"Sabato sera sara l'ultima volta che quell'uomo mi fara del male. Te lo prometto"* costituisce un elemento di fortissimo valore indiziario. La formulazione e inequivocabilmente riferita alla serata dell'8 marzo e al Sig. Fontana. La promessa implicita di un'azione risolutiva, combinata con il rifiuto di fornire spiegazioni all'amica, indica premeditazione.
-
-2. **PRIORITA ALTA - Messaggio del 4 marzo 2025 (Mura a Ferretti, ore 16:53-16:55):** La richiesta di utilizzare l'indirizzo dell'amica per una consegna ("un ingrediente speciale") e la volonta di non ricevere il pacco al ristorante indicano un tentativo deliberato di dissimulazione. Da correlare con l'ordine AsiaMarket.it del 22 febbraio 2025 (olio di arachidi).
-
-3. **PRIORITA ALTA - Email Fontana a La Lanterna (20/02/2025):** Documenta l'azione sistematica di distruzione della carriera della Mura da parte del Fontana, costituendo un movente ulteriore.
-
-4. **PRIORITA MEDIA - Email Springer Gastronomie (28/02/2025):** La cessione della Guida per Euro 4.500.000 senza menzione della figlia Claudia configura un possibile movente per la Sig.ra Claudia Fontana. Da approfondire.
-
-5. **PRIORITA MEDIA - Messaggi Pellegrini-Rizzoli (03/03/2025):** Il tono aggressivo del Pellegrini e le frasi *"Non permetto che succeda di nuovo"* e *"Sabato sera si gioca tutto"* meritano ulteriore approfondimento, sebbene possano riferirsi esclusivamente alla questione del declassamento nella Guida.
-
-6. **NOTA:** La Sig.ra Sara Ferretti ha dichiarato in sede di sommarie informazioni (12/03/2025) di non aver compreso il significato del messaggio del 6 marzo e di non aver verificato il contenuto del pacco ricevuto da AsiaMarket.it, consegnandolo chiuso alla Mura il 24 febbraio 2025.
 
 ---
 

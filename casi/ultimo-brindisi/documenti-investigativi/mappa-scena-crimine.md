@@ -77,7 +77,7 @@
 | Scaffale | Contenuto | Note |
 |----------|-----------|------|
 | S1 (Nord) | Vini francesi — Bordeaux, Borgogna | Nessuna anomalia |
-| S2 (Ovest) | Vini toscani — Chianti, Brunello, Nobile | **Spazio vuoto nello scaffale Brunello, coerente con la bottiglia sul tavolo** |
+| S2 (Ovest) | Vini toscani — Chianti, Brunello, Nobile | Spazio vuoto nello scaffale Brunello, coerente con la bottiglia sul tavolo |
 | S3 (Est) | Vini piemontesi — Barolo, Barbaresco | Nessuna anomalia |
 | S4 (Armadio) | Cavatappi professionali, decanter, calici di riserva, termometro enologico, quaderno inventario | Armadio aperto, contenuto ordinato |
 | S5 (Sud) | Vini internazionali e annate pregiate | Nessuna anomalia |
@@ -92,7 +92,7 @@
 | Porta ingresso villa (piano terra) | Portone blindato | Chiuso a chiave | Nessuno |
 | Porta secondaria villa (cucina) | Porta con serratura | Chiusa a chiave | Nessuno |
 | Finestre piano terra | Finestre con inferriate | Chiuse dall'interno | Nessuno |
-| Allarme perimetrale | Sistema elettronico | **DISINSERITO** | — |
+| Allarme perimetrale | Sistema elettronico | DISINSERITO | — |
 
 ---
 
@@ -100,7 +100,7 @@
 
 | Tipo di traccia | Luogo | Descrizione |
 |-----------------|-------|-------------|
-| Impronte digitali | Bottiglia (A) | Impronte della vittima. **Altre impronte parziali in fase di analisi** |
+| Impronte digitali | Bottiglia (A) | Impronte della vittima. Altre impronte parziali in fase di analisi |
 | Impronte digitali | Calice (B) | Solo impronte della vittima |
 | Impronte digitali | Maniglia porta cantina | Multiple — vittima + almeno 2 soggetti non identificati |
 | Impronte scarpe | Pavimento in cotto | Impronte della vittima (mocassini tg. 43). Nessuna altra impronta recente distinguibile |
@@ -114,7 +114,7 @@
 2. **Allarme disinserito:** La governante conferma che la vittima lo disattivava abitualmente quando era solo in casa.
 3. **Ordine della cantina:** L'ambiente appare perfettamente ordinato. Nessun segno di colluttazione, lotta o ricerca frettolosa.
 4. **Lo spazio vuoto nello scaffale S2** corrisponde alla posizione dove era conservata la bottiglia di Brunello 2006 trovata sul tavolo.
-5. **Il tappo presenta tracce di silicone alimentare**, sostanza utilizzata per la ri-sigillatura professionale delle bottiglie. Questo dettaglio è stato segnalato al perito medico legale per ulteriori analisi.
+5. Il tappo presenta tracce di silicone alimentare. Questo dettaglio è stato segnalato al perito medico legale per ulteriori analisi.
 
 ---
 

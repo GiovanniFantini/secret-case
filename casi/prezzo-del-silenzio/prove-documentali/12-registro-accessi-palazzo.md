@@ -29,9 +29,7 @@ Il palazzo è dotato di citofono digitale Urmet con registro delle chiamate. Ogn
 | **21:02** | **7B** | **6 sec** | **Sì** | **VISITATORE NON IDENTIFICATO** |
 | — | — | — | — | *Nessun'altra chiamata al 7B dopo le 21:02* |
 
-> **DATO CRITICO:** Il citofono dell'appartamento 7B riceve una chiamata alle **21:02** — qualcuno suona dal portone e viene fatto entrare. Valentina era già uscita (telecamera: 20:35). Ferraris ha aperto a qualcuno alle 21:02. Chi?
->
-> Confrontate con il messaggio WhatsApp di Ferro: *"Sabato sera perfetto. Passo alle 21?"* e il codice del citofono condiviso: **4721B**.
+> **Nota dell'analista:** Il citofono dell'appartamento 7B riceve una chiamata alle **21:02**. L'ingresso viene autorizzato dal residente.
 
 ---
 
@@ -57,8 +55,6 @@ Telecamera fissa montata sopra il portone d'ingresso. Campo visivo: portone + 3 
 | 08:13 | Donna, ~60 anni, chiavi in mano | Ingresso — Maria Grasso |
 | 08:32 | Due agenti in uniforme | Ingresso — Volante 7 |
 
-> **Nota per i giocatori:** La telecamera dell'ingresso NON registra nessun visitatore dopo Valentina (20:35). Ma il citofono suona alle 21:02. Questo significa che il visitatore delle 21:02 non è passato davanti alla telecamera dell'ingresso — oppure che ha usato il codice diretto del citofono senza essere ripreso (possibile se il citofono è accessibile da un punto non coperto dalla telecamera, ad esempio il lato del portone). In ogni caso, la telecamera non registra nemmeno l'uscita del visitatore dal portone. Come è uscito?
-
 ---
 
 ## Sistema 3 — Cancello Garage Automatico
@@ -75,9 +71,7 @@ Il garage seminterrato ha un cancello automatico con apertura tramite telecomand
 | 17:00 | Telecomando (int. 2C) | Ingresso | Residente |
 | **22:05** | **Pulsante interno** | **Uscita** | **NON IDENTIFICATO** |
 
-> **DATO CRITICO:** Alle **22:05**, il cancello del garage si apre dall'**interno** — qualcuno ha premuto il pulsante nel cortile/garage per uscire. Non è un residente (nessun telecomando utilizzato). Qualcuno è sceso dalle scale di servizio dell'appartamento al cortile interno, poi ha aperto il cancello del garage e se n'è andato.
->
-> Questo coincide con la ricostruzione: l'assassino entra dal portone (21:02), commette il delitto nello studio, ed esce dalle scale di servizio → cortile → garage (22:05), evitando la telecamera dell'ingresso.
+> **Nota dell'analista:** Alle **22:05**, il cancello del garage si apre dall'**interno** (pulsante, non telecomando). L'operazione non è riconducibile a un residente.
 
 ---
 
@@ -101,7 +95,7 @@ Su richiesta della Questura, sono state acquisite le registrazioni della telecam
 | Colore | Grigio selenite (scuro) |
 | Compatibilità | **ALTA** |
 
-> **DATO CRITICO:** Una Mercedes compatibile con l'auto di Ferro è parcheggiata davanti al palazzo di Ferraris dalle **20:55 alle 22:10** — finestra che copre l'intera permanenza dell'assassino nell'appartamento (21:02 ingresso citofono → 22:05 uscita garage). Le ultime tre posizioni della targa corrispondono a quella di Ferro.
+> **Nota dell'analista:** Una Mercedes compatibile con il veicolo intestato a Ferro risulta parcheggiata in Via Principe Amedeo dalle **20:55 alle 22:10**. Le ultime tre posizioni della targa corrispondono.
 
 ---
 

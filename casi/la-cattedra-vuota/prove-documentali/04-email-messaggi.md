@@ -44,8 +44,6 @@
 
 ---
 
-**[Nota investigativa: Il Dott. Alessio Ferrara è ricercatore presso l'Università di Padova. Il paper citato presenta effettive sovrapposizioni con la pubblicazione del Prof. Bruni "Comparative Constitutional Identity in the European Framework" apparsa su Rivista Europea di Diritto, Vol. 12, 2024. Acquisire pubblicazioni per confronto testuale — Comm. Grimaldi, 15/02/2025]**
-
 ---
 
 ### EMAIL N. 2
@@ -106,8 +104,6 @@
 
 ---
 
-**[Nota investigativa: La Dott.ssa Valdi non ha partecipato alla conferenza di Lisbona. Riscontro: nessuna prenotazione aerea o alberghiera a suo nome per le date indicate. Il tono della risposta del Prof. Marini presenta elementi riconducibili al pattern descritto nelle denunce per molestie (cfr. Prova Doc. N. 6) — Comm. Grimaldi, 16/02/2025]**
-
 ---
 
 ### EMAIL N. 3
@@ -137,8 +133,6 @@
 > *Ordinario di Diritto Costituzionale*
 
 ---
-
-**[Nota investigativa: "La documentazione relativa" potrebbe riferirsi ai fascicoli delle denunce per molestie. Acquisire documentazione in possesso del Dott. Santini e verificare integrità archivi Dipartimento. "Magnani" = Rettore Prof. Giacomo Magnani — Comm. Grimaldi, 15/02/2025]**
 
 ---
 
@@ -170,10 +164,6 @@
 > *Ricercatrice a tempo determinato (RTD-A)*
 > *Dipartimento di Scienze Giuridiche — Alma Mater Studiorum*
 > *Via Zamboni 22, 40126 Bologna*
-
----
-
-**[Nota investigativa: L'email conferma la presenza della Dott.ssa Valdi a Milano per il 10-11 febbraio. Tuttavia, la prenotazione alberghiera (check-in 9 febbraio) non esclude la sua presenza a Bologna nella serata dell'8 febbraio. Verificare orari di viaggio e riscontri Telepass — Comm. Grimaldi, 16/02/2025]**
 
 ---
 
@@ -248,8 +238,6 @@
 
 ---
 
-**[Nota investigativa: La "persona" / "giornalista" a cui Valdi fa riferimento potrebbe essere Tommaso Rossi, ex dottorando espulso dal programma nel 2019, oggi giornalista freelance. Da verificare contatti tra Valdi e Rossi — Comm. Grimaldi, 16/02/2025]**
-
 ---
 
 ### CONVERSAZIONE N. 2 — Renato Marini ↔ Elena Valdi
@@ -280,8 +268,6 @@
 > **Marini** — *nessuna ulteriore risposta*
 
 ---
-
-**[NOTA INVESTIGATIVA — ELEMENTO CRITICO: Questa conversazione colloca la Dott.ssa Valdi presso il Dipartimento nella serata dell'8 febbraio, in un orario compatibile con quello stimato del decesso (tra le 20:30 e le 23:00 secondo il medico legale). Il messaggio delle 20:10 ("Passo più tardi, magari ti porto un caffè") è di estremo interesse investigativo alla luce dei risultati tossicologici sulla tazzina rinvenuta sulla scrivania. Il messaggio delle 21:35 ("Buonanotte Professore") potrebbe indicare che Valdi aveva già lasciato lo studio. La vittima non ha più risposto dopo le 20:12. DISPORRE IMMEDIATA ACQUISIZIONE CELLE TELEFONICHE E DATI GPS DISPOSITIVO VALDI PER LA SERATA 8/02 — Comm. Grimaldi, 15/02/2025]**
 
 ---
 
@@ -334,8 +320,6 @@
 
 ---
 
-**[Nota investigativa: Questa conversazione conferma il legame Valdi-Rossi-Landi nella preparazione dell'inchiesta giornalistica. Rossi era a Casalecchio di Reno la mattina dell'8 febbraio (riscontro: cella telefonica). "Le sue cicatrici" — Rossi allude a un coinvolgimento personale di Valdi nelle vicende delle molestie? Approfondire — Comm. Grimaldi, 17/02/2025]**
-
 ---
 
 ### CONVERSAZIONE N. 4 — Federica Conti ↔ "Sergio" (Investigazioni Parma S.r.l.)
@@ -381,10 +365,6 @@
 > **Sergio** [22:30]: Al momento non sono in grado di determinarlo. Continuo il monitoraggio.
 >
 > **Federica** [22:32]: Continui. E mi faccia avere quel rapporto su Mazzocchi il prima possibile. Ho un appuntamento con il mio avvocato il 15 febbraio.
-
----
-
-**[Nota investigativa: Federica Conti risulta cliente di Investigazioni Parma S.r.l. (P.IVA 02XXXXXX345) dal dicembre 2024. Il pagamento di €3.000 risulta dagli estratti conto (cfr. Prova Doc. N. 5). Il movente di Conti sembrerebbe esclusivamente patrimoniale, legato alla causa di divisione post-divorzio. L'appartamento di Rimini e i prelievi di contante del Prof. Marini sono oggetto di ulteriori accertamenti — Comm. Grimaldi, 17/02/2025]**
 
 ---
 

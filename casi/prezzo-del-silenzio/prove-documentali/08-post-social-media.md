@@ -35,8 +35,6 @@
 >
 > 1.203 like, 312 retweet, 87 risposte
 
-> **Nota per i giocatori:** Il post del 17 gennaio è esplicito: Ferraris annuncia la pubblicazione per mercoledì e menziona le minacce ricevute. Il post è pubblico — chiunque poteva leggerlo, incluso l'assassino. Notate il tono: determinato, non depresso.
-
 ---
 
 ## Profilo 2 — Andrea Ferro (@andreaferro_ceo)
@@ -66,7 +64,7 @@
 >
 > 78 like
 
-> **DATO CRITICO:** Ferro pubblica una foto di una bottiglia di Barolo Riserva il 17 gennaio — il giorno prima del delitto. È la bottiglia che ha portato nell'appartamento di Ferraris? Confrontate con lo scontrino dell'enoteca (17/01, €185) e con le tracce di vino rosso trovate nell'appartamento.
+> **Nota dell'analista:** Ferro pubblica una foto di una bottiglia di Barolo Riserva il 17 gennaio. Si rimanda agli altri reperti per eventuali riscontri.
 
 ---
 
@@ -81,8 +79,6 @@
 > Caption: *"Sabato sera, Torino, silenzio. Tutto quello che serve. 🌙"*
 >
 > 156 like
-
-> **Nota per i giocatori:** Il post è stato pubblicato alle **21:34** del 18 gennaio — circa 30 minuti dopo l'arrivo dell'assassino nell'appartamento di Ferraris. La foto è scattata dal balcone di Via San Secondo 35 (casa di Sara). Questo è coerente con il suo alibi (a casa tutta la sera) e con il GPS del telefono.
 
 ### Post del 19 gennaio 2025, ore 14:00
 
@@ -113,8 +109,6 @@
 >
 > 245 like
 
-> **Nota per i giocatori:** Le Instagram Stories di Valentina la collocano a casa del fidanzato dalle 21:15 in poi — coerente con il suo alibi (uscita dall'appartamento del padre alle 20:35, arrivo dal fidanzato ~21:00).
-
 ---
 
 ## Profilo 5 — Commissario Paolo Baldini
@@ -136,7 +130,7 @@
 >
 > **Baldini:** *"Concordo."*
 
-> **DATO CRITICO:** Baldini contatta Mazza poche ore dopo la scoperta del corpo, prima ancora della conferma ufficiale della causa di morte. La frase di Mazza — *"Meglio così. Meno se ne parla, meglio è per tutti"* — può riferirsi all'inchiesta di Ferraris. Baldini e Mazza hanno un interesse comune a far chiudere il caso rapidamente, ma questo indica complicità nell'omicidio o solo nella corruzione?
+> **Nota dell'analista:** Baldini contatta Mazza poche ore dopo la scoperta del corpo. La conversazione avviene prima della conferma ufficiale della causa di morte.
 
 ---
 

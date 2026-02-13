@@ -35,7 +35,7 @@
   Sconto 50% (omaggio Sergio)     -€76,50
   Coperto                    x3     €6,00
 --------------------------------------------
-  TOTALE                           €78,00  ← [IMPORTO CONFERMATO DA POS]
+  TOTALE                           €78,00
 --------------------------------------------
   Pagamento: CARTA DI CREDITO
   **** **** **** 4721
@@ -47,8 +47,6 @@
   IVA inclusa ai sensi di legge
 ============================================
 ```
-
-**Rilevanza:** Lo scontrino dimostra che il pagamento è stato effettuato alle **21:15**. Davide Conti ha dichiarato di essere rimasto alla trattoria fino alle **23:30**. La discrepanza temporale di oltre 2 ore è significativa. Da verificare con il ristoratore e con i commensali (Lorenzo Bruni e Marta Genovesi).
 
 ---
 
@@ -74,8 +72,6 @@
   Intestatario: CONTI DAVIDE
 ============================================
 ```
-
-**Rilevanza:** Davide Conti ha fatto rifornimento di carburante alle **21:38** sulla **Via Bolognese**, ovvero la strada principale che da Firenze porta verso **Fiesole**. Questo è avvenuto **23 minuti dopo** il pagamento alla Trattoria da Sergio. La Via Bolognese è il percorso diretto per raggiungere Villa Le Ginestre a Fiesole dalla zona di Via dei Neri.
 
 ---
 
@@ -114,8 +110,6 @@
 ============================================
 ```
 
-**Rilevanza:** Marco Ferretti ha ricevuto una consegna di 6 bottiglie il pomeriggio del 18 ottobre (il giorno del crimine). Queste bottiglie provenivano dalla redazione della rivista per recensione e **non includevano il Brunello di Cantina Ansaldi**. La bottiglia avvelenata era già nella cantina di Marco, dove era stata collocata/sostituita da Davide Conti durante la visita del 17 ottobre.
-
 ---
 
 ## Scontrino 4 — Agenzia assicurativa (Elena Marchetti)
@@ -147,20 +141,3 @@
 
 ============================================
 ```
-
-**Rilevanza:** L'incontro assicurativo di Elena Marchetti del 16 ottobre riguardava esclusivamente la **copertura della galleria d'arte**, non la polizza vita del marito. Il valore dei beni artistici (€2.400.000) conferma la solidità finanziaria indipendente di Elena.
-
----
-
-## Riepilogo Scontrini
-
-| # | Esercizio | Data | Ora | Importo | Soggetto | Connessione al caso |
-|---|-----------|------|-----|---------|----------|---------------------|
-| 1 | Trattoria da Sergio | 18/10/2024 | **21:15** | €78,00 | Davide Conti | **Smentisce alibi dichiarato (23:30)** |
-| 2 | Stazione Esso, Via Bolognese | 18/10/2024 | **21:38** | €57,96 | Davide Conti | **Direzione Fiesole, 23 min dopo la trattoria** |
-| 3 | DHL Wine & Spirits | 18/10/2024 | 13:15 | — | Marco Ferretti | Consegna bottiglie (non correlate all'arma) |
-| 4 | Firenze Assicurazioni | 16/10/2024 | 11:00 | — | Elena Marchetti | Polizza galleria, non polizza vita |
-
----
-
-> **NOTA PER I GIOCATORI:** Gli orari sugli scontrini sono dati oggettivi registrati elettronicamente. Confrontateli con le dichiarazioni rese negli interrogatori.

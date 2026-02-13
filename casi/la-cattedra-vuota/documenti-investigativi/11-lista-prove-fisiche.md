@@ -142,8 +142,6 @@
 | Personale pulizie (3 soggetti identificati) | Superfici varie (davanzale, porta, scrivania — bordi) | Parziali, frammentarie | Attese — pulizia ordinaria |
 | Dr.ssa Elena Valdi | Scaffalatura libri (lato sinistro, 3° ripiano) | **Vecchie** (parzialmente degradate, sovrapposte da polvere) | Compatibili con visite pregresse e legittime allo studio. **NESSUNA impronta fresca della Valdi su alcuna superficie.** |
 
-**NOTA CRITICA**: L'assenza completa di impronte fresche della Dr.ssa Elena Valdi nello studio è un elemento significativo. La sua visita la sera dell'8 febbraio — durante la quale ha portato il caffè e si è trattenuta brevemente — non ha lasciato impronte rilevabili. Questo è compatibile con due ipotesi: (a) la Valdi ha indossato guanti durante la visita; (b) le superfici toccate (tazzina, moka) sono state lavate. La combinazione di entrambe le ipotesi è la più probabile.
-
 ---
 
 ## SEZIONE B — REPERTI DALLA CUCINA DEL DIPARTIMENTO (1° PIANO)
@@ -168,8 +166,6 @@
 
 **CONFRONTO CON ALTRE MOKA PRESENTI IN CUCINA**: Sullo scaffale della cucina sono presenti altre **4 caffettiere moka** di varie dimensioni (1 tazza, 2 tazze, 6 tazze, 6 tazze). Tutte risultano **asciutte**, con patina di polvere sulla superficie esterna e residui secchi di calcare all'interno. Nessuna mostra segni di utilizzo recente.
 
-**NOTA CRITICA**: La moka con le iniziali "RM" è stata utilizzata di recente — è ancora **umida** all'interno nonostante il sopralluogo sia avvenuto circa 9 ore dopo il decesso stimato. Questo è coerente con un lavaggio effettuato nella tarda serata dell'8 febbraio. La moka è stata usata per preparare il caffè avvelenato e successivamente lavata per rimuovere le tracce di digossina. Il lavaggio, pur accurato, non ha eliminato le tracce nel sifone del lavandino (v. REP-011).
-
 | **Posizione** | Cucina 1° piano, sul piano cottura, fornello anteriore sinistro |
 | **Stato** | **Sequestrato** — Analisi chimica in corso presso il laboratorio della Polizia Scientifica |
 | **Rilevanza** | **ELEVATA** — Veicolo di preparazione della bevanda avvelenata |
@@ -183,8 +179,6 @@
 | **Codice reperto** | REP-010 |
 | **Tipologia** | Oggetti — Tazzine da caffè |
 | **Descrizione** | Nella credenza della cucina del primo piano sono presenti **6 tazzine da espresso** in ceramica bianca con logo dell'Alma Mater Studiorum. Tutte le tazzine sono **pulite e asciutte**. Nessuna presenta residui visibili di caffè recente, macchie di liquido o alone sul fondo. I piattini corrispondenti (6) sono anch'essi puliti. Accanto alle tazzine: 2 cucchiaini in acciaio, puliti. |
-
-**NOTA CRITICA**: Il contenuto gastrico della vittima (cfr. rapporto medico-legale) rivela la presenza di **caffè espresso** consumato in un intervallo compatibile con le ore 23:00-23:30. Tuttavia, nello studio della vittima **non è presente alcuna tazzina** (v. REP-001), e nella cucina **nessuna tazzina mostra segni di utilizzo recente**. Conclusione: la tazzina usata dalla vittima è stata **lavata e riposta** nella credenza dopo l'uso. Questo gesto — incompatibile con un decesso per cause naturali durante il lavoro solitario — indica che una terza persona ha rimosso, lavato e riposto la tazzina per eliminare le tracce.
 
 | **Posizione** | Cucina 1° piano, credenza a muro, secondo ripiano |
 | **Stato** | Documentato fotograficamente (FOTO-020, FOTO-021) — Campionamento superficiale effettuato su tutte le tazzine |
@@ -208,8 +202,6 @@
 | Caffeina | Positivo — tracce | LC-MS/MS |
 | Detergenti | Positivo — residui di tensioattivi (detersivo per piatti) | Spettrofotometria |
 | Profilo microbiologico | Flora batterica tipica di scarico domestico | Coltura |
-
-**NOTA CRITICA**: La presenza di **digossina** nel sifone del lavandino della cucina è la prova diretta che la sostanza tossica è stata **lavata via in questa sede**. La concentrazione rilevata (0,003 mg/mL) è compatibile con il residuo di una soluzione altamente concentrata (20 compresse da 0,25 mg disciolte in circa 30 mL di espresso) che è stata risciacquata dalla tazzina e dalla moka. Le tracce di caffeina confermano che caffè è stato versato/lavato nel lavandino. I residui di detergente indicano che il lavaggio è stato effettuato con detersivo per piatti — coerente con il tentativo di pulizia accurata.
 
 | **Posizione** | Cucina 1° piano, sotto il lavandino |
 | **Stato** | **Sequestrato** — Analisi completata presso laboratorio Polizia Scientifica |
@@ -238,43 +230,11 @@
 | Pavimento antistante (esterno) | Nessuna traccia utile (asfalto, traffico pedonale ordinario) |
 | Pavimento antistante (interno) | Nessuna traccia utile (pavimento in gres, pulito) |
 
-**NOTA**: L'assenza di telecamera su questo accesso è stata segnalata nel rapporto di sicurezza annuale dell'Ateneo (2023) come criticità. L'installazione non è mai stata autorizzata. Questa lacuna ha consentito l'accesso non documentato visivamente della Dr.ssa Valdi.
+**NOTA**: L'assenza di telecamera su questo accesso è stata segnalata nel rapporto di sicurezza annuale dell'Ateneo (2023) come criticità. L'installazione non è mai stata autorizzata.
 
 | **Posizione** | Piano terra, lato Via delle Moline |
 | **Stato** | Esaminato in loco — Documentato fotograficamente (FOTO-025 a FOTO-028) |
-| **Rilevanza** | Punto di accesso utilizzato dall'assassina. Confermato dal log badge (F-0134, ore 22:55). |
-
----
-
-## SEZIONE D — RIEPILOGO E CORRELAZIONI
-
-### Matrice delle prove fisiche e loro connessioni
-
-| Reperto | Connessione con l'omicidio | Connessione con il sospettato |
-|---------|---------------------------|-------------------------------|
-| REP-001 (scrivania) | Assenza tazzina = rimozione prove | Valdi (rimozione della tazzina) |
-| REP-002 (MacBook) | File cancellati, timeline attività | Bruni (furto dati); Marini (vittima) |
-| REP-003 (iPhone) | Messaggi WhatsApp con Valdi | Valdi (pianificazione visita e caffè) |
-| REP-004 (penna) | Cappuccio aperto = interruzione improvvisa | Marini (vittima) |
-| REP-005 (sigaro) | Spento naturalmente = malore | Marini (vittima) |
-| REP-009 (moka "RM") | Veicolo preparazione caffè avvelenato, lavata | Valdi (utilizzo e lavaggio) |
-| REP-010 (tazzine) | Tutte pulite = tazzina usata lavata e riposta | Valdi (occultamento) |
-| REP-011 (sifone) | **Digossina 0,003 mg/mL** — prova chimica diretta | Valdi (lavaggio residui) |
-| REP-012 (impronte) | Bruni su mouse/tastiera; Valdi: solo vecchie | Bruni (accesso PC); Valdi (uso guanti) |
-| REP-013 (porta servizio) | Accesso non sorvegliato | Valdi (ingresso con badge Fabbri) |
-
----
-
-### Catena logica delle prove fisiche
-
-1. La vittima ha consumato caffè espresso (contenuto gastrico).
-2. Non c'è tazzina nello studio (REP-001).
-3. Nessuna tazzina in cucina mostra uso recente (REP-010).
-4. La moka personale della vittima è stata lavata di recente ed è ancora umida (REP-009).
-5. Nel sifone del lavandino della cucina sono presenti tracce di **digossina** (REP-011).
-6. Conclusione: qualcuno ha preparato il caffè nella moka della vittima, vi ha disciolto la digossina, ha portato il caffè allo studio, ha recuperato la tazzina, è tornato in cucina, ha lavato tazzina e moka, e ha riposto tutto.
-
-Questa sequenza di azioni è incompatibile con un decesso per cause naturali e dimostra la presenza di una terza persona che ha agito con premeditazione e successivamente occultato le tracce.
+| **Rilevanza** | Punto di accesso secondario non sorvegliato da telecamere. Log badge acquisito (v. DIG-003). |
 
 ---
 

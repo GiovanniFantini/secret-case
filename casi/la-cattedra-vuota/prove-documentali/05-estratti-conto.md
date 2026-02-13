@@ -52,10 +52,6 @@
 
 ---
 
-**[Nota investigativa: Il bonifico mensile di €800 verso il conto IT44 K030 6913 1041 0000 0078 XX è ricorrente da almeno 36 mesi (riscontro su estratto conto esteso). La causale "Rata mensile" è generica. Disporre accertamento sull'intestatario del conto beneficiario — possibile collegamento con la società Adriatica Immobiliare S.r.l. di Rimini e/o il prestanome Giovanni Mazzocchi (cfr. Prova Doc. N. 4, conversazione Conti-Sergio). Lo Studio Legale Ruggeri (Avv. Patrizia Ruggeri, Foro di Bologna) risulta specializzato in diritto di famiglia — incarico relativo alla causa di divisione patrimoniale post-divorzio con Federica Conti — Comm. Grimaldi, 16/02/2025]**
-
----
-
 ---
 
 ## ESTRATTO CONTO N. 2 — DOTT.SSA ELENA VALDI (sospettata)
@@ -96,18 +92,6 @@
 
 ---
 
-**[NOTA INVESTIGATIVA — ELEMENTI CRITICI:**
-
-**1) Farmacia San Luca, Casalecchio di Reno:** Due acquisti (20/12/2024 e 20/01/2025) presso la Farmacia San Luca di Casalecchio di Reno. La madre della Dott.ssa Valdi, Rosa Valdi (n. 1955), è residente a Casalecchio di Reno e risulta in cura con LANOXIN 0,250 mg (digossina) per fibrillazione atriale cronica, prescrizione del Dott. Fabio Marchetti, medico di base — ASL Bologna. DISPORRE VERIFICA IMMEDIATA sugli scontrini N. 4821 e N. 5103: verificare se tra i farmaci acquistati figurano confezioni di Lanoxin o equivalenti a base di digossina. Verificare quante confezioni sono state dispensate e se il quantitativo è compatibile con la terapia prescritta o eccedente.
-
-**2) Telepass — 8 febbraio 2025, ore 22:47:** L'ingresso al casello autostradale di Bologna Borgo Panigale alle ore 22:47 della sera del delitto indica che la Dott.ssa Valdi ha lasciato Bologna in tarda serata, DOPO l'orario stimato del decesso della vittima (20:30-23:00). Riscontro successivo: uscita al casello Milano Sud alle 00:32 del 9 febbraio, check-in all'Hotel Principe di Savoia registrato alle ore 01:15 del 9 febbraio. LA DOTT.SSA VALDI ERA A BOLOGNA LA SERA DELL'8 FEBBRAIO E HA VIAGGIATO VERSO MILANO IN PIENA NOTTE.
-
-**3) Acquisto Autogrill ore 23:28:** Lo scontrino dell'Autogrill di Secchia Ovest (area di servizio sull'A1, tra Modena e Reggio Emilia) conferma il transito notturno sulla direttrice Bologna-Milano.
-
-**Questi elementi sono da incrociare con i messaggi WhatsApp (Prova Doc. N. 4) e con i dati GPS del dispositivo mobile — Comm. Grimaldi, 16/02/2025]**
-
----
-
 ---
 
 ## ESTRATTO CONTO N. 3 — PROF. CARLO BRUNI
@@ -138,10 +122,6 @@
 | 02/02/2025 | Accredito stipendio — Alma Mater Studiorum — Mensilità febbraio | | 5.218,90 | 19.890,65 |
 | 05/02/2025 | Addebito automatico — Mutuo BNL — Rata mensile | 1.120,00 | | 18.770,65 |
 | 08/02/2025 | POS — Enoteca Italiana, Bologna — ore 19:45 | 42,00 | | 18.728,65 |
-
----
-
-**[Nota investigativa: Il pagamento di €4.500 del 2 gennaio 2025 alla Rivista Europea di Diritto costituisce la publication fee per l'articolo "Comparative Constitutional Identity in the European Framework", il paper che secondo la segnalazione del Prof. Marini (cfr. Email N. 1, Prova Doc. N. 4) conterrebbe sovrapposizioni con il lavoro del Dott. Alessio Ferrara (Univ. di Padova). L'importo è significativamente elevato per una publication fee accademica standard (normalmente €1.500-€2.500), il che potrebbe indicare un supplemento per revisione accelerata / fast-track. Il Prof. Bruni aveva interesse a pubblicare rapidamente prima che le sovrapposizioni venissero scoperte? Da verificare le tempistiche editoriali. L'acquisto presso l'Enoteca Italiana alle 19:45 dell'8 febbraio colloca Bruni a Bologna la sera del delitto — Comm. Grimaldi, 17/02/2025]**
 
 ---
 
@@ -183,20 +163,6 @@
 | 07/02/2025 | POS — Coop Alleanza 3.0, Parma — ore 18:30 | 62,40 | | 29.289,14 |
 | 08/02/2025 | POS — Stazione di servizio IP, Parma — ore 09:15 | 55,00 | | 29.234,14 |
 | 08/02/2025 | POS — Ristorante Cocchi, Parma — ore 20:30 | 88,00 | | 29.146,14 |
-
----
-
-**[NOTA INVESTIGATIVA — ELEMENTI CRITICI:**
-
-**1) Investigazioni Parma S.r.l.:** Pagamento di €3.000 in data 8 gennaio 2025. Conferma l'incarico a un investigatore privato per monitorare il Prof. Marini (cfr. conversazioni WhatsApp, Prova Doc. N. 4). Movente patrimoniale documentato.
-
-**2) Studio Legale Ruggeri:** Anche Federica Conti risulta collegata allo Studio Legale Ruggeri (come il Prof. Marini — cfr. Estratto Conto N. 1). Si tratta dello stesso studio, che assiste entrambe le parti nella causa di divisione patrimoniale post-divorzio. Anomalia da verificare: possibile conflitto di interessi, oppure lo studio ha due partner che assistono le parti separatamente.
-
-**3) ASSENZA DI PRENOTAZIONE ALBERGHIERA A ROMA — 7/8 FEBBRAIO:** La Sig.ra Conti ha dichiarato durante l'interrogatorio preliminare di trovarsi a Roma nel weekend del 7-8 febbraio per un "convegno di diritto penale". Dall'estratto conto NON RISULTA alcuna spesa alberghiera a Roma nelle date indicate. Nessun addebito per hotel, nessun POS nella città di Roma, nessun biglietto ferroviario o aereo per Roma. Gli unici movimenti dell'8 febbraio sono a Parma (stazione di servizio e ristorante). Se la Sig.ra Conti era effettivamente a Roma, come ha pagato l'albergo? Contanti? Ospite di qualcuno? Oppure non era a Roma? DISCREPANZA DA APPROFONDIRE IN SEDE DI INTERROGATORIO.
-
-**4) Pedaggi autostradali:** I pedaggi Telepass mensili sono consistenti (€186-210/mese), indicativi di spostamenti frequenti, probabilmente sulla direttrice Parma-Bologna. Richiedere dettaglio transiti Telepass per l'intero periodo.
-
-**— Comm. Grimaldi, 17/02/2025]**
 
 ---
 

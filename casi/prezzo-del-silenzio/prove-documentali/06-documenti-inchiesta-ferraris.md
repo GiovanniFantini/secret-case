@@ -85,8 +85,6 @@ Dal file `note_investigative.txt`:
 >
 > **Nota personale:** *"Se mi succede qualcosa, tutto il materiale è su Tresorit. Password nel mio testamento. Chiave di recupero presso lo Studio Revelli."*
 
-> **Nota per i giocatori:** La "nota personale" di Ferraris suggerisce che sapeva di essere in pericolo. E il materiale è sopravvissuto grazie al cloud — esattamente come aveva previsto.
-
 ---
 
 *Materiale sotto sequestro giudiziario*

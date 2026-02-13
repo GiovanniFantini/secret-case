@@ -91,10 +91,6 @@ Non si ravvisano i presupposti per l'attivazione del Comitato Unico di Garanzia.
 
 ---
 
-**[Nota investigativa: La Dott.ssa Giulia Ferrara ha successivamente abbandonato il dottorato nel marzo 2018 (rinuncia volontaria) e non risulta più attiva in ambito accademico. Attuale residenza: Reggio Emilia. Da convocare come teste — Comm. Grimaldi, 17/02/2025]**
-
----
-
 ---
 
 ## DOCUMENTO 2 — SECONDO ESPOSTO
@@ -173,10 +169,6 @@ Si dispone l'archiviazione della pratica.
 
 **[Annotazione manoscritta a margine, grafia identificata come appartenente al Dott. Santini:]**
 *"Colloquio con il Rettore, 15/03/2019 — situazione gestita"*
-
----
-
-**[Nota investigativa: L'annotazione manoscritta dimostra il coinvolgimento diretto del Rettore, Prof. Giacomo Magnani, nella gestione dell'esposto. Il "colloquio con il Rettore" del 15 marzo 2019 precede di soli tre giorni il ritiro dell'esposto da parte della studentessa Berardi (18 marzo 2019). Chi ha parlato con la studentessa tra il 15 e il 18 marzo? Con quali argomenti è stata convinta a ritirare la denuncia? La studentessa Berardi ha superato l'esame di Diritto Costituzionale Progredito il 28 maggio 2019 con la votazione di 28/30. Attualmente avvocato a Ferrara. Da convocare come teste — Comm. Grimaldi, 17/02/2025]**
 
 ---
 
@@ -288,30 +280,6 @@ Si dispone la chiusura della pratica e l'archiviazione riservata della documenta
 
 **[Annotazione manoscritta a piè di pagina, grafia identificata come appartenente al Dott. Santini:]**
 *"Su indicazione del Rettore Prof. Magnani. Il Rettore ha espressamente richiesto che la pratica non venga portata all'attenzione del CUG. Garantire la massima riservatezza. Conservare la documentazione in archivio riservato."*
-
----
-
-**[NOTA INVESTIGATIVA — ELEMENTI CRITICI:**
-
-**1) Pattern sistematico:** I tre esposti, presentati nell'arco di cinque anni (2017-2022), descrivono un pattern coerente e ripetitivo: approccio progressivo, pressioni sessuali, minacce alla carriera, ritorsioni in caso di rifiuto. Le tre segnalanti non risultano in contatto tra loro nel periodo delle rispettive denunce, il che rafforza la credibilità del racconto.
-
-**2) Insabbiamento sistematico:** In nessuno dei tre casi è stato attivato il Comitato Unico di Garanzia (CUG) dell'Ateneo, come previsto dall'art. 57 del D.Lgs. 165/2001 e successive modifiche, nonché dalla Direttiva del Ministro per la Pubblica Amministrazione del 4 marzo 2011 e dal Regolamento interno dell'Ateneo. L'omissione appare deliberata e documentata nell'ultimo caso dall'annotazione attribuita al Santini, che riferisce una esplicita indicazione del Rettore.
-
-**3) Ruolo del Dott. Santini:** Il Segretario Amministrativo Marco Santini ha gestito personalmente tutti e tre gli esposti, procedendo in ogni caso all'archiviazione senza attivare gli organi competenti. La circostanza che il materiale sia stato rinvenuto parzialmente distrutto nel suo ufficio (distruggidocumenti) suggerisce un tentativo di eliminazione delle prove, verosimilmente successivo alla notizia dell'apertura dell'indagine per omicidio.
-
-**4) Ruolo del Rettore Prof. Magnani:** Il Rettore risulta coinvolto direttamente nella gestione di almeno due dei tre esposti (annotazioni manoscritte) e, nel terzo caso, ha espressamente disposto la mancata attivazione del CUG. Il suo ruolo nell'insabbiamento è documentato.
-
-**5) Connessione con il movente dell'omicidio:** Le denunce insabbiate costituiscono un elemento chiave per la ricostruzione del movente. Tra i sospetti figura la Dott.ssa Elena Valdi, attuale ricercatrice del Dipartimento e già dottoranda sotto la supervisione del Prof. Marini (Ciclo XXXI, 2015-2018). La Valdi non risulta tra le denuncianti, ma le conversazioni WhatsApp acquisite (cfr. Prova Doc. N. 4) dimostrano una profonda conoscenza del pattern molesto e un coinvolgimento diretto nell'organizzazione dell'inchiesta giornalistica. Le parole di Tommaso Rossi ("Ha le sue cicatrici da questa storia") suggeriscono che Valdi stessa sia stata vittima di comportamenti analoghi. VERIFICARE.
-
-**6) Tentativo di distruzione delle prove:** Il ritrovamento di frammenti dei documenti nel distruggidocumenti dell'ufficio di Santini integra potenzialmente il reato di cui all'art. 490 c.p. (Soppressione, distruzione e occultamento di atti veri). Valutare l'apertura di un procedimento separato a carico del Dott. Santini e l'eventuale coinvolgimento del Rettore.
-
-**Dispongo:**
-- Convocazione della Dott.ssa Giulia Ferrara, dell'Avv. Anna Berardi e della Dott.ssa Laura Vitale come testimoni;
-- Acquisizione della documentazione del CUG dell'Ateneo relativa al periodo 2017-2023;
-- Interrogatorio formale del Dott. Marco Santini con specifica contestazione relativa alla distruzione dei documenti;
-- Comunicazione alla Procura per valutazione ipotesi di reato a carico di Santini e del Rettore Magnani.
-
-**— Comm. Grimaldi, 18/02/2025]**
 
 ---
 

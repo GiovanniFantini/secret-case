@@ -49,10 +49,10 @@ Questi verbali d'interrogatorio sono il cuore dell'indagine. Ogni sospettato ha 
 
 | Ordine | Documento | Sospettato |
 |--------|-----------|------------|
-| 1 | Verbale Interrogatorio Sospetto 1 | `documenti-investigativi/verbale-interrogatorio-sospetto-1.md` — **Chef Alessandro Rizzoli** (chef patron e proprietario) |
+| 1 | Verbale Interrogatorio Sospetto 1 | `documenti-investigativi/verbale-interrogatorio-sospetto-1.md` — **Chef Tommaso Rizzoli** (chef patron e proprietario) |
 | 2 | Verbale Interrogatorio Sospetto 2 | `documenti-investigativi/verbale-interrogatorio-sospetto-2.md` — **Ilaria Mura** (sommelier) |
-| 3 | Verbale Interrogatorio Sospetto 3 | `documenti-investigativi/verbale-interrogatorio-sospetto-3.md` — **Dott. Federico Mancini** (editore, commensale) |
-| 4 | Verbale Interrogatorio Sospetto 4 | `documenti-investigativi/verbale-interrogatorio-sospetto-4.md` — **Giulia Pellegrini** (giornalista, commensale) |
+| 3 | Verbale Interrogatorio Sospetto 3 | `documenti-investigativi/verbale-interrogatorio-sospetto-3.md` — **Dott. Sergio Mancini** (critico gastronomico, commensale) |
+| 4 | Verbale Interrogatorio Sospetto 4 | `documenti-investigativi/verbale-interrogatorio-sospetto-4.md` — **Giorgio Pellegrini** (imprenditore, commensale) |
 | 5 | Verbale Interrogatorio Sospetto 5 | `documenti-investigativi/verbale-interrogatorio-sospetto-5.md` — **Claudia Fontana** (figlia della vittima, commensale) |
 | 6 | Verbale Interrogatorio Sospetto 6 | `documenti-investigativi/verbale-interrogatorio-sospetto-6.md` — **Matteo Galli** (sous-chef) |
 
@@ -171,12 +171,12 @@ Quando sei pronto a formulare la tua soluzione:
 | `report-medico-legale.md` | Perizia medica | Risultanze dell'autopsia, analisi tossicologica e causa del decesso |
 | `mappa-scena-crimine.md` | Mappa | Planimetria del ristorante con disposizione dei tavoli, cucina, cantina e percorsi |
 | `lista-prove-fisiche.md` | Inventario | Elenco completo delle prove raccolte sulla scena (piatto, bicchieri, oggetti personali) |
-| `verbale-interrogatorio-sospetto-1.md` | Interrogatorio | Chef Alessandro Rizzoli, 52 anni, chef patron e proprietario |
-| `verbale-interrogatorio-sospetto-2.md` | Interrogatorio | Ilaria Mura, 37 anni, sommelier |
-| `verbale-interrogatorio-sospetto-3.md` | Interrogatorio | Dott. Federico Mancini, 48 anni, editore gastronomico |
-| `verbale-interrogatorio-sospetto-4.md` | Interrogatorio | Giulia Pellegrini, 41 anni, giornalista enogastronomica |
-| `verbale-interrogatorio-sospetto-5.md` | Interrogatorio | Claudia Fontana, 34 anni, figlia della vittima |
-| `verbale-interrogatorio-sospetto-6.md` | Interrogatorio | Matteo Galli, 28 anni, sous-chef |
+| `verbale-interrogatorio-sospetto-1.md` | Interrogatorio | Chef Tommaso Rizzoli, 48 anni, chef patron e proprietario |
+| `verbale-interrogatorio-sospetto-2.md` | Interrogatorio | Ilaria Mura, 42 anni, sommelier |
+| `verbale-interrogatorio-sospetto-3.md` | Interrogatorio | Dott. Sergio Mancini, 58 anni, critico gastronomico |
+| `verbale-interrogatorio-sospetto-4.md` | Interrogatorio | Giorgio Pellegrini, 55 anni, imprenditore |
+| `verbale-interrogatorio-sospetto-5.md` | Interrogatorio | Claudia Fontana, 36 anni, figlia della vittima |
+| `verbale-interrogatorio-sospetto-6.md` | Interrogatorio | Matteo Galli, 29 anni, sous-chef |
 | `registro-telecamere.md` | Registro video | Log delle telecamere di sicurezza del ristorante (cucina, sala, cantina, ingresso) |
 | `timeline-eventi.md` | Cronologia | Ricostruzione cronologica degli eventi della sera dell'8 marzo 2025 |
 

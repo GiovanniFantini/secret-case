@@ -37,7 +37,7 @@
 | Caricatore | **Impronte parziali** della vittima (compatibili con caricamento precedente) |
 | Canna | N/A (superficie non idonea) |
 
-> **DATO CRITICO:** L'assenza totale di impronte digitali sull'impugnatura, sul grilletto e sul carrello è **altamente anomala in un caso di suicidio**. In un atto autolesivo, ci si aspetta di trovare le impronte del soggetto almeno sull'impugnatura e sul grilletto. L'arma appare essere stata **deliberatamente pulita** prima di essere posizionata nella mano della vittima. Le impronte sul caricatore (compatibili con quelle della vittima) indicano che Ferraris aveva caricato l'arma in precedenza, ma che qualcun altro l'ha impugnata e poi pulita al momento dello sparo.
+> **Nota dell'analista:** L'assenza totale di impronte digitali sull'impugnatura, sul grilletto e sul carrello è un elemento da approfondire. In un atto autolesivo, di norma si riscontrano le impronte del soggetto almeno sull'impugnatura e sul grilletto. Le impronte sul caricatore (compatibili con quelle della vittima) indicano un precedente contatto con l'arma.
 
 ---
 
@@ -84,7 +84,7 @@ Analisi GSR effettuata tramite microscopia elettronica a scansione con spettrome
 
 ### Interpretazione della distribuzione GSR
 
-> **DATO CRITICO — Distribuzione anomala dei residui di sparo:**
+> **Nota dell'analista — Distribuzione dei residui di sparo:**
 >
 > In un tipico suicidio con arma da fuoco impugnata nella mano destra:
 > - Il **dorso della mano** (esposto verso l'esterno durante l'impugnatura) raccoglie la maggior concentrazione di GSR

@@ -38,7 +38,7 @@
 | 12/02/2025 | Bonifico a AVV. LAURA COSTA - Acconto consulenza legale | 500,00 | | 6.116,72 |
 | 15/02/2025 | PagoBancomat - DECATHLON Parma Retail Park | 45,90 | | 6.070,82 |
 | 18/02/2025 | Addebito SDD - TIM SPA - Abbonamento mobile | 29,99 | | 6.040,83 |
-| **22/02/2025** | **Pagamento PostePay online - ASIAMARKET.IT - Rif. ordine AM-2025-08834** | **18,90** | | **6.021,93** |
+| 22/02/2025 | Pagamento PostePay online - ASIAMARKET.IT - Rif. ordine AM-2025-08834 | 18,90 | | 6.021,93 |
 | 25/02/2025 | PagoBancomat - COOP ALLEANZA Parma | 93,18 | | 5.928,75 |
 | 28/02/2025 | PagoBancomat - STAZIONE DI SERVIZIO IP - Fidenza | 55,00 | | 5.873,75 |
 | 01/03/2025 | Accredito stipendio - IL CENACOLO D'ORO SRL | | 2.800,00 | 8.673,75 |
@@ -56,9 +56,6 @@
 - **Libretto di risparmio postale:** Euro 2.340,00 (ultimo aggiornamento 31/12/2024)
 - **Debito verso Massimo Fontana:** Euro 68.000,00 (come da lettera di messa in mora del 15/01/2025)
 - **Patrimonio netto stimato:** Euro -58.358,31
-
-### Nota investigativa:
-> **ELEMENTO CHIAVE:** Il pagamento del 22/02/2025 a "ASIAMARKET.IT" di Euro 18,90 tramite carta PostePay n. **** 4821 corrisponde all'ordine n. AM-2025-08834, relativo all'acquisto di "Olio di Arachidi Raffinato Premium 250ml". La correlazione con la ricevuta di AsiaMarket.it (vd. fascicolo ricevute-scontrini) e con i messaggi WhatsApp del 4 marzo 2025 (richiesta di consegna all'indirizzo di Sara Ferretti) configura un quadro probatorio di particolare gravita.
 
 ---
 
@@ -106,11 +103,6 @@
 - **Crediti: Verso Moretti Elena:** Euro 25.000,00 (anticipo progetto editoriale "Le Cene dei Grandi", annullato)
 - **Patrimonio netto stimato:** Euro 7.608.318,12
 
-### Nota investigativa:
-> L'accredito del 28/02/2025 di Euro 450.000,00 da Springer Gastronomie GmbH rappresenta un anticipo del 10% sul prezzo di cessione della Guida Fontana (totale: Euro 4.500.000,00). Il Sig. Fontana disponeva di un patrimonio molto rilevante. La figlia Claudia Fontana risulta unica erede testamentaria (vd. testamento olografo depositato presso Notaio Dott. Alessandro Verdi, Parma).
->
-> **CREDITI VERSO TERZI:** Oltre al credito di Euro 68.000 verso Mura Ilaria, risultano: (a) un prestito personale di Euro 12.000 al maitre Franco Colombo (marzo 2023), di cui Euro 4.000 restituiti — residuo Euro 8.000; (b) un anticipo di Euro 25.000 alla giornalista Elena Moretti (settembre 2023) per il progetto editoriale "Le Cene dei Grandi", successivamente annullato — importo non restituito. Entrambi i crediti configurano rapporti finanziari tra la vittima e persone presenti alla cena dell'8 marzo.
-
 ---
 
 ## ESTRATTO CONTO N. 3 - GIORGIO PELLEGRINI
@@ -136,9 +128,6 @@
 | 01/03/2025 | Addebito - MUTUO UniCredit Rif. 78234 (rata mensile) | 4.800,00 | | 298.880,45 |
 | 05/03/2025 | Bonifico a IL CENACOLO D'ORO SRL - "Finanziamento soci per cena evento 08/03" | 15.000,00 | | 283.880,45 |
 | | **SALDO FINALE AL 09/03/2025** | | | **283.880,45** |
-
-### Nota investigativa:
-> L'investimento di Euro 800.000,00 per il 40% de Il Cenacolo d'Oro rappresenta la quota piu rilevante del patrimonio del Pellegrini, che ha anche un mutuo significativo. Il declassamento nella Guida Fontana avrebbe avuto un impatto economico diretto e sostanziale sulla redditivita dell'investimento. Il versamento del 05/03/2025 di Euro 15.000,00 per la "cena evento" conferma l'importanza attribuita dal Pellegrini alla serata dell'8 marzo.
 
 ---
 
@@ -171,9 +160,6 @@
 | 05/03/2025 | Addebito SDD - MUTUO BPER Rif. M-2023-00891 (rata mensile - Abitazione) | 1.450,00 | | 8.087,56 |
 | 06/03/2025 | Bonifico a METRO Cash&Carry - Forniture cena evento 08/03 | 1.890,00 | | 6.197,56 |
 | | **SALDO FINALE AL 09/03/2025** | | | **6.197,56** |
-
-### Nota investigativa:
-> Il Sig. Rizzoli ha un'esposizione debitoria complessiva significativa: Euro 3.200,00/mese per il mutuo relativo alle attrezzature del ristorante e Euro 1.450,00/mese per il mutuo dell'abitazione, per un totale di Euro 4.650,00/mese a fronte di uno stipendio di Euro 5.200,00. La perdita della seconda stella Michelin (e della corrispondente stella nella Guida Fontana) avrebbe messo a rischio la sostenibilita finanziaria dello chef. Tuttavia, non emergono movimenti anomali o riconducibili all'acquisto di sostanze allergeniche.
 
 ---
 
@@ -214,9 +200,6 @@
 - **Nessun altro conto o deposito titoli risultante**
 - **Reddito mensile stimato:** Euro 2.050,00 (collaborazioni giornalistiche)
 - **Patrimonio netto stimato:** Euro 5.329,48
-
-### Nota investigativa:
-> Il Sig. Mancini presenta una situazione finanziaria modesta, coerente con una carriera giornalistica in declino. Di rilievo i pagamenti ad Aruba (hosting web) e WordPress (piano premium), riconducibili alla gestione del blog anonimo "Il Mangione Critico" (URL: www.ilmangionecritico.blog), dal quale risultano pubblicati articoli fortemente denigratori nei confronti del Sig. Fontana (vd. fascicolo post-social-media). Il pagamento al Bar Sport di Via Mazzini alle ore 16:42 dell'8 marzo 2025 fornisce un elemento per la ricostruzione della timeline del Mancini nel pomeriggio precedente la cena.
 
 ---
 

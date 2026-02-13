@@ -46,7 +46,7 @@ La mattina di domenica 19 gennaio 2025, alle ore 08:15, la donna delle pulizie M
 | Professione | Amministratore delegato di PharmaNova S.p.A., azienda farmaceutica con sede a Torino |
 | Movente apparente | L'inchiesta di Ferraris avrebbe rivelato sperimentazioni cliniche illegali con 3 decessi insabbiati |
 | Alibi dichiarato | Cena di lavoro al ristorante "Il Cambio", Piazza Carignano 2, dalle 20:00 alle 23:30, con colleghi del CdA |
-| Ruolo effettivo | **IL COLPEVOLE** — Ferro si è recato all'appartamento di Ferraris alle 21:00 con la scusa di un incontro off-the-record. Ha sedato Ferraris con midazolam (benzodiazepina a cui aveva accesso come CEO farmaceutico) aggiunto nel bicchiere di whisky. Una volta incosciente, ha usato la Beretta della vittima per sparargli alla tempia destra, simulando un suicidio. Ha poi pulito la pistola, scritto una falsa nota di suicidio sul laptop, cancellato i file dell'inchiesta, resettato il telefono, e portato via la chiavetta USB di backup, il proprio bicchiere di whisky e la bottiglia di Barolo che aveva portato come "omaggio". È uscito dalle scale di servizio attraverso il garage alle 22:05, raggiungendo il ristorante alle 22:20. Il pagamento con carta alle 22:47 copre solo drinks e dessert — i colleghi confermano il suo arrivo tardivo. Il GPS del suo telefono lo colloca nel quartiere Crocetta (zona di Ferraris) dalle 20:50 alle 22:08. Sul suo computer di lavoro, ricerche su "angolo ferita suicidio arma da fuoco", "rilevamento midazolam autopsia", "GSR suicidio distribuzione". |
+| Ruolo effettivo | **IL COLPEVOLE** — Ferro si è recato all'appartamento di Ferraris alle 21:00 con la scusa di un incontro off-the-record. Ha sedato Ferraris con midazolam (benzodiazepina a cui aveva accesso come CEO farmaceutico) aggiunto nel bicchiere di whisky. Una volta incosciente, ha usato la Beretta della vittima per sparargli alla tempia destra, simulando un suicidio. Ha poi pulito la pistola, scritto una falsa nota di suicidio sul laptop, cancellato i file dell'inchiesta, resettato il telefono, e portato via la chiavetta USB di backup, il proprio bicchiere di whisky e la bottiglia di Barolo che aveva portato come "omaggio". È uscito dalle scale di servizio attraverso il garage alle 22:05, raggiungendo il ristorante alle 22:20. Il pagamento con carta alle 22:47 copre solo drinks e dessert — i colleghi confermano il suo arrivo tardivo. Il GPS del suo telefono lo colloca nel quartiere Crocetta (zona di Ferraris) dalle 20:50 alle 22:08. Sul suo computer di lavoro, ricerche su "ferita arma da fuoco tempia angolo sparo", "midazolam rilevamento tossicologia post mortem", "residui di sparo distribuzione mano suicidio omicidio differenze" — alternate a ricerche di natura aziendale/normativa che forniscono una copertura plausibile. |
 
 ### Sospetto 2 — Avv. Vittorio Mazza (61 anni)
 
@@ -132,7 +132,7 @@ Impedire la pubblicazione dell'inchiesta di Ferraris sulle sperimentazioni clini
 | 6 | Mercedes Classe E scura nel parcheggio esterno dalle 20:55 alle 22:10 — Ferro guida una Mercedes E220 | Trascrizioni audio (CCTV) / Timeline | Da collegare |
 | 7 | Ferro pagamento carta al ristorante alle 22:47 (solo drinks), colleghi confermano arrivo alle 22:20 | Ricevute e scontrini / Verbale interrogatorio | Da collegare |
 | 8 | GPS telefono di Ferro lo colloca nella zona Crocetta (quartiere Ferraris) dalle 20:50 alle 22:08 | Analisi GPS telefoni | Diretto |
-| 9 | Ricerche web di Ferro: "angolo ferita suicidio", "midazolam rilevamento autopsia" | Analisi digitale forense | Diretto |
+| 9 | Ricerche web di Ferro: "ferita arma da fuoco tempia", "midazolam rilevamento tossicologia" — alternate a ricerche normative | Analisi digitale forense | Da collegare |
 | 10 | Backup cloud dell'inchiesta su PharmaNova sopravvissuto alla cancellazione | Analisi digitale forense / Documenti inchiesta | Da collegare |
 | 11 | Nota di suicidio scritta alle 21:52 — Ferraris già sotto effetto del sedativo | Analisi digitale forense / Rapporto medico-legale | Da collegare |
 | 12 | Prelievi contanti anomali di Ferro: €8.000 tra il 5 e il 15 gennaio | Estratti conto | Nascosto |
@@ -185,8 +185,8 @@ Impedire la pubblicazione dell'inchiesta di Ferraris sulle sperimentazioni clini
 
 | Tipo | % | Elementi principali |
 |------|---|---------------------|
-| Indizi diretti (30%) | | Pistola senza impronte; midazolam nel sangue; GPS di Ferro nella zona del delitto; ricerche web di Ferro |
-| Indizi da collegare (40%) | | Citofono + cancello garage; Mercedes nel parcheggio + auto di Ferro; ricevuta ristorante + arrivo tardivo; backup cloud + inchiesta PharmaNova; metadata nota suicidio + orario sedazione |
+| Indizi diretti (25%) | | Pistola senza impronte; midazolam nel sangue; GPS di Ferro compatibile con la zona del delitto |
+| Indizi da collegare (45%) | | Citofono + cancello garage; Mercedes nel parcheggio + auto di Ferro; ricevuta ristorante + arrivo tardivo; backup cloud + inchiesta PharmaNova; metadata nota suicidio + orario sedazione; ricerche web alternate a ricerche normative |
 | Indizi nascosti (20%) | | Secondo bicchiere mancante (segno nella polvere); bottiglia di vino fantasma (tracce nel lavandino); prelievi contanti anomali; nota senza nomi dei familiari |
 | Red herring (10%) | | Polizza vita di Sara; buco nell'alibi di Baldini; email minacciosa di Mazza; discussione di Valentina |
 

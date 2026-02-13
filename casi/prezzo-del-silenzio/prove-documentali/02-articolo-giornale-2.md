@@ -39,5 +39,3 @@ Secondo indiscrezioni, tra le persone sentite figurano familiari della vittima, 
 Il direttore del Corriere Subalpino, Giorgio Ferretti, ha confermato che Ferraris stava lavorando a *"un'inchiesta di portata nazionale"* il cui contenuto non può essere rivelato *"per ragioni investigative e legali"*. La Procura ha sequestrato tutto il materiale giornalistico di Ferraris.
 
 ---
-
-> **Nota per i giocatori:** Questo articolo conferma che il suicidio è stato smentito dalle prove scientifiche. Ora sapete che il midazolam, la pistola pulita e i file cancellati sono elementi chiave. La domanda è: chi aveva accesso al midazolam, alla pistola e all'appartamento?

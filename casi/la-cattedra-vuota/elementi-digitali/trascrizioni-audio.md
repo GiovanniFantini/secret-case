@@ -77,12 +77,6 @@
 
 ---
 
-### NOTA INVESTIGATIVA — REG. 1
-
-> La frase "Ci penso io", ripetuta due volte dalla Dr.ssa Valdi, assume rilevanza investigativa alla luce degli eventi successivi. Il tono della Valdi è stato descritto dall'analista audio come "controllato ma emotivamente carico, con un'intensità che suggerisce una determinazione già consolidata piuttosto che un impulso momentaneo." La frase "Nessuna di noi sarà più sola" potrebbe indicare che la Valdi aveva già maturato un proposito preciso, tre settimane prima dei fatti.
-
----
-
 ## REGISTRAZIONE 2
 ### Chiamata al 112 — Giuseppe Mancini (custode)
 
@@ -124,12 +118,6 @@
 
 ---
 
-### NOTA INVESTIGATIVA — REG. 2
-
-> Il custode Mancini descrive la porta chiusa dall'interno con il "pomello di blocco" (chiavistello a rotazione). Questo particolare è stato inizialmente interpretato come indicativo di morte naturale (il professore si sarebbe chiuso dentro per lavorare e avrebbe avuto un malore). Successivamente si è appurato che il chiavistello può essere girato anche dall'esterno utilizzando una moneta o un oggetto piatto inserito nella fessura del pomello — circostanza nota a chiunque frequenti regolarmente l'edificio. La scena è stata quindi deliberatamente predisposta per simulare una morte in solitudine.
-
----
-
 ## REGISTRAZIONE 3
 ### Messaggio in segreteria telefonica: Prof.ssa Silvia Colombo → Elena Valdi
 
@@ -147,14 +135,6 @@
 
 ---
 
-### NOTA INVESTIGATIVA — REG. 3
-
-> Questo messaggio conferma che: (1) la Dr.ssa Valdi ha abbandonato la cena sociale del convegno in modo improvviso; (2) il pretesto utilizzato è stato il "mal di testa"; (3) la Prof.ssa Colombo ha lasciato il messaggio alle 21:35, cioè **27 minuti dopo** lo spegnimento del telefono della Valdi (21:08). Il telefono era già spento al momento della ricezione del messaggio, che è stato recapitato in segreteria. La Valdi ha ascoltato il messaggio solo dopo la riaccensione del telefono (ore 02:00 circa del 9 febbraio).
->
-> La Colombo menziona il mal di testa come un malessere già comunicato dalla Valdi — indicando che il pretesto era stato preparato in anticipo durante la cena, prima dell'uscita.
-
----
-
 ## REGISTRAZIONE 4
 ### Messaggio in segreteria telefonica: Elena Valdi → Prof.ssa Silvia Colombo
 
@@ -169,18 +149,6 @@
 **VALDI:** *[Voce bassa, leggermente rauca e tesa.]* Ciao Silvia, scusa tantissimo per la cena. L'emicrania era tremenda, ho preso una compressa e mi sono addormentata di schianto. *[Brevissima pausa.]* Ora sto un po' meglio. Ci vediamo domani alla sessione delle 9. Buonanotte.
 
 *[Fine messaggio.]*
-
----
-
-### NOTA INVESTIGATIVA — REG. 4
-
-> **Analisi vocale:** La voce della Valdi presenta segni di tensione e affaticamento superiori a quelli normalmente associati al risveglio da un sonno per emicrania. L'analista fonetico ha segnalato "lieve costrizione laringea compatibile con stato di stress emotivo, non con stato di rilassamento post-sonno."
->
-> **Rumore di fondo:** Il fruscio presente nella registrazione è stato analizzato dal laboratorio di fonetica forense. L'analisi spettrale indica un rumore a banda larga continuo, compatibile con: (a) traffico urbano filtrato da un vetro (finestra d'albergo su strada trafficata), oppure (b) rumore aerodinamico da abitacolo di veicolo in movimento ad alta velocità. Non è possibile distinguere in modo conclusivo tra le due ipotesi. Si segnala tuttavia che l'Hotel Principe di Savoia affaccia su Piazza della Repubblica, area a traffico significativamente ridotto alle ore 02:15.
->
-> **Cronologia:** I registri della key card dell'Hotel Principe di Savoia indicano l'ingresso della Valdi in camera alle ore 01:48. Il messaggio è stato lasciato alle ore 02:15, ovvero 27 minuti dopo il rientro in camera. Il dato è compatibile con la presenza in hotel al momento del messaggio. Tuttavia, il messaggio è stato lasciato **dopo** il completamento del viaggio di ritorno Milano–Bologna–Milano, e ha la funzione oggettiva di costruire un alibi ("mi sono addormentata") per l'intero periodo di assenza.
->
-> **ELEMENTO CRITICO:** La Valdi afferma di essersi "addormentata di schianto" dopo aver preso una compressa. Se fosse vero, non avrebbe potuto lasciare un messaggio lucido e articolato alle 02:15. La versione è internamente incoerente: o si è addormentata subito (e non avrebbe chiamato alle 2 di notte), oppure è rimasta sveglia fino alle 02:15 (e la storia dell'addormentamento improvviso è falsa). In entrambi i casi, la dichiarazione è mendace.
 
 ---
 
@@ -230,16 +198,6 @@
 
 ---
 
-### NOTA INVESTIGATIVA — REG. 5
-
-> Questa registrazione è una delle 12 effettuate dalla Moretti nel periodo settembre 2024–gennaio 2025, tutte conservate in una cartella nascosta del suo iPhone denominata "Backup tesi". Le registrazioni documentano un pattern sistematico di **ricatto e molestie** da parte del Prof. Marini: condizionamento del percorso accademico a disponibilità personale, inviti a viaggi in solitaria, avances fisiche (documentate in altre registrazioni), e minacce velate relative alla borsa di dottorato.
->
-> Le registrazioni sono state sottoposte ad analisi di autenticità forense e risultano **non manipolate**: i metadati sono coerenti, le tracce audio non presentano segni di editing, e le voci corrispondono ai campioni di riferimento del Prof. Marini e della Moretti.
->
-> Queste registrazioni costituiscono il movente per l'omicidio: la Dr.ssa Valdi, ex vittima dello stesso comportamento (come emerge dalla Registrazione 1), avrebbe agito per proteggere la Moretti e le altre vittime, e per vendetta personale per gli abusi subiti anni prima.
-
----
-
 ## REGISTRAZIONE 6
 ### Chiamata anonima alla Questura di Bologna
 
@@ -270,16 +228,6 @@
 **OPERATORE:** Signora, la prego, se ha informazioni utili sarebbe importante—
 
 *[La chiamata viene interrotta. Tono di linea.]*
-
----
-
-### NOTA INVESTIGATIVA — REG. 6
-
-> **Identificazione della chiamante:** La voce non è stata formalmente identificata. Tuttavia, l'analisi fonetica ha rilevato una "compatibilità significativa" con il campione vocale dell'Avv. Federica Conti (ex moglie della vittima). Elementi a supporto: (1) cadenza bolognese coerente; (2) livello culturale e proprietà lessicale della parlante; (3) la chiamante dichiara di aver osservato l'ingresso dalla porta di Via delle Moline verso le "dieci di sera" — orario compatibile con la presenza della Conti in Via Zamboni fino alle 23:10 (cfr. analisi GPS); (4) la Conti aveva motivo di osservare l'edificio essendo stata in appostamento per oltre 8 ore.
->
-> **Valore investigativo:** La chiamata ha indirizzato le indagini verso i registri badge dell'ingresso di servizio di Via delle Moline, portando alla scoperta dell'accesso effettuato con il badge intestato al Prof. Fabbri alle ore 22:55 — badge successivamente ricondotto alla Dr.ssa Elena Valdi. Senza questa segnalazione, la morte del Prof. Marini sarebbe stata probabilmente archiviata come arresto cardiaco naturale.
->
-> **Nota:** La Conti non si è mai presentata spontaneamente per rendere dichiarazioni formali su quanto osservato. Il suo coinvolgimento come testimone oculare è stato ricostruito indirettamente attraverso i dati GPS e l'analisi vocale.
 
 ---
 

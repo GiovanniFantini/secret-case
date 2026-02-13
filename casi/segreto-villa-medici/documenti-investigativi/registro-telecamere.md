@@ -64,11 +64,13 @@
 | 22:52 | CAM-02 | Padre Giacomo | Attraversa corridoio PT | Si muove con cautela, si ferma davanti alla porta della biblioteca (2 secondi), poi prosegue verso le scale |
 | 22:55 | CAM-03 | Padre Giacomo | Sale al primo piano | Direzione ala ovest |
 | 23:00 | CAM-03 | Padre Giacomo | Nel corridoio primo piano | Si aggira lentamente, sembra cercare qualcosa |
-| **23:15** | **CAM-03** | **Dott. Lorenzo Bassi** | **ESCE dalla Stanza del Pittore** | **Si guarda intorno nel corridoio prima di muoversi. Indossa giacca blu scuro.** |
-| **23:16** | **CAM-02** | **Dott. Lorenzo Bassi** | **Scende le scale, si dirige verso la biblioteca** | **Passo deciso ma silenzioso. Si ferma brevemente davanti alla porta della biblioteca, poi entra.** |
+| 23:15 | CAM-03 | Dott. Lorenzo Bassi | Esce dalla Stanza del Pittore | Indossa giacca scura. Si dirige verso le scale. |
+| 23:16 | CAM-02 | ⚙️ *Interferenza segnale* | *Disturbo video CAM-02* | *Segnale intermittente — immagine disturbata con artefatti di compressione. Si intravede una figura sulle scale, non identificabile con certezza.* |
+| 23:16-23:47 | CAM-02 | — | *Segnale degradato CAM-02* | *Registrazione presente ma fortemente degradata. Frame rate ridotto a 2-3 fps con artefatti. Impossibile identificare soggetti o movimenti con certezza. Nota tecnica: il DVR Hikvision è in funzione dal 2018 senza manutenzione; fenomeni analoghi segnalati dal personale della villa in passato.* |
 | 23:20 | CAM-03 | Padre Giacomo | Ancora nel corridoio primo piano | Si avvicina alla scala, si ferma, torna indietro |
-| **23:48** | **CAM-02** | **Dott. Lorenzo Bassi** | **ESCE dalla biblioteca** | **⚠️ NOTA CRITICA: Si nota chiaramente un rigonfiamento sotto la giacca del Dott. Bassi, nella parte sinistra, compatibile per forma e dimensioni con un computer portatile. Il soggetto cammina rapidamente, testa bassa.** |
-| **23:49** | **CAM-03** | **Dott. Lorenzo Bassi** | **Sale le scale, rientra nella Stanza del Pittore** | **Entra velocemente, chiude la porta.** |
+| 23:47 | CAM-02 | — | *Segnale CAM-02 si stabilizza* | *Ripresa qualità normale.* |
+| 23:48 | CAM-02 | Figura maschile | Nel corridoio PT, proveniente dalla direzione della biblioteca | Giacca scura, corporatura media. Tiene qualcosa sotto il braccio sinistro — non identificabile con certezza per l'angolatura della camera. Cammina rapidamente verso le scale. |
+| 23:49 | CAM-03 | Dott. Lorenzo Bassi | Sale le scale, rientra nella Stanza del Pittore | Riconoscibile da CAM-03 (inquadratura frontale). Entra nella stanza rapidamente. |
 | 00:05 | CAM-03 | Padre Giacomo | Torna nel corridoio primo piano | Scende le scale |
 | 00:07 | CAM-02 | Padre Giacomo | Attraversa corridoio PT | Si avvicina alla porta della biblioteca, si ferma, NON entra. Si allontana. |
 | 00:12 | CAM-02 | Padre Giacomo | Si dirige verso l'ingresso principale | |
@@ -84,8 +86,8 @@
 | Ora | Camera | Soggetto | Movimento | Note |
 |---|---|---|---|---|
 | 05:30 | CAM-06 | Lucia Ferretti | Arriva dall'ingresso cucina | Inizio servizio mattutino |
-| 05:45 | CAM-05 | Dott. Bassi | Attraversa il parcheggio | **⚠️ Porta una borsa/zaino che non aveva la sera prima. Si dirige verso un'auto non identificata (non la sua, arrivata in taxi venerdì).** |
-| 05:55 | CAM-05 | Dott. Bassi | Rientra dal parcheggio | Senza borsa/zaino. Rientra nella villa dall'ingresso laterale. |
+| 05:45 | CAM-05 | Dott. Bassi | Attraversa il parcheggio | Porta una borsa. Si dirige verso il fondo del parcheggio, fuori dal campo visivo della telecamera. |
+| 05:55 | CAM-05 | Dott. Bassi | Rientra dal parcheggio | Senza borsa. Rientra nella villa dall'ingresso laterale. |
 | 06:00 | CAM-04 | Dott. Bassi | Rientra dal giardino est | |
 | 07:00 | CAM-06 | Roberto Marini | Arriva dall'ingresso cucina | Inizio servizio |
 | 07:25 | CAM-02 | Roberto Marini | Si dirige verso la biblioteca | Porta un vassoio (colazione per il Prof. Maldini) |
@@ -100,17 +102,19 @@
 
 **Serg. Marco Vitali — 16/11/2024 ore 14:00**
 
-1. Le registrazioni delle ore **23:15-23:49** mostrano chiaramente il Dott. Lorenzo Bassi muoversi tra la sua stanza al primo piano e la biblioteca al piano terra. Il Dott. Bassi ha dichiarato nell'interrogatorio di non aver lasciato la propria stanza dopo le 22:00. **Questa dichiarazione è in evidente contraddizione con le registrazioni.**
+1. Il segnale di CAM-02 ha subito un degrado significativo nel periodo **23:16-23:47**, rendendo impossibile un'analisi dettagliata dei movimenti nel corridoio del piano terra durante quel periodo. La causa è stata identificata come probabile surriscaldamento del DVR Hikvision (il sistema è in funzione dal 2018 senza manutenzione significativa). Il fenomeno si è verificato altre volte in passato secondo il personale della villa.
 
-2. All'uscita dalla biblioteca (23:48), il rigonfiamento sotto la giacca del Dott. Bassi è compatibile per forma e dimensioni con un computer portatile. Si ricorda che il laptop del Prof. Maldini risulta mancante dalla scena del crimine.
+2. Le registrazioni di CAM-03 alle ore **23:15** mostrano il Dott. Bassi uscire dalla propria stanza e dirigersi verso le scale. Alle **23:49** la stessa camera lo riprende mentre sale le scale e rientra nella stanza. Il Dott. Bassi ha dichiarato nell'interrogatorio di non aver lasciato la propria stanza dopo le 22:00. Questa dichiarazione è in contraddizione con le registrazioni di CAM-03.
 
-3. Le registrazioni delle **05:45-05:55** del 16 novembre mostrano il Dott. Bassi uscire dalla villa con una borsa/zaino e rientrare senza. Non è stato possibile identificare il veicolo utilizzato (parcheggiato fuori dal campo visivo della CAM-05).
+3. Alle ore **23:48**, con il ripristino del segnale di CAM-02, si osserva una figura maschile in giacca scura nel corridoio del piano terra, proveniente dalla direzione della biblioteca. La figura tiene qualcosa sotto il braccio sinistro. Per la limitata qualità dell'immagine in quel momento, non è stato possibile identificare con certezza né il soggetto né l'oggetto trasportato. La corporatura e l'abbigliamento sono coerenti con il Dott. Bassi, ma non è possibile escludere altri soggetti.
 
-4. **Padre Giacomo Silvestri** ha dichiarato di aver lasciato la villa alle 22:00. Le registrazioni mostrano che è rientrato alle 22:50 ed è rimasto nella villa fino alle 00:15. **Anche questa dichiarazione è in contraddizione con le registrazioni.**
+4. Le registrazioni delle **05:45-05:55** del 16 novembre mostrano il Dott. Bassi uscire dalla villa con una borsa e rientrare senza. Non è stato possibile identificare la destinazione (fuori dal campo visivo di CAM-05).
 
-5. Nessun altro soggetto è stato registrato in prossimità della biblioteca tra le 22:35 (ingresso di Maldini) e le 07:25 (arrivo di Marini), ad eccezione del Dott. Bassi (23:16-23:48) e di Padre Giacomo che si è avvicinato alla porta senza entrare (00:07).
+5. **Padre Giacomo Silvestri** ha dichiarato di aver lasciato la villa alle 22:00. Le registrazioni mostrano che è rientrato alle 22:50 ed è rimasto nella villa fino alle 00:15. Anche questa dichiarazione è in contraddizione con le registrazioni.
 
-6. Le registrazioni sono state acquisite in originale e copiate su supporto USB sigillato (REP-016).
+6. A causa del degrado del segnale di CAM-02, non è possibile stabilire con certezza quante persone si siano avvicinate alla biblioteca tra le 22:35 (ultimo avvistamento certo di Maldini) e le 07:25 (arrivo di Marini). Il Dott. Bassi (prima e dopo il gap di CAM-02) e Padre Giacomo (00:07, si avvicina alla porta senza entrare) sono gli unici soggetti osservabili in prossimità della biblioteca, ma il gap di registrazione non permette di escludere altri passaggi.
+
+7. Le registrazioni sono state acquisite in originale e copiate su supporto USB sigillato (REP-016).
 
 ---
 

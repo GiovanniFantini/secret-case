@@ -45,7 +45,7 @@
 
 **Descrizione:** Primo piano della bottiglia di Brunello di Montalcino 2006 "Riserva Speciale", Cantina Ansaldi. Bottiglia in vetro scuro, etichetta integra con stemma della cantina (leone rampante con grappolo d'uva). La capsula in stagno color bordeaux è stata tagliata e giace accanto alla bottiglia. Il vino all'interno ha colore granato scuro.
 
-**Dettaglio notevole:** Sull'etichetta posteriore si legge: "Imbottigliato all'origine da Cantina Ansaldi, Montalcino (SI) — Lotto L06-RS-0847 — 750 ml — Alc. 14,5% vol." Il numero di lotto sarà utile per il confronto con i registri della cantina. Sul collo della bottiglia, **residuo traslucido visibile** (successivamente identificato come silicone alimentare).
+**Dettaglio notevole:** Sull'etichetta posteriore si legge: "Imbottigliato all'origine da Cantina Ansaldi, Montalcino (SI) — Lotto L06-RS-0847 — 750 ml — Alc. 14,5% vol." Il numero di lotto sarà utile per il confronto con i registri della cantina. Sul collo della bottiglia, residuo traslucido visibile (successivamente identificato come silicone alimentare).
 
 ---
 
@@ -61,7 +61,7 @@
 
 **Descrizione:** Primo piano del tappo in sughero a terra, vicino al bordo del tavolo. Marchio a fuoco visibile: "CANTINA ANSALDI — BRUNELLO 2006". Il tappo appare integro ma presenta micro-abrasioni longitudinali sulla superficie laterale, visibili in controluce.
 
-**Dettaglio notevole:** Le micro-abrasioni sono distribuite in modo **non uniforme** — più marcate su un lato — compatibili con una doppia estrazione. Un tappo estratto una sola volta mostra segni simmetrici. Sulla superficie superiore (esterna alla bottiglia) è visibile una **patina lucida leggermente appiccicosa**, identificata come residuo di silicone alimentare da ri-sigillatura.
+**Dettaglio notevole:** Le micro-abrasioni sono distribuite in modo non uniforme — più marcate su un lato — compatibili con una doppia estrazione. Un tappo estratto una sola volta mostra segni simmetrici. Sulla superficie superiore (esterna alla bottiglia) è visibile una patina lucida leggermente appiccicosa, identificata come residuo di silicone alimentare da ri-sigillatura.
 
 ---
 
@@ -75,17 +75,15 @@
 
 ## Indice Fotografico
 
-| Foto | Soggetto | Rilevanza |
-|------|----------|-----------|
-| 1 | Esterno villa — nessuna forzatura | Contesto |
-| 2 | Portone ingresso — allarme disinserito (17:42 del 18/10) | Media |
-| 3 | Scala cantina — nessun segno anomalo | Bassa |
-| 4 | Scena principale — corpo, tavolo, reperti | Alta |
-| 5 | Bottiglia — etichetta, residuo silicone sul collo | **Critica** |
-| 6 | Calice e taccuino — note interrotte "Prob—" | Alta |
-| 7 | Tappo — micro-abrasioni, silicone alimentare | **Critica** |
-| 8 | Scaffale — spazio vuoto, cartellino degustazione | Media |
+| Foto | Soggetto |
+|------|----------|
+| 1 | Esterno villa — nessuna forzatura |
+| 2 | Portone ingresso — allarme disinserito (17:42 del 18/10) |
+| 3 | Scala cantina — nessun segno anomalo |
+| 4 | Scena principale — corpo, tavolo, reperti |
+| 5 | Bottiglia — etichetta, residuo silicone sul collo |
+| 6 | Calice e taccuino — note interrotte "Prob—" |
+| 7 | Tappo — micro-abrasioni, silicone alimentare |
+| 8 | Scaffale — spazio vuoto, cartellino degustazione |
 
----
 
-> **NOTA PER I GIOCATORI:** Esaminate con attenzione i dettagli di ogni foto. I particolari nello sfondo, sugli oggetti e nelle condizioni dell'ambiente possono essere tanto importanti quanto gli elementi in primo piano. Confrontate ciò che vedete con le dichiarazioni dei testimoni e dei sospetti.

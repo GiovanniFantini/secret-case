@@ -150,8 +150,6 @@ Di conseguenza, l'unico punto di osservazione per gli accessi alla Sala Leonardo
 | 21:47:02 | CAM-03 | Ilaria Mura esce dalla cantina con una bottiglia (vedi Sezione 5). |
 | 21:47:14 | CAM-01 | Ilaria Mura appare nel corridoio del primo piano ed entra nella Sala Leonardo. |
 
-> **NOTA INVESTIGATIVA: Ilaria Mura NON ritorna attraverso la cucina (CAM-02) dopo essere uscita dalla cantina. Non e presente alcun fotogramma che la ritragga nella cucina tra le 21:35 e la fine della serata. Questo indica che, dopo aver lasciato la cantina, Ilaria ha raggiunto il primo piano utilizzando un percorso alternativo (scale di servizio dirette al corridoio del primo piano) SENZA passare dalla cucina. Questo percorso e confermato dalla planimetria del ristorante.**
-
 ### 4.4 Posizioni del personale di cucina (21:30 — 21:45)
 
 | Persona | Ruolo | Posizione | Movimenti verso stazione allergie |
@@ -190,8 +188,6 @@ Di conseguenza, l'unico punto di osservazione per gli accessi alla Sala Leonardo
 
 **Media durata visite 1-4: 3 minuti e 30 secondi.**
 **Durata visita 5: 11 minuti e 14 secondi — superiore di un fattore 3,2 rispetto alla media.**
-
-> **ANOMALIA RILEVATA: La quinta visita in cantina di Ilaria Mura e di durata marcatamente superiore a tutte le visite precedenti della serata, nonostante il ritiro di una sola bottiglia. Le visite precedenti, anche quelle con ritiro di due bottiglie, non hanno mai superato i 4 minuti e 07 secondi. Non si individua alcuna giustificazione operativa per una permanenza di 11 minuti e 14 secondi in cantina per il prelievo di un'unica bottiglia.**
 
 ### 5.3 Dettaglio filmato — Visita 5
 
@@ -254,8 +250,6 @@ Sulla base dell'analisi incrociata dei filmati, la catena di custodia del piatto
 | Trasporto cucina-sala | 21:42 — 21:43 | Lucia Ferretti | CAM-02 (uscita), CAM-01 (arrivo) | Vassoio preso dalla cucina, portato in sala. |
 | Servizio in sala | 21:43 — ~21:45 | Lucia Ferretti | — (interno sala, non coperto) | Ferretti dichiara di aver posato i piatti e di essere uscita. |
 | Piatto sulla tavola | ~21:45 — 22:00 | — | — (interno sala, non coperto) | Il piatto e sulla tavola, accessibile ai presenti in sala. |
-
-> **NOTA CRITICA: L'unica persona che accede alla Sala Leonardo dopo il posizionamento dei piatti da parte di Lucia Ferretti e ILARIA MURA (ingresso 21:47:14, uscita 21:52:38). Ilaria si trova nella sala con il piatto gia posizionato davanti alla vittima per un periodo di circa 5 minuti e 24 secondi, durante i quali il servizio del vino le richiedeva di avvicinarsi a ciascun commensale, incluso il Prof. Fontana.**
 
 ---
 

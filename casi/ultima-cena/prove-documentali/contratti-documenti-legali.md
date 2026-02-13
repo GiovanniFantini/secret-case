@@ -108,13 +108,6 @@ Il Venditore: *(firma)* Massimo Fontana
 
 ---
 
-### Nota investigativa (Documento N. 1):
-> **ELEMENTI CHIAVE:**
-> 1. L'Art. 5 esclude esplicitamente qualsiasi obbligo di assunzione del personale esistente. Claudia Fontana, vicedirettrice della Guida, sarebbe stata esclusa dall'operazione senza alcuna garanzia occupazionale.
-> 2. L'Art. 6 impone la riservatezza: non e chiaro se Fontana avesse informato la figlia dell'accordo. Il post Instagram di Claudia del 5 marzo ("grandi novita") potrebbe indicare una conoscenza parziale, oppure riferirsi ad altro.
-> 3. L'Art. 12 (condizione risolutiva per decesso) e di particolare interesse: con la morte di Fontana, la cessione si risolve e la Guida resta agli eredi (cioe a Claudia). Cio configura un potenziale movente per Claudia, qualora fosse stata a conoscenza sia dell'accordo sia della clausola risolutiva.
-> 4. L'anticipo di Euro 450.000 e gia stato versato e risulta nell'estratto conto di Fontana. La restituzione agli eredi e disciplinata dall'Art. 12.
-
 ---
 
 ## DOCUMENTO LEGALE N. 2
@@ -133,9 +126,6 @@ Il Venditore: *(firma)* Massimo Fontana
 **Sintesi:** Diffida formale per la restituzione integrale di Euro 68.000,00 erogati il 18/07/2022 a titolo di "finanziamento" per il progetto "La Vigna di Ilaria". Termine di 15 giorni per il pagamento, con avvertimento di azione giudiziaria in caso di inadempimento.
 
 **Stato:** La Sig.ra Mura non ha provveduto al pagamento nel termine indicato. L'Avv. Brunetti ha dichiarato (verbale SIT del 12/03/2025) che il Sig. Fontana aveva dato istruzione di procedere con il decreto ingiuntivo, previsto per la prima settimana di aprile 2025.
-
-### Nota investigativa (Documento N. 2):
-> La messa in mora costituisce il primo atto formale nella controversia economica tra Fontana e la Mura. Documenta l'esistenza del debito di Euro 68.000 e la pressione legale esercitata sulla Mura. La tempistica dell'azione legale (gennaio 2025) si colloca in un contesto di progressiva escalation delle ostilita tra i due, culminata nell'omicidio del marzo 2025.
 
 ---
 
@@ -207,12 +197,6 @@ Sig. Giorgio Pellegrini: *(firma)*
 
 ---
 
-### Nota investigativa (Documento N. 3):
-> **ELEMENTI CHIAVE:**
-> 1. L'Art. 6 (Clausola di salvaguardia) e di particolare rilevanza: il declassamento da 2 a 1 stella nella Guida Fontana 2025 avrebbe attivato la clausola, obbligando Rizzoli a predisporre un piano di rilancio e, in caso di insuccesso, a restituire Euro 800.000 a Pellegrini.
-> 2. Questo configura un doppio movente: per Pellegrini (proteggere l'investimento impedendo il declassamento) e per Rizzoli (evitare l'obbligo di restituzione di una somma che non possiede piu).
-> 3. I messaggi WhatsApp del 3 marzo 2025 tra Pellegrini e Rizzoli confermano che entrambi erano consapevoli dell'imminente declassamento e della sua gravita economica.
-
 ---
 
 ## DOCUMENTO LEGALE N. 4
@@ -255,16 +239,6 @@ g) I miei taccuini personali (oltre 200 Moleskine), che considero parte integran
 Parma, 1 settembre 2023
 
 *(firma)* Massimo Fontana
-
----
-
-### Nota investigativa (Documento N. 4):
-> **ELEMENTI CHIAVE:**
-> 1. Il testamento, redatto il 1 settembre 2023 e depositato il 3 settembre 2023, nomina Claudia Fontana erede universale di tutto il patrimonio, inclusa la Guida Fontana.
-> 2. Con la morte di Fontana e l'attivazione della clausola risolutiva del contratto preliminare Springer (Art. 12), la Guida torna agli eredi, cioe a Claudia. Di conseguenza, Claudia eredita sia la Guida sia il patrimonio complessivo (stimato in oltre 7,5 milioni di euro).
-> 3. Il punto 2 del testamento ("Desidero che Claudia prosegua il mio lavoro alla Guida") e in evidente contrasto con l'accordo di cessione a Springer. Cio solleva due ipotesi: (a) Fontana non aveva aggiornato il testamento dopo l'avvio delle trattative con Springer; oppure (b) Fontana non era ancora certo di concludere la cessione.
-> 4. L'anticipo di Euro 450.000 versato da Springer dovra essere restituito agli eredi (cioe a Claudia) ai sensi dell'Art. 12 del contratto preliminare, e non sara trattenuto.
-> 5. **Movente per Claudia Fontana:** Se Claudia era a conoscenza sia del testamento (che le assegnava tutto) sia dell'accordo Springer (che le toglieva la Guida), la morte del padre prima della firma del contratto definitivo le avrebbe garantito la piena proprieta della Guida e dell'intero patrimonio. Questo configura un movente economico di notevole entita.
 
 ---
 

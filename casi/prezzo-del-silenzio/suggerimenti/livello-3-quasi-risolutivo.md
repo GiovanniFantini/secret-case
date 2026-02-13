@@ -39,7 +39,7 @@ Ferro ha **sedato Ferraris con midazolam nel whisky**, poi gli ha **sparato con 
 ### Prove:
 - **Midazolam** nel sangue (0,42 mg/L) e nel bicchiere — Ferro aveva accesso come CEO farmaceutico
 - **Pistola senza impronte** — pulita dall'assassino
-- **Ricerche web** sul computer di Ferro: "gunshot suicide angle", "midazolam detection autopsy", "GSR pattern suicide"
+- **Ricerche web** sul computer di Ferro: "ferita arma da fuoco tempia angolo sparo", "midazolam rilevamento tossicologia post mortem", "residui di sparo distribuzione mano suicidio omicidio differenze" — alternate a ricerche normative su farmacovigilanza e data retention
 - **Nota falsa** scritta alle 21:52 (Ferraris era già incosciente) — **file cancellati** alle 21:54 — **telefono resettato** alle 21:58
 - **Due bicchieri** prelevati, uno portato via; **bottiglia di Barolo** portata via (scontrino enoteca 17/01, €185)
 

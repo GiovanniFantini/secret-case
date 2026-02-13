@@ -56,8 +56,6 @@
 >
 > Luca
 
-> **Nota per i giocatori:** Questa email è stata inviata il giorno del delitto, alle 12:05. Ferraris era determinato e organizzato — non il profilo di un uomo sull'orlo del suicidio.
-
 ---
 
 ## Email 3 — Diffida legale dello Studio Mazza
@@ -83,8 +81,6 @@
 > Distinti saluti,
 > Studio Mazza & Associati
 > Corso Vittorio Emanuele II, 78 — Torino
-
-> **Nota per i giocatori:** Questa email è una diffida legale o una minaccia velata? Notate che lo studio Mazza scrive "per conto di PharmaNova" — il che significa che PharmaNova era a conoscenza dell'inchiesta almeno dal 10 gennaio. Confrontate con la dichiarazione di Ferro ("non ne ero a conoscenza").
 
 ---
 
@@ -156,7 +152,7 @@
 >
 > **Ferro** (11:15): Ricevuto. A sabato. Porto una bottiglia.
 
-> **DATO CRITICO:** Ferraris ha dato a Ferro il codice del citofono (4721B) e l'appuntamento per sabato 18 gennaio alle 21:00. L'orario coincide con la chiamata al citofono registrata alle 21:02. Ferro sapeva come entrare nel palazzo.
+> **Nota dell'analista:** Questa conversazione conferma che Ferro era in possesso del codice del citofono (4721B) e che era stato fissato un appuntamento per il 18 gennaio alle 21:00.
 
 ---
 

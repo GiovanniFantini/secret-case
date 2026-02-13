@@ -98,8 +98,6 @@ Il file è denominato **"addio.txt"**, ultima modifica **18 gennaio 2025, ore 21
 ### Comm. Paolo Baldini (arrivato alle 08:55)
 *"Conosco Luca da quando eravamo ragazzi. Era sotto pressione — l'inchiesta, il divorzio, la vendita della casa nelle Langhe. **Mi sembra un chiaro suicidio.** La nota sul computer, la pistola nella mano, nessun segno di effrazione. Consiglio di procedere con la classificazione come atto autolesivo."*
 
-> **Nota per i giocatori:** La dichiarazione del Commissario Baldini è stata inserita nel rapporto iniziale su sua richiesta. Osservate che è arrivato sulla scena prima di essere stato formalmente convocato e ha espresso un giudizio immediato.
-
 ---
 
 ## Osservazioni dell'Agente Ferraro

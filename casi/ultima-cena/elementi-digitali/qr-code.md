@@ -126,36 +126,30 @@ Il tour permette ai giocatori di esplorare virtualmente gli spazi del ristorante
 - Porta d'ingresso in vetro e ferro battuto.
 - Bancone della reception in legno scuro con il registro prenotazioni.
 - Appendiabiti all'ingresso dove gli ospiti lasciano i cappotti.
-- *Nota investigativa (pop-up cliccabile):* "La borsa di Massimo Fontana, contenente l'EpiPen, era stata lasciata in auto. Il cappotto appeso qui non conteneva farmaci."
 
 **Punto 2 -- Sala Principale**
 - Ampio salone con volte in mattoni a vista, illuminazione calda.
 - Otto tavoli disposti con ampio spazio tra uno e l'altro.
 - **Tavolo 4** (evidenziato in rosso): il tavolo d'angolo vicino alla vetrata dove sedeva Fontana. E il tavolo piu appartato della sala, parzialmente nascosto da una colonna.
-- *Nota investigativa:* "Il tavolo 4 e visibile dalla sala, ma la colonna crea un angolo cieco rispetto alla cucina e ai tavoli 1 e 2. Chi si trova al tavolo 4 e parzialmente schermato dalla vista diretta del personale in transito."
 
 **Punto 3 -- Postazione Sommelier**
 - Piccolo bancone laterale con esposizione di bottiglie selezionate.
 - Cassetto sotto il bancone (chiuso) per gli strumenti di servizio.
 - Distanza dal tavolo 4: circa 4 metri.
-- *Nota investigativa:* "La postazione di Ilaria Mura si trovava a pochi passi dal tavolo della vittima. Da qui poteva raggiungere il tavolo 4 in tre secondi, inosservata durante i momenti in cui l'attenzione della sala era rivolta altrove."
 
 **Punto 4 -- Cucina**
 - Cucina professionale a vista parziale (separata dalla sala da una parete con oblò).
 - Piano di lavoro principale dove lo chef Rizzoli ha preparato il risotto.
 - Scaffalature con ingredienti e condimenti.
-- *Nota investigativa:* "L'analisi della cucina non ha rilevato presenza di arachidi o olio di arachidi tra gli ingredienti. L'olio di arachidi non fa parte della fornitura abituale del ristorante, come confermato dai registri dei fornitori."
 
 **Punto 5 -- Dispensa Secondaria e Spogliatoio**
 - Piccola stanza adiacente alla cucina, usata per le scorte di tovagliato e prodotti di pulizia.
 - Ripiano in basso dove Lucia Ferretti ha visto la "bottiglietta senza etichetta".
 - Armadietti del personale (sei armadietti metallici con lucchetto).
-- *Nota investigativa:* "L'armadietto numero 3, assegnato a Ilaria Mura, e stato aperto durante la perquisizione del 9 marzo. All'interno sono stati trovati: effetti personali, un cambio di divisa, e tracce di olio su un fazzoletto di stoffa. L'analisi di laboratorio ha confermato che si tratta di olio di arachidi."
 
 **Punto 6 -- Corridoio di Servizio**
 - Corridoio stretto che collega la cucina alla sala, usato dal personale per il servizio.
 - Percorso che passa accanto alla dispensa secondaria.
-- *Nota investigativa:* "Questo corridoio e il percorso che Ilaria Mura avrebbe utilizzato per prelevare la bottiglietta dalla dispensa e raggiungere il tavolo 4 senza passare davanti alla cucina principale."
 
 ### Posizionamento nel Fascicolo
 

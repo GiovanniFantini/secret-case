@@ -38,14 +38,6 @@ La precisione dei dati varia in base all'operatore, al tipo di dispositivo e all
 | 09/02, 02:15 | Milano — Hotel Principe di Savoia | Cella MI-Centro-12 + Wi-Fi "HPS-Guest" | Invio email a Prof.ssa Colombo. Connessione Wi-Fi hotel confermata |
 | 09/02, 02:20 in poi | Milano — Hotel area | Cella MI-Centro-12 | Stazionaria per il resto della notte |
 
-### OSSERVAZIONI CRITICHE — VALDI
-
-> **ANOMALIA SIGNIFICATIVA:** Tra le ore 21:08 dell'8 febbraio e le ore 02:00 del 9 febbraio, il telefono della Dr.ssa Valdi risulta **completamente spento** per un intervallo di circa **4 ore e 52 minuti**. Questo è l'**unico periodo di spegnimento** riscontrato nei tabulati dell'intero fine settimana (7-9 febbraio). Nel resto del periodo analizzato, il telefono risulta sempre acceso e regolarmente connesso alla rete, anche nelle ore notturne.
->
-> Lo spegnimento deliberato del telefono durante una cena sociale di un convegno accademico rappresenta un comportamento **altamente insolito** e merita ulteriori accertamenti.
->
-> **NOTA TECNICA:** Lo spegnimento del telefono impedisce qualsiasi tracciamento tramite celle telefoniche, GPS o Wi-Fi. Tuttavia, non impedisce il rilevamento di un veicolo da parte di telecamere stradali, sistemi di pedaggio autostradale o lettori di targhe. Si raccomanda l'acquisizione dei dati del sistema Telepass/Autostrade per l'Italia per il tratto Milano–Bologna nella fascia oraria 21:00–02:00.
-
 ---
 
 ## 2. CARLO BRUNI — Prof. Ordinario
@@ -192,7 +184,7 @@ La precisione dei dati varia in base all'operatore, al tipo di dispositivo e all
 
 | Soggetto | Posizione ore 23:00 | Distanza da Via Zamboni 38 | Alibi ore 23:00 |
 |---|---|---|---|
-| **Elena Valdi** | **SCONOSCIUTA (telefono spento)** | **N/D** | **NESSUN ALIBI VERIFICABILE** |
+| Elena Valdi | SCONOSCIUTA (telefono spento) | N/D | NESSUN ALIBI VERIFICABILE |
 | Carlo Bruni | Via Castiglione 82 (casa) | ~1,2 km | Confermato GPS |
 | Chiara Moretti | Via Garibaldi 89 (casa fidanzato) | ~0,8 km | Confermato GPS |
 | Marco Santini | Via Saragozza 112 (casa) | ~2,1 km | Confermato GPS (rientrato da poco) |

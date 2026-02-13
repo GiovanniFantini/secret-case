@@ -92,8 +92,6 @@
 | Massimo De Luca | "Al gala dalle 19:30 alle 23:00" | Telecamere hotel; testimoni | **Compatibile** |
 | Paolo Baldini | "Pattugliamento 21:00-23:00" | Informatore Bensaid (~21:30) | **Parzialmente coperto** |
 
-> **Nota per i giocatori:** Solo un sospetto mostra discrepanze significative tra dichiarazioni e prove oggettive. Ma le discrepanze da sole non bastano — collegatelie al movente e al metodo per avere il quadro completo.
-
 ---
 
 *Isp. Capo Davide Ferrara*

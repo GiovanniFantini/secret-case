@@ -79,9 +79,6 @@ Il Giudice estensore — Dr.ssa Marta Guidi
 
 ---
 
-> **NOTA INVESTIGATIVA (Sost. Proc. Liguori, 15/02/2025):**
-> Dalla sentenza di divorzio NON risulta alcuna menzione dell'immobile sito in Rimini, Viale Regina Elena 44 (bilocale con vista mare, Cat. A/3, acquistato da Marini in data 03/04/2018 per €185.000 — cfr. Registro Conservatoria di Rimini). L'immobile risulta intestato esclusivamente a Marini Renato. L'ex moglie Conti Federica ha dichiarato di non essere stata a conoscenza dell'esistenza di tale proprietà fino alla comunicazione degli investigatori in data 14/02/2025. Se confermato, si configurerebbe una violazione dell'obbligo di disclosure patrimoniale in sede di divorzio.
-
 ---
 
 ### POLIZZA VITA — ESTRATTO
@@ -97,9 +94,6 @@ Il Giudice estensore — Dr.ssa Marta Guidi
 
 **Stato della polizza al 09/02/2025:** ATTIVA
 **Ultimo premio versato:** 08/03/2024 (regolare)
-
-> **NOTA INVESTIGATIVA (Sost. Proc. Liguori, 16/02/2025):**
-> Il beneficiario della polizza risulta ancora essere l'ex moglie Conti Federica, nonostante il divorzio sia stato pronunciato nel giugno 2020. Non risulta alcuna comunicazione di variazione del beneficiario alla compagnia assicurativa successiva alla sentenza di divorzio. Da verificare se trattasi di mera dimenticanza del Prof. Marini o di scelta volontaria. Da accertare altresì se la Conti fosse a conoscenza di essere ancora beneficiaria della polizza. Il figlio Andrea Marini, contattato a Londra, ha dichiarato di non essere a conoscenza dell'esistenza della polizza vita.
 
 ---
 
@@ -147,9 +141,6 @@ Il Locatore: _Renato Marini_
 Il Conduttore: _Wei Zhang_
 
 ---
-
-> **NOTA INVESTIGATIVA (Mar.llo Ferretti, CC Stazione Bologna Centro, 13/02/2025):**
-> Il Prof. Marini, pur risultando formalmente residente in Via Castiglione 22 fino alla sentenza di divorzio (giugno 2020) e successivamente senza aggiornamento anagrafico, di fatto risiedeva stabilmente nello studio 204 di Palazzo Scarani, Via Zamboni 38, dove disponeva di un piccolo divano letto, effetti personali e vestiario. Il portiere dello stabile, Sig. Mancini Giuseppe, ha confermato che il Prof. Marini "praticamente viveva in ufficio da quando si era separato." L'appartamento di Via Zamboni 15, di proprietà del Marini, risultava locato a terzi (studente dottorando Zhang Wei), producendo un reddito di € 950,00/mese. Il Marini non risulta titolare di altro contratto di locazione come conduttore in Bologna, confermando che la sua residenza di fatto era lo studio universitario.
 
 ---
 
@@ -226,9 +217,6 @@ Ricevo telefonata dalla figlia della paziente, Dr.ssa Elena Valdi, la quale rich
 
 ---
 
-> **NOTA INVESTIGATIVA (Sost. Proc. Liguori, 17/02/2025):**
-> L'anomalia nel registro delle prescrizioni è significativa. L'intervallo tra il rinnovo dell'08/01/2025 e quello del 20/01/2025 è di soli 12 giorni, a fronte di un intervallo costante di 28-30 giorni nei mesi precedenti. La giustificazione fornita ("caduta accidentale di compresse nel lavandino") non è verificabile. Nell'ipotesi accusatoria, le compresse in eccesso (circa 15-18 compresse da 0,25 mg, pari a 3,75-4,5 mg di digossina totale) sarebbero state sottratte dalla Dr.ssa Elena Valdi per essere successivamente dissolte nel caffè somministrato alla vittima nella notte dell'8 febbraio 2025. La Dr.ssa Valdi disponeva di delega permanente per il ritiro dei farmaci della madre, come documentato. Da verificare: la Sig.ra Rosa Valdi ha confermato la versione della caduta accidentale delle compresse? (Vedi verbale d'interrogatorio Rosa Valdi, 18/02/2025.)
-
 ---
 
 ## DOCUMENTO 4 — CURRICULUM VITAE ACCADEMICO — DR.SSA ELENA VALDI
@@ -288,11 +276,6 @@ Ricevo telefonata dalla figlia della paziente, Dr.ssa Elena Valdi, la quale rich
 **CONVEGNI E CONFERENZE (selezionati, anno 2025)**
 
 - 7-9 febbraio 2025: **"Diritto Comparato e Sfide Globali"** — Università Bocconi, Milano. Relazione: "Modelli costituzionali di protezione contro gli abusi di potere nelle istituzioni educative." Sessione pomeridiana del 8 febbraio, ore 14:30-16:00.
-
----
-
-> **NOTA INVESTIGATIVA (Sost. Proc. Liguori, 16/02/2025):**
-> Il profilo accademico della Dr.ssa Valdi evidenzia un percorso scientifico progressivamente focalizzato sui temi dell'abuso di potere in ambito accademico. La pubblicazione di gennaio 2025 sulla Rivista di Diritto Pubblico, con la dedica "Alle studentesse che meritano protezione, non silenzio," appare in retrospettiva come una dichiarazione programmatica. Da notare che il relatore della tesi di laurea e il tutor del dottorato della Valdi sono entrambi il Prof. Marini: il rapporto accademico e personale tra i due ha dunque una durata di oltre 12 anni (2012-2025). Si segnala inoltre il periodo di Visiting Research a Barcellona (marzo-giugno 2017), che coincide con quanto riportato nel diario personale della Valdi in merito a un "convegno a Barcellona" con il Prof. Marini e una "camera doppia" (cfr. Prova documentale n. 10, entry 05/11/2024).
 
 ---
 

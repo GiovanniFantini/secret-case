@@ -78,7 +78,7 @@
 | 13/01/2025 | €3.000 | ATM UniCredit, **Piazza Solferino** (zona Crocetta) | |
 | **Totale** | **€8.000** | | **Anomalo** |
 
-> **DATO CRITICO:** Ferro ha prelevato **€8.000 in contanti** in tre operazioni tra il 5 e il 13 gennaio. L'analisi storica del conto mostra che Ferro prelevava in media €200-400/mese in contanti, pagando quasi tutto con carte. Un prelievo di €8.000 in 8 giorni è **oltre 20 volte la sua media mensile**. La destinazione del contante è sconosciuta.
+> **Nota dell'analista:** Si rilevano tre prelievi di contanti tra il 5 e il 13 gennaio (totale €8.000). La media storica mensile di prelievi in contanti del soggetto è di €200-400. La destinazione del contante non risulta documentata.
 
 ### Pagamento al Ristorante Il Cambio
 
@@ -89,8 +89,6 @@
 | Importo | €145,00 |
 | Esercente | Ristorante Il Cambio, Piazza Carignano 2, Torino |
 
-> **Nota per i giocatori:** L'orario del pagamento (22:47) contraddice la dichiarazione di Ferro di essere arrivato al ristorante "verso le 20:15-20:20". Un pagamento alle 22:47 per soli €145 (5 persone) suggerisce che Ferro ha pagato solo per drinks e dessert, non per una cena completa. Confrontate con le testimonianze dei colleghi.
-
 ### Acquisto in enoteca
 
 | Campo | Dettaglio |
@@ -99,8 +97,6 @@
 | Ora | 18:32 |
 | Importo | €185,00 |
 | Esercente | Enoteca Barolo & Co., Via Lagrange 35, Torino |
-
-> **Nota per i giocatori:** Il 17 gennaio, il giorno prima del delitto, Ferro acquista qualcosa in un'enoteca per €185. Un Barolo Riserva di pregio costa tra €80 e €200. Ricordate il cavatappi con residui di vino rosso e le tracce di vino nel lavandino — senza bottiglia.
 
 ---
 

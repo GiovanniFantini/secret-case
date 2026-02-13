@@ -32,10 +32,15 @@
 │   OGGETTO: Riscontro telecamere TVCC — Sospettato       │
 │   identificato sulla scena del crimine                   │
 │                                                          │
-│   "Il Dott. Lorenzo Bassi e stato ripreso dalle          │
-│   telecamere di sicurezza della biblioteca mentre        │
-│   ENTRAVA nella sala alle ore 23:15 e ne USCIVA         │
-│   alle ore 23:48 della notte del 15 novembre 2024.      │
+│   "Il Dott. Lorenzo Bassi e stato ripreso dalla          │
+│   telecamera CAM-03 mentre USCIVA dalla propria           │
+│   stanza alle ore 23:15 e vi RIENTRAVA alle ore           │
+│   23:49 della notte del 15 novembre 2024 — 34             │
+│   minuti di assenza ingiustificata. CAM-02 ha             │
+│   subito un degrado del segnale in quel periodo,          │
+│   ma alle 23:48, al ripristino, mostra una figura         │
+│   maschile in giacca scura proveniente dalla              │
+│   biblioteca con qualcosa sotto il braccio.               │
 │                                                          │
 │   Nella sua deposizione, il Dott. Bassi ha               │
 │   dichiarato di essere rimasto nella propria stanza      │
@@ -113,16 +118,16 @@
 │          ammette tutto, vado dai Carabinieri.'           │
 │                                                          │
 │   Inoltre, i messaggi WhatsApp del Dott. Bassi           │
-│   contengono un messaggio inviato la sera del 15         │
-│   novembre al contatto 'Marco F.' (identificato          │
-│   come Marco Ferretti, intermediario di Art              │
-│   Investments Ltd) che recita:                           │
+│   del 15 novembre al contatto 'Marco F.' contengono     │
+│   il messaggio 'Devo parlargli stasera' e quattro        │
+│   messaggi cancellati tra le 23:42 e le 23:55.           │
+│   Il frammento recuperato recita:                        │
 │                                                          │
-│         'Il vecchio sa tutto. Devo risolvere             │
-│          stasera.'                                       │
+│         '...preso tutto. Doma...'                        │
 │                                                          │
-│   Questi elementi dimostrano la premeditazione           │
-│   dell'omicidio."                                        │
+│   Incrociando il diario, i messaggi e la scomparsa       │
+│   del laptop, emerge un quadro indiziario                │
+│   convergente."                                          │
 │                                                          │
 │   — Sost. Proc. Dott.ssa Francesca Zanetti              │
 │                                                          │
@@ -186,9 +191,9 @@ Dopo i suggerimenti di Livello 3, i giocatori hanno tutte le informazioni necess
 
 | Domanda | Risposta | Prove chiave rivelate |
 |---------|----------|----------------------|
-| **Chi e il colpevole?** | Dott. Lorenzo Bassi | Telecamere (23:15-23:48), alibi falso, messaggio WhatsApp a Marco F. |
+| **Chi e il colpevole?** | Dott. Lorenzo Bassi | CAM-03 (23:15-23:49), alibi falso, WhatsApp cancellati + "preso tutto", "Devo parlargli stasera" |
 | **Qual e il movente?** | Coprire la falsificazione artistica | Analisi UV, diario di Maldini, conti bancari (Art Investments Ltd, 450K euro) |
-| **Come e stato commesso?** | Colpito con il fermalibri, inscenata la caduta | Fermalibri di Atena (3,2 kg), fibra di lana blu, autopsia incompatibile con caduta, furto laptop/USB, ricevuta benzina 06:15 |
+| **Come e stato commesso?** | Colpito con il fermalibri, inscenata la caduta | Fermalibri di Atena (3,2 kg), fibra di lana blu, autopsia incompatibile con caduta, furto laptop/USB, borsa 05:45 |
 
 ---
 

@@ -91,7 +91,7 @@ Spettabile Vini d'Eccellenza S.r.l.,
 
 confermiamo la ricezione e l'evasione del Vostro ordine:
 
-- **Metanolo puro (CH₃OH) per uso tecnico/enologico** — 5 litri, €42,00
+- Metanolo puro (CH₃OH) per uso tecnico/enologico — 5 litri, €42,00
 - **Acido tartarico alimentare** — 2 kg, €18,50
 - **Kit analisi SO₂** — 1 pezzo, €35,00
 
@@ -155,7 +155,3 @@ Via dell'Industria 12, Scandicci (FI)
 | 17:10 | Davide | Perfetto. A stasera. |
 | 21:22 | Lorenzo | Dove sei finito? Sei sparito di colpo! |
 | 21:45 | Davide | Scusa, dovevo fare una cosa urgente. Vi racconto domani. |
-
----
-
-> **NOTA PER I GIOCATORI:** Prestate attenzione agli orari, ai riferimenti impliciti e al tono dei messaggi. Alcune informazioni apparentemente innocue contengono indizi importanti. Confrontate questi messaggi con le dichiarazioni rese negli interrogatori.

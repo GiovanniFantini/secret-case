@@ -231,7 +231,7 @@
 >
 > Enrico
 
-**Note investigative:** *ELEMENTO PROBATORIO CRUCIALE. Questa email, inviata circa 30 ore prima della morte di Maldini, dimostra che la vittima aveva già confrontato — seppure indirettamente — Bassi sulle anomalie riscontrate nelle foto UV. Il tono è grave e allusivo ("credo che tu sappia di cosa parlo"), suggerendo che Maldini aveva già individuato la responsabilità di Bassi. L'orario di invio (18:00) precede di pochi minuti i messaggi WhatsApp tra Bassi e "Marco F." delle 16:20-16:40, il che indica che Bassi era già in stato di allerta prima di ricevere l'email. Da notare: Maldini scrive "ci vediamo venerdì" — il 15 novembre, giorno della sua morte.*
+**Note investigative:** *Elemento indiziario rilevante. L'email, inviata circa 30 ore prima della morte di Maldini, indica che la vittima aveva riscontrato qualcosa di preoccupante durante l'analisi preliminare delle foto. Il tono è grave e allusivo ("credo che tu sappia di cosa parlo"), ma non specifica la natura della scoperta. L'orario di invio (18:00) e la conversazione WhatsApp tra Bassi e "Marco F." (16:20-16:44 dello stesso giorno) suggeriscono una correlazione cronologica, ma non è possibile stabilire con certezza un nesso causale diretto. Da notare: Maldini scrive "ci vediamo venerdì" — il 15 novembre, giorno della sua morte.*
 
 ---
 
@@ -265,13 +265,13 @@
 > Specializzazione in pittura su tavola e su tela, XIV-XVIII sec.
 > Restauri Bassi — Via dei Serragli, 22 — 50124 Firenze
 
-**Note investigative:** *ELEMENTO PROBATORIO RILEVANTE. La risposta di Bassi è calcolatamente rassicurante e presenta diverse caratteristiche sospette:*
-1. *Finge di non sapere "a cosa si riferisca" Maldini, nonostante i suoi messaggi WhatsApp con "Marco F." dimostrino il contrario.*
-2. *Offre una spiegazione tecnica plausibile ("risultati fuorvianti ai test UV") per seminare il dubbio — tipica strategia difensiva di chi ha competenze specifiche.*
-3. *Cita un proprio articolo accademico per darsi credibilità e autorevolezza.*
-4. *Il tono è studiato: cordiale, professionale, non difensivo. Contrasta nettamente con il tono dei messaggi WhatsApp dello stesso giorno.*
+**Note investigative:** *La risposta di Bassi presenta diverse caratteristiche degne di nota:*
+1. *Afferma di non sapere "a cosa si riferisca" Maldini, nonostante il tono della sua conversazione con "Marco F." dello stesso giorno suggerisca una certa consapevolezza del problema.*
+2. *Offre una spiegazione tecnica plausibile ("risultati fuorvianti ai test UV") — giustificazione che potrebbe essere legittima ma anche strategica.*
+3. *Cita un proprio articolo accademico per darsi credibilità.*
+4. *Il tono è calmo e rassicurante, in contrasto con il tono più ansioso della conversazione con "Marco F." dello stesso giorno.*
 
-*L'articolo citato su "Kermes" (n. 114/2021) è stato verificato e risulta effettivamente pubblicato. Tuttavia, il suo contenuto riguarda la fluorescenza UV in contesti di restauro legittimo e non giustifica le anomalie riscontrate da Maldini, che riguardano la composizione chimica dei pigmenti stessi, non la sola fluorescenza della vernice.*
+*L'articolo citato su "Kermes" (n. 114/2021) è stato verificato e risulta effettivamente pubblicato. Il suo contenuto riguarda la fluorescenza UV in contesti di restauro legittimo. Resta da verificare se le anomalie riscontrate da Maldini rientrino nelle casistiche descritte nell'articolo o le superino.*
 
 ---
 
@@ -324,7 +324,7 @@ I messaggi sono riprodotti integralmente. Le emoji sono trascritte tra parentesi
 
 ### CHAT N. 1 — Lorenzo Bassi ↔ "Marco F." (contatto salvato come "Marco F.")
 **Numero associato al contatto "Marco F.":** +39 342 XXX 8891
-**Classificazione:** PROVA CRITICA — Premeditazione e concorso
+**Classificazione:** ELEMENTO INDIZIARIO — Comunicazioni sospette
 
 **Nota identificativa:** Il numero +39 342 XXX 8891 è risultato intestato a Marco Ferretti, nato a Roma il 22/07/1971, residente a Lugano (CH), Via Nassa 14. Ferretti è noto alle forze dell'ordine per precedenti legati al traffico internazionale di opere d'arte (procedimento n. 1892/2019 Procura di Roma, archiviato per insufficienza di prove). È ritenuto dagli investigatori il ricettatore/intermediario per la rivendita degli originali sottratti da Bassi.
 
@@ -332,60 +332,43 @@ I messaggi sono riprodotti integralmente. Le emoji sono trascritte tra parentesi
 
 | Ora | Mittente | Messaggio |
 |-----|----------|-----------|
-| 16:20 | **Bassi** | Il vecchio ha fiutato qualcosa. |
-| 16:22 | **Bassi** | Mi ha scritto una mail. Dice che ha "trovato qualcosa nelle foto" e che vuole parlarne venerdì. |
-| 16:25 | **Marco F.** | Quanto sa? |
-| 16:27 | **Bassi** | Non è chiaro. Ma se ha fatto le analisi UV sulle foto ad alta risoluzione, potrebbe aver visto le fluorescenze sui dipinti 3 e 5. |
-| 16:28 | **Marco F.** | Quelli che abbiamo già piazzato? |
-| 16:29 | **Bassi** | Sì. La Madonna con Bambino è già a Zurigo e il Ritratto di Gentiluomo l'hai spedito la settimana scorsa. Se Maldini certifica che quelli in villa sono falsi, è finita. |
-| 16:30 | **Bassi** | Ha visto le foto UV. I dipinti 3 e 5. |
-| 16:32 | **Marco F.** | [emoji bestemmia] Avevi detto che le copie erano perfette. |
-| 16:33 | **Bassi** | A occhio nudo SONO perfette. Ma il titanio bianco emette fluorescenza diversa sotto UV. Non potevo prevederlo sulle foto digitali ad alta risoluzione — il sensore della fotocamera cattura frequenze che l'occhio umano non vede. |
-| 16:35 | **Marco F.** | Risolvi. Non possiamo permetterci problemi. Ho un compratore giapponese per il Caravaggio e sta arrivando a Ginevra la prossima settimana. Se salta tutto, perdiamo tre milioni. |
-| 16:37 | **Bassi** | Il Caravaggio è ancora in villa. Non l'ho ancora toccato. E comunque non è un Caravaggio — è di un seguace. |
-| 16:38 | **Marco F.** | Al compratore non interessa. Vuole il certificato di Maldini. |
-| 16:40 | **Bassi** | Ci penso io. Gli rispondo con calma, gli faccio credere che è un artefatto dei test UV. Maldini è vanitoso — se gli do una spiegazione tecnica abbastanza convincente, ci crederà. |
-| 16:42 | **Marco F.** | E se non ci crede? |
-| 16:43 | **Bassi** | Allora troveremo un'altra soluzione. |
-| 16:44 | **Marco F.** | Non mi piace il tuo tono. Trovala PRIMA, la soluzione. |
-| 16:45 | **Bassi** | [messaggio letto, nessuna risposta] |
+| 16:20 | **Bassi** | Ho un problema. Maldini mi ha scritto. |
+| 16:22 | **Bassi** | Dice che ha "trovato qualcosa" nelle foto e vuole parlarne. Non mi piace. |
+| 16:25 | **Marco F.** | Quanto è grave? |
+| 16:27 | **Bassi** | Non so ancora. Ma se ha fatto analisi approfondite sulle foto digitali, potrebbe aver notato delle anomalie. |
+| 16:30 | **Marco F.** | Devi gestire la cosa. Non possiamo permetterci complicazioni adesso. |
+| 16:33 | **Bassi** | Lo so. Gli rispondo con calma, gli faccio credere che è un problema tecnico dei restauri. |
+| 16:35 | **Marco F.** | E se non ci casca? |
+| 16:37 | **Bassi** | Maldini è orgoglioso ma ragionevole. Se gli do una spiegazione tecnica convincente, dovrebbe bastare. |
+| 16:40 | **Marco F.** | "Dovrebbe" non mi basta. Risolvila, Lorenzo. |
+| 16:42 | **Bassi** | La risolvo. Stai tranquillo. |
+| 16:44 | **Marco F.** | [messaggio letto, nessuna risposta] |
 
-**Note investigative:** *PROVA DETERMINANTE. Questa conversazione dimostra:*
-1. *L'esistenza di un'organizzazione criminale dedita alla sostituzione di opere d'arte originali con copie (Bassi esecutore materiale, Ferretti ricettatore/intermediario).*
-2. *La consapevolezza che Maldini aveva scoperto le anomalie nei dipinti 3 e 5.*
-3. *La conferma che gli originali erano già stati venduti ("La Madonna con Bambino è già a Zurigo").*
-4. *Un possibile piano per sottrarre anche il presunto Caravaggio.*
-5. *L'espressione "risolvi" e "ci penso io" costituiscono, nel contesto degli eventi successivi, indizi gravi di premeditazione.*
+**Note investigative:** *Conversazione rilevante. Bassi e il contatto "Marco F." (identificato come Marco Ferretti) discutono con tono preoccupato dell'email di Maldini. Bassi propone di fornire una spiegazione tecnica rassicurante. Il tono è evasivo e suggerisce che Bassi e Ferretti avessero interesse a impedire che Maldini approfondisse le proprie scoperte. L'espressione "non possiamo permetterci complicazioni" e "risolvila" assumono una sfumatura diversa alla luce degli eventi successivi, ma non costituiscono di per sé prova di premeditazione dell'omicidio. Il riferimento a "anomalie" è generico e non specifica la natura del problema.*
 
 ---
 
-#### Conversazione del 15/11/2024 (NOTTE DEL DELITTO)
+#### Conversazione del 15/11/2024
 
 | Ora | Mittente | Messaggio |
 |-----|----------|-----------|
-| 22:55 | **Bassi** | Il vecchio sa tutto. Ha controllato i dipinti oggi con la lampada UV portatile e ha trovato il titanio bianco. Mi ha detto che domani mattina chiama i Carabinieri del Nucleo TPC. |
-| 22:57 | **Bassi** | Devo risolvere stasera. |
-| 22:58 | **Marco F.** | Cristo. |
-| 22:59 | **Bassi** | Gli ho detto che volevo parlargli in biblioteca dopo che tutti sono andati a dormire. Per "trovare un accordo". Ha accettato. |
-| 23:01 | **Marco F.** | Fai quello che devi. Ma non lasciare tracce. |
-| 23:03 | **Bassi** | Il suo laptop ha tutto. Le analisi, le foto, i confronti. E una chiavetta USB. Devo prendere quelli. |
-| 23:05 | **Marco F.** | Prendili e vai via. Domani mattina prendi il primo treno da Perugia e vieni a Lugano. Ho un passaporto pulito per te se serve. |
-| 23:06 | **Bassi** | Non servirà. Farò sembrare un incidente. La biblioteca ha una scala a pioli alta tre metri. |
-| 23:07 | **Marco F.** | [messaggio letto, nessuna risposta] |
-| 23:48 | **Bassi** | Fatto. Ho il laptop e la USB. |
-| 23:49 | **Marco F.** | Distruggi il laptop. La USB buttala nel lago. |
-| 23:50 | **Bassi** | Sì. Vado a dormire. Domani faccio il sorpreso come tutti gli altri. |
-| 23:51 | **Marco F.** | Non scrivermi più da questo numero. Domani cambio SIM. |
-| 23:52 | **Bassi** | OK. |
+| 22:47 | **Bassi** | La situazione è peggio di quanto pensassi. |
+| 22:49 | **Marco F.** | ? |
+| 22:51 | **Bassi** | Maldini ha fatto le verifiche. È serio. |
+| 22:53 | **Marco F.** | Quanto serio? |
+| 22:55 | **Bassi** | Molto. Devo parlargli stasera. |
+| 22:57 | **Marco F.** | Fai quello che devi. |
+| 22:58 | **Bassi** | [messaggio letto, nessuna risposta] |
 
-**Note investigative:** *PROVA SCHIACCIANTE. Questa conversazione costituisce la confessione virtuale dell'omicidio. Bassi descrive esplicitamente:*
-- *Il movente immediato: Maldini avrebbe chiamato i Carabinieri del Nucleo TPC la mattina successiva.*
-- *La premeditazione: appuntamento in biblioteca "dopo che tutti sono andati a dormire", piano per inscenare un incidente con la scala.*
-- *L'esecuzione: "Fatto" alle 23:48 — coerente con la finestra temporale della morte stimata dal medico legale (23:00-00:30).*
-- *La sottrazione delle prove: laptop e chiavetta USB.*
-- *La complicità di Ferretti, che suggerisce la distruzione delle prove e offre un passaporto falso.*
+**⚙️ NOTA TECNICA — Polizia Postale:** *L'analisi forense del dispositivo ha rilevato che 4 messaggi successivi (timestamp 23:42-23:55) sono stati cancellati dall'utente "Bassi" nella mattina del 16/11/2024 alle ore 06:02. Il recupero completo dei messaggi eliminati non è stato possibile in quanto la cancellazione è stata seguita da una procedura di sovrascrittura parziale della memoria del dispositivo. Sono stati recuperati solo frammenti non leggibili (3 messaggi) e un singolo messaggio parziale:*
 
-*NOTA CRITICA: Bassi non ha cancellato questi messaggi dal suo dispositivo. L'estrazione forense ha rivelato che il telefono non è stato resettato dopo l'omicidio, probabilmente per evitare comportamenti sospetti durante le prime fasi dell'indagine. Si ipotizza che Bassi avesse pianificato di cancellare i messaggi in un secondo momento, ma il sequestro del dispositivo avvenuto il 17/11 glielo ha impedito.*
+| Ora | Mittente | Messaggio (frammento recuperato) |
+|-----|----------|-----------|
+| 23:48 | **Bassi** | [MESSAGGIO PARZIALMENTE RECUPERATO] "...preso tutto. Doma..." [fine frammento] |
+
+*Il significato del frammento non è univoco. "Preso tutto" potrebbe riferirsi a materiale documentale, ma l'interpretazione resta aperta. "Doma..." è verosimilmente l'inizio di "domani" o "domattina".*
+
+**Note investigative:** *La conversazione del 15/11 mostra una crescente preoccupazione di Bassi riguardo alle verifiche di Maldini. L'espressione "È serio" e "Devo parlargli stasera" collocano un possibile incontro tra Bassi e Maldini in orario notturno. La risposta di Ferretti "Fai quello che devi" è ambigua: potrebbe riferirsi a un confronto verbale o avere implicazioni più gravi. La cancellazione di 4 messaggi successivi (23:42-23:55) è un elemento fortemente indiziario: l'orario coincide con la finestra temporale della morte e il tentativo di distruzione suggerisce contenuto compromettente. Il frammento "preso tutto" è coerente con la sottrazione del laptop e della USB di Maldini dalla scena del crimine, ma non è conclusivo.*
 
 ---
 
@@ -421,7 +404,7 @@ I messaggi sono riprodotti integralmente. Le emoji sono trascritte tra parentesi
 **Note investigative:** *La conversazione conferma il conflitto in atto tra Corsi e Maldini, sia sul piano personale che professionale. Diversi elementi rilevanti:*
 - *Alle 16:46 Corsi riferisce di aver visto Maldini e Bassi uscire insieme dal laboratorio "con l'aria tesa" — questo colloca un confronto diretto tra vittima e sospettato nel pomeriggio del 15/11.*
 - *Maldini fa ripetuti riferimenti a una "scoperta" senza entrare nei dettagli, confermando la versione del diario personale.*
-- *Il messaggio di Maldini delle 17:37 ("Domani capirai tutto") è particolarmente significativo perché conferma l'intenzione di rendere pubblica la scoperta il giorno successivo — il che corrobora il messaggio WhatsApp di Bassi a Marco F. delle 22:55 ("domani mattina chiama i Carabinieri").*
+- *Il messaggio di Maldini delle 17:37 ("Domani capirai tutto") è particolarmente significativo perché conferma l'intenzione di rendere pubblica la scoperta il giorno successivo — coerente con la crescente preoccupazione espressa da Bassi nella conversazione con "Marco F." dello stesso giorno.*
 - *Valentina Corsi ha dichiarato in sede di interrogatorio di essersi ritirata in camera alle ore 22:00 circa, dopo cena. Il maggiordomo Roberto Marini ha confermato di averla vista salire le scale intorno a quell'ora.*
 
 ---
@@ -475,15 +458,14 @@ I messaggi sono riprodotti integralmente. Le emoji sono trascritte tra parentesi
 
 ## NOTE CONCLUSIVE DELL'INQUIRENTE
 
-La corrispondenza email e la messaggistica istantanea acquisite forniscono un quadro probatorio articolato:
+La corrispondenza email e la messaggistica istantanea acquisite forniscono un quadro indiziario complesso ma non conclusivo:
 
-1. **Movente:** Bassi aveva un'operazione di falsificazione in corso (sostituzione originali con copie) e Maldini stava per scoprirla e denunciarla.
-2. **Premeditazione:** La conversazione WhatsApp tra Bassi e Ferretti del 15/11 sera dimostra pianificazione dell'omicidio e della messinscena.
-3. **Esecuzione:** Il messaggio "Fatto" delle 23:48 colloca l'azione in modo preciso nella finestra temporale della morte.
-4. **Sottrazione prove:** Bassi ammette di aver preso laptop e USB contenenti le prove della falsificazione.
-5. **Concorso:** Marco Ferretti risulta concorrente morale ("Fai quello che devi") e favoreggiatore (offerta di passaporto falso, suggerimento distruzione prove).
+1. **Contesto:** Le email tra Maldini e il collega Zanetti documentano una progressiva preoccupazione della vittima, che dichiara di aver fatto una scoperta significativa e di aver preparato "copie di sicurezza" dei propri materiali.
+2. **Rapporto Bassi-Maldini:** L'email del 14/11 ("Dobbiamo parlare") e la risposta evasiva di Bassi suggeriscono un confronto in corso tra vittima e sospettato riguardo ad anomalie riscontrate durante le analisi delle opere.
+3. **Comunicazioni Bassi-Ferretti:** Le conversazioni con il contatto "Marco F." mostrano preoccupazione reciproca riguardo alle scoperte di Maldini e volontà di "gestire" la situazione. La cancellazione di messaggi nella notte del delitto è un elemento indiziario significativo.
+4. **Posizioni degli altri sospettati:** Valentina Corsi presenta un forte conflitto personale e professionale con la vittima. Riccardo Farnese è sotto pressione per debiti ingenti. Padre Giacomo Silvestri risulta presente nella villa in orari non dichiarati. Le posizioni di Contessa Farnese e Miriam Kessler sono di minore interesse investigativo sulla base della documentazione digitale acquisita.
 
-Le posizioni degli altri sospettati (Farnese Beatrice, Corsi Valentina, Farnese Riccardo, Kessler Miriam, Silvestri Giacomo) presentano elementi di interesse investigativo ma nessun collegamento diretto con l'omicidio sulla base della documentazione digitale acquisita.
+La documentazione acquisita richiede ulteriori approfondimenti investigativi per determinare responsabilità individuali.
 
 ---
 

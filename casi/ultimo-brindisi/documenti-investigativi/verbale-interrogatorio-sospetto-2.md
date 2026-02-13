@@ -98,14 +98,13 @@
 
 ## Note dell'Investigatore
 
-- Il soggetto appare visibilmente colpito dalla morte del socio. Tuttavia, presenta alcune incongruenze.
-- **DISCREPANZA ALIBI:** Lo scontrino indica pagamento alle 21:15, ma il soggetto dichiara di essere rimasto fino alle 23:30. La giustificazione ("digestivi al bancone pagati in contanti") non è verificabile tramite POS. Da verificare con il ristoratore Sergio e con i commensali Bruni e Genovesi.
-- Il soggetto aveva **accesso diretto alla cantina** della vittima due giorni prima del crimine (17/10), confermato dal suo stesso post Instagram.
-- Ammette di aver toccato bottiglie, inclusa potenzialmente quella del delitto.
-- **Non sembra a conoscenza** dell'articolo-inchiesta, ma la domanda sullo "scandalo enologico" ha provocato una reazione percepibile (irrigidimento).
-- La **clausola societaria** sul passaggio di quota in caso di morte è un elemento da approfondire.
-- L'ultima telefonata con la vittima (18/10 ore ~18:30-19:00, confermata dal cellulare della vittima: 18:42, durata 3'12") appare normale in superficie.
-- Da verificare: conferma del ristoratore sull'orario di uscita; testimonianze di Bruni e Genovesi; movimenti tra le 21:15 e le 23:30; accesso a metanolo o sostanze chimiche.
+- Il soggetto appare visibilmente colpito dalla morte del socio.
+- Lo scontrino indica pagamento alle 21:15. Il soggetto dichiara di essere rimasto fino alle 23:30. Da verificare con il ristoratore Sergio e con i commensali Bruni e Genovesi.
+- Il soggetto si è recato alla cantina della vittima il 17/10. Ha ammesso di aver toccato diverse bottiglie durante la riorganizzazione.
+- Dichiara di non essere a conoscenza dell'articolo-inchiesta. Alla domanda sullo "scandalo enologico" si è irrigidito.
+- Il contratto societario prevede una clausola di passaggio quota in caso di decesso.
+- L'ultima telefonata con la vittima risulta il 18/10 ore 18:42, durata 3'12".
+- Da verificare: conferma del ristoratore sull'orario di uscita; testimonianze di Bruni e Genovesi; movimenti tra le 21:15 e le 23:30.
 
 ---
 

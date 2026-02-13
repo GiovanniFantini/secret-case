@@ -114,42 +114,35 @@
 
 ### Pagina 88 — 8 gennaio 2025
 
-*La mamma prende il Lanoxin ogni giorno. Una compressa da 0,25 mg. Ho cercato online: dose tossica per un uomo di 80 kg con problemi cardiaci preesistenti...*
+*La mamma prende le sue medicine ogni giorno. Ogni giorno, la stessa routine. Ogni giorno, la stessa fiducia nel fatto che le cose vanno come devono andare.*
 
-[La pagina è strappata a partire da questo punto. Il frammento rimanente sul margine sinistro contiene le lettere: "...su...ien...per..." — non ricostruibile con certezza. La pagina successiva (p. 89) inizia con un nuovo argomento datato 10 gennaio, relativo alla preparazione di un articolo accademico.]
+[La pagina è strappata a partire da questo punto. Il frammento rimanente sul margine sinistro contiene le lettere: "...ci ho pensato a lungo..." — non ricostruibile con certezza. La pagina successiva (p. 89) inizia con un nuovo argomento datato 10 gennaio, relativo alla preparazione di un articolo accademico.]
 
-> **NOTA INVESTIGATIVA (Sost. Proc. Liguori, 18/02/2025):**
-> La pagina 88 è la prova più diretta della premeditazione. La Valdi inizia a descrivere una ricerca sulla dose tossica di digossina (principio attivo del Lanoxin), ma la pagina è stata strappata — presumibilmente dalla stessa Valdi in un momento successivo, nel tentativo di eliminare la prova. La parte restante del testo, pur frammentaria, suggerisce una valutazione della quantità "sufficiente" per produrre effetti letali. L'analisi forense del quaderno ha confermato che la lacerazione è recente (fibre fresche, non ossidate) e probabilmente risalente a non più di 2-3 settimane prima del sequestro. La pagina strappata NON è stata rinvenuta nell'appartamento.
+> L'analisi forense del quaderno ha confermato che la lacerazione della pagina 88 è recente (fibre fresche, non ossidate) e probabilmente risalente a non più di 2-3 settimane prima del sequestro. La pagina strappata NON è stata rinvenuta nell'appartamento.
 
 ---
 
 ### Pagina 95 — 20 gennaio 2025
 
-*Sono andata in farmacia per la mamma. Ho chiesto un rinnovo anticipato. La farmacista non ha fatto domande.*
+*Sono andata in farmacia per la mamma. La solita routine: il suo nome, il codice fiscale, la firma sul registro.*
 
-*Mi tremavano le mani quando ho firmato il registro. Ma lei non se ne è accorta, o ha finto di non accorgersene.*
+*La farmacista mi ha sorriso. "Saluti alla signora Rosa." Ho sorriso anch'io. O almeno ci ho provato.*
 
-*Trenta compresse. Ne bastano molte meno.*
+*Quando sono andata a trovarla dopo, la mamma mi ha preparato un caffè e abbiamo guardato insieme il telegiornale. Ha commentato il tempo. Ha accarezzato il gatto.*
 
-*La mamma mi ha chiesto perché fossi così pallida quando sono andata a trovarla dopo. Le ho detto che ero stanca per il lavoro. Mi ha preparato un caffè e abbiamo guardato insieme il telegiornale. Ha commentato il tempo. Ha accarezzato il gatto.*
-
-*Non sa niente. Non deve sapere niente. Mai.*
+*La normalità è insopportabile. Il mondo va avanti come se niente fosse. Come se tutto fosse a posto.*
 
 ---
 
 ### Pagina 103 — 30 gennaio 2025
 
-*Il convegno a Milano è la prima settimana di febbraio. Perfetto.*
+*Il convegno a Milano è la prima settimana di febbraio. Ho prenotato al Principe di Savoia per due notti. Userò la mia macchina — voglio avere libertà di movimento.*
 
-*Silvia Colombo mi ha confermato che la cena dei relatori sarà sabato sera. Ho prenotato al Principe di Savoia per due notti. La Bocconi paga l'hotel, ma userò la mia macchina per avere libertà di movimento. Dirò che voglio fare un giro per Milano il sabato pomeriggio.*
+*Silvia Colombo mi ha confermato che la cena dei relatori sarà sabato sera.*
 
-*Ho studiato i tempi. Milano-Bologna in auto, di notte: un'ora e quarantacinque, forse meno con l'autostrada vuota. Se esco dalla cena alle nove, posso essere a Bologna prima delle undici. Lui è sempre in ufficio il sabato sera. Sempre. Non ha nessun altro posto dove andare.*
+*Non dormo più. Le notti sono lunghe. Penso e ripenso. A volte mi chiedo se sto impazzendo. Ma poi penso a Chiara e so che non sto impazzendo. Sto vedendo le cose come sono.*
 
-*La moka è nella cucina della facoltà. La usa sempre lui, nessun altro la tocca. Ha le sue iniziali graffiate sul fondo.*
-
-*Devo solo preparare il caffè. Portarglielo. Aspettare. Andare via.*
-
-*È così semplice. Questo è ciò che mi terrorizza.*
+*Ho preso una decisione. Non la scrivo. Non qui. Non da nessuna parte.*
 
 ---
 
@@ -157,77 +150,47 @@
 
 *Chiara mi ha detto che consegnerà le registrazioni a quel giornalista sabato sera. Non sa niente di quello che farò io. Nessuno deve saperlo.*
 
-*Ho pensato di dirle qualcosa. Di avvertirla. Ma avvertirla di cosa? Che sto per fare qualcosa di irreversibile? Se le dicessi qualcosa, diventerebbe complice. Non posso farlo.*
-
 *Il giornalista si chiama Tommaso Rossi. È di Firenze. Chiara dice che è serio e determinato. Scriverà un articolo su Marini. Bene. Almeno la verità verrà fuori, in un modo o nell'altro.*
 
 *Ma un articolo non ferma le mani di un uomo. Un articolo non impedisce il viaggio a Lisbona. Un articolo non restituisce a me i miei venticinque anni.*
 
-*Ho nascosto le compresse in fondo alla borsa. Le ho polverizzate con il mortaio della cucina e messe in un sacchettino di carta. Si dissolveranno nel caffè. Non cambiano il sapore — ho provato con una dose minima nel mio caffè due giorni fa. Niente. Leggermente più amaro, ma il caffè della moka è già amaro di suo.*
+*Ho preparato tutto quello che devo preparare. Ho chiesto un favore a Laura, una cosa da niente per lei. Laura è una brava persona. Non sospetterà mai.*
 
-*Laura Fabbri mi ha dato il suo badge alla fine di gennaio. Le ho detto che avevo bisogno di accedere al laboratorio nel weekend. Non ha chiesto nulla. Laura è una brava persona. Non sospetterà mai.*
+*Non scrivo i dettagli. Mai più.*
 
 ---
 
 ### Pagina 128 — 8 febbraio 2025 (mattina)
 
-*Oggi è il giorno. Mi tremano le mani. Scrivo per calmarmi, ma non funziona.*
+*Oggi. Mi tremano le mani. Scrivo per calmarmi, ma non funziona.*
 
-*Penso a Chiara. Penso a me a 25 anni, nella stessa stanza, con le stesse mani addosso. Penso che nessun altro debba passare quello che ho passato io.*
-
-*Non ho scelta. Il sistema non funziona. L'ho provato per otto anni. Otto anni di segnalazioni ignorate, di procedure che non portano a niente, di sorrisi condiscendenti da parte di chi dovrebbe proteggerci.*
-
-*Stamattina alla colazione in hotel il caffè aveva un sapore diverso. O forse sono io che sento tutto in modo diverso oggi.*
+*Penso a Chiara. Penso a me a 25 anni. Penso che nessun altro debba passare quello che ho passato io.*
 
 *La mia relazione al convegno è alle 14:30. Parlerò di modelli costituzionali di protezione contro gli abusi di potere. L'ironia è insopportabile.*
 
-*Stasera alla cena uscirò presto. Dirò che non sto bene. Prenderò la macchina. Un'ora e quarantacinque. Forse meno.*
+*Stasera alla cena proveremo il risotto. Silvia è così entusiasta per il ristorante. Se solo sapesse.*
 
-*Non scrivo altro. Non voglio scrivere i dettagli. Se qualcuno trovasse questo diario... ma non lo troveranno. Lo nasconderò meglio, dopo. O lo brucerò.*
+*Non scrivo altro. Qualunque cosa succeda, succede stanotte.*
 
 *Dio, se esisti, perdonami. Ma tu non hai fermato le sue mani, quindi forse non esisti.*
 
 ---
 
-### Pagina 134 — 8 febbraio 2025 (sera) — ULTIMA PAGINA SCRITTA
-
-*È fatto.*
-
-*Non sento niente. Pensavo che avrei pianto o che avrei avuto paura. Invece sento solo un vuoto immenso. Come se avessi finito di portare un peso che mi schiacciava da dieci anni.*
+### Pagina 134 — 9 febbraio 2025 (notte) — ULTIMA PAGINA SCRITTA
 
 *Guido verso Milano. Le luci dell'autostrada sono ipnotiche. I fari delle poche macchine che incrocio sembrano occhi che mi guardano. Ma non vedono niente. Nessuno vede niente. Nessuno ha mai visto niente.*
 
-*Gli ho portato il caffè. Ha sorriso. "Elena, che sorpresa. Sempre gentile." Ha bevuto mentre parlava del suo libro. Del suo maledetto libro. "La Costituzione Vivente." La costituzione vivente e le studentesse morte dentro.*
-
-*Ho lavato la moka e la tazzina. Ho asciugato tutto. Ho rimesso ogni cosa al suo posto. Sono uscita dalla porta di servizio.*
-
-*Non mi ha chiesto perché ero lì. Non si è sorpreso. Perché per lui è normale. Una ricercatrice che gli porta il caffè alle undici di sera nel suo studio: normale. Una giovane donna sola con lui a tarda notte: normale. Tutto è sempre stato normale per lui. E questa normalità è stata la sua condanna.*
+*Non sento niente. Pensavo che avrei pianto. Invece sento solo un vuoto immenso. Come se avessi finito di portare un peso che mi schiacciava da dieci anni.*
 
 *Domani sarà tutto diverso. O forse sarà tutto uguale, ma senza di lui.*
 
-*Mi fermo a un Autogrill. Ho bisogno di un caffè. Di un caffè normale, non avvelenato. Di un caffè che non uccide nessuno.*
-
-*Le mie mani non tremano più.*
+*Mi fermo a un Autogrill. Ho bisogno di un caffè. Le mie mani non tremano più.*
 
 ---
 
 [Le pagine successive (135-192) sono bianche.]
 
 ---
-
-> **NOTA INVESTIGATIVA CONCLUSIVA (Sost. Proc. Liguori, 20/02/2025):**
->
-> Il diario di Elena Valdi costituisce, insieme ai dati oggettivi (Telepass, badge, ricevute), la prova principale a carico dell'indagata. Il documento evidenzia:
->
-> 1. **Movente:** La Valdi agisce per una combinazione di vendetta personale (per gli abusi subiti in prima persona dal 2017) e di protezione verso la studentessa Chiara Moretti e le future potenziali vittime. Il movente non è economico né passionale nel senso classico, ma radicato in un trauma profondo e in una frustrazione sistematica verso le istituzioni.
->
-> 2. **Premeditazione:** Il diario documenta un percorso di pianificazione che si sviluppa nell'arco di almeno due mesi (dicembre 2024 — febbraio 2025), includendo: la scelta del metodo (digossina), il procuramento del mezzo (rinnovo anticipato farmacia il 20/01), la scelta della data (convegno a Milano come alibi), il procuramento dell'accesso (badge Fabbri), e lo studio della logistica (tempi di percorrenza, abitudini della vittima).
->
-> 3. **Isolamento:** La Valdi agisce da sola. Non risulta che alcuna altra persona fosse a conoscenza del piano. La Moretti, Rossi e Fabbri sono utilizzate inconsapevolmente.
->
-> 4. **Stato psicologico:** Il diario rivela una persona lucida ma profondamente sofferente, che arriva all'atto estremo dopo aver esaurito tutti i percorsi istituzionali disponibili. Non si rilevano segni di disturbo mentale, ma un progressivo consolidamento della convinzione che l'unica soluzione fosse l'eliminazione fisica della vittima.
->
-> 5. **Tentativo di occultamento parziale:** La pagina strappata (p. 88, con i dettagli sulla dose tossica) indica che la Valdi ha tentato di eliminare la prova più esplicita, ma non ha distrutto l'intero diario — il che potrebbe suggerire un'ambivalenza psicologica tra il desiderio di nascondere il crimine e quello di lasciare una testimonianza delle ragioni che l'hanno portata ad agire.
 
 ---
 

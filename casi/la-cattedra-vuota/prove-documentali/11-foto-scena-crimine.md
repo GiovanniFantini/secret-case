@@ -47,8 +47,6 @@ Sul lato esterno, a destra della porta, è installato un **lettore badge Kaba Sa
 
 Sullo stipite della porta, a un'altezza di circa 160 cm, è presente un cartello plastificato con la scritta: "USCITA DI EMERGENZA — Utilizzare la porta principale per l'accesso ordinario."
 
-> **NOTA INVESTIGATIVA:** Questo ingresso è quello utilizzato dalla Dr.ssa Valdi la sera dell'8 febbraio, alle ore 22:55, con il badge della Dr.ssa Laura Fabbri. L'assenza di telecamere su questo lato dell'edificio è un elemento cruciale: la Valdi non è stata filmata entrando. L'uscita tramite push-bar non ha lasciato registrazione elettronica.
-
 ---
 
 ## FOTO 3 — CUCINA DI FACOLTA', PRIMO PIANO
@@ -87,8 +85,6 @@ Il lavandino appare **pulito**, senza residui visibili a occhio nudo. Il tappo d
 
 Sul bordo del lavandino, lato destro, è appoggiato uno strofinaccio a righe bianche e blu, **umido al tatto** (annotato nel verbale di sopralluogo).
 
-> **NOTA INVESTIGATIVA:** L'analisi chimica dei residui prelevati dallo scarico del lavandino (tampone n. FG-2025-0892) ha rivelato la presenza di **tracce di digossina** (concentrazione: 0,08 mcg/ml nel liquido residuo). La digossina è il principio attivo del Lanoxin. Questa è la prova che la sostanza è stata disciolta e/o che il contenitore utilizzato per somministrarla (la tazzina da caffè) è stato lavato in questo lavandino. La moka "RM" è stata anch'essa sottoposta ad analisi: tracce di digossina sono state rinvenute nella guarnizione di gomma della parte superiore della caffettiera (concentrazione: 0,12 mcg/ml).
-
 ---
 
 ## FOTO 5 — ARMADIETTO CUCINA — TAZZINE DA CAFFE'
@@ -103,8 +99,6 @@ Contenuto del pensile in legno chiaro situato sopra il lavandino. Due ripiani in
 Tutte e 6 le tazzine appaiono **pulite e asciutte**. Nessun residuo di caffè è visibile su alcuna tazzina. L'analisi forense successiva (tamponi FG-2025-0893 a 0898) ha rivelato:
 - Tazzine 1-5: Nessuna traccia anomala. Residui minimi di detergente per stoviglie.
 - **Tazzina 6 (la più a destra):** Tracce di **digossina** sulla superficie interna (concentrazione: 0,04 mcg/ml). Il lavaggio ha rimosso la quasi totalità della sostanza, ma il residuo molecolare è stato rilevato dall'analisi cromatografica HPLC-MS.
-
-> **NOTA INVESTIGATIVA:** La tazzina 6 è con ogni probabilità quella utilizzata per servire il caffè avvelenato al Prof. Marini. Dopo che la vittima ha consumato il caffè, la tazzina è stata recuperata (non è stata trovata nello Studio 204 — cfr. Foto 8: "No coffee cup"), lavata nel lavandino della cucina e riposta nel pensile. Questo gesto indica una pianificazione meticolosa e la volontà di eliminare le prove. Tuttavia, il lavaggio non è stato sufficiente a rimuovere completamente le tracce molecolari di digossina.
 
 ---
 
@@ -164,8 +158,6 @@ Close-up della scrivania e del corpo del Prof. Marini.
 - **Nessuna tazza da caffè** è presente sulla scrivania, né in altro punto dello studio.
 - **Bicchiere in vetro** (tipo tumbler, capacità ~250ml), posizionato nell'angolo destro della scrivania, **vuoto**. Analisi: acqua residua, nessuna traccia anomala.
 
-> **NOTA INVESTIGATIVA:** L'assenza della tazza da caffè sulla scrivania è coerente con l'ipotesi che l'assassina abbia recuperato la tazzina dopo che Marini ha bevuto il caffè (o che Marini stesso l'abbia restituita). La tazzina è stata poi lavata e riposta nel pensile della cucina (cfr. Foto 5). La penna Montblanc aperta e il documento Word in corso di redazione suggeriscono che Marini stesse lavorando al momento dell'insorgenza dei sintomi dell'avvelenamento.
-
 ---
 
 ## FOTO 9 — DETTAGLIO FINESTRA E DAVANZALE
@@ -203,9 +195,6 @@ Close-up della serratura della porta dello Studio 204, lato interno. La porta è
 Il chiavistello è azionabile **solo dall'interno** della stanza e non è apribile dall'esterno con alcun tipo di chiave o strumento. Per aprire la porta dall'esterno, il custode Mancini ha utilizzato la chiave della serratura principale — ma il chiavistello ha impedito l'apertura. La porta è stata infine aperta dal personale dei Vigili del Fuoco intervenuto su richiesta, mediante l'inserimento di un attrezzo piatto nella fessura tra porta e telaio per far scorrere il paletto del chiavistello.
 
 **Nessun segno di effrazione**, forzatura o manipolazione è visibile sulla serratura, sul chiavistello, sul telaio o sulla porta. La vernice della porta è intatta. Il vetro smerigliato è integro.
-
-> **⚠ NOTA INVESTIGATIVA (Mar.llo Ferretti, 10/02/2025):**
-> Il chiavistello chiuso dall'interno è uno degli elementi che inizialmente hanno orientato le indagini verso l'ipotesi di morte naturale o suicidio (scena "chiusa dall'interno"). Tuttavia, l'analisi approfondita ha rivelato che il chiavistello è stato **chiuso dalla vittima stessa** prima o dopo il malore, oppure che era già chiuso al momento in cui il caffè è stato servito. L'ipotesi più probabile: Marini aveva l'abitudine di chiudersi a chiave nello studio quando lavorava la sera (confermato da Mancini: "Si chiudeva sempre dentro, specialmente di sera"). La Valdi ha portato il caffè **bussando alla porta**, Marini ha aperto, ha preso il caffè, e ha richiuso il chiavistello dopo che la Valdi è uscita — o la Valdi è uscita e Marini ha richiuso il chiavistello prima di tornare a sedersi. In entrambi i casi, il chiavistello chiuso non esclude la presenza di un terzo nella stanza poco prima del decesso.
 
 ---
 
@@ -281,9 +270,6 @@ Prelevate 23 impronte latenti. Identificate:
 - Prof. Renato Marini: 5 impronte (moka "RM", rubinetto, piano di lavoro)
 - **Dr.ssa Elena Valdi: 0 impronte** (le superfici della moka "RM" e della tazzina n. 6 risultano prive di impronte — indicativo di pulizia con panno)
 - Altre impronte: 10 (in corso di identificazione)
-
-> **NOTA INVESTIGATIVA FINALE (Mar.llo Ferretti, 12/02/2025):**
-> L'assenza completa di impronte della Dr.ssa Valdi sia nello Studio 204 che sulla moka e sulla tazzina è, paradossalmente, un elemento indiziario significativo. La Valdi, in quanto ricercatrice del dipartimento, avrebbe dovuto avere impronte nell'edificio — la loro completa assenza indica una **pulizia deliberata** delle superfici toccate. In particolare, la moka "RM" e la tazzina n. 6, pur contenendo tracce chimiche di digossina, sono prive di qualsiasi impronta digitale — il che è incompatibile con un uso normale e coerente solo con una pulizia intenzionale post-utilizzo.
 
 ---
 

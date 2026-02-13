@@ -71,9 +71,6 @@ Geolocalizzazione: Bologna, Via Zamboni (precisione ~50m)
 
 ♥ 89 | RT 14 | Risposte 3
 
-> **⚠ NOTA INVESTIGATIVA (Isp. Tosi, 15/02/2025):**
-> Il post è **falso nei contenuti**. Non risulta alcun convegno sulla riforma costituzionale a Roma nel weekend del 7-9 febbraio 2025 (verificato presso Sapienza, LUISS, Roma Tre, Consiglio Nazionale Forense, Camera dei Deputati). La geolocalizzazione del post è Bologna, non Roma né una stazione/aeroporto. Il Prof. Marini **non si è mai recato a Roma** quel weekend: il registro accessi di Palazzo Scarani (cfr. Prova documentale n. 12) registra il suo ingresso con badge alle ore 14:28 dell'8 febbraio. Nessun biglietto ferroviario o aereo a suo nome risulta emesso per quella data. Ipotesi: il post serviva a giustificare la propria assenza da impegni sociali e a garantirsi solitudine nel weekend. Da verificare se il Marini avesse appuntamenti privati programmati per la sera dell'8 febbraio.
-
 ---
 
 **Ultimo post:** 7 febbraio 2025, ore 07:55 (sopra riportato).
@@ -117,8 +114,6 @@ Allegato: Fotografia (JPEG, 4000x3000)
 Immagine: Tavola apparecchiata per due con tortellini in brodo. Mano di donna anziana (Rosa Valdi) visibile sul bordo della foto. Ambiente domestico, cucina con piastrelle vintage.
 
 ♥ 94 | Commenti 8
-
-> **NOTA INVESTIGATIVA:** La data (25 gennaio 2025) è 5 giorni dopo il ritiro anticipato del Lanoxin in farmacia (20 gennaio). La visita alla madre è coerente con la frequentazione regolare dichiarata dalla Valdi.
 
 ---
 
@@ -166,13 +161,6 @@ Dispositivo: iPhone 14
 
 > Story: Foto di un angolo di soggiorno — divano grigio, coperta a quadri, televisore acceso su un film (non identificabile). Caption: "Serata relax con il mio amore 🥰 @matteo.landi"
 
-> **⚠ NOTA INVESTIGATIVA (Isp. Tosi, 16/02/2025):**
-> Questa Story presenta una **discrepanza critica tra contenuto e metadati**. L'immagine mostra un ambiente domestico coerente con l'appartamento del fidanzato Matteo Landi (Via Garibaldi 89), ma le coordinate GPS estratte dai metadati EXIF dell'immagine originale (acquisita dal dispositivo sequestrato) corrispondono a **Piazza Verdi, Bologna** — a circa 1,2 km da Via Garibaldi 89.
->
-> **Ipotesi investigativa:** La Moretti ha pubblicato una foto **scattata in precedenza** nell'appartamento di Landi, applicandola come Story nella serata dell'8 febbraio mentre si trovava fisicamente in Piazza Verdi. L'analisi dei metadati del file originale nel rullino fotografico conferma che la foto è stata scattata il **2 febbraio 2025, ore 20:15**, presso le coordinate corrispondenti a Via Garibaldi 89.
->
-> **Correlazione:** La Moretti si trovava in Piazza Verdi alle 21:30, area in cui è ubicata la Trattoria da Cesari dove è stata emessa una ricevuta alle 21:15 per 2 caffè, 1 acqua e 1 spremuta (cfr. Prova documentale n. 09). La Moretti ha confermato in interrogatorio successivo di aver incontrato il giornalista Tommaso Rossi quella sera nella zona di Piazza Verdi per consegnargli le registrazioni audio del Prof. Marini.
-
 ---
 
 **8 febbraio 2025, ore 22:15**
@@ -218,9 +206,6 @@ Geolocalizzazione: Firenze, Via dei Calzaiuoli (indirizzo domicilio)
 
 ♥ 42 | RT 18 | Risposte 7
 
-> **⚠ NOTA INVESTIGATIVA (Isp. Tosi, 17/02/2025):**
-> Il post è stato pubblicato **poche ore dopo l'annuncio pubblico della morte del Prof. Marini** (comunicato dell'Università di Bologna diffuso alle ore 10:00 del 9 febbraio). Il tempismo è notevole. Il Rossi ha dichiarato di aver appreso la notizia dalla stampa come tutti gli altri, ma la formulazione del tweet — pur non menzionando direttamente Marini — appare come un commento velato sulla vicenda. Da notare: il Rossi si trovava a Firenze (Via dei Calzaiuoli 15, suo domicilio), come confermato dalla geolocalizzazione, ed è in possesso delle 12 registrazioni audio consegnate dalla Moretti la sera dell'8 febbraio. Nessun elemento indica che il Rossi fosse a conoscenza del piano omicidiario o della morte prima dell'annuncio ufficiale.
-
 ---
 
 **20 febbraio 2025, ore 14:00**
@@ -252,9 +237,6 @@ Visibilità: Solo amici
 
 > "Weekend di lavoro a Roma. Archivi e biblioteche, la vita della ricercatrice 😄 Ci vediamo lunedì!"
 
-> **⚠ NOTA INVESTIGATIVA (Isp. Tosi, 18/02/2025):**
-> Il post è **falso nei contenuti**. La geolocalizzazione indica chiaramente che la Conti si trovava a Bologna al momento della pubblicazione, non a Roma. Inoltre, le telecamere comunali di Via Zamboni hanno registrato il veicolo BMW Serie 3, targa BO 429 XF (intestato alla Conti), parcheggiato in Via Zamboni dalle 14:55 alle 23:15 dell'8 febbraio (cfr. Prova documentale n. 12). La Conti non risulta aver acquistato alcun biglietto ferroviario o aereo per Roma in quella data. In sede di interrogatorio (15/02/2025), la Conti ha ammesso di non essersi recata a Roma ma di essere rimasta a Bologna, dichiarando di aver pubblicato il post per "evitare di dover giustificare la mia presenza a Bologna quel weekend" e di essersi recata in Via Zamboni "per parlare con Renato della questione della polizza vita, di cui avevo saputo da un'amica che lavora in Generali."
-
 ---
 
 ## SEZIONE F — PROFILO LINKEDIN: PROF. CARLO BRUNI
@@ -281,9 +263,6 @@ Dispositivo: Windows PC (via web)
 - **Avv. Dario Gerardi**: "Un contributo importante per il dibattito accademico. Congratulazioni." — ore 13:00
 - **Dr. Marco Santini**: "Bravo Carlo. Lavoro di grande spessore." — ore 14:22
 - **Prof. Andrea Ferretti** (Università di Padova): "Interessante prospettiva. Avrei alcune osservazioni critiche — ne parliamo al prossimo convegno." — ore 16:45
-
-> **⚠ NOTA INVESTIGATIVA (Isp. Tosi, 19/02/2025):**
-> Si segnala che il **Dr. Alessio Ferrara** (ricercatore presso l'Università di Firenze, SSD IUS/17), la cui ricerca dottorale è all'origine della contestazione di plagio, **non compare tra coloro che hanno messo "like" o commentato il post**, nonostante risulti connesso a Bruni su LinkedIn e attivo sulla piattaforma in quei giorni (ha pubblicato un proprio post il 4 febbraio). Il Ferrara ha successivamente presentato esposto per plagio al Rettore dell'Università di Bologna in data 25 febbraio 2025, allegando documentazione comparativa tra il proprio lavoro di dottorato (discusso nel 2021) e la pubblicazione di Bruni. La questione del plagio, pur non direttamente collegata all'omicidio, contribuisce al quadro di disfunzionalità e abusi nel dipartimento che fa da sfondo alla vicenda.
 
 ---
 

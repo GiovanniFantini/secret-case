@@ -59,10 +59,10 @@
 | 19:30 | Marco cena da solo (resti di cena leggera trovati in cucina) | Esame scena | Confermata |
 | ~20:00 | Davide Conti dichiara di arrivare alla Trattoria da Sergio, Via dei Neri 42, Firenze | Dichiarazione Davide | Da verificare |
 | ~21:00 | Marco scende in cantina per degustazione (orario stimato) | Analisi medico legale | Stimata |
-| **21:15** | **Pagamento registrato a nome Davide Conti alla Trattoria da Sergio** | **Scontrino/ricevuta POS** | **Confermata** |
+| 21:15 | Pagamento registrato a nome Davide Conti alla Trattoria da Sergio | Scontrino/ricevuta POS | Confermata |
 | 21:30 – 22:00 | Marco apre la bottiglia di Brunello 2006 e inizia a bere | Analisi medico legale | Stimata |
-| **22:00 – 23:30** | **Decesso di Marco Ferretti** | **Perizia medico legale** | **Stimata (finestra temporale)** |
-| 23:30 | Davide Conti dichiara di lasciare la Trattoria da Sergio | Dichiarazione Davide | **NON confermata** |
+| 22:00 – 23:30 | Decesso di Marco Ferretti | Perizia medico legale | Stimata (finestra temporale) |
+| 23:30 | Davide Conti dichiara di lasciare la Trattoria da Sergio | Dichiarazione Davide | Non confermata |
 
 ### Sabato 19 ottobre 2024 — GIORNO DEL RITROVAMENTO
 
@@ -97,7 +97,7 @@
 
 | Ora | Luogo dichiarato | Conferma | Note |
 |-----|-------------------|----------|------|
-| 20:00 – 23:30 | Trattoria da Sergio, Via dei Neri 42 | Scontrino: pagamento ore **21:15** | **Discrepanza: lo scontrino indica uscita anticipata** |
+| 20:00 – 23:30 | Trattoria da Sergio, Via dei Neri 42 | Scontrino: pagamento ore 21:15 | Da verificare con documentazione |
 | 23:30 → | Casa propria | Nessuna conferma | — |
 
 ### Giulia Ferretti
@@ -112,7 +112,3 @@
 | Ora | Luogo dichiarato | Conferma | Note |
 |-----|-------------------|----------|------|
 | Intera giornata | Tenuta Ansaldi, Montalcino (SI) | Personale della tenuta | Confermata — 130 km da Fiesole |
-
----
-
-> **NOTA PER I GIOCATORI:** Confrontate le dichiarazioni dei sospetti negli interrogatori con gli orari e le prove documentali. Le incongruenze sono la chiave.

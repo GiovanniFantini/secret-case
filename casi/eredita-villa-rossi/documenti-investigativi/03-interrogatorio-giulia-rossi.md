@@ -85,31 +85,3 @@
 **G. Rossi**: Sì, ovviamente.
 
 **Avv. Fontana**: La mia cliente collabora pienamente.
-
----
-
-## NOTE INVESTIGATORE
-
-1. **Alibi debole**: La dichiarazione di essere "in camera a cambiarsi" non è verificata da testimoni. Video mostra movimento sospetto in cucina 4 minuti prima che il dessert fosse servito.
-
-2. **Motivo evidente**: Conflitto finanziario con il padre riguardante eredità è confermato.
-
-3. **Inganno probabile**: Risposte evasive su ricerche online. Possibile deception sulla tempistica.
-
-4. **Comportamento sospetto**: Esitazioni quando interrogata su tempistica cucina. Mancanza di espressioni emotive sulla morte del padre.
-
-5. **Accesso**: Come residente in villa, aveva accesso completo a tutte le aree, incluso laboratorio privato di Andrea.
-
-**Livello di Sospetto**: ALTO
-
-**Azioni Successive**:
-- ✓ Controllare cronologia computer di Giulia
-- ✓ Analizzare video sorveglianza dettagliatamente
-- ✓ Ricercare per acquisizione illegale di materiali tossici
-- ✓ Controllare caselle email per comunicazioni sospette
-- ✓ Intervistare testimoni sulla posizione di Giulia tra 20:10-20:15
-
----
-
-**Firma Investigatore**: A. Molinari
-**Data**: 17 Giugno 2024

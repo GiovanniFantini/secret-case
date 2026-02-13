@@ -91,9 +91,6 @@ Sulla colonna sono appese quattro giacche/cappotti. La giacca identificata come 
 
 **Dettaglio FOTO-003b:** Vista della distanza tra l'appendiabiti (in primo piano) e il tavolo (sullo sfondo), con il posto n. 1 evidenziato. La distanza di 5,5 metri e l'ostacolo rappresentato dalle sedie e dal passaggio tra il tavolo e la parete rendono evidente che raggiungere la giacca dal posto n. 1 richiedeva diversi secondi, specialmente per una persona in stato di shock anafilattico.
 
-### Nota investigativa (FOTO-003):
-> La posizione dell'EpiPen nella giacca, a 5,5 metri dal posto della vittima, e un elemento centrale della ricostruzione. Secondo i testimoni, Fontana aveva l'abitudine di appendere la giacca all'ingresso delle sale private ("Non si sta a tavola con la giacca", secondo le dichiarazioni di piu testimoni). La Mura, che lo conosceva intimamente, era a conoscenza di questa abitudine e della posizione dell'autoiniettore. Il diario personale conferma: "Massimo appende sempre la giacca all'ingresso" (annotazione del 5 marzo 2025).
-
 ---
 
 ## FOTO-004
@@ -142,9 +139,6 @@ Fotografia macro del braccialetto medico MedicAlert in acciaio inossidabile al p
 
 Il braccialetto era chiaramente visibile e leggibile a chiunque sedesse nelle vicinanze della vittima o lo servisse a tavola.
 
-### Nota investigativa (FOTO-005):
-> Il braccialetto conferma che la gravita dell'allergia di Fontana era nota e visibile. Chiunque fosse a conoscenza della sua condizione sapeva che l'esposizione alle arachidi avrebbe potuto essere fatale. Tutti i commensali hanno dichiarato di essere a conoscenza dell'allergia.
-
 ---
 
 ## FOTO-006
@@ -163,9 +157,6 @@ La **porta di servizio** si trova nell'angolo in fondo a destra della Sala Leona
 Sul tavolino, al momento del rilievo: un **vassoio vuoto** in acciaio e un **piattino con residui di pane**.
 
 **Dettaglio FOTO-006b:** In fondo al corridoio, la **scala interna di servizio** (scala a chiocciola in ferro, gradini rivestiti in gomma antiscivolo) che scende al piano terra, dove si trovano la cucina e la cantina.
-
-### Nota investigativa (FOTO-006):
-> Il corridoio di servizio e il punto critico della ricostruzione. I piatti preparati in cucina (piano terra) venivano portati su per la scala di servizio e appoggiati sul tavolino nel corridoio, dove restavano per un breve periodo prima di essere portati in sala. Questo era il momento in cui la contaminazione del piatto poteva avvenire senza essere osservata dagli altri commensali seduti in sala. La Mura, in qualita di sommelier e responsabile del servizio vini, si muoveva regolarmente tra la sala, il corridoio e la cantina (al piano terra, adiacente alla cucina).
 
 ---
 
@@ -189,9 +180,6 @@ Il **corridoio principale** del primo piano del ristorante, dal quale si accede 
 
 **Dettaglio FOTO-007b:** Vista dal punto della telecamera, simulazione del campo visivo. Si evidenzia che una persona che accede al corridoio di servizio dal fondo (scala interna/cucina) e che si ferma al tavolino di appoggio **non e visibile dalla telecamera**.
 
-### Nota investigativa (FOTO-007):
-> L'analisi delle registrazioni video (vd. fascicolo separato "registrazioni-video") conferma che la telecamera non copre il punto critico della contaminazione (il tavolino di servizio nel corridoio). Chiunque accedesse al corridoio dalla scala interna (cioe dalla cucina o dalla cantina) poteva raggiungere il tavolino e manipolare i piatti senza essere ripreso. La Mura e stata ripresa dalla telecamera mentre attraversava il corridoio principale in direzione della sala con piatti e bottiglie almeno 6 volte durante la serata, ma il momento esatto della contaminazione non e stato catturato.
-
 ---
 
 ## FOTO-008
@@ -214,9 +202,6 @@ La cantina e organizzata in **sei corridoi** paralleli di scaffalature in legno 
 **Dettaglio FOTO-008b:** Il **registro di cantina** (quaderno a righe, formato A4), aperto sulla pagina relativa all'8 marzo 2025. Annotazioni della Mura: "Ore 18:30 - Preparazione vini cena Sala Leonardo. 1x Krug Grande Cuvee (ghiaccio). 2x Barbaresco 2018 (decantare 30 min). 3x Barolo Riserva 2015 (decantare 1h). 2x Moscato d'Asti 2023 (frigo)."
 
 **Dettaglio FOTO-008c:** La porta della cantina, vista dall'interno. Si nota che la porta **non ha serratura** e puo essere aperta da chiunque. Dalla cantina, risalendo la scala di servizio, si raggiunge la cucina (piano terra, primo piano di scale) e poi il corridoio di servizio adiacente alla Sala Leonardo (primo piano, secondo piano di scale).
-
-### Nota investigativa (FOTO-008):
-> La cantina e un luogo a cui la Mura aveva pieno e legittimo accesso in quanto sommelier del ristorante. Il registro di cantina conferma che vi si e recata alle 18:30 per preparare i vini. La mancata rinvenimento della bottiglia di olio di arachidi nella cantina e un punto critico: la Mura potrebbe averla portata con se dopo l'uso e disfarsene in un momento successivo. Le ricerche nei cassonetti della zona circostante (raggio 500 metri) non hanno dato esito. La bottiglia resta non rinvenuta.
 
 ---
 

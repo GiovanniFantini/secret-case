@@ -80,8 +80,6 @@
 | Impronte digitali | Impronte della vittima sulle ante; **impronte non identificate** (parziali, guanto in lattice?) sul ripiano interno |
 | Significatività | **ALTA** — Indica la presenza di un secondo individuo che ha portato via il proprio bicchiere |
 
-> **Nota per i giocatori:** Due bicchieri prelevati, uno solo trovato. Qualcuno ha bevuto con Ferraris e poi ha portato via il proprio bicchiere. Perché?
-
 ### Reperto 7 — Cavatappi e tracce di vino
 
 | Campo | Dettaglio |
@@ -93,8 +91,6 @@
 | Bottiglia corrispondente | **NESSUNA bottiglia di vino rosso trovata nell'appartamento** |
 | Impronte digitali | Impronte della vittima + **impronte non identificate** (parziali) |
 | Significatività | **ALTA** — Una bottiglia di vino rosso è stata aperta e poi **portata via** dalla scena |
-
-> **Nota per i giocatori:** Un cavatappi usato, tracce di vino rosso nel lavandino, ma nessuna bottiglia. Chi ha portato via la bottiglia e perché? Che tipo di vino era?
 
 ### Reperto 8 — Laptop MacBook Pro
 

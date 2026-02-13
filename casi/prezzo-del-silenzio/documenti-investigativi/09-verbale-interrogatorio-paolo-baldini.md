@@ -118,8 +118,6 @@ Avv. Delponte: Non risponda.
 - L'avvalersi della facoltà di non rispondere sulle informazioni passate a Mazza è **un'ammissione implicita**
 - Resta da chiarire: Baldini stava proteggendo se stesso dalla corruzione? O stava coprendo qualcun altro?
 
-> **Nota per i giocatori:** Baldini ha un buco nell'alibi, ha interferito nelle indagini, e ha connessioni con Mazza. Ma ha anche un movente diverso per voler chiudere il caso rapidamente: proteggere se stesso dalla corruzione. Valutate se il suo comportamento indica complicità nell'omicidio o solo nella corruzione.
-
 ---
 
 *Vice Questore Agg. Francesca Moretti*

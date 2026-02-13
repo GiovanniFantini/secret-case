@@ -42,24 +42,3 @@
 **Q: Aveva conflitti con suo padre?**
 
 **M. Rossi**: Conflitti normali tra padre e figlio adulto. Lui era duro, critico, ma lo rispettavo. Non c'era odio tra noi.
-
----
-
-## CONCLUSIONE INVESTIGATORE
-
-**Alibi**: INATTACCABILE - Registrazione telefonico, video call con testimoni multipli, coerente con timeline.
-
-**Motivo**: ASSENTE - Marco beneficia più dal padre vivente (controllo azienda). L'eredità sarebbe stato bonus secondario.
-
-**Accesso**: NO - Era al primo piano durante la tempistica critica, testimoniato dalla video call.
-
-**Comportamento**: Calmo, cooperativo, nessun segno di deception nel interrogatorio.
-
-**Livello di Sospetto**: MOLTO BASSO - Praticamente scagionato.
-
-**Conclusione**: Marco Rossi è efficacemente scagionato. Nessun motivo sufficiente, nessun accesso, alibi solido.
-
----
-
-**Firma**: Maresciallo Molinari
-**Data**: 17 Giugno 2024

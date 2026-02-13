@@ -6,46 +6,39 @@
 
 ## SUGGERIMENTO SUL SOSPETTO
 
-Controllate chi aveva un alibi a Milano ma poteva raggiungere Bologna in auto. Confrontate i pedaggi autostradali con l'analisi GPS dei telefoni.
+Concentratevi sugli alibi. Qualcuno dicharava di essere in una città ma potrebbe essere stato in un'altra. I dati autostradali e i log degli accessi all'edificio possono rivelare spostamenti notturni non dichiarati.
 
 **Controllate specificamente:**
 
 1. **Analisi Digitale Forense (analisi-digitale-forense)**
-   - Cercate i dati del Telepass: quali caselli sono stati attraversati la sera dell'8 febbraio?
-   - Quale veicolo risulta in transito tra Milano e Bologna in orari compatibili con l'omicidio?
+   - Cercate i dati del Telepass: ci sono transiti autostradali notturni nella sera dell'8 febbraio?
+   - Confrontateli con gli alibi dichiarati dai sospetti.
 
 2. **Analisi GPS dei Telefoni (analisi-gps-telefoni)**
-   - C'e un telefono che risulta SPENTO per un periodo sospetto durante la notte dell'8 febbraio?
-   - Perche qualcuno dovrebbe spegnere il telefono proprio in quelle ore?
+   - C'è un telefono che risulta spento per un periodo sospetto durante la notte dell'8 febbraio?
+   - Chi aveva motivo di non farsi rintracciare?
 
 3. **Registro degli Accessi (registro-accessi-facolta)**
-   - Un badge e stato usato alle 22:55 alla porta di servizio. Di chi e quel badge?
-   - Il titolare del badge era effettivamente a Bologna quella sera?
-
-**Conclusione**: Una persona aveva un alibi apparentemente solido a Milano, ma le prove digitali dimostrano che si e spostata a Bologna e ritorno in poche ore.
+   - Un badge è stato usato in un orario insolito alla porta di servizio. A chi è intestato?
+   - L'intestatario del badge era effettivamente a Bologna quella sera?
 
 ---
 
 ## SUGGERIMENTO SUL MOVENTE
 
-Leggete i documenti sulle molestie e il diario personale. Chi tra i sospetti ha vissuto in prima persona il pattern di abusi di Marini -- e stava vedendo lo stesso schema ripetersi?
+Il movente non è economico né legato alla carriera accademica diretta. Leggete attentamente i documenti sulle molestie e il diario personale. Chi tra i sospetti ha un legame emotivo profondo con le vicende descritte?
 
 **Controllate specificamente:**
 
 1. **Documenti sugli Esposti per Molestie (documenti-esposti-molestie)**
-   - Quante denunce sono state presentate contro Marini? In quanti anni?
-   - Chi ha subito direttamente le molestie?
-   - Come sono state gestite le denunce dall'Ateneo?
+   - Quante denunce sono state presentate contro Marini? Come sono state gestite?
+   - Chi appare ripetutamente in queste vicende?
 
 2. **Diario Personale (diario-personale)**
-   - Cercate le annotazioni piu recenti: cosa stava accadendo a un'altra persona?
-   - Chi stava vedendo la propria storia ripetersi in una persona piu giovane?
+   - Le annotazioni più recenti suggeriscono un crescendo emotivo. Cosa stava accadendo?
 
 3. **Registrazioni Audio (trascrizioni-audio)**
-   - Cosa rivelano le registrazioni sulla natura delle molestie?
-   - Chi aveva raccolto queste prove e perche?
-
-**Conclusione**: Il movente non e carriera o denaro. E la protezione di qualcuno di vulnerabile da un predatore che l'istituzione si rifiutava di fermare, combinata con anni di sofferenza personale.
+   - Le registrazioni rivelano un pattern. Chi le ha raccolte e perché sono importanti?
 
 ---
 

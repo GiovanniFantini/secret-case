@@ -65,7 +65,7 @@
 
 > *"Andrea, ma dove sei? Ti aspettiamo da un'ora e mezza. Abbiamo già ordinato e quasi finito di cenare. Paola ti ha chiamato tre volte. Stiamo prendendo il caffè... vieni almeno per il dessert? Chiamami quando ascolti questo."*
 
-> **DATO CRITICO:** Alle 21:45, i colleghi di Ferro lo aspettano al ristorante da un'ora e mezza (cioè dalle 20:15 circa). Ferro non è ancora arrivato. Questo smentisce la sua dichiarazione di essere stato al ristorante "dalle 20:00-20:15". Dove era Ferro alle 21:45? Il GPS e il registro accessi lo collocano nella zona dell'appartamento di Ferraris.
+> **Nota dell'analista:** Dalla registrazione emerge che alle 21:45 i colleghi di Ferro lo attendevano al ristorante. Questo dato va confrontato con le dichiarazioni rese in sede di interrogatorio sull'orario di arrivo al ristorante.
 
 ---
 
@@ -83,8 +83,6 @@
 - **Rumore di ventola/climatizzatore** dell'abitacolo
 - Nessun rumore di ufficio (telefoni, tastiere, voci)
 
-> **Nota per i giocatori:** Ferro dice di venire "dall'ufficio". Ma l'audio di sottofondo indica che è in auto — e il rumore è compatibile con una guida cittadina, non con un ambiente d'ufficio. Il badge aziendale registra la sua uscita dall'ufficio alle 19:22. Dove è stato tra le 19:22 e le 22:12?
-
 ---
 
 ## Registrazione 5 — Segreteria telefonica di Ferraris
@@ -95,8 +93,6 @@
 **Durata:** 45 secondi
 
 > *"Luca, sono Paolo. Senti, volevo dirti una cosa... riguardo a quella faccenda di cui mi hai chiesto la settimana scorsa, sulle informazioni che girano in questura... guarda, io non c'entro niente, ok? Non so chi ti abbia detto certe cose, ma io sono pulito. Chiamami quando puoi. Ciao."*
-
-> **Nota per i giocatori:** Baldini chiama Ferraris alle 20:15 per negare il proprio coinvolgimento nel passaggio di informazioni. Ma Ferraris, nel suo diario (10 gennaio), scrive che Baldini "è stato evasivo" quando gli ha chiesto se avesse sentito qualcosa. Il messaggio di Baldini suona come una difesa preventiva — stava cercando di capire quanto Ferraris sapesse?
 
 ---
 

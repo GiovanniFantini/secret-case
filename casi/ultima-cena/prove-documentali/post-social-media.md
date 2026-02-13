@@ -59,16 +59,6 @@ I contenuti social media di seguito riportati sono stati acquisiti mediante:
 
 ---
 
-### Nota investigativa (Post N. 1):
-> Il blog "Il Mangione Critico" e stato attribuito al Sig. Sergio Mancini sulla base dei seguenti elementi:
-> - L'indirizzo IP di accesso al pannello di amministrazione WordPress corrisponde alla connessione domestica del Mancini (IP: 151.38.xxx.xxx - TIM, Via Trento 34, Parma)
-> - I pagamenti per hosting (Aruba) e piano WordPress Premium risultano dall'estratto conto del Mancini
-> - La perizia stilistica (Dott.ssa Laura Mantovani, linguista forense) ha rilevato una corrispondenza del 94,7% con gli articoli firmati dal Mancini per "Edizioni Gourmet"
-> - Il post e stato cancellato la mattina del 9 marzo 2025, poche ore dopo la diffusione della notizia della morte di Fontana, il che suggerisce la consapevolezza dell'autore della propria esposizione
-> - Il post-scriptum finale ("guarda bene chi hai intorno a quella tavola") e di particolare interesse, sebbene il Mancini abbia dichiarato trattarsi di "una metafora generica"
-
----
-
 ## POST N. 2 - DICHIARAZIONE PUBBLICA DI SERGIO MANCINI (2023)
 
 **Evento:** Premio Gastronomico "Forchetta d'Oro" - Palazzo dei Congressi, Bologna
@@ -89,15 +79,6 @@ I contenuti social media di seguito riportati sono stati acquisiti mediante:
 > *[Applausi sparsi. Il Sig. Fontana resta impassibile. Il Sig. Mancini viene invitato dalla sicurezza a lasciare la sala. Esce senza opporre resistenza.]*
 >
 > **FONTANA:** *(nel microfono, con calma)* Il Sig. Mancini e un collega che attraversa un momento difficile. Gli auguro il meglio. Possiamo proseguire?
-
----
-
-### Nota investigativa (Post N. 2):
-> La dichiarazione pubblica "Fontana paghera" del 15 novembre 2023 documenta l'astio del Mancini verso il Fontana e la sua capacita di esprimere minacce in contesti pubblici. Tuttavia, si rileva che:
-> - Il Mancini non aveva accesso alla cucina ne al servizio la sera dell'8 marzo 2025
-> - Non risultano acquisti di sostanze allergeniche a suo nome
-> - La sua presenza alla cena era dovuta all'invito del Sig. Pellegrini
-> - Il suo movente (plagio e rovina professionale) e di natura reputazionale, non economica
 
 ---
 
@@ -134,11 +115,6 @@ I contenuti social media di seguito riportati sono stati acquisiti mediante:
 
 ---
 
-### Nota investigativa (Post N. 3):
-> Il post, pubblicato tre giorni dopo l'incidente alla Forchetta d'Oro, contiene l'espressione "certi critici meritano di assaggiare il loro stesso veleno", che, alla luce degli eventi dell'8 marzo, assume un significato sinistro. Il Galli ha dichiarato (verbale SIT del 14/03/2025) che il post era "uno sfogo emotivo dopo l'episodio di Bologna" e che l'espressione "veleno" era puramente metaforica. Ha cancellato il post "perche non volevo creare ulteriori tensioni con Fontana, che era un mio cliente importante". Il Galli era presente alla cena dell'8 marzo in qualita di fotografo ufficiale dell'evento.
-
----
-
 ## POST N. 4 - INSTAGRAM DI ILARIA MURA (Post cancellato - Dicembre 2024)
 
 **Piattaforma:** Instagram
@@ -167,11 +143,6 @@ I contenuti social media di seguito riportati sono stati acquisiti mediante:
 > - @sara_ferretti_82: "Vero... stai bene? Chiamami"
 > - @winegirl_milano: "Chi e il signore? Belli insieme!"
 > - @ilaria_mura_sommelier: "@winegirl_milano Nessuno. Un fantasma."
-
----
-
-### Nota investigativa (Post N. 4):
-> Il post, pubblicato e cancellato nella notte del 23-24 dicembre 2024, e l'unica prova fotografica pubblica della relazione tra la Mura e il Fontana. La foto, scattata presumibilmente nel dicembre 2023, mostra i due in un atteggiamento inequivocabilmente intimo. La cancellazione dopo poche ore suggerisce un gesto impulsivo, probabilmente legato al consumo di alcol (vd. annotazione diario personale, 18 dicembre 2024). La Mura, interrogata sulla foto, ha dichiarato: "Era una cena di lavoro. Eravamo colleghi. La didascalia era un momento di debolezza natalizia."
 
 ---
 
@@ -208,11 +179,6 @@ I contenuti social media di seguito riportati sono stati acquisiti mediante:
 
 ---
 
-### Nota investigativa (Post N. 5):
-> L'ultimo post del Sig. Fontana, pubblicato la sera precedente la cena, e significativo per il tono fiducioso e le allusioni a "sorprese" e al "futuro della gastronomia". Da correlare con l'accordo Springer Gastronomie: e possibile che Fontana intendesse annunciare la cessione della Guida durante la cena. Il commento dell'utente anonimo @anonymous_user_4456 ("Qualche sorpresa ha detto. Gia.") e stato segnalato per accertamenti: l'account risulta creato il 9 marzo 2025 e non ha altre attivita.
-
----
-
 ## POST N. 6 - INSTAGRAM DI CLAUDIA FONTANA
 
 **Piattaforma:** Instagram
@@ -241,13 +207,6 @@ I contenuti social media di seguito riportati sono stati acquisiti mediante:
 > - @claudia_fontana_guida: "@ristorantestellato_na Crepi! Quest'anno vi stupiremo"
 > - @chef_emergente_mi: "Grandi novita? Tipo quali?"
 > - @claudia_fontana_guida: "@chef_emergente_mi Pazienza... tutto a suo tempo!"
-
----
-
-### Nota investigativa (Post N. 6):
-> Il post di Claudia Fontana e interessante per due aspetti:
-> 1. L'espressione "grandi novita" e "il futuro e adesso" potrebbe riferirsi all'accordo con Springer Gastronomie, suggerendo che Claudia ne fosse a conoscenza. Tuttavia, nel contratto preliminare Springer, Claudia non e menzionata e non sono previsti obblighi di assunzione nei suoi confronti.
-> 2. Il tono del post esprime un forte legame identitario con la Guida ("sono orgogliosa di far parte di questo progetto"). Se Claudia fosse venuta a conoscenza della cessione e della propria esclusione, cio avrebbe rappresentato un movente significativo. Da approfondire in sede di interrogatorio.
 
 ---
 
@@ -281,11 +240,6 @@ I contenuti social media di seguito riportati sono stati acquisiti mediante:
 > #MassimoFontana #RIP #Giustizia #GuidaFontana #PerSempre"
 >
 > **Like:** 34.567 | **Commenti:** 4.521
-
----
-
-### Nota investigativa (Post N. 7):
-> Il post di cordoglio di Claudia Fontana contiene l'affermazione "Chiunque abbia fatto questo paghera. Non e una minaccia. E una promessa." - che, pur comprensibile nel contesto emotivo, merita attenzione. Si segnala inoltre che l'affermazione "La Guida Fontana continuera" appare in contrasto con l'accordo di cessione a Springer Gastronomie, a meno che Claudia non ne fosse informata al momento della pubblicazione del post.
 
 ---
 

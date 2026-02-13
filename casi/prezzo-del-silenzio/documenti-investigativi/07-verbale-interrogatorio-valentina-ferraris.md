@@ -87,8 +87,6 @@ R: No. Mai. Papà era molto riservato sul lavoro. Separava completamente la vita
 - La discussione sulla casa delle Langhe è confermata e non appare violenta
 - La frase di Ferraris sulle "persone potenti" corrobora l'ipotesi di un movente legato all'inchiesta
 
-> **Nota per i giocatori:** Valentina è l'ultima persona conosciuta ad aver visto Ferraris vivo. Ma a che ora è uscita esattamente? E chi è arrivato dopo di lei?
-
 ---
 
 *Isp. Capo Davide Ferrara*

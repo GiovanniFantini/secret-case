@@ -48,26 +48,3 @@
 **Q: Dove era Andrea verso le 19:30-19:50?**
 
 **Dr. S.**: Non lo so esattamente. Ero occupato con gli ospiti in giardino per la maggior parte della sera.
-
----
-
-## CONCLUSIONE INVESTIGATORE
-
-**Alibi**: SOLIDO - Sofia confirma la sua presenza in cucina. Non poteva aver preparato il veleno.
-
-**Motivo**: PRESENTE - Denuncia imminente e perdita di reputazione/reddito significativa. Motivo psicologico valido.
-
-**Accesso**: NO - Non ha accesso a laboratorio dove estrarre ricina. Non ha competenza in estrazione biologica.
-
-**Comportamento**: Cooperativo, nessun segno di deception, ma chiaramente distrutto dalla situazione con Andrea.
-
-**Cronologia Digitale**: PULITA - Nessuna ricerca su veleni o tossine.
-
-**Livello di Sospetto**: BASSO - Alibi verificato, nessun accesso ai mezzi.
-
-**Conclusione**: Sebbene avesse motivo e psicologicamente dovrebbe essere sospetto, l'alibi e la mancanza di accesso ai mezzi lo scagionano. Non poteva fisicamente aver avvelenato il dessert.
-
----
-
-**Firma**: Maresciallo Molinari
-**Data**: 17 Giugno 2024

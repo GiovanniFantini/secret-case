@@ -151,34 +151,4 @@ Il soggetto viene informato ai sensi degli artt. 64 e 65 c.p.p. della facoltà d
 
 ---
 
-## NOTA INVESTIGATIVA RISERVATA
-
-**CLASSIFICAZIONE:** RISERVATO -- Solo personale investigativo autorizzato
-
-**Redatta da:** Commissario Antonio Ferro
-**Data:** 9 marzo 2025
-
-### Valutazione del soggetto: RIZZOLI, Tommaso
-
-**Movente:** PRESENTE. Il declassamento da due stelle a una nella Guida Fontana rappresentava una minaccia devastante per la carriera e il ristorante di Rizzoli. Il danno economico stimato sarebbe stato nell'ordine di centinaia di migliaia di euro in termini di perdita di clientela e prestigio. Il soggetto ammette apertamente il proprio risentimento. Movente classificato come FORTE.
-
-**Opportunità:** ASSENTE. Il soggetto dichiara di non aver mai lasciato la cucina durante l'intera serata, dato confermato da quattro testimoni (personale di cucina) e dalle registrazioni delle telecamere interne. Ha preparato personalmente il piatto per Fontana seguendo il protocollo allergie, ma il piatto era pulito al momento di lasciare la sua postazione. Il soggetto non ha avuto accesso al piatto nella fase critica (dal passaggio in sala alla consumazione).
-
-**Mezzo:** BASSO. Non risulta che Rizzoli avesse arachidi o derivati nel ristorante. Le fatture dei fornitori andranno verificate ma la dichiarazione appare credibile.
-
-**Comportamento durante l'interrogatorio:** Collaborativo, visibilmente scosso, emotivo ma coerente. Nessuna contraddizione rilevante nelle dichiarazioni. Ha fornito spontaneamente informazioni sul protocollo allergie e sulla struttura organizzativa della cucina.
-
-**Elementi rilevanti emersi:**
-- Conferma il nervosismo di Ilaria Mura durante la serata
-- La discesa in cantina di Mura intorno alle 21:35 è un dato da incrociare con le altre deposizioni
-- Il piatto era pulito alla partenza dalla cucina: la contaminazione è avvenuta nella fase di trasferimento cucina-tavolo o al tavolo stesso
-- Il protocollo allergie esclude contaminazione accidentale in cucina
-
-**Note sulla timeline:** Da verificare con le registrazioni video l'esatto momento di uscita del terzo piatto dalla cucina e l'esatta durata dell'assenza di Mura in cantina.
-
-**LIVELLO DI SOSPETTO: MEDIO** (per la forza del movente) con tendenza al **BASSO** (per assenza totale di opportunità confermata da prove oggettive).
-
-**Azione successiva:** Acquisire e analizzare filmati cucina. Verificare fatture fornitori. Procedere con interrogatorio di Ilaria Mura.
-
----
 *Fine verbale -- Protocollo PR-2025-1287/1 -- Pagina unica*

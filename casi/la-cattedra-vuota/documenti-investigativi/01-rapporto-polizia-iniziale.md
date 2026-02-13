@@ -63,8 +63,6 @@ Lo studio si presenta in condizioni di ordinario utilizzo, senza segni di collut
 
 **Elemento rilevante — Assenza di tazza o recipiente per bevande:** Nonostante la presenza di residui di sigaro nel posacenere e la nota abitudine della vittima di consumare caffè espresso durante le sessioni di lavoro serale, **non si rinviene nello studio alcuna tazza, tazzina, bicchiere o altro recipiente per bevande**. Si segnala inoltre l'assenza della caffettiera moka che, secondo testimonianze di colleghi, il Prof. Marini teneva abitualmente nello studio. Il custode Mancini conferma: *"Il Professore aveva sempre una delle sue moka nello studio, ne aveva una collezione. E beveva sempre il caffè dalla tazzina bianca con il bordo blu."*
 
-**Nota investigativa (Commissario Grimaldi):** *"L'assenza della tazzina e della moka dallo studio è un'anomalia che merita approfondimento. Se la vittima ha consumato caffè nelle ore precedenti il decesso — come suggeriscono le abitudini note e come verrà confermato dall'esame autoptico — qualcuno ha rimosso i recipienti dalla scena."*
-
 ### 3.3 — Aree adiacenti
 
 Su indicazione del Commissario Grimaldi, il sopralluogo viene esteso alla **cucina/area ristoro** del primo piano dell'edificio, accessibile a docenti e ricercatori. Nella cucina si rileva:

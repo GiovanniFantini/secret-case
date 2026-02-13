@@ -26,7 +26,7 @@ L'**analisi GPS dei telefoni** mostra che un sospetto si trovava nella zona dell
 
 ## Suggerimento 4 — Il computer dell'assassino
 
-L'**analisi digitale forense** non riguarda solo il laptop di Ferraris. È stato analizzato anche il computer di un altro sospetto. Cosa ha cercato su Google nelle settimane precedenti al delitto? Le ricerche rivelano una **pianificazione sistematica**.
+L'**analisi digitale forense** non riguarda solo il laptop di Ferraris. È stato analizzato anche il computer di un altro sospetto. Cosa ha cercato nelle settimane precedenti al delitto? Attenzione: alcune ricerche potrebbero avere una spiegazione innocente — valutate l'insieme, non le singole voci.
 
 ---
 

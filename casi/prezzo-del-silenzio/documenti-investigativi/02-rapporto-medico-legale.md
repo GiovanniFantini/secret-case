@@ -93,7 +93,7 @@ Il liquido contenuto nel bicchiere trovato sulla scena (campione BIC-01) è stat
 | Alcol etilico | Compatibile con whisky single malt torbato |
 | **Midazolam** | **Tracce rilevabili (0,08 mg/mL)** |
 
-> **DATO CRITICO:** Il midazolam è una **benzodiazepina a breve durata d'azione** utilizzata in ambito ospedaliero come sedativo e anestetico. **Non è un farmaco da banco** e richiede prescrizione medica. La concentrazione ematica di 0,42 mg/L è compatibile con una **dose sedativa** (5-10 mg per os) assunta **60-90 minuti prima del decesso**.
+> **Nota medico-legale:** Il midazolam è una benzodiazepina a breve durata d'azione utilizzata in ambito ospedaliero come sedativo e anestetico. Richiede prescrizione medica. La concentrazione ematica rilevata (0,42 mg/L) è compatibile con una dose sedativa (5-10 mg per os).
 
 ### Verifica prescrizioni mediche
 

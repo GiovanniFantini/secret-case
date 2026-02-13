@@ -63,7 +63,7 @@
 └──────────────────────────────────────────────────────────┘
 ```
 
-**Effetto:** Piu specifico del suggerimento 1.2, qui si indica esplicitamente la fascia oraria (23:00-mezzanotte) e si sottolinea che un sospettato ha mentito. Se i giocatori rileggono il rapporto delle telecamere, troveranno che Bassi e stato ripreso entrare in biblioteca alle 23:15 e uscire alle 23:48. Confrontando con la sua dichiarazione ("Sono rimasto in camera tutta la notte, ho preso un sonnifero e mi sono addormentato presto"), la bugia diventa evidente.
+**Effetto:** Più specifico del suggerimento 1.2, qui si indica esplicitamente la fascia oraria (23:00-mezzanotte) e si sottolinea che un sospettato ha mentito. Se i giocatori rileggono il rapporto delle telecamere, troveranno che CAM-03 riprende Bassi uscire dalla stanza alle 23:15 e rientrare alle 23:49 — 34 minuti di assenza ingiustificata. Confrontando con la sua dichiarazione ("Sono rimasto in camera tutta la notte"), la bugia diventa evidente. Inoltre la figura ripresa da CAM-02 alle 23:48, proveniente dalla biblioteca, è compatibile con lui.
 
 ---
 
@@ -100,19 +100,21 @@
 │   Ufficio Indagini — Comunicazione urgente              │
 │                                                          │
 │   "I messaggi WhatsApp di uno dei sospettati             │
-│   contengono una conversazione che rivela un piano       │
-│   premeditato. Cercate il contatto salvato come          │
-│   'Marco F.' nei tabulati. Il messaggio chiave           │
-│   dice: 'Il vecchio sa tutto. Devo risolvere             │
-│   stasera.' Questo messaggio e stato inviato             │
-│   la sera del 15 novembre."                              │
+│   contengono una conversazione rivelatrice con            │
+│   un contatto salvato come 'Marco F.' Nella sera         │
+│   del 15 novembre, questo sospettato scrive:              │
+│   'Devo parlargli stasera.' Inoltre, quattro              │
+│   messaggi inviati tra le 23:42 e le 23:55               │
+│   sono stati cancellati. Il frammento recuperato          │
+│   dice: '...preso tutto. Doma...' Chiedetevi:            │
+│   cosa ha preso? E perché cancellare quei messaggi?"     │
 │                                                          │
 │   — Sost. Proc. Dott.ssa Francesca Zanetti              │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
 
-**Effetto:** Questo e il suggerimento piu esplicito del Livello 2. Il messaggio "Il vecchio sa tutto. Devo risolvere stasera" e attribuibile a Bassi (inviato al suo complice Marco Ferretti, intermediario della societa svizzera). "Il vecchio" e il Professor Maldini (62 anni). "Risolvere stasera" indica premeditazione. Se i giocatori controllano i tabulati WhatsApp di Bassi, troveranno questa conversazione e il cerchio si stringe definitivamente.
+**Effetto:** Questo suggerimento orienta i giocatori verso i messaggi WhatsApp di Bassi. "Devo parlargli stasera" colloca un appuntamento notturno tra Bassi e Maldini. I messaggi cancellati e il frammento "preso tutto" suggeriscono un'azione compiuta e il tentativo di distruzione delle prove. Il collegamento con il laptop mancante di Maldini diventa naturale.
 
 ---
 
@@ -122,7 +124,7 @@ Dopo i suggerimenti di Livello 2, i giocatori dovrebbero essere in grado di stab
 
 | Elemento | Conclusione |
 |----------|-------------|
-| **Chi** | Bassi (telecamere + bugia sulla posizione + messaggio WhatsApp) |
+| **Chi** | Bassi (telecamere CAM-03 + bugia sulla posizione + WhatsApp cancellati + frammento "preso tutto") |
 | **Perche** | Coprire la falsificazione (analisi UV + diario + conti svizzeri) |
 | **Come** | Ancora da determinare — i suggerimenti di Livello 2 non rivelano l'arma del delitto ne la messa in scena |
 

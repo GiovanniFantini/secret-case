@@ -79,7 +79,7 @@
 - Il mobiletto non viene pulito frequentemente (ultimo turno di pulizie: domenica 12 gennaio)
 - **Impronte parziali non identificate** (possibilmente da guanto in lattice) sul ripiano interno
 
-> **DATO CRITICO:** Due bicchieri prelevati, uno solo trovato. Il visitatore ha portato via il proprio bicchiere — probabilmente per eliminare le tracce del proprio DNA e delle proprie impronte. Chi beve con un amico e poi porta via il bicchiere?
+> **Nota dell'analista:** Segni nella polvere indicano il prelievo recente di due bicchieri tumbler. Un solo bicchiere è stato rinvenuto sulla scena.
 
 ---
 
@@ -103,8 +103,6 @@
 - Le tracce nel lavandino suggeriscono che qualcuno ha **svuotato o sciacquato** qualcosa contenente vino rosso
 - **Nessuna bottiglia di vino rosso** trovata nell'intero appartamento — è stata **portata via**
 - Impronte della vittima + **impronte parziali non identificate** sul cavatappi
-
-> **Nota per i giocatori:** Un cavatappi usato, tracce di vino nel lavandino, ma nessuna bottiglia. Qualcuno ha portato una bottiglia di vino, l'ha aperta (o l'ha fatta aprire a Ferraris), e poi l'ha portata via. Perché? Probabilmente per eliminare le prove della propria presenza. Ricordate lo scontrino dell'enoteca e il post Instagram di Ferro.
 
 ---
 

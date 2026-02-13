@@ -125,15 +125,17 @@
 - Non ha testimoni che confermino la sua presenza in stanza
 
 **Alibi reale:**
-- **Le telecamere di sicurezza della villa lo riprendono mentre entra nella biblioteca alle ore 23:15 e ne esce alle ore 23:48**
-- Per 33 minuti è stato nella biblioteca, il luogo del delitto, nell'ora della morte
+- **Le telecamere di sicurezza della villa (CAM-03) lo riprendono uscire dalla stanza alle 23:15 e rientrarvi alle 23:49**, in un arco temporale di 34 minuti coincidente con la finestra della morte. CAM-02 ha subito un degrado del segnale in quel periodo, ma una figura in giacca scura è visibile nel corridoio proveniente dalla biblioteca alle 23:48.
+- È l'**unico sospettato senza alibi verificabile** da terzi.
+- Nel **messaggio WhatsApp** del 15/11 scrive "Devo parlargli stasera" — collocando un incontro notturno con la vittima. Quattro messaggi successivi (23:42-23:55) risultano cancellati.
+- I **risultati dell'analisi UV** rivelano i pigmenti sintetici moderni, collegando i falsi alla sua attività.
+- Le **annotazioni nel diario di Maldini** indicavano già i sospetti verso Bassi.
 
 **Ruolo reale nel caso: IL COLPEVOLE**
 - Ha ucciso il Prof. Maldini per impedirgli di rendere pubblica la scoperta dei falsi
 - Ha colpito la vittima alla testa con il fermalibri in bronzo raffigurante Atena (3,2 kg)
 - Ha inscenato la caduta dalla scala della biblioteca per simulare un incidente
 - Ha sottratto il laptop e la chiavetta USB di Maldini contenenti i risultati delle analisi
-- Ha inviato un messaggio WhatsApp la sera del 15 novembre: *"Il vecchio sa tutto. Devo risolvere stasera."*
 
 ---
 
@@ -308,15 +310,15 @@ Bassi ha deciso di agire quella stessa notte.
 
 1. **Ore 22:30-23:00** — Gli ospiti si ritirano progressivamente nelle proprie stanze. Bassi attende che la villa sia silenziosa.
 
-2. **Ore 23:15** — Bassi lascia la propria stanza e si reca nella biblioteca. Le telecamere di sicurezza lo riprendono nel corridoio e all'ingresso della biblioteca.
+2. **Ore 23:15** — Bassi lascia la propria stanza (ripreso da CAM-03). Si dirige verso le scale. CAM-02 subisce un degrado del segnale, rendendo impossibile seguirne il percorso con certezza.
 
 3. **Ore 23:15-23:45 (circa)** — Nella biblioteca, Bassi confronta Maldini (che stava lavorando ai suoi appunti). Ne nasce un confronto teso. Maldini conferma di aver scoperto i falsi e dichiara l'intenzione di denunciare tutto. Bassi, in preda al panico, afferra il fermalibri in bronzo raffigurante Atena (peso 3,2 kg) e colpisce Maldini alla testa.
 
-4. **Inscenamento della scena** — Bassi sposta il corpo alla base della scala della biblioteca per simulare una caduta accidentale. Posiziona la scala in modo che sembri che Maldini sia scivolato mentre cercava un libro sugli scaffali alti.
+4. **Inscenamento della scena** — Bassi sposta il corpo alla base della scala della biblioteca per simulare una caduta accidentale.
 
-5. **Sottrazione delle prove** — Bassi si impossessa del laptop e della chiavetta USB di Maldini, che contenevano i risultati delle analisi UV e la documentazione della scoperta dei falsi.
+5. **Sottrazione delle prove** — Bassi si impossessa del laptop e della chiavetta USB di Maldini.
 
-6. **Ore 23:48** — Bassi lascia la biblioteca. Le telecamere lo riprendono uscire.
+6. **Ore 23:48** — Il segnale di CAM-02 si stabilizza: una figura maschile in giacca scura è visibile nel corridoio proveniente dalla biblioteca, con qualcosa sotto il braccio. Alle 23:49 CAM-03 riprende Bassi mentre rientra nella sua stanza.
 
 7. **Ore 7:30 del 16 novembre** — Il maggiordomo Roberto Marini scopre il corpo di Maldini sul pavimento della biblioteca.
 
@@ -324,15 +326,17 @@ Bassi ha deciso di agire quella stessa notte.
 
 Nonostante il tentativo di inscenamento, Bassi ha commesso diversi errori:
 
-1. **L'angolo della ferita è incompatibile con una caduta.** Il report medico-legale rivela che il trauma contundente alla testa presenta un angolo di impatto orizzontale, incompatibile con una caduta dalla scala (che avrebbe prodotto un angolo verticale o diagonale verso il basso).
+1. **L'angolo della ferita è incompatibile con una caduta.** Il report medico-legale rivela che il trauma contundente alla testa presenta un angolo di impatto orizzontale, incompatibile con una caduta dalla scala.
 
-2. **Le telecamere di sicurezza.** Bassi non sapeva che il sistema di telecamere della villa fosse stato recentemente aggiornato e che coprisse anche il corridoio della biblioteca.
+2. **Le telecamere di sicurezza (CAM-03).** Bassi è ripreso uscire dalla stanza alle 23:15 e rientrarvi alle 23:49. Ha dichiarato di non essersi mosso dalla stanza dopo le 22:00. Anche se il degrado di CAM-02 impedisce di collocarlo direttamente in biblioteca, i 34 minuti di assenza dalla stanza coincidono con la finestra temporale della morte.
 
-3. **Il messaggio WhatsApp.** La sera del 15 novembre, Bassi ha inviato un messaggio ad un complice: *"Il vecchio sa tutto. Devo risolvere stasera."* Questo messaggio è stato recuperato durante l'analisi forense del suo telefono.
+3. **I messaggi WhatsApp con "Marco F."** La conversazione del 15/11 contiene "Devo parlargli stasera" e quattro messaggi successivi cancellati (23:42-23:55). Il frammento recuperato "...preso tutto. Doma..." è un forte indizio di sottrazione delle prove.
 
-4. **Il laptop e la chiavetta USB mancanti.** La sparizione del laptop e della USB di Maldini dalla scena è incompatibile con un incidente. Un uomo che cade da una scala non nasconde il proprio computer.
+4. **Il laptop e la chiavetta USB mancanti.** La sparizione dei dispositivi dalla scena è incompatibile con un incidente.
 
-5. **Il diario di Maldini.** Nel diario personale della vittima, trovato nella sua stanza, Maldini aveva annotato le proprie scoperte e i sospetti verso Bassi.
+5. **Il diario di Maldini.** Nel diario personale della vittima, trovato nella stanza, Maldini aveva annotato le proprie scoperte e i sospetti verso Bassi.
+
+6. **La borsa alle 05:45.** Le telecamere mostrano Bassi uscire con una borsa alle 05:45 e rientrare senza alle 05:55, suggerendo che si sia disfatto di qualcosa.
 
 ---
 
@@ -344,9 +348,10 @@ Queste prove collegano direttamente Bassi al crimine:
 
 | Prova | Documento | Significato |
 |-------|-----------|-------------|
-| Registrazioni telecamere di sicurezza: Bassi in biblioteca 23:15-23:48 | `registro-telecamere.md` | Colloca Bassi sulla scena del crimine nell'ora della morte |
+| Registrazioni CAM-03: Bassi esce dalla stanza 23:15, rientra 23:49 | `registro-telecamere.md` | Colloca Bassi fuori dalla stanza per 34 min durante la finestra della morte |
+| Figura in giacca scura proveniente dalla biblioteca alle 23:48 (CAM-02) | `registro-telecamere.md` | Compatibile con Bassi ma non identificazione certa (segnale degradato) |
 | Angolo della ferita incompatibile con caduta | `report-medico-legale.md` | Dimostra che non si tratta di incidente ma di aggressione |
-| Messaggio WhatsApp: "Il vecchio sa tutto. Devo risolvere stasera." | `email-messaggi.md` / `trascrizioni-audio.md` | Prova la premeditazione e la consapevolezza della scoperta |
+| Messaggi WhatsApp cancellati (23:42-23:55) + frammento "preso tutto" | `email-messaggi.md` | Indizio forte di sottrazione prove; cancellazione suggerisce contenuto compromettente |
 | Laptop e chiavetta USB di Maldini scomparsi dalla scena | `lista-prove-fisiche.md` / `rapporto-polizia.md` | Indica sottrazione deliberata di prove compromettenti |
 
 ### Prove Connettenti (40% del totale)
@@ -357,7 +362,8 @@ Queste prove costruiscono il contesto e collegano Bassi al movente:
 |-------|-----------|-------------|
 | Risultati analisi UV: pigmenti sintetici moderni nel "Caravaggio" | `rapporto-analisi-uv.md` | Dimostra la falsificazione dell'opera |
 | Annotazioni nel diario di Maldini sui sospetti verso Bassi | `diario-personale.md` | Conferma che Maldini aveva individuato Bassi come falsario |
-| Email tra Bassi e acquirenti/complici riguardo le opere | `email-messaggi.md` | Documenta l'attività criminale di falsificazione |
+| Email tra Bassi e "Marco F." (Ferretti): tono evasivo, "gestire la cosa" | `email-messaggi.md` | Suggerisce attività illecita e timore della scoperta |
+| Messaggio WhatsApp 15/11: "Devo parlargli stasera" | `email-messaggi.md` | Colloca un incontro notturno pianificato tra Bassi e la vittima |
 | Estratti conto di Bassi: entrate anomale non giustificate | `estratti-conto.md` | Rivela profitti illeciti dall'attività di falsificazione |
 | Acquisti di pigmenti e materiali per la falsificazione | `ricevute-scontrini.md` | Prova materiale dell'attività di falsificazione |
 | Contratti di restauro con la Contessa Farnese | `contratti-documenti-legali.md` | Dimostra l'accesso di Bassi alla collezione |
@@ -370,7 +376,9 @@ Prove che richiedono analisi approfondita per essere individuate:
 | Prova | Documento | Significato |
 |-------|-----------|-------------|
 | Il fermalibri di Atena: tracce biologiche nonostante la pulizia | `lista-prove-fisiche.md` | L'arma del delitto conserva prove forensi |
-| Discrepanza tra orario dichiarato da Bassi e registrazioni telecamere | `timeline-eventi.md` / `registro-telecamere.md` | Bassi mente sul proprio alibi |
+| Discrepanza tra orario dichiarato da Bassi e registrazioni CAM-03 | `timeline-eventi.md` / `registro-telecamere.md` | Bassi mente sul proprio alibi (fuori dalla stanza 23:15-23:49) |
+| Degrado segnale CAM-02 (23:16-23:47): impossibile escludere passaggio in biblioteca | `registro-telecamere.md` | Il gap nelle registrazioni è sospetto e coincide con la finestra del crimine |
+| Borsa di Bassi alle 05:45 (esce con borsa, rientra senza) | `registro-telecamere.md` | Suggerisce occultamento/distruzione di prove |
 | Storico dei "restauri" di Bassi: pattern di opere successivamente contestate | `perizia-artistica.md` | Schema ricorrente di opere false dopo il restauro di Bassi |
 | Movimenti bancari verso fornitori di pigmenti sintetici | `estratti-conto.md` | Acquisti incompatibili con restauro legittimo |
 
@@ -465,7 +473,7 @@ La struttura probatoria è progettata per guidare progressivamente il giocatore 
 
 1. **Nessun singolo documento contiene la soluzione.** Ogni documento fornisce uno o più pezzi del puzzle, ma la soluzione emerge solo dall'incrocio di più fonti.
 
-2. **Le prove dirette sono negli ultimi documenti.** Il registro telecamere e il rapporto UV, che sono le prove più schiaccianti, sono nel Cluster 6 (da leggere per ultimo).
+2. **Le prove convergenti sono negli ultimi documenti.** Il registro telecamere e il rapporto UV, che sono le prove più significative, sono nel Cluster 6 (da leggere per ultimo). Nessuna singola prova è risolutiva: la soluzione emerge solo dall'incrocio di telecamere + WhatsApp cancellati + analisi UV + diario + prove fisiche.
 
 3. **I moventi sono distribuiti nei cluster intermedi.** Le email, i documenti finanziari e il diario rivelano progressivamente i segreti di ciascun sospettato.
 

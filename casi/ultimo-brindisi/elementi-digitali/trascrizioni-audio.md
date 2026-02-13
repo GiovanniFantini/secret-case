@@ -98,8 +98,4 @@
 
 | Tempo | Voce | Testo | Note |
 |-------|------|-------|------|
-| 00:00 | Davide | Marco, sono Davide. Scusa se ti chiamo a quest'ora. Volevi parlarmi di cose importanti martedì... ho pensato che forse è meglio se ci vediamo prima. Domani mattina? Fammi sapere. | Voce tesa, leggermente affannata. Rumori di auto in sottofondo — **sembra essere in macchina** |
-
----
-
-> **NOTA PER I GIOCATORI:** Ascoltate (leggete) con attenzione non solo le parole, ma anche i toni, i rumori di sottofondo e gli orari. Le registrazioni audio possono confermare o smentire le dichiarazioni dei sospetti.
+| 00:00 | Davide | Marco, sono Davide. Scusa se ti chiamo a quest'ora. Volevi parlarmi di cose importanti martedì... ho pensato che forse è meglio se ci vediamo prima. Domani mattina? Fammi sapere. | Voce tesa, leggermente affannata. Rumori di auto in sottofondo — sembra essere in macchina |

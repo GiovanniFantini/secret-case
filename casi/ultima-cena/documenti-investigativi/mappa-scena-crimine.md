@@ -163,32 +163,6 @@ Sala rettangolare di circa **6 x 5 metri** (30 mq), situata al primo piano del r
    N/A  │ Lucia FERRETTI         │ Cameriera (in servizio)
 ```
 
-### 2.4 Percorso della sommelier Ilaria Mura durante il servizio del vino (21:47-21:52)
-
-```
-                ╭─────────────────╮
-                │                 │
-            8   │                 │   1 [FINE: 21:50]
-            ⬆   │                 │   ⬆  ~40 sec.
-                │                 │   |
-            7   │                 │   2
-            ⬆   │                 │   ⬆
-                │                 │   |
-            6   │                 │   3
-         [INIZIO│                 │   ⬆
-         21:47] │                 │   |
-            5   │                 │   4
-                │                 │   ⬆
-                ╰─────────────────╯
-                         |
-                    ← Senso antiorario
-                    (6→7→8→1→2→3→4→5)
-
-                    ⚠ Al posto 1 (Fontana):
-                    sosta di ~40 secondi
-                    (media altri posti: 15-20 sec.)
-```
-
 ---
 
 ## 3. PIANO TERRA — RISTORANTE (Scena secondaria)
@@ -222,7 +196,7 @@ Sala rettangolare di circa **6 x 5 metri** (30 mq), situata al primo piano del r
     │  ┌──────────┐    ┌──────────┐                       │
     │  │ SCALE    │    │ BAGNO    │                       │
     │  │ PRINCIP. │    │PERSONALE │                       │
-    │  │ (↑1°piano│    │ ⚠ REP-013│                       │
+    │  │ (↑1°piano│    │  REP-013 │                       │
     │  │  accesso │    │(fiala nel│                       │
     │  │ pubblico)│    │ cestino) │                       │
     │  └──────────┘    └──────────┘                       │
@@ -323,24 +297,6 @@ Sala rettangolare di circa **6 x 5 metri** (30 mq), situata al primo piano del r
 ### 6.1 Punto di contaminazione ipotizzato
 
 Il piatto di Fontana (posto 1) e stato contaminato con olio di arachidi mentre era gia servito al tavolo. L'ipotesi investigativa colloca il momento della contaminazione tra le **21:47 e le 21:50**, quando Ilaria Mura si trovava presso il posto 1 durante il servizio del vino.
-
-### 6.2 Percorso della prova chiave (olio di arachidi)
-
-```
-    AsiaMarket.it (22/02) → Spedizione corriere BRT
-         ↓
-    Domicilio Sara Ferretti, Fidenza (25/02) → trasferimento a Mura
-         ↓
-    Ristorante "Il Cenacolo d'Oro" (data incerta, 06-08/03)
-         ↓
-    Cantina (21:35-21:46) → preparazione fiala contagocce
-         ↓
-    Astuccio cavatappi sommelier (REP-008) → trasporto in sala
-         ↓
-    Sala Leonardo, posto 1 (21:49-21:50) → versamento nel risotto
-         ↓
-    Fiala smaltita nel cestino bagno personale (REP-013)
-```
 
 ---
 

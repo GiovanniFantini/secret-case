@@ -59,8 +59,6 @@ Il MacBook Pro è stato rinvenuto aperto sulla scrivania dello Studio 204, colle
 | 22:30 – 22:48 | Scrittura | Microsoft Word | Ultimo periodo di attività. Ultima modifica salvata: 22:48 |
 | Dopo 22:48 | Nessuna attività registrata | — | Il sistema non registra ulteriori input fino al sequestro |
 
-**Nota critica**: L'assenza di attività dopo le 22:48 è coerente con l'ipotesi che il Prof. Marini sia stato raggiunto dalla Dr.ssa Valdi poco dopo quell'ora e abbia smesso di lavorare per consumare l'espresso e conversare.
-
 ### 2.3 Email rilevanti — Client Apple Mail
 
 **Email inviata il 15/12/2024, ore 11:23**
@@ -113,12 +111,6 @@ L'iPhone 15 Pro è stato rinvenuto sulla scrivania dello Studio 204, con il 12% 
 |-----|----------|----------|
 | **19:45** | **Marini** | *Ci vediamo in dipartimento stasera? Ho quella bozza da farti vedere.* |
 | **20:10** | **E.V.** | *Passo più tardi, magari ti porto un caffè* ☕ |
-
-**NOTA CRITICA**: Questo scambio di messaggi è di rilevanza probatoria fondamentale. Dimostra che:
-1. Il Prof. Marini attendeva la visita della Dr.ssa Valdi nella serata dell'8 febbraio.
-2. La Dr.ssa Valdi ha esplicitamente menzionato l'intenzione di portare un caffè — precisamente il veicolo attraverso il quale è stata somministrata la digossina letale.
-3. La risposta della Valdi alle 20:10 è stata inviata mentre si trovava ancora a Milano (cena al Ristorante Savini con i colleghi del convegno), confermando la premeditazione: aveva già pianificato di recarsi a Bologna.
-4. L'uso dell'emoji del caffè assume, alla luce degli eventi, un significato sinistro.
 
 **Altre conversazioni di rilievo (8 febbraio)**:
 - 17:30 — Messaggio a "Portineria Facoltà": *"Mancini, stasera resto fino a tardi. Non mi aspetti."*
@@ -204,8 +196,6 @@ La telecamera dell'ingresso principale (modello Hikvision DS-2CD2143G2-IU, risol
 | 09/02/2025 | 08:30 | Accesso | — |
 | 09/02/2025 | 11:00 | Check-out | — |
 
-**NOTA CRITICA**: Il gap tra le 20:45 e le 01:48 del 9 febbraio è l'elemento più significativo. Durante queste cinque ore e tre minuti, la chiave magnetica della camera 412 non è stata utilizzata. Questo intervallo è perfettamente compatibile con il viaggio Milano → Bologna → Milano ricostruito sulla base dei dati Telepass (v. sezione 7).
-
 ### 6.2 Videosorveglianza hotel
 
 Le telecamere dell'Hotel Principe di Savoia coprono l'ingresso principale, la hall, gli ascensori e un'uscita laterale (ingresso di servizio/personale su Via Palestro).
@@ -266,8 +256,6 @@ Tuttavia, mediante analisi forense del database SQLite di Safari (`History.db`),
 | 07/02/2025 | 22:25 | maps.google.com | Visualizzazione Street View: Via delle Moline, Bologna (zona porta di servizio Palazzo Scarani) |
 | 08/02/2025 | 13:45 | unibo.it | Accesso area riservata — orari apertura Palazzo Scarani |
 
-**NOTA CRITICA**: La ricerca del percorso Milano-Bologna effettuata la sera del 7 febbraio — il giorno prima dell'omicidio — dimostra la premeditazione. La Dr.ssa Valdi ha pianificato il viaggio con almeno 24 ore di anticipo. La ricerca della zona della porta di servizio tramite Street View conferma la conoscenza pregressa del punto di accesso non sorvegliato.
-
 ### 8.3 Email rilevante
 
 **Email inviata il 09/02/2025, ore 02:15**
@@ -296,23 +284,6 @@ La cancellazione della cronologia del browser effettuata la mattina del 9 febbra
 
 ## 9. RIEPILOGO DELLE EVIDENZE DIGITALI E CORRELAZIONI
 
-### 9.1 Quadro indiziario digitale a carico della Dr.ssa Elena Valdi
-
-| # | Evidenza | Fonte | Rilevanza |
-|---|----------|-------|-----------|
-| 1 | Messaggio WhatsApp "Passo più tardi, magari ti porto un caffè" (20:10) | iPhone Marini (DIG-002) | Prova della premeditazione e del metodo (caffè come veicolo) |
-| 2 | Badge Fabbri alle 22:55, porta di servizio | Kaba SafeRoute (DIG-003) | Prova dell'accesso all'edificio con badge prestato |
-| 3 | Dichiarazione Fabbri: badge prestato a Valdi | Verbale 14/02/2025 | Identificazione dell'utilizzatrice del badge |
-| 4 | Gap chiave magnetica hotel: 20:45 — 01:48 | Log hotel (DIG-006) | Prova dell'assenza dall'hotel per 5+ ore |
-| 5 | Telecamera laterale hotel: uscita 21:08, rientro 01:45 | Video hotel (DIG-007) | Conferma visiva dell'uscita e rientro |
-| 6 | Telepass Melegnano 21:18 (dir. Bologna) | Dati Telepass (DIG-008) | Prova del viaggio verso Bologna |
-| 7 | Telepass Modena Nord 01:05 (dir. Milano) | Dati Telepass (DIG-008) | Prova del viaggio di ritorno verso Milano |
-| 8 | Ricerca Google Maps "Milan to Bologna fastest" (07/02, 22:15) | MacBook Valdi (DIG-005) | Prova della premeditazione (giorno precedente) |
-| 9 | Ricerca Street View Via delle Moline (07/02, 22:25) | MacBook Valdi (DIG-005) | Conoscenza della porta di servizio non sorvegliata |
-| 10 | Email alibi alle 02:15 dall'IP hotel | MacBook Valdi (DIG-005) | Costruzione consapevole dell'alibi |
-| 11 | Cancellazione cronologia browser (09/02, 08:47) | MacBook Valdi (DIG-005) | Tentativo di occultamento delle prove |
-| 12 | Cessazione attività sul MacBook Marini alle 22:48 | MacBook Marini (DIG-001) | Coerente con l'arrivo della Valdi poco dopo le 22:55 |
-
 ### 9.2 Quadro indiziario digitale a carico del Prof. Carlo Bruni
 
 | # | Evidenza | Fonte | Rilevanza |
@@ -326,9 +297,7 @@ La cancellazione della cronologia del browser effettuata la mattina del 9 febbra
 
 ## 10. CONCLUSIONI
 
-L'analisi forense digitale fornisce un quadro indiziario convergente e coerente che colloca la Dr.ssa Elena Valdi all'interno di Palazzo Scarani nella notte dell'8 febbraio 2025, documenta il viaggio Milano-Bologna-Milano, e dimostra la premeditazione dell'azione attraverso le ricerche effettuate il giorno precedente. Il messaggio WhatsApp delle 20:10 ("magari ti porto un caffè") costituisce un elemento particolarmente significativo, in quanto anticipa con precisione il metodo di somministrazione della sostanza tossica.
-
-Parallelamente, l'analisi conferma la presenza non autorizzata del Prof. Carlo Bruni nell'edificio in orario antecedente e la sua attività di cancellazione di file dal computer della vittima — condotta penalmente rilevante (furto di dati / accesso abusivo a sistema informatico, art. 615-ter c.p.) ma non collegata all'omicidio.
+L'analisi conferma la presenza non autorizzata del Prof. Carlo Bruni nell'edificio in orario antecedente e la sua attività di cancellazione di file dal computer della vittima — condotta penalmente rilevante (furto di dati / accesso abusivo a sistema informatico, art. 615-ter c.p.) ma non collegata all'omicidio.
 
 Si resta a disposizione per eventuali chiarimenti e integrazioni.
 
