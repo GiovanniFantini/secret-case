@@ -1,14 +1,20 @@
-# Rapporto di Polizia Iniziale
-
-**DIPARTIMENTO DI POLIZIA**
-**RAPPORTO PRELIMINARE DI INDAGINE**
+# QUESTURA DI [CITTA]
+## Squadra Mobile — Sezione [TIPO REATO]
 
 ---
 
-**Numero Protocollo**: [N. protocollo]
-**Data**: [Data del rapporto]
-**Ora di ricezione segnalazione**: [Ora]
-**Agente compilatore**: [Nome e grado]
+**RAPPORTO DI POLIZIA GIUDIZIARIA**
+
+| Campo | Dettaglio |
+|---|---|
+| **Protocollo** | [SIGLA]-[ANNO]-[NUMERO] |
+| **Data di redazione** | [DATA COMPLETA] |
+| **Classificazione** | RISERVATO — Atti di indagine |
+| **Tipologia reato** | [Omicidio volontario / Furto aggravato / Rapina / etc.] (art. [XXX] c.p.) |
+| **Ufficiale responsabile** | [Grado e Nome] — Squadra Mobile |
+| **Agenti intervenuti** | [Grado, Nome, Badge] / [Grado, Nome, Badge] |
+| **Ora ricezione segnalazione** | [ORA] del [DATA] |
+| **Centrale operativa** | [112 / Questura di [CITTA]] |
 
 ---
 

@@ -26,6 +26,184 @@ Ogni caso è composto da un crimine (omicidio, rapina, scomparsa) ambientato in 
 - **Colpo di scena**: almeno 2 false piste convincenti
 - **Soluzione**: deducibile logicamente dagli indizi forniti
 
+---
+
+## Come Creare un Nuovo Caso
+
+### Usare la Cartella Template
+
+La cartella `template/` contiene tutti i file necessari per creare un nuovo caso. Ogni file è un template completo con:
+- Struttura professionale basata sui casi esistenti
+- Marcatori `[PLACEHOLDER]` per contenuti specifici del caso
+- Commenti e note guida per gli autori
+- Format di esempio e best practices
+
+**Workflow consigliato:**
+
+1. **Copia l'intera cartella template** in `casi/[nome-nuovo-caso]/`
+2. **Inizia con il documento-master.md** - Definisci la soluzione completa
+3. **Compila il README.md del caso** - Overview, sospettati, contenuti
+4. **Crea istruzioni-giocatori.md e manuale-utente.md** - Guida ai giocatori
+5. **Popola i documenti investigativi** - Rapporti, interrogatori, prove
+6. **Aggiungi prove documentali** - Email, messaggi, estratti conto, etc.
+7. **Configura il sistema di verifica** - albero-decisionale.md e sistema-verifica-soluzione.md
+8. **Scrivi i suggerimenti** - 3 livelli progressivi
+9. **Completa con script-narrazione-finale.md** - Rivelazione finale
+
+### File Template Disponibili
+
+#### File Principali (Obbligatori)
+
+| File | Descrizione | Scopo |
+|------|-------------|-------|
+| `README.md` | Overview del caso con sospettati e inventario | Presentazione del caso |
+| `documento-master.md` | **SOLUZIONE COMPLETA** - Solo per autori/GM | Contiene tutta la verità |
+| `istruzioni-giocatori.md` | Regole, fasi, consigli per i giocatori | Primo documento da leggere |
+| `manuale-utente.md` | ⭐ **CRITICO** - Guida organizzativa e percorso lettura | Organizzazione dei documenti |
+| `albero-decisionale.md` | Schema domande e risposte con feedback | Sistema di verifica |
+| `script-narrazione-finale.md` | Rivelazione finale da leggere/ascoltare dopo verifica | Closure narrativo |
+
+#### documenti-investigativi/ (15-20 file)
+
+**Obbligatori per tutti i casi:**
+- `rapporto-polizia.md` - Rapporto iniziale con protocollo e metadata
+- `report-medico-legale.md` - Autopsia e causa della morte
+- `timeline-eventi.md` - Ricostruzione cronologica
+- `mappa-scena-crimine.md` - Planimetria del luogo
+- `lista-prove-fisiche.md` - Inventario prove raccolte
+- `verbale-interrogatorio-sospetto-[N].md` - Uno per ogni sospetto
+
+**Specializzati (usare se applicabile):**
+- `rapporto-tossicologico.md` - Per casi di avvelenamento
+- `rapporto-balistica.md` - Per casi con armi da fuoco
+- `analisi-digitale-forense.md` - Per prove informatiche/telefoni
+- `registro-telecamere.md` - Per videosorveglianza
+
+**Altri documenti comuni:**
+- `testimonianze-[tipo].md` - Deposizioni di testimoni non sospettati
+
+#### prove-documentali/ (15-30 file)
+
+**Comuni a molti casi:**
+- `email-messaggi.md` - Corrispondenza privata (email, WhatsApp, SMS)
+- `diario-personale.md` - Diario o note personali
+- `estratti-conto.md` - Movimenti bancari dei sospettati
+- `contratti-documenti-legali.md` - Contratti, testamenti, accordi
+- `ricevute-scontrini.md` - Prove di acquisti rilevanti
+- `articolo-giornale-[N].md` - Articoli di stampa (3-4)
+- `post-social-media.md` - Post pubblici dei personaggi
+- `registro-accessi.md` - Log di ingressi/badge (se applicabile)
+- `documento-esposto.md` - Denunce o reclami formali
+
+**Specifici per tipo di caso:**
+- `testamento.md` - Per casi di eredità
+- `polizza-assicurativa.md` - Per moventi assicurativi
+- `certificato-medico-[tipo].md` - Documentazione medica rilevante
+
+#### elementi-digitali/ (3-5 file)
+
+- `sistema-verifica-soluzione.md` - ⭐ **CRITICO** - Schema verifica con feedback
+- `registro-telecamere.md` - Trascrizioni videosorveglianza (se applicabile)
+- `analisi-forense-digitale.md` - Report dispositivi elettronici (se applicabile)
+
+#### suggerimenti/ (3 file - Obbligatori)
+
+- `livello-1-generico.md` - Orientamento generale senza spoiler
+- `livello-2-specifico.md` - Indicazioni su documenti chiave e connessioni
+- `livello-3-quasi-risolutivo.md` - Rivela quasi tutto, lascia solo conferma finale
+
+---
+
+### Convenzioni di Naming
+
+Il progetto supporta **due approcci** per nominare i file. Scegliete quello che preferite:
+
+#### Approccio 1: Nomi Generici (Template Default)
+```
+verbale-interrogatorio-sospetto-1.md
+verbale-interrogatorio-sospetto-2.md
+email-messaggi.md
+estratti-conto.md
+```
+**Pro:** Facile scalabilità, chiaro ruolo nel template  
+**Contro:** Meno immersivo, non indica chi è il sospetto
+
+#### Approccio 2: Nomi Specifici con Numerazione (Usato in alcuni casi)
+```
+01-interrogatorio-giulia-rossi.md
+02-interrogatorio-marco-bianchi.md
+03-email-segrete-vittima.md
+04-estratti-conto-sospetto-principale.md
+```
+**Pro:** Più immersivo, suggerisce ordine di lettura, identificazione immediata  
+**Contro:** Richiede rinominazione completa quando si crea dal template
+
+**Raccomandazione:** Per nuovi casi, usate l'Approccio 1 (nomi generici) durante lo sviluppo, poi valutate se rinominare per l'immersione una volta completato il caso.
+
+---
+
+### Metadata e Header Professionali
+
+I template includono **header professionali** basati sui casi reali:
+
+**Documenti Investigativi:**
+```markdown
+# RAPPORTO DI POLIZIA - [TIPO DI CRIMINE]
+## [Questura/Dipartimento] - [Divisione]
+
+**Numero Pratica**: [XX-YYYY-NNNNNN]
+**Data Rapporto**: [DD Mese YYYY]
+**Investigatore Capo**: [Nome e grado]
+**Badge**: [XX-NNNNN]
+```
+
+**Report Medico-Legale:**
+```markdown
+# REPORT AUTOPTICO E MEDICO-LEGALE
+**Istituto di Medicina Legale - [Università/Ospedale]**
+
+| Campo | Dettaglio |
+|-------|-----------|
+| Numero Protocollo | [YYYY-ML-NNNN] |
+| Data Autopsia | [Data] |
+| Patologo Forense | Dott. [Nome Cognome] |
+```
+
+**Verbali Interrogatorio:**
+```markdown
+# VERBALE DI INTERROGATORIO
+**[Questura] - [Divisione]**
+
+| Campo | Dettaglio |
+|-------|-----------|
+| Caso | [Numero protocollo] |
+| Interrogato | [Nome Cognome] |
+| Data/Ora Inizio | [Data] ore [HH:MM] |
+| Investigatori | [Nomi] |
+```
+
+Questi header aggiungono autenticità e immersione al caso.
+
+---
+
+### Note Investigative nei Documenti
+
+I casi reali utilizzano **note in corsivo** per simulare annotazioni dell'investigatore:
+
+```markdown
+*[NOTA INVESTIGATIVA: Contraddizione temporale - Il sospetto dichiara 
+di essere uscito alle 20:00, ma il registro telecamere lo mostra 
+alle 20:15. Da verificare.]*
+```
+
+Usate questo pattern per:
+- Evidenziare contraddizioni
+- Collegare prove da documenti diversi
+- Segnalare elementi sospetti
+- Guidare sottilmente i giocatori
+
+---
+
 ## Materiali da Produrre (60+ elementi)
 
 ### Documenti Investigativi (15-30 pezzi)
@@ -152,15 +330,66 @@ Tre domande finali a scelta multipla:
 
 Per ogni caso generato, vengono prodotti:
 
-1. Istruzioni per i giocatori (manuale utente con suddivisione documenti es. "per il caso", "soluzione(spoiler)", "istruzioni" trova tu il cluster giusto)
-2. Documento master con soluzione completa e spiegazione
-3. Tutti i documenti investigativi (formato testo)
-4. Descrizione dettagliata di prove fisiche e foto
-5. Albero decisionale per il sistema di verifica
-6. 3 livelli di suggerimenti progressivi
-7. Script della narrazione audio finale (10–15 minuti) che spiega la soluzione
-8. Documenti raggruppati per categoria (es. "Prove documentali", "Documenti investigativi")
-9. Produci anche documenti di supporto (eg. foglio appunti "customizzato" per risolvere il caso, che non dia aiuti, versione stampabile)
+1. **README.md del caso** - Overview, sospettati, inventario documenti
+2. **Istruzioni per i giocatori** - Regole, fasi, consigli (`istruzioni-giocatori.md`)
+3. **Manuale utente** ⭐ - Guida organizzativa con percorso di lettura consigliato (`manuale-utente.md`)
+4. **Documento master** - Soluzione completa e spiegazione per GM/autori (`documento-master.md`)
+5. **Tutti i documenti investigativi** - Rapporti, interrogatori, prove (15-20 file)
+6. **Prove documentali** - Email, messaggi, estratti conto, articoli (15-30 file)
+7. **Elementi digitali** - Sistema verifica, registrazioni, analisi forensi (3-5 file)
+8. **Albero decisionale** - Sistema di verifica con feedback (`albero-decisionale.md`)
+9. **3 livelli di suggerimenti progressivi** - Per giocatori bloccati
+10. **Script della narrazione finale** - Rivelazione da leggere/ascoltare (10-15 min)
+
+**Totale:** 40-60+ file per caso completo
+
+---
+
+## Organizzazione dei Casi Esistenti
+
+La cartella `casi/` contiene i casi implementati:
+
+```
+casi/
+├── eredita-villa-rossi/       # Caso di avvelenamento ed eredità
+├── ultima-cena/               # Omicidio in ristorante stellato
+├── la-cattedra-vuota/         # Mistero accademico
+├── prezzo-del-silenzio/       # Thriller investigativo
+├── segreto-villa-medici/      # Caso storico
+└── ultimo-brindisi/           # Cold case
+```
+
+Ogni caso ha:
+- Struttura completa con tutti i file
+- README.md specifico con overview e sospettati
+- Manuale utente con percorso di lettura guidato
+- Sistema di verifica configurato
+
+**Usate questi casi come riferimento** quando create nuovi casi dal template.
+
+---
+
+## Differenze Template vs Casi Implementati
+
+I **casi esistenti** sono molto più evoluti del template originale. Gli aggiornamenti recenti al template includono:
+
+### File Aggiunti al Template (2026)
+- ✅ `manuale-utente.md` - Presente in TUTTI i casi, essenziale per organizzazione
+- ✅ `README.md` - Overview caso con tabelle sospettati e inventario
+- ✅ Template specializzati - Rapporti tossicologici, balistici, forensi digitali
+- ✅ Suggerimenti rinominati - Con descrittori (generico, specifico, quasi-risolutivo)
+
+### Miglioramenti alla Struttura
+- ✅ Header professionali con metadata (badge, protocolli, numero pratica)
+- ✅ Note investigative in corsivo nei documenti
+- ✅ Feedback dettagliato nel sistema di verifica
+- ✅ Organizzazione a cluster tematici nel manuale utente
+- ✅ Checkpoint temporali e stime di lettura
+- ✅ Timing marks per narrazione audio
+
+**Il template è ora allineato con le best practices dei casi reali.**
+
+---
 
 ## Checklist di Qualità
 

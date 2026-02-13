@@ -1,16 +1,23 @@
-# Verbale di Interrogatorio
-
-**DIPARTIMENTO DI POLIZIA**
-**VERBALE DI SOMMARIE INFORMAZIONI TESTIMONIALI**
+# QUESTURA DI [CITTA]
+## Squadra Mobile — Sezione [TIPO REATO]
 
 ---
 
-**Numero Protocollo**: [N. protocollo]
-**Riferimento caso**: [N. caso]
-**Data interrogatorio**: [Data]
-**Ora inizio**: [Ora] | **Ora fine**: [Ora]
-**Luogo**: [Sede / Ufficio]
-**Interrogante**: [Nome e grado dell'investigatore]
+**VERBALE DI INTERROGATORIO / SOMMARIE INFORMAZIONI TESTIMONIALI**
+
+| Campo | Dettaglio |
+|---|---|
+| **Protocollo** | [SIGLA]-[ANNO]-[NUMERO] |
+| **Riferimento caso** | Indagine n. [NUMERO CASO] |
+| **Data interrogatorio** | [DATA COMPLETA] |
+| **Ora inizio** | [ORA:MIN] |
+| **Ora termine** | [ORA:MIN] |
+| **Durata totale** | [XX] minuti |
+| **Luogo** | [Commissariato / Caserma / Altro] — [Indirizzo] |
+| **Investigatore principale** | [Grado, Nome, Badge] |
+| **Assistenti presenti** | [Grado, Nome, Badge] / [Altro] |
+| **Presenza avvocato** | Sì: Avv. [NOME] / No |
+| **Registrazione audio/video** | Sì / No |
 
 ---
 
@@ -70,11 +77,28 @@
 
 ## Note dell'Investigatore
 
-[Osservazioni sul comportamento del soggetto durante l'interrogatorio:
-- Atteggiamento generale
-- Eventuali segni di nervosismo
-- Contraddizioni notate
-- Credibilita percepita]
+_[Le seguenti osservazioni sono annotazioni riservate dell'investigatore sul comportamento del soggetto durante l'interrogatorio. Da non leggere al soggetto interrogato.]_
+
+**Atteggiamento generale:**
+_[Esempio: Collaborativo / Evasivo / Nervoso / Tranquillo / Aggressivo / Reticente]_
+
+**Linguaggio del corpo:**
+_[Esempio: Mantiene il contatto visivo / Evita lo sguardo / Si tocca ripetutamente il viso / Mani tremanti / Postura rigida / Inquieto]_
+
+**Segni di nervosismo o stress:**
+_[Esempio: Sudorazione eccessiva / Voce tremante / Pause prolungate prima di rispondere / Balbettii / Cambio di tono]_
+
+**Contraddizioni rilevate:**
+_[Esempio: "Alla domanda X ha risposto Y, ma in precedenza aveva dichiarato Z. Quando è stato fatto notare, ha cambiato versione sostenendo che..."]_
+
+**Dettagli significativi:**
+_[Esempio: "Ha fornito dettagli molto precisi su alcuni aspetti ma è stato vago su altri. Ha mostrato particolare nervosismo quando si è parlato di..."]_
+
+**Credibilità percepita:**
+_[Valutazione soggettiva: Alta / Media / Bassa — con motivazione]_
+
+**Elementi da approfondire:**
+_[Lista di aspetti che richiedono ulteriori indagini o un secondo interrogatorio]_
 
 ---
 

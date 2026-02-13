@@ -1,15 +1,23 @@
-# Report del Medico Legale / Perizia Tecnica
-
-**ISTITUTO DI MEDICINA LEGALE**
-**RAPPORTO AUTOPTICO / PERIZIA TECNICA**
+# ISTITUTO DI MEDICINA LEGALE DI [CITTA]
+## Dipartimento di Patologia Forense
 
 ---
 
-**Numero Protocollo**: [N. protocollo]
-**Riferimento caso**: [N. caso]
-**Data esame**: [Data]
-**Medico legale / Perito**: Dott. [Nome completo]
-**Specializzazione**: [Specializzazione]
+**RAPPORTO AUTOPTICO / PERIZIA MEDICO-LEGALE**
+
+| Campo | Dettaglio |
+|---|---|
+| **Protocollo** | [SIGLA]-[ANNO]-[NUMERO] |
+| **Riferimento caso** | Indagine penale n. [NUMERO CASO] |
+| **Data esame autoptico** | [DATA COMPLETA] |
+| **Ora inizio esame** | [ORA:MIN] |
+| **Ora termine esame** | [ORA:MIN] |
+| **Durata esame** | [XX] ore e [XX] minuti |
+| **Medico legale responsabile** | Prof./Dott. [NOME COMPLETO] |
+| **Specializzazione** | Medicina Legale — Patologia Forense |
+| **Assistenti** | Dott. [NOME] / Tecnico [NOME] |
+| **Luogo esame** | Sala autoptica n. [X] — [Istituto] |
+| **Autorizzazione PM** | Sì — Decreto del [DATA] — PM [NOME] |
 
 ---
 
