@@ -345,27 +345,68 @@ Per ogni caso generato, vengono prodotti:
 
 ---
 
-## Organizzazione dei Casi Esistenti
+## 🎭 I Casi Disponibili
 
-La cartella `casi/` contiene i casi implementati:
+### 🏛️ [L'Eredità Avvelenata di Villa Rossi](casi/eredita-villa-rossi/)
+> *Il sole del tardo pomeriggio incendia la superficie del Lago di Como. Villa Rossi è pronta per la festa dell'anno — centocinquanta lanterne veneziane, tavoli di lino bianco, e un patriarca che sta per alzare il calice per l'ultima volta...*
 
-```
-casi/
-├── eredita-villa-rossi/       # Caso di avvelenamento ed eredità
-├── ultima-cena/               # Omicidio in ristorante stellato
-├── la-cattedra-vuota/         # Mistero accademico
-├── prezzo-del-silenzio/       # Thriller investigativo
-├── segreto-villa-medici/      # Caso storico
-└── ultimo-brindisi/           # Cold case
-```
+| Giocatori | Difficoltà | Durata | Sospettati | Ambientazione |
+|-----------|-----------|--------|------------|---------------|
+| 1-4 | ⭐⭐⭐⭐ Media-Alta | 3-4h | 9 | Lago di Como, Giugno 2024 |
 
-Ogni caso ha:
-- Struttura completa con tutti i file
-- README.md specifico con overview e sospettati
-- Manuale utente con percorso di lettura guidato
-- Sistema di verifica configurato
+---
 
-**Usate questi casi come riferimento** quando create nuovi casi dal template.
+### 🎓 [La Cattedra Vuota](casi/la-cattedra-vuota/)
+> *Via Zamboni, domenica sera. Bologna è deserta. Ma al secondo piano della Facoltà di Giurisprudenza, una luce è ancora accesa. Il Professor Marini lavora fino a tardi. Lunedì mattina, la sua cattedra sarà vuota...*
+
+| Giocatori | Difficoltà | Durata | Sospettati | Ambientazione |
+|-----------|-----------|--------|------------|---------------|
+| 1-4 | ⭐⭐⭐⭐⭐ Alta | 2-4h | 6 | Università di Bologna, Febbraio 2025 |
+
+---
+
+### 🎭 [La Notte delle Maschere](casi/notte-delle-maschere/)
+> *Centodue finestre illuminate, un tappeto rosso, e centosventi invitati in maschera. Al gala della Fondazione Luce, Edoardo Marinetti sale sul palco: "Stasera ho una rivelazione importante." Ma quella rivelazione non arriverà mai...*
+
+| Giocatori | Difficoltà | Durata | Sospettati | Ambientazione |
+|-----------|-----------|--------|------------|---------------|
+| 1-4 | ⭐⭐⭐⭐⭐ Alta | 3-5h | 8 | Grand Hotel Riviera Palace, Sanremo, Febbraio 2026 |
+
+---
+
+### 🔇 [Il Prezzo del Silenzio](casi/prezzo-del-silenzio/)
+> *Torino, una notte di gennaio. Luca Ferraris è nel suo studio, circondato da documenti che potrebbero far tremare il sistema sanitario piemontese. L'inchiesta è quasi completa. Domani invierà il pezzo alla redazione...*
+
+| Giocatori | Difficoltà | Durata | Sospettati | Ambientazione |
+|-----------|-----------|--------|------------|---------------|
+| 1-4 | ⭐⭐⭐⭐ Media-Alta | 2-4h | 6 | Torino, Gennaio 2025 |
+
+---
+
+### 🏰 [Il Segreto della Villa Medici](casi/segreto-villa-medici/)
+> *Le colline umbre di novembre sono avvolte nella nebbia. A Villa Medici dei Falchi, il Professor Maldini esamina una collezione d'arte milionaria. Sotto i raggi UV ha trovato qualcosa che non doveva trovare...*
+
+| Giocatori | Difficoltà | Durata | Sospettati | Ambientazione |
+|-----------|-----------|--------|------------|---------------|
+| 1-4 | ⭐⭐⭐⭐ Media-Alta | 2-4h | 6 | Villa Medici, Perugia, Novembre 2024 |
+
+---
+
+### 🍽️ [L'Ultima Cena](casi/ultima-cena/)
+> *La Sala Leonardo del Cenacolo d'Oro è apparecchiata per otto. Cristalli di Baccarat, posate d'argento. Stasera cena Massimo Fontana, il critico che con tre righe può distruggere un ristorante. Lo chef ha preparato sette portate. Tutto deve essere perfetto...*
+
+| Giocatori | Difficoltà | Durata | Sospettati | Ambientazione |
+|-----------|-----------|--------|------------|---------------|
+| 1-4 | ⭐⭐⭐⭐ Media-Alta | 2-4h | 6 | Ristorante stellato, Parma, Marzo 2025 |
+
+---
+
+### 🍷 [L'Ultimo Brindisi](casi/ultimo-brindisi/)
+> *Ottobre a Fiesole. Marco Ferretti scende nella sua cantina privata con un Brunello di Montalcino 2006 in mano. Duecento bottiglie selezionate in vent'anni di carriera, e stasera ne ha scelta una speciale. L'ultimo sorso sarà il più importante della sua vita...*
+
+| Giocatori | Difficoltà | Durata | Sospettati | Ambientazione |
+|-----------|-----------|--------|------------|---------------|
+| 1-4 | ⭐⭐⭐⭐ Media-Alta | 2-4h | 4 | Villa Le Ginestre, Fiesole, Ottobre 2024 |
 
 ---
 

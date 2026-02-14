@@ -17,25 +17,28 @@
 
 ---
 
-## La Premessa
+## L'Incipit
 
-[Scrivere 3-4 paragrafi che introducono il caso in modo cinematografico]
+<!-- ISTRUZIONI PER L'AUTORE:
+Scrivi 4-6 paragrafi in stile cinematografico che descrivano la scena POCO PRIMA del crimine.
+Regole fondamentali:
+- Tempo presente, tono letterario
+- Descrizione sensoriale: luci, suoni, profumi, atmosfera del luogo
+- Presenta il protagonista/vittima senza rivelare che è la vittima
+- Tensione crescente: piccoli dettagli che suggeriscono che qualcosa non va
+- Chiudi con una frase a effetto in corsivo che invogli a giocare
+- ZERO SPOILER: non menzionare il tipo di crimine, il metodo, né lasciare intuire il colpevole
+-->
 
-**Paragrafo 1**: La scena iniziale
-[Data precisa], ore [HH:MM]. [Descrizione atmosferica della scena del crimine al momento della scoperta. Usare presente per immediatezza.]
+[AMBIENTAZIONE — Descrivi il luogo e l'atmosfera con ricchezza sensoriale. Dove siamo? Che ora è? Che stagione? Cosa si vede, si sente, si respira? Crea un'immagine vivida e cinematografica che trasporti il lettore sulla scena.]
 
-**Paragrafo 2**: Il mistero
-[Descrivere cosa rende questo crimine sospetto. Cosa non torna? Quali elementi suggeriscono che non è un incidente?]
+[PROTAGONISTA — Presenta la futura vittima nel suo elemento naturale: chi è, cosa fa, perché è importante. Non rivelare che diventerà vittima. Mostrala attraverso le sue azioni, il suo carattere, il modo in cui gli altri reagiscono alla sua presenza.]
 
-**Paragrafo 3**: La situazione investigativa
-[Chi indaga? Quanti sospetti? Qual è il compito dei giocatori?]
+[CONTESTO — Cosa sta succedendo? Perché queste persone sono riunite? Qual è l'occasione? Introduci la situazione che precede il crimine senza anticipare nulla. Fai percepire che sotto la superficie ci sono tensioni, segreti, equilibri precari.]
 
-**Paragrafo 4**: Le domande da risolvere
-Dovete rispondere a tre domande:
+[TENSIONE — Aggiungi dettagli che creano suspense: un comportamento insolito, una frase enigmatica, uno sguardo di troppo. Qualcosa che, a posteriori, assumerà un significato diverso. Ma che al momento della lettura crea solo curiosità e inquietudine.]
 
-1. **Chi** ha commesso il crimine?
-2. **Perché** l'ha fatto?
-3. **Come** è stato commesso?
+*[CHIUSURA — Una frase finale in corsivo, evocativa e misteriosa, che lasci il lettore con la voglia di scoprire cosa succederà. Non rivelare nulla, ma fai sentire che qualcosa di inevitabile sta per accadere.]*
 
 ---
 

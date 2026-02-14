@@ -1,182 +1,54 @@
-# L'Eredità Avvelenata di Villa Rossi
+# 🏛️ L'Eredità Avvelenata di Villa Rossi
 
-## Panoramica del Caso
+## Scheda Tecnica
 
-**Titolo**: L'Eredità Avvelenata di Villa Rossi
-**Tipo di Crimine**: Omicidio premeditato (avvelenamento)
-**Data Evento**: 15 Giugno 2024
-**Luogo**: Villa Rossi, Lago Como, Italia
-**Durata Gioco**: 3-4 ore
-**Difficoltà**: Media-Alta
-**Giocatori**: 1-4 persone
+| | |
+|---|---|
+| **Ambientazione** | Villa Rossi, Lago di Como |
+| **Epoca** | Giugno 2024 |
+| **Giocatori** | 1-4 |
+| **Difficoltà** | ⭐⭐⭐⭐ Media-Alta |
+| **Durata stimata** | 3-4 ore |
+| **Sospettati** | 9 |
+| **Documenti** | 30+ |
+
+---
+
+## L'Incipit
+
+Il sole del tardo pomeriggio incendia la superficie del Lago di Como, trasformando l'acqua in una distesa di rame fuso. Villa Rossi domina la sponda orientale come un monumento alla ricchezza e al potere — tre piani di marmo di Carrara, giardini all'italiana degradanti fino alla riva, e un molo privato dove due motoscafi lucidati attendono ospiti che non hanno intenzione di fare gite sul lago.
+
+Stasera si celebra. Andrea Rossi, settantadue anni, patriarca della Rossi Pharmaceutical & Biotech, ha fatto allestire i giardini con centocinquanta lanterne veneziane e tavoli rotondi coperti di lino bianco. L'occasione ufficiale è l'anniversario di matrimonio con la seconda moglie, Francesca, trentaquattro anni e un sorriso che non raggiunge mai gli occhi. Ma tutti sanno che le feste di Andrea Rossi non sono mai solo quello che sembrano.
+
+Gli ospiti cominciano ad arrivare poco dopo le venti. Le auto risalgono il viale di cipressi una dopo l'altra: la figlia maggiore Giulia con il marito, il figlio Marco con l'aria di chi preferirebbe essere altrove, il nipote Pietro con le scarpe sbagliate e lo sguardo sfuggente. La sorella Vittoria, settantacinque anni e una memoria che taglia come un bisturi, si fa accompagnare fino alla terrazza senza salutare nessuno. L'avvocato di famiglia, il dottor Fermi, controlla il telefono con una frequenza che tradisce nervosismo. In cucina, la chef Sofia Bianchi dà gli ultimi ordini alla brigata — il menu è stato studiato per settimane, ogni portata un piccolo capolavoro.
+
+Andrea accoglie tutti con la generosità teatrale di chi sa di essere al centro della scena. Stringe mani, bacia guance, riempie bicchieri. È il padrone di casa perfetto. Ma chi lo conosce davvero nota qualcosa di diverso nel suo sguardo — una determinazione che va oltre la convivialità. Il patriarca ha un piano per questa sera, e non riguarda solo il dessert.
+
+L'aria profuma di gelsomino e di segreti. Mentre i camerieri servono l'antipasto e il Franciacorta scorre nei calici di cristallo, sotto la superficie della festa perfetta si muovono correnti invisibili: vecchi rancori, eredità contese, alleanze fragili e tradimenti non ancora consumati. Ognuno dei presenti ha le proprie ragioni per essere qui. E almeno uno di loro ha una ragione che nessuno sospetta.
+
+La cena procede tra brindisi e conversazioni studiate. Il semifreddo al pistacchio viene servito alle ventuno e trenta. Andrea Rossi alza il calice un'ultima volta.
+
+*Qualcosa, questa sera, sta per cambiare per sempre.*
 
 ---
 
-## Sinossi
+## Come Giocare
 
-Andrea Rossi, magnate dell'industria farmaceutica da 72 anni, muore improvvisamente durante una cena di gala per celebrare l'anniversario di matrimonio con la sua giovane moglie, Francesca Morelli.
-
-Inizialmente classificato come attacco cardiaco, l'autopsia rivela la vera causa: **avvelenamento da ricina**.
-
-Con 9 sospetti, motivi complessi, false piste credibili, e una sofisticata trama di eredità e denaro, voi dovete determinare:
-1. **Chi** ha commesso il crimine?
-2. **Perché** l'ha fatto?
-3. **Come** è stato commesso?
-
-Il caso è ispirato da "Knives Out" - una famiglia ricca piena di segreti, tradimenti, e motivazioni finanziarie oscure.
-
----
+1. Leggete le **Istruzioni Giocatori** per le regole base
+2. Seguite il **Manuale Utente** per la progressione dell'indagine
+3. Analizzate i documenti nelle cartelle investigative
+4. Usate i **Suggerimenti** solo se necessario
+5. Verificate la vostra soluzione rispondendo alle tre domande finali
 
 ## Contenuti del Caso
 
-### 📄 File Master (Soluzione Completa)
-
-1. **documento-master.md** - Soluzione completa con 9 sospetti, prove, timeline
-2. **istruzioni-giocatori.md** - Regole, fasi di gioco, suggerimenti
-3. **albero-decisionale.md** - Sistema di verifica con 3 domande
-4. **script-narrazione-finale.md** - Rivelazione finale (12-15 minuti)
-
-### 📋 Documenti Investigativi (9 file)
-
-- Rapporto di polizia iniziale
-- Autopsia e analisi tossicologica
-- 6 Verbali di interrogatorio (Giulia, Francesca, Marco, Dr. Santini, Pietro, Sofia)
-- Timeline dettagliata e video di sorveglianza
-
-### 📃 Prove Documentali (15+ file)
-
-- Email di Fermi sul nuovo testamento
-- Messaggi WhatsApp di Giulia (premeditazione)
-- Estratti conto con acquisti sospetti
-- Articoli di giornale
-- Diario privato di Giulia (confessione)
-- Post social media di Francesca
-- Ordine online di semi di ricino
-
-### 🔍 Elementi Digitali
-
-- Sistema di verifica della soluzione
-- Trascrizioni video di sorveglianza
-- Rapporto forense digitale
-
-### 💡 Suggerimenti Progressivi
-
-- **Livello 1** (Generico): Dopo 60 min o 1 errore
-- **Livello 2** (Specifico): Dopo 90 min o 2 errori
-- **Livello 3** (Quasi-risolutivo): Dopo 120 min o 3 errori
+| Tipo | Cartella | Quantità |
+|------|----------|----------|
+| 📋 Documenti Investigativi | `documenti-investigativi/` | Verbali, perizie, interrogatori |
+| 📄 Prove Documentali | `prove-documentali/` | Documenti, contratti, lettere |
+| 💻 Elementi Digitali | `elementi-digitali/` | Email, messaggi, tabulati |
+| 💡 Suggerimenti | `suggerimenti/` | 3 livelli progressivi |
 
 ---
 
-## I Sospetti
-
-| Sospetto | Età | Relazione | Motivo Apparente | Forza Alibi |
-|----------|-----|-----------|---|---|
-| **Giulia Rossi** | 38 | Figlia | Eredità (modifiche testamentarie) | Debole ❌ |
-| Francesca Morelli | 34 | Moglie | Eredità (700 M €) | Forte ✓ |
-| Marco Rossi | 45 | Figlio | Eredità e controllo aziendale | Forte ✓ |
-| Dr. Santini | 55 | Medico | Denuncia imminente | Forte ✓ |
-| Pietro Rossi | 22 | Nipote | Debiti di gioco | Debole ❌ |
-| Sofia Bianchi | 29 | Chef | Perdita di lavoro | Forte ✓ |
-| Vittoria Rossi | 75 | Sorella | Questioni eredità familiari | Forte ✓ |
-| Enrico Fermi | 62 | Avvocato | Interessi finanziari | Forte ✓ |
-| Thomas Mueller | 58 | Ospite | Rivalità commerciale | Forte ✓ |
-
----
-
-## Elementi Chiave dell'Investigazione
-
-### Tipi di Prove Disponibili
-
-- **Video di sorveglianza**: Registrazioni della sera del crimine con timeline completa
-- **Documenti finanziari**: Email, estratti conto, modifiche testamentarie
-- **Prove digitali**: Messaggi WhatsApp, ricerche online, ordini e-commerce
-- **Testimonianze**: Verbali di interrogatorio dei 6 sospetti principali
-- **Evidenze forensi**: Analisi tossicologiche, impronte, tracce biologiche
-- **Diari personali**: Annotazioni private di alcuni sospetti
-
-### Focus dell'Indagine
-
-- **Motivo finanziario**: Chi aveva il maggior interesse economico nella morte di Andrea?
-- **Accesso e opportunità**: Chi aveva accesso al laboratorio privato e alla cucina?
-- **Timeline critica**: Ricostruire i movimenti di ogni sospetto nei momenti chiave
-- **Competenze tecniche**: Chi aveva le conoscenze per estrarre e usare ricina?
-- **Premeditazione**: Cercate prove di pianificazione anticipata
-
-### Sfide Investigative
-
-- **False piste credibili**: Diversi sospetti hanno motivi forti e alibi deboli
-- **Complessità finanziaria**: Le modifiche testamentarie coinvolgono cifre enormi
-- **Familiari conflittuali**: Tutti i membri della famiglia hanno tensioni con Andrea
-- **Timeline complessa**: Eventi sovrapposti e testimonianze contraddittorie
-
----
-
-## Difficoltà e Accessibilità
-
-### Difficoltà: Media-Alta
-
-✓ **Accessibile**: Tutti i documenti sono disponibili fin dall'inizio. Non c'è arcano o informazione nascosta (tranne il diario, che è in camera di Giulia).
-
-✓ **Risolubile**: Il caso è logicamente coerente. Con attenzione ai dettagli (video, email, messaggi), è risolvibile.
-
-✗ **Ingannevole**: Ci sono false piste credibili (Francesca, Dr. Santini) che possono deviare l'investigatore. Richiede pensiero critico.
-
-### Abilità Richieste
-- Lettura critica di documenti legali/medici
-- Timeline building e ricostruzione cronologica
-- Collegamento di indizi da fonti diverse
-- Capacità di distinguere motivo generico da motivo specifico
-
----
-
-## Consigli per il Game Master (se presente)
-
-1. **Gestione tempo**: Se i giocatori si bloccano oltre 90 minuti, suggerite di rivedere le testimonianze video
-2. **False piste**: Non indirizzate troppo presto verso o contro un sospetto specifico
-3. **Documenti chiave**: Incoraggiate l'analisi incrociata di documenti finanziari e timeline
-4. **Dettagli forensi**: I dettagli scientifici sono importanti ma non devono sopraffare l'indagine
-5. **Chiusura**: Leggete lo Script di Narrazione Finale dopo la verifica delle risposte
-
----
-
-## Statistiche del Caso
-
-- **Sospetti**: 9
-- **Documenti**: 50+
-- **Prove Documentali**: 15+
-- **Documenti Investigativi**: 9+
-- **Elementi Digitali**: 5+
-- **Suggerimenti Progressivi**: 3 livelli
-- **Durata stimata**: 3-4 ore
-- **Difficoltà**: Media-Alta
-
----
-
-## Note Sulla Trama
-
-### Ispirazioni
-- **Knives Out**: Famiglia ricca, sospetti multipli, denaro come motore
-- **Ambiente Luxury**: Villa sul Lago Como, miliardario, stile di vita sofisticato
-- **Omicidio Sofisticato**: Veleno (vs arma), pianificazione (vs crimine d'impulso)
-
-### Temi Centrali
-- Il denaro e le dinamiche familiari
-- Eredità e conflitti generazionali
-- Apparenza vs realtà nelle famiglie ricche
-- Il costo della ricchezza sulle relazioni
-
-### Caratteristiche del Caso
-- Non è un omicidio passionale ma calcolato
-- Richiede attenzione ai dettagli finanziari e temporali
-- Le prove forensi sono decisive ma non ovvie
-- La soluzione emerge dall'incrocio di più tipi di prove
-
----
-
-## Feedback e Miglioramenti
-
-Se avete domande, suggerimenti, o trovate errori logici, segnalateli nei vostri appunti.
-
-Il caso è costruito per essere risolvibile ma impegnativo. Niente è impossibile, ma niente è banale.
-
-**Buona indagine!**
+> ⚠️ **ATTENZIONE SPOILER**: Non leggete il `documento-master.md`, lo `script-narrazione-finale.md` né l'`albero-decisionale.md` prima di giocare. Contengono la soluzione completa del caso.
