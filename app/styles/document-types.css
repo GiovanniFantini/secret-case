@@ -1,0 +1,2811 @@
+/* ============================================================
+   DOCUMENT TYPES CSS - REALISTIC STYLING
+   For Secret Case Mystery Game Documents
+   ============================================================ */
+
+/* ============================================================
+   BASE DOCUMENT VIEWER
+   ============================================================ */
+
+.document-viewer {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    background: #f5f5f5;
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.document-header {
+    background: #ffffff;
+    padding: 20px;
+    border-bottom: 3px solid #333;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.document-footer {
+    margin-top: 40px;
+    padding: 20px;
+    border-top: 2px solid #ddd;
+    font-size: 0.85rem;
+    color: #666;
+    text-align: center;
+    background: #fafafa;
+}
+
+.document-stamp {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    border: 3px solid #dc2626;
+    border-radius: 4px;
+    font-weight: bold;
+    color: #dc2626;
+    text-transform: uppercase;
+    transform: rotate(-5deg);
+    font-size: 0.9rem;
+    background: rgba(255, 255, 255, 0.9);
+}
+
+.document-signature {
+    margin-top: 40px;
+    padding: 20px;
+    border: 2px solid #000;
+    background: #fefefe;
+    text-align: right;
+}
+
+.document-signature::before {
+    content: "Firma: ";
+    font-weight: bold;
+}
+
+.document-signature .signature-line {
+    display: inline-block;
+    min-width: 200px;
+    border-bottom: 2px solid #000;
+    margin-left: 10px;
+    font-family: 'Brush Script MT', cursive, Georgia;
+    font-size: 1.2rem;
+}
+
+.document-watermark {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-45deg);
+    font-size: 6rem;
+    color: rgba(0, 0, 0, 0.05);
+    font-weight: bold;
+    pointer-events: none;
+    text-transform: uppercase;
+    white-space: nowrap;
+    z-index: 1;
+}
+
+
+/* ============================================================
+   DOCUMENTI UFFICIALI
+   ============================================================ */
+
+/* --- RAPPORTO POLIZIA --- */
+.doc-police {
+    background: #f8f9fa;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+    position: relative;
+    padding: 0;
+    border: 2px solid #1a365d;
+    border-top: 8px solid #1a365d;
+}
+
+.doc-police::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image:
+        linear-gradient(rgba(26, 54, 93, 0.015) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(26, 54, 93, 0.015) 1px, transparent 1px),
+        repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.008) 2px, rgba(0,0,0,0.008) 4px);
+    background-size: 25px 25px, 25px 25px, 100% 100%;
+    pointer-events: none;
+    opacity: 0.7;
+}
+
+.doc-police::after {
+    content: "MINISTERO DEGLI INTERNI";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-45deg);
+    font-size: 7rem;
+    color: rgba(26, 54, 93, 0.02);
+    font-weight: 900;
+    pointer-events: none;
+    z-index: 1;
+    white-space: nowrap;
+    font-family: 'Arial Black', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+}
+
+.doc-police .doc-header {
+    background: linear-gradient(to bottom, #1a365d 0%, #1e40af 50%, #1a365d 100%);
+    color: white;
+    padding: 40px 30px 30px 30px;
+    border-bottom: 8px double #fbbf24;
+    position: relative;
+    box-shadow: inset 0 -3px 10px rgba(0,0,0,0.3);
+}
+
+.doc-police .doc-header::before {
+    content: "⚖";
+    position: absolute;
+    top: 15px;
+    left: 30px;
+    font-size: 3rem;
+    opacity: 0.3;
+}
+
+.doc-police .doc-header h1 {
+    margin: 0;
+    font-size: 1.9rem;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 900;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
+    font-family: 'Arial Black', Arial, sans-serif;
+}
+
+.doc-police .doc-header .badge-number {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    background: #fbbf24;
+    color: #1a365d;
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 0.85rem;
+}
+
+.doc-police .confidential-box {
+    position: absolute;
+    top: 100px;
+    right: 30px;
+    border: 5px double #dc2626;
+    padding: 15px 30px;
+    background: rgba(255, 255, 255, 0.97);
+    transform: rotate(-8deg);
+    z-index: 10;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.3), inset 0 0 0 2px rgba(220, 38, 38, 0.1);
+    backdrop-filter: blur(2px);
+}
+
+.doc-police .confidential-box::before {
+    content: "";
+    position: absolute;
+    inset: -3px;
+    border: 1px solid rgba(220, 38, 38, 0.3);
+    transform: rotate(2deg);
+    pointer-events: none;
+}
+
+.doc-police .confidential-box span {
+    color: #dc2626;
+    font-weight: 900;
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-family: 'Impact', sans-serif;
+    display: block;
+    text-shadow: 1px 1px 0 rgba(220, 38, 38, 0.2);
+}
+
+.doc-police .doc-content {
+    padding: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.8;
+    position: relative;
+    z-index: 2;
+}
+
+.doc-police .section-title {
+    background: #e0e7ff;
+    padding: 10px 15px;
+    margin: 30px 0 15px 0;
+    border-left: 5px solid #1a365d;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.95rem;
+    letter-spacing: 1px;
+}
+
+.doc-police table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    border: 2px solid #1a365d;
+}
+
+.doc-police table th {
+    background: #1a365d;
+    color: white;
+    padding: 12px;
+    text-align: left;
+    font-weight: bold;
+    border: 1px solid #1e40af;
+}
+
+.doc-police table td {
+    padding: 10px 12px;
+    border: 1px solid #cbd5e1;
+    background: #fefefe;
+}
+
+.doc-police table tr:nth-child(even) td {
+    background: #f8fafc;
+}
+
+.doc-police .footer-signature {
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 2px solid #1a365d;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.9rem;
+}
+
+.doc-police .footer-signature .badge-info {
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+}
+
+
+/* --- REFERTO MEDICO --- */
+.doc-medical {
+    background: #ffffff;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.12);
+    position: relative;
+    border: 1px solid #bae6fd;
+    border-left: 6px solid #0ea5e9;
+}
+
+.doc-medical::before {
+    content: "⚕";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-45deg);
+    font-size: 18rem;
+    color: rgba(14, 165, 233, 0.015);
+    pointer-events: none;
+    z-index: 1;
+}
+
+.doc-medical .doc-header {
+    background: linear-gradient(to bottom, #e0f2fe 0%, #bae6fd 40%, #e0f2fe 100%);
+    border-bottom: 6px double #0ea5e9;
+    padding: 35px 30px;
+    text-align: center;
+    position: relative;
+    box-shadow: 0 3px 8px rgba(14, 165, 233, 0.15);
+}
+
+.doc-medical .doc-header::before {
+    content: "⚕";
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    font-size: 3rem;
+    color: #0c4a6e;
+    opacity: 0.2;
+}
+
+.doc-medical .doc-header::after {
+    content: "⚕";
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-size: 3rem;
+    color: #0c4a6e;
+    opacity: 0.2;
+}
+
+.doc-medical .doc-header h1 {
+    color: #0c4a6e;
+    margin: 0 0 10px 0;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.doc-medical .doc-header .hospital-name {
+    font-size: 1.1rem;
+    color: #075985;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.doc-medical .doc-header .hospital-address {
+    font-size: 0.85rem;
+    color: #0369a1;
+}
+
+.doc-medical .doc-content {
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.9;
+}
+
+.doc-medical .patient-info {
+    background: linear-gradient(135deg, #f0f9ff 0%, #ffffff 100%);
+    border: 3px solid #0ea5e9;
+    border-radius: 6px;
+    padding: 25px;
+    margin: 25px 0;
+    box-shadow: 0 2px 8px rgba(14, 165, 233, 0.1), inset 0 0 0 1px rgba(14, 165, 233, 0.05);
+    position: relative;
+}
+
+.doc-medical .patient-info::before {
+    content: "DATI PAZIENTE";
+    position: absolute;
+    top: -12px;
+    left: 20px;
+    background: #0ea5e9;
+    color: white;
+    padding: 3px 12px;
+    font-size: 0.75rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border-radius: 3px;
+}
+
+.doc-medical .patient-info .info-row {
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    margin-bottom: 10px;
+    padding: 5px 0;
+}
+
+.doc-medical .patient-info .info-label {
+    font-weight: bold;
+    color: #0c4a6e;
+}
+
+.doc-medical .section-divider {
+    border: 0;
+    border-top: 2px dashed #bae6fd;
+    margin: 30px 0;
+}
+
+.doc-medical table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.doc-medical table th {
+    background: #e0f2fe;
+    padding: 12px;
+    text-align: left;
+    border-bottom: 2px solid #0ea5e9;
+    color: #0c4a6e;
+    font-weight: 600;
+}
+
+.doc-medical table td {
+    padding: 12px;
+    border-bottom: 1px solid #e0e7ff;
+}
+
+.doc-medical .doctor-signature {
+    margin-top: 60px;
+    text-align: right;
+}
+
+.doc-medical .doctor-signature .signature-name {
+    font-family: 'Brush Script MT', cursive, Georgia;
+    font-size: 1.4rem;
+    color: #0c4a6e;
+    margin-bottom: 5px;
+}
+
+.doc-medical .doctor-signature .doctor-credentials {
+    font-size: 0.85rem;
+    color: #64748b;
+}
+
+/* Watermark già gestito da ::before */
+
+
+/* --- ANALISI FORENSE --- */
+.doc-forensic {
+    background: #fafafa;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+    font-family: Consolas, 'Courier New', monospace;
+    position: relative;
+    border: 2px solid #334155;
+    border-top: 6px solid #f59e0b;
+}
+
+.doc-forensic::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image:
+        linear-gradient(rgba(30, 41, 59, 0.025) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(30, 41, 59, 0.025) 1px, transparent 1px),
+        linear-gradient(rgba(245, 158, 11, 0.01) 1px, transparent 1px);
+    background-size: 15px 15px, 15px 15px, 100% 100%;
+    pointer-events: none;
+    z-index: 1;
+}
+
+.doc-forensic::after {
+    content: "LABORATORIO FORENSE";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-45deg);
+    font-size: 6rem;
+    color: rgba(30, 41, 59, 0.02);
+    font-weight: 900;
+    pointer-events: none;
+    z-index: 1;
+    white-space: nowrap;
+    letter-spacing: 10px;
+}
+
+.doc-forensic .doc-header {
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #334155 100%);
+    color: white;
+    padding: 30px 40px;
+    border-bottom: 8px double #f59e0b;
+    position: relative;
+    z-index: 2;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3), inset 0 -2px 8px rgba(245, 158, 11, 0.3);
+}
+
+.doc-forensic .doc-header::before {
+    content: "🔬";
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    font-size: 2.5rem;
+    opacity: 0.2;
+}
+
+.doc-forensic .doc-header h1 {
+    margin: 0 0 5px 0;
+    font-size: 1.7rem;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-shadow: 2px 2px 6px rgba(0,0,0,0.5);
+    font-weight: 900;
+}
+
+.doc-forensic .doc-header .lab-id {
+    font-size: 0.85rem;
+    opacity: 0.8;
+    letter-spacing: 2px;
+    font-family: 'Courier New', monospace;
+    margin-top: 5px;
+}
+
+.doc-forensic .evidence-number {
+    position: absolute;
+    top: 25px;
+    right: 40px;
+    background: #f59e0b;
+    color: #1e293b;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-weight: 900;
+    font-size: 1rem;
+    border: 3px solid #ffffff;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+    font-family: 'Arial Black', sans-serif;
+    letter-spacing: 1px;
+}
+
+.doc-forensic .evidence-number::before {
+    content: "EVIDENZA N.";
+    display: block;
+    font-size: 0.6rem;
+    letter-spacing: 1px;
+    margin-bottom: 2px;
+    opacity: 0.8;
+}
+
+.doc-forensic .doc-content {
+    padding: 40px;
+    position: relative;
+    z-index: 2;
+}
+
+.doc-forensic .line-numbers {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 50px;
+    background: #f1f5f9;
+    border-right: 2px solid #cbd5e1;
+    font-size: 0.75rem;
+    color: #94a3b8;
+    text-align: right;
+    padding: 40px 10px;
+    line-height: 1.8;
+    font-family: Consolas, monospace;
+}
+
+.doc-forensic .content-with-numbers {
+    margin-left: 60px;
+}
+
+.doc-forensic .highlight-evidence {
+    background: #fef3c7;
+    border-left: 4px solid #f59e0b;
+    padding: 15px;
+    margin: 20px 0;
+    font-weight: bold;
+}
+
+.doc-forensic .section-box {
+    border: 2px solid #cbd5e1;
+    border-radius: 6px;
+    padding: 20px;
+    margin: 25px 0;
+}
+
+.doc-forensic .section-box.method {
+    background: #dbeafe;
+    border-color: #3b82f6;
+}
+
+.doc-forensic .section-box.results {
+    background: #d1fae5;
+    border-color: #10b981;
+}
+
+.doc-forensic .section-box.conclusion {
+    background: #fee2e2;
+    border-color: #ef4444;
+}
+
+.doc-forensic .section-box h3 {
+    margin: 0 0 15px 0;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.doc-forensic .data-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    margin: 20px 0;
+}
+
+.doc-forensic .data-cell {
+    background: #f8fafc;
+    border: 1px solid #cbd5e1;
+    padding: 12px;
+    border-radius: 4px;
+}
+
+.doc-forensic .data-cell .label {
+    font-size: 0.75rem;
+    color: #64748b;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 5px;
+}
+
+.doc-forensic .data-cell .value {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #1e293b;
+}
+
+
+/* --- DOCUMENTO LEGALE --- */
+.doc-legal {
+    background: linear-gradient(to bottom, #fefcf3 0%, #fef3c7 5%, #fefcf3 10%, #fefcf3 90%, #fef3c7 95%, #fefcf3 100%);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 3px solid #92400e;
+    position: relative;
+}
+
+.doc-legal::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image:
+        repeating-linear-gradient(0deg, transparent, transparent 1px, rgba(146, 64, 14, 0.02) 1px, rgba(146, 64, 14, 0.02) 2px);
+    pointer-events: none;
+    z-index: 1;
+}
+
+.doc-legal::after {
+    content: "⚖";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20rem;
+    color: rgba(146, 64, 14, 0.015);
+    pointer-events: none;
+    z-index: 1;
+}
+
+.doc-legal .doc-header {
+    text-align: center;
+    padding: 45px 40px 35px 40px;
+    border-bottom: 5px double #92400e;
+    background: linear-gradient(to bottom, #fefcf3 0%, #fef3c7 50%, #fefcf3 100%);
+    position: relative;
+    z-index: 2;
+    box-shadow: 0 3px 10px rgba(146, 64, 14, 0.1);
+}
+
+.doc-legal .doc-header::before {
+    content: "⚖";
+    position: absolute;
+    top: 15px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 2rem;
+    color: #92400e;
+    opacity: 0.15;
+}
+
+.doc-legal .letterhead {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #78350f;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.doc-legal .letterhead-subtitle {
+    font-size: 0.95rem;
+    color: #92400e;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.doc-legal .document-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #1c1917;
+    margin-top: 20px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.doc-legal .doc-content {
+    padding: 50px;
+    line-height: 2;
+    font-size: 1rem;
+    counter-reset: article-counter;
+}
+
+.doc-legal .article {
+    margin: 30px 0;
+    counter-increment: article-counter;
+}
+
+.doc-legal .article::before {
+    content: "Art. " counter(article-counter) " - ";
+    font-weight: bold;
+    color: #78350f;
+}
+
+.doc-legal .clause {
+    margin: 20px 0 20px 40px;
+    text-align: justify;
+    counter-reset: clause-counter;
+}
+
+.doc-legal .clause-item {
+    margin: 15px 0 15px 30px;
+    counter-increment: clause-counter;
+}
+
+.doc-legal .clause-item::before {
+    content: counter(article-counter) "." counter(clause-counter) " ";
+    font-weight: bold;
+    color: #92400e;
+}
+
+.doc-legal .signature-box {
+    margin-top: 60px;
+    padding: 35px;
+    border: 5px double #92400e;
+    background: linear-gradient(to bottom, #ffffff 0%, #fefcf3 100%);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    box-shadow: 0 3px 10px rgba(146, 64, 14, 0.15), inset 0 0 0 1px rgba(146, 64, 14, 0.1);
+    position: relative;
+    z-index: 2;
+}
+
+.doc-legal .signature-box::before {
+    content: "";
+    position: absolute;
+    top: -3px;
+    left: -3px;
+    right: -3px;
+    bottom: -3px;
+    border: 1px solid rgba(146, 64, 14, 0.2);
+    pointer-events: none;
+}
+
+.doc-legal .signature-field {
+    text-align: center;
+}
+
+.doc-legal .signature-field .label {
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: #1c1917;
+}
+
+.doc-legal .signature-field .line {
+    border-top: 2px solid #000;
+    margin-top: 10px;
+    padding-top: 5px;
+    font-size: 0.85rem;
+    color: #57534e;
+}
+
+.doc-legal .legal-footer {
+    margin-top: 40px;
+    padding: 20px;
+    background: #fff7ed;
+    border-top: 2px solid #92400e;
+    font-size: 0.8rem;
+    text-align: center;
+    color: #78350f;
+}
+
+
+/* ============================================================
+   CORRISPONDENZA
+   ============================================================ */
+
+/* --- EMAIL --- */
+.doc-email {
+    background: #ffffff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, Helvetica, sans-serif;
+    max-width: 800px;
+    border: 1px solid #e5e7eb;
+    border-top: 3px solid #3b82f6;
+}
+
+.doc-email .email-header {
+    background: linear-gradient(to bottom, #ffffff 0%, #f9fafb 100%);
+    border-bottom: 2px solid #e5e7eb;
+    padding: 20px 25px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.doc-email .email-subject {
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: #1f2937;
+    margin-bottom: 18px;
+    line-height: 1.3;
+    letter-spacing: -0.01em;
+}
+
+.doc-email .email-metadata {
+    background: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 6px;
+    padding: 16px 18px;
+    font-size: 0.9rem;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.doc-email .metadata-row {
+    display: grid;
+    grid-template-columns: 90px 1fr;
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+.doc-email .metadata-label {
+    font-weight: 700;
+    color: #6b7280;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 0.5px;
+}
+
+.doc-email .metadata-value {
+    color: #1f2937;
+    font-weight: 500;
+}
+
+.doc-email .email-body {
+    padding: 30px 25px;
+    line-height: 1.7;
+    color: #1f2937;
+    white-space: pre-wrap;
+    font-size: 0.95rem;
+    background: #ffffff;
+}
+
+.doc-email .quoted-text {
+    border-left: 4px solid #3b82f6;
+    padding-left: 15px;
+    margin: 15px 0;
+    color: #5f6368;
+    font-style: italic;
+}
+
+.doc-email .attachment-notice {
+    background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+    border: 2px solid #3b82f6;
+    border-radius: 8px;
+    padding: 14px 18px;
+    margin: 25px 0;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    box-shadow: 0 2px 6px rgba(59, 130, 246, 0.1);
+}
+
+.doc-email .attachment-notice::before {
+    content: "📎";
+    font-size: 1.5rem;
+    filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.1));
+}
+
+.doc-email .email-footer {
+    margin-top: 30px;
+    padding: 15px 20px;
+    background: #f9fafb;
+    border-top: 1px solid #e5e7eb;
+    font-size: 0.75rem;
+    color: #6b7280;
+    text-align: center;
+}
+
+
+/* --- CHAT/WHATSAPP --- */
+.doc-chat {
+    background: #e5ddd5;
+    background-image: 
+        repeating-linear-gradient(45deg, transparent, transparent 10px, rgba(0,0,0,0.015) 10px, rgba(0,0,0,0.015) 20px),
+        repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(0,0,0,0.01) 10px, rgba(0,0,0,0.01) 20px);
+    padding: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    border: 1px solid #d1c7bd;
+}
+
+.doc-chat .chat-header {
+    background: linear-gradient(to bottom, #075e54 0%, #128c7e 100%);
+    color: white;
+    padding: 18px 20px;
+    border-radius: 8px 8px 0 0;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin: -20px -20px 20px -20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.doc-chat .chat-header .avatar {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #25d366 0%, #128c7e 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 1.3rem;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    border: 3px solid rgba(255, 255, 255, 0.3);
+}
+
+.doc-chat .chat-header .contact-name {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.doc-chat .message {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    max-width: 70%;
+    animation: fadeInMessage 0.3s ease;
+}
+
+.doc-chat .message.sent {
+    align-self: flex-end;
+    align-items: flex-end;
+    margin-left: auto;
+}
+
+.doc-chat .message.received {
+    align-self: flex-start;
+    align-items: flex-start;
+}
+
+.doc-chat .message-bubble {
+    padding: 9px 14px;
+    border-radius: 8px;
+    word-wrap: break-word;
+    position: relative;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+    max-width: 100%;
+}
+
+.doc-chat .message.sent .message-bubble {
+    background: #d9fdd3;
+    border-radius: 8px 0 8px 8px;
+    border: 1px solid #c5f3c0;
+}
+
+.doc-chat .message.sent .message-bubble::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: -8px;
+    width: 0;
+    height: 0;
+    border-left: 8px solid #d9fdd3;
+    border-top: 8px solid transparent;
+    border-bottom: 0px solid transparent;
+}
+
+.doc-chat .message.received .message-bubble {
+    background: #ffffff;
+    border-radius: 0 8px 8px 8px;
+    border: 1px solid #f0f0f0;
+}
+
+.doc-chat .message.received .message-bubble::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -8px;
+    width: 0;
+    height: 0;
+    border-right: 8px solid #ffffff;
+    border-top: 8px solid transparent;
+    border-bottom: 0px solid transparent;
+}
+
+.doc-chat .message-text {
+    font-size: 0.95rem;
+    line-height: 1.4;
+    color: #303030;
+    margin-bottom: 2px;
+}
+
+.doc-chat .message-timestamp {
+    font-size: 0.7rem;
+    color: #667781;
+    margin-top: 3px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.doc-chat .message.sent .message-timestamp::after {
+    content: "✓✓";
+    color: #4fc3f7;
+    font-size: 0.85rem;
+}
+
+.doc-chat .date-divider {
+    text-align: center;
+    margin: 25px 0;
+}
+
+.doc-chat .date-divider span {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 7px 14px;
+    border-radius: 10px;
+    font-size: 0.8rem;
+    color: #667781;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+    font-weight: 500;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+
+/* --- DIARIO PERSONALE --- */
+.doc-diary {
+    background: linear-gradient(to bottom, #fef9ed 0%, #fef3e2 50%, #fef9ed 100%);
+    box-shadow: inset 0 0 60px rgba(139, 69, 19, 0.12), 0 4px 20px rgba(0, 0, 0, 0.15);
+    border: 2px solid #d4a574;
+    border-left: 5px solid #c08552;
+    font-family: Georgia, 'Times New Roman', serif;
+    padding: 0;
+    position: relative;
+}
+
+.doc-diary::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image:
+        repeating-linear-gradient(transparent, transparent 30px, rgba(232, 213, 183, 0.6) 30px, rgba(232, 213, 183, 0.6) 32px),
+        repeating-linear-gradient(90deg, transparent, transparent 2px, rgba(212, 165, 116, 0.03) 2px, rgba(212, 165, 116, 0.03) 4px);
+    pointer-events: none;
+    opacity: 0.8;
+}
+
+.doc-diary .diary-margin {
+    position: absolute;
+    left: 70px;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background: linear-gradient(to bottom, transparent 0%, #dc2626 5%, #dc2626 95%, transparent 100%);
+    opacity: 0.35;
+    box-shadow: 1px 0 2px rgba(220, 38, 38, 0.2);
+}
+
+.doc-diary .doc-content {
+    padding: 70px 90px 70px 100px;
+    line-height: 2;
+    font-size: 1.08rem;
+    position: relative;
+    z-index: 2;
+    color: #2d1810;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.5);
+}
+
+.doc-diary .diary-date {
+    font-family: 'Brush Script MT', 'Lucida Handwriting', 'Comic Sans MS', cursive;
+    font-size: 1.4rem;
+    color: #78350f;
+    margin-bottom: 30px;
+    border-bottom: 2px solid rgba(212, 165, 116, 0.4);
+    padding-bottom: 12px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5);
+}
+
+.doc-diary p {
+    text-align: justify;
+    margin-bottom: 20px;
+    color: #292524;
+}
+
+.doc-diary .margin-note {
+    position: absolute;
+    right: 20px;
+    font-size: 0.85rem;
+    font-style: italic;
+    color: #92400e;
+    max-width: 150px;
+    text-align: right;
+}
+
+.doc-diary .crossed-out {
+    text-decoration: line-through;
+    color: #78350f;
+    opacity: 0.7;
+}
+
+.doc-diary .underlined {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #78350f;
+}
+
+.doc-diary .emphasis {
+    font-weight: bold;
+    color: #1c1917;
+}
+
+
+/* --- SOCIAL MEDIA --- */
+.doc-social {
+    background: #ffffff;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+    border-radius: 12px;
+    overflow: hidden;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    max-width: 600px;
+    border: 1px solid #e5e7eb;
+}
+
+.doc-social .post-header {
+    padding: 16px 20px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    border-bottom: 1px solid #e5e7eb;
+    background: #fafafa;
+}
+
+.doc-social .profile-pic {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 1.3rem;
+    box-shadow: 0 2px 8px rgba(102, 126, 234, 0.4);
+    border: 3px solid #ffffff;
+}
+
+.doc-social .post-meta {
+    flex: 1;
+}
+
+.doc-social .username {
+    font-weight: 600;
+    color: #1f2937;
+    font-size: 1rem;
+    margin-bottom: 2px;
+}
+
+.doc-social .timestamp {
+    font-size: 0.85rem;
+    color: #6b7280;
+}
+
+.doc-social .post-content {
+    padding: 20px;
+    line-height: 1.5;
+    color: #1f2937;
+    font-size: 0.95rem;
+}
+
+.doc-social .hashtag {
+    color: #3b82f6;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.doc-social .hashtag:hover {
+    text-decoration: underline;
+}
+
+.doc-social .mention {
+    color: #3b82f6;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.doc-social .mention:hover {
+    text-decoration: underline;
+}
+
+.doc-social .engagement {
+    padding: 14px 20px;
+    border-top: 1px solid #e5e7eb;
+    border-bottom: 1px solid #e5e7eb;
+    display: flex;
+    gap: 25px;
+    font-size: 0.9rem;
+    color: #6b7280;
+    background: #fafafa;
+}
+
+.doc-social .engagement-item {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    font-weight: 500;
+    transition: color 0.2s;
+}
+
+.doc-social .engagement-item .icon {
+    font-size: 1.2rem;
+    filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.1));
+}
+
+.doc-social .comment-section {
+    padding: 15px 20px;
+    background: #f9fafb;
+}
+
+.doc-social .comment {
+    margin-bottom: 12px;
+    font-size: 0.9rem;
+}
+
+.doc-social .comment .comment-author {
+    font-weight: 600;
+    color: #1f2937;
+    margin-right: 6px;
+}
+
+.doc-social .comment .comment-text {
+    color: #4b5563;
+}
+
+.doc-social .platform-badge {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    background: #f3f4f6;
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    color: #6b7280;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+
+/* ============================================================
+   PROVE MATERIALI
+   ============================================================ */
+
+/* --- ESTRATTO CONTO BANCARIO --- */
+.doc-bank {
+    background: #ffffff;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+    border: 2px solid #1e40af;
+    border-top: 6px solid #1e40af;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, Helvetica, sans-serif;
+}
+
+.doc-bank::before {
+    content: "RISERVATO";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-45deg);
+    font-size: 8rem;
+    color: rgba(30, 64, 175, 0.02);
+    font-weight: 900;
+    pointer-events: none;
+    z-index: 1;
+    letter-spacing: 20px;
+}
+
+.doc-bank .bank-header {
+    background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 50%, #3b82f6 100%);
+    color: white;
+    padding: 35px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    box-shadow: 0 4px 12px rgba(30, 64, 175, 0.3), inset 0 -2px 10px rgba(0,0,0,0.2);
+    z-index: 2;
+}
+
+.doc-bank .bank-header::before {
+    content: "🏦";
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    font-size: 2.5rem;
+    opacity: 0.2;
+}
+
+.doc-bank .bank-logo {
+    font-size: 2rem;
+    font-weight: 900;
+    letter-spacing: 3px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    font-family: 'Arial Black', sans-serif;
+}
+
+.doc-bank .statement-period {
+    text-align: right;
+    font-size: 0.95rem;
+    opacity: 0.95;
+    font-weight: 500;
+}
+
+.doc-bank .account-info {
+    background: linear-gradient(to bottom, #f9fafb 0%, #f3f4f6 100%);
+    padding: 25px 30px;
+    border-bottom: 3px solid #e5e7eb;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05);
+    position: relative;
+    z-index: 2;
+}
+
+.doc-bank .account-info-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.doc-bank .info-item {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.doc-bank .info-label {
+    font-size: 0.7rem;
+    color: #6b7280;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+
+.doc-bank .info-value {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: #1f2937;
+    font-family: 'Courier New', monospace;
+    letter-spacing: 0.5px;
+}
+
+.doc-bank .transactions-table {
+    padding: 30px;
+    position: relative;
+    z-index: 2;
+    background: #ffffff;
+}
+
+.doc-bank table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+}
+
+.doc-bank table thead {
+    background: linear-gradient(to bottom, #f8f9fa 0%, #e9ecef 100%);
+    border-bottom: 3px solid #1e40af;
+}
+
+.doc-bank table th {
+    padding: 14px 12px;
+    text-align: left;
+    font-weight: 700;
+    color: #1f2937;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 1px;
+}
+
+.doc-bank table td {
+    padding: 12px;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.doc-bank table tr:nth-child(even) {
+    background: #fafafa;
+}
+
+.doc-bank table tr:nth-child(odd) {
+    background: #ffffff;
+}
+
+.doc-bank .amount {
+    font-family: 'Courier New', monospace;
+    font-weight: 700;
+    text-align: right;
+    font-size: 0.95rem;
+    letter-spacing: 0.5px;
+}
+
+.doc-bank .amount.debit {
+    color: #dc2626;
+}
+
+.doc-bank .amount.debit::before {
+    content: "-";
+    margin-right: 2px;
+}
+
+.doc-bank .amount.credit {
+    color: #059669;
+}
+
+.doc-bank .amount.credit::before {
+    content: "+";
+    margin-right: 2px;
+}
+
+.doc-bank .balance {
+    text-align: right;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+}
+
+.doc-bank .totals-row {
+    background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%) !important;
+    border-top: 4px double #1e40af;
+    font-weight: 900;
+    color: #1e40af;
+    font-size: 1.05rem;
+}
+
+.doc-bank .bank-footer {
+    padding: 20px 30px;
+    background: #f9fafb;
+    border-top: 2px solid #e5e7eb;
+    font-size: 0.75rem;
+    color: #6b7280;
+    text-align: center;
+    line-height: 1.6;
+}
+
+
+/* --- TABULATO TELEFONICO --- */
+.doc-phone {
+    background: #ffffff;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+    border: 3px solid #7c3aed;
+    border-top: 8px solid #7c3aed;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+}
+
+.doc-phone::before {
+    content: "DATI RISERVATI";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-45deg);
+    font-size: 7rem;
+    color: rgba(124, 58, 237, 0.02);
+    font-weight: 900;
+    pointer-events: none;
+    z-index: 1;
+    letter-spacing: 15px;
+}
+
+.doc-phone .phone-header {
+    background: linear-gradient(135deg, #5b21b6 0%, #6d28d9 50%, #7c3aed 100%);
+    color: white;
+    padding: 30px 30px 25px 30px;
+    border-bottom: 8px double #a855f7;
+    position: relative;
+    box-shadow: 0 4px 12px rgba(124, 58, 237, 0.3), inset 0 -2px 10px rgba(0,0,0,0.2);
+    z-index: 2;
+}
+
+.doc-phone .phone-header::before {
+    content: "📞";
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    font-size: 2.5rem;
+    opacity: 0.2;
+}
+
+.doc-phone .phone-header h1 {
+    margin: 0 0 12px 0;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 900;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
+}
+
+.doc-phone .operator-info {
+    font-size: 0.9rem;
+    opacity: 0.9;
+}
+
+.doc-phone .authorization-stamp {
+    background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+    border: 4px double #f59e0b;
+    padding: 25px;
+    margin: 25px 30px;
+    text-align: center;
+    box-shadow: 0 3px 10px rgba(245, 158, 11, 0.2), inset 0 0 0 2px rgba(245, 158, 11, 0.1);
+    position: relative;
+    z-index: 2;
+}
+
+.doc-phone .authorization-stamp::before {
+    content: "⚖";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-15deg);
+    font-size: 8rem;
+    color: rgba(120, 53, 15, 0.03);
+    pointer-events: none;
+}
+
+.doc-phone .authorization-stamp .stamp-title {
+    font-weight: 900;
+    color: #78350f;
+    font-size: 1.1rem;
+    margin-bottom: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    position: relative;
+    z-index: 1;
+}
+
+.doc-phone .authorization-stamp .stamp-details {
+    font-size: 0.85rem;
+    color: #92400e;
+    line-height: 1.6;
+}
+
+.doc-phone .subscriber-info {
+    background: linear-gradient(135deg, #f5f3ff 0%, #ede9fe 100%);
+    padding: 25px 30px;
+    margin: 0 30px 30px 30px;
+    border-left: 6px solid #7c3aed;
+    box-shadow: 0 2px 8px rgba(124, 58, 237, 0.1);
+    position: relative;
+    z-index: 2;
+}
+
+.doc-phone .subscriber-info .info-row {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    margin-bottom: 8px;
+    line-height: 1.6;
+}
+
+.doc-phone .subscriber-info .label {
+    font-weight: 900;
+    color: #5b21b6;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+}
+
+.doc-phone .calls-table {
+    padding: 0 30px 30px 30px;
+    overflow-x: auto;
+    position: relative;
+    z-index: 2;
+}
+
+.doc-phone table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+}
+
+.doc-phone table thead {
+    background: linear-gradient(to bottom, #0f172a 0%, #1e293b 100%);
+    color: white;
+}
+
+.doc-phone table th {
+    padding: 12px 10px;
+    text-align: left;
+    font-weight: 900;
+    border-right: 1px solid #475569;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 1px;
+}
+
+.doc-phone table td {
+    padding: 8px;
+    border-bottom: 1px solid #e2e8f0;
+    border-right: 1px solid #f1f5f9;
+}
+
+.doc-phone table tr:hover {
+    background: #fef3c7;
+}
+
+.doc-phone .highlighted-call {
+    background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%) !important;
+    font-weight: 700;
+    border-left: 4px solid #f59e0b;
+}
+
+.doc-phone .duration {
+    text-align: center;
+    font-family: 'Courier New', monospace;
+}
+
+.doc-phone .cell-tower {
+    font-size: 0.8rem;
+    color: #64748b;
+}
+
+.doc-phone .gdpr-footer {
+    background: #f1f5f9;
+    padding: 15px 30px;
+    border-top: 2px solid #cbd5e1;
+    font-size: 0.7rem;
+    color: #475569;
+    text-align: center;
+    line-height: 1.6;
+}
+
+
+/* --- ARTICOLO STAMPA --- */
+.doc-newspaper {
+    background: #fafaf9;
+    background-image:
+        repeating-linear-gradient(0deg, transparent, transparent 1px, rgba(0,0,0,0.015) 1px, rgba(0,0,0,0.015) 2px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    border: 2px solid #d6d3d1;
+    font-family: 'Times New Roman', Times, Georgia, serif;
+    position: relative;
+}
+
+.doc-newspaper::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image:
+        repeating-linear-gradient(90deg, transparent, transparent 2px, rgba(28, 25, 23, 0.01) 2px, rgba(28, 25, 23, 0.01) 4px);
+    pointer-events: none;
+}
+
+.doc-newspaper .masthead {
+    background: linear-gradient(to bottom, #0c0a09 0%, #1c1917 50%, #292524 100%);
+    color: white;
+    text-align: center;
+    padding: 35px 20px 25px 20px;
+    border-bottom: 8px solid #dc2626;
+    box-shadow: inset 0 -3px 10px rgba(0,0,0,0.5);
+    position: relative;
+    z-index: 2;
+}
+
+.doc-newspaper .newspaper-name {
+    font-size: 2.8rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    font-family: 'Georgia', 'Times New Roman', serif;
+    margin-bottom: 12px;
+    text-shadow: 3px 3px 6px rgba(0,0,0,0.5);
+    font-variant: small-caps;
+}
+
+.doc-newspaper .newspaper-tagline {
+    font-size: 0.9rem;
+    font-style: italic;
+    opacity: 0.9;
+    letter-spacing: 1px;
+}
+
+.doc-newspaper .article-meta {
+    background: linear-gradient(to bottom, #f5f5f4 0%, #e7e5e4 100%);
+    padding: 18px 40px;
+    border-bottom: 2px solid #d6d3d1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05);
+    position: relative;
+    z-index: 2;
+}
+
+.doc-newspaper .section-badge {
+    background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%);
+    color: white;
+    padding: 6px 16px;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    box-shadow: 0 2px 6px rgba(220, 38, 38, 0.4);
+    border: 1px solid #7f1d1d;
+}
+
+.doc-newspaper .article-date {
+    font-size: 0.9rem;
+    color: #57534e;
+    font-weight: 600;
+}
+
+.doc-newspaper .article-content {
+    padding: 45px;
+    position: relative;
+    z-index: 2;
+}
+
+.doc-newspaper .article-headline {
+    font-size: 2.4rem;
+    font-weight: 900;
+    line-height: 1.15;
+    margin-bottom: 18px;
+    color: #1c1917;
+    border-bottom: 4px solid #1c1917;
+    padding-bottom: 18px;
+    font-family: 'Georgia', 'Times New Roman', serif;
+    letter-spacing: -0.02em;
+}
+
+.doc-newspaper .byline {
+    font-size: 0.95rem;
+    color: #57534e;
+    margin-bottom: 30px;
+    font-style: italic;
+}
+
+.doc-newspaper .byline::before {
+    content: "di ";
+    font-weight: normal;
+}
+
+.doc-newspaper .article-text {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.doc-newspaper .article-text p {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    text-align: justify;
+    margin-bottom: 20px;
+    color: #292524;
+}
+
+.doc-newspaper .article-text .lead-paragraph {
+    font-size: 1.15rem;
+    font-weight: 500;
+    margin-bottom: 25px;
+}
+
+.doc-newspaper .pull-quote {
+    border-left: 6px solid #dc2626;
+    border-right: 6px solid #dc2626;
+    padding: 25px 35px;
+    margin: 35px 0;
+    background: linear-gradient(to right, #fafaf9 0%, #f5f5f4 50%, #fafaf9 100%);
+    font-size: 1.4rem;
+    font-style: italic;
+    text-align: center;
+    color: #1c1917;
+    font-weight: 600;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+.doc-newspaper .pull-quote::before {
+    content: "“";
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    font-size: 3rem;
+    color: #dc2626;
+    opacity: 0.3;
+    font-family: Georgia, serif;
+}
+
+.doc-newspaper .pull-quote::after {
+    content: "”";
+    position: absolute;
+    bottom: 10px;
+    right: 15px;
+    font-size: 3rem;
+    color: #dc2626;
+    opacity: 0.3;
+    font-family: Georgia, serif;
+}
+
+.doc-newspaper .photo-caption {
+    text-align: center;
+    margin: 25px 0;
+}
+
+.doc-newspaper .photo-caption .caption-text {
+    font-size: 0.85rem;
+    color: #57534e;
+    font-style: italic;
+    margin-top: 10px;
+}
+
+
+/* --- FOTOGRAFIA --- */
+.doc-photo {
+    background: linear-gradient(135deg, #1f2937 0%, #111827 50%, #1f2937 100%);
+    padding: 50px;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.4);
+    position: relative;
+}
+
+.doc-photo::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image:
+        repeating-linear-gradient(45deg, transparent, transparent 10px, rgba(0,0,0,0.1) 10px, rgba(0,0,0,0.1) 20px);
+    pointer-events: none;
+}
+
+.doc-photo .photo-frame {
+    background: #ffffff;
+    padding: 25px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4), inset 0 0 10px rgba(0, 0, 0, 0.1);
+    border: 2px solid #e5e7eb;
+    position: relative;
+}
+
+.doc-photo .photo-inner {
+    border: 10px solid #374151;
+    background: #0f1419;
+    padding: 18px;
+    box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+.doc-photo .photo-image {
+    width: 100%;
+    background: #6b7280;
+    min-height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #9ca3af;
+    font-size: 3rem;
+    border: 2px solid #4b5563;
+}
+
+.doc-photo .photo-caption {
+    background: #ffffff;
+    padding: 20px;
+    margin-top: -5px;
+    text-align: center;
+}
+
+.doc-photo .photo-caption .caption-text {
+    font-size: 1.1rem;
+    font-style: italic;
+    color: #1f2937;
+    margin-bottom: 15px;
+    font-family: Georgia, serif;
+}
+
+.doc-photo .photo-metadata {
+    background: linear-gradient(to bottom, #f9fafb 0%, #f3f4f6 100%);
+    padding: 18px 25px;
+    margin-top: 10px;
+    border-top: 3px solid #d1d5db;
+    font-size: 0.75rem;
+    color: #6b7280;
+    font-family: 'Courier New', monospace;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.doc-photo .metadata-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+
+.doc-photo .metadata-item {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.doc-photo .metadata-label {
+    font-weight: bold;
+    color: #9ca3af;
+    text-transform: uppercase;
+    font-size: 0.7rem;
+    letter-spacing: 0.5px;
+}
+
+.doc-photo .metadata-value {
+    color: #374151;
+}
+
+.doc-photo .evidence-tag {
+    position: absolute;
+    top: 70px;
+    right: 70px;
+    background: linear-gradient(135deg, #fbbf24 0%, #f59e0b 100%);
+    color: #1f2937;
+    padding: 12px 25px;
+    font-weight: 900;
+    font-size: 1.1rem;
+    transform: rotate(6deg);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.4), inset 0 -2px 5px rgba(0, 0, 0, 0.2);
+    border: 3px solid #ffffff;
+    z-index: 10;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Arial Black', sans-serif;
+}
+
+.doc-photo .evidence-tag::before {
+    content: "🔒";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-6deg);
+    font-size: 4rem;
+    opacity: 0.1;
+}
+
+
+/* ============================================================
+   SPOILER & PROTEZIONE
+   ============================================================ */
+
+.spoiler-locked {
+    position: relative;
+    overflow: hidden;
+}
+
+.spoiler-locked::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(20px);
+    z-index: 100;
+}
+
+.spoiler-locked::after {
+    content: "🔒 CONTENUTO PROTETTO";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2rem;
+    font-weight: bold;
+    color: #dc2626;
+    text-align: center;
+    z-index: 101;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.spoiler-warning {
+    background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    margin: 20px 0;
+    box-shadow: 0 4px 12px rgba(220, 38, 38, 0.3);
+    border: 3px solid #7f1d1d;
+}
+
+.spoiler-warning .warning-icon {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.spoiler-warning .warning-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.spoiler-warning .warning-text {
+    font-size: 1rem;
+    line-height: 1.6;
+    opacity: 0.95;
+}
+
+
+/* ============================================================
+   MATERIALE DEL CASO (BRIEFING)
+   ============================================================ */
+
+/* --- README / INCIPIT --- */
+.doc-readme {
+    background: linear-gradient(to bottom, #f9fafb 0%, #f3f4f6 100%);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+    position: relative;
+    padding: 50px 60px;
+    border: 3px solid #4b5563;
+    border-radius: 8px;
+    font-family: 'Georgia', serif;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+.doc-readme::before {
+    content: "📖 INCIPIT DEL CASO";
+    position: absolute;
+    top: 15px;
+    left: 30px;
+    background: linear-gradient(135deg, #6366f1, #4f46e5);
+    color: white;
+    padding: 8px 20px;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    box-shadow: 0 2px 8px rgba(99, 102, 241, 0.3);
+}
+
+.doc-readme h1 {
+    color: #1f2937;
+    font-size: 2.5rem;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-bottom: 3px solid #4b5563;
+    padding-bottom: 10px;
+}
+
+.doc-readme h2 {
+    color: #374151;
+    margin-top: 30px;
+    font-size: 1.8rem;
+}
+
+.doc-readme p {
+    line-height: 1.9;
+    color: #1f2937;
+    margin: 15px 0;
+    text-align: justify;
+    font-size: 1.1rem;
+}
+
+/* --- ALBERO DECISIONALE --- */
+.doc-decision-tree {
+    background: #fffbeb;
+    box-shadow: 0 8px 30px rgba(245, 158, 11, 0.2);
+    position: relative;
+    padding: 50px 60px;
+    border: 3px solid #f59e0b;
+    border-left: 10px solid #f59e0b;
+    font-family: 'Courier New', monospace;
+}
+
+.doc-decision-tree::before {
+    content: "🌳 ALBERO DECISIONALE";
+    position: absolute;
+    top: 15px;
+    left: 30px;
+    background: linear-gradient(135deg, #f59e0b, #d97706);
+    color: white;
+    padding: 8px 20px;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.doc-decision-tree h1 {
+    color: #92400e;
+    font-size: 2.2rem;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.doc-decision-tree h2 {
+    color: #b45309;
+    margin-top: 25px;
+    font-size: 1.6rem;
+}
+
+.doc-decision-tree ul {
+    border-left: 3px solid #fbbf24;
+    padding-left: 30px;
+    margin: 15px 0;
+}
+
+.doc-decision-tree li {
+    margin: 10px 0;
+    color: #78350f;
+    line-height: 1.7;
+}
+
+/* --- DOCUMENTO MASTER --- */
+.doc-master-doc {
+    background: #fef2f2;
+    box-shadow: 0 8px 30px rgba(220, 38, 38, 0.2);
+    position: relative;
+    padding: 50px 60px;
+    border: 4px solid #dc2626;
+    border-top: 15px solid #7f1d1d;
+    font-family: 'Arial', sans-serif;
+}
+
+.doc-master-doc::before {
+    content: "🔒 DOCUMENTO MASTER - RISERVATO";
+    position: absolute;
+    top: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #7f1d1d;
+    color: white;
+    padding: 8px 25px;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    box-shadow: 0 4px 12px rgba(127, 29, 29, 0.4);
+}
+
+.doc-master-doc h1 {
+    color: #7f1d1d;
+    font-size: 2.3rem;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    border-bottom: 4px solid #dc2626;
+    padding-bottom: 10px;
+}
+
+.doc-master-doc h2 {
+    color: #991b1b;
+    margin-top: 30px;
+    font-size: 1.7rem;
+    background: rgba(220, 38, 38, 0.1);
+    padding: 10px 15px;
+    border-left: 5px solid #dc2626;
+}
+
+.doc-master-doc h3 {
+    color: #b91c1c;
+    margin-top: 20px;
+    font-size: 1.4rem;
+}
+
+.doc-master-doc p {
+    line-height: 1.8;
+    color: #450a0a;
+    margin: 12px 0;
+}
+
+.doc-master-doc strong {
+    color: #7f1d1d;
+    font-weight: 700;
+}
+
+/* --- ISTRUZIONI GIOCATORI --- */
+.doc-instructions {
+    background: #f0f9ff;
+    box-shadow: 0 8px 30px rgba(2, 132, 199, 0.15);
+    position: relative;
+    padding: 50px 60px;
+    border: 3px solid #0284c7;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+
+.doc-instructions::before {
+    content: "ℹ️ ISTRUZIONI PER I GIOCATORI";
+    position: absolute;
+    top: 15px;
+    right: 30px;
+    background: linear-gradient(135deg, #0284c7, #0369a1);
+    color: white;
+    padding: 8px 20px;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.doc-instructions h1 {
+    color: #0c4a6e;
+    font-size: 2.4rem;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-bottom: 3px solid #0284c7;
+    padding-bottom: 10px;
+}
+
+.doc-instructions h2 {
+    color: #075985;
+    margin-top: 25px;
+    font-size: 1.8rem;
+    background: rgba(2, 132, 199, 0.1);
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.doc-instructions h3 {
+    color: #0369a1;
+    margin-top: 20px;
+    font-size: 1.4rem;
+}
+
+.doc-instructions ul, .doc-instructions ol {
+    margin: 15px 0;
+    padding-left: 30px;
+}
+
+.doc-instructions li {
+    margin: 8px 0;
+    line-height: 1.7;
+    color: #0c4a6e;
+}
+
+.doc-instructions p {
+    line-height: 1.8;
+    color: #0c4a6e;
+    margin: 12px 0;
+}
+
+.doc-instructions strong {
+    color: #075985;
+    font-weight: 700;
+}
+
+/* --- SCRIPT NARRAZIONE FINALE --- */
+.doc-narration {
+    background: linear-gradient(to bottom, #faf5ff 0%, #f3e8ff 100%);
+    box-shadow: 0 8px 30px rgba(147, 51, 234, 0.2);
+    position: relative;
+    padding: 50px 60px;
+    border: 3px solid #9333ea;
+    border-left: 10px solid #7e22ce;
+    font-family: 'Georgia', serif;
+    font-style: italic;
+}
+
+.doc-narration::before {
+    content: "🎬 SCRIPT NARRAZIONE FINALE";
+    position: absolute;
+    top: 15px;
+    left: 30px;
+    background: linear-gradient(135deg, #9333ea, #7e22ce);
+    color: white;
+    padding: 8px 20px;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-style: normal;
+}
+
+.doc-narration h1 {
+    color: #581c87;
+    font-size: 2.5rem;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    border-bottom: 3px solid #9333ea;
+    padding-bottom: 15px;
+}
+
+.doc-narration h2 {
+    color: #6b21a8;
+    margin-top: 30px;
+    font-size: 1.9rem;
+    font-style: normal;
+    background: rgba(147, 51, 234, 0.1);
+    padding: 12px 20px;
+    border-radius: 8px;
+}
+
+.doc-narration h3 {
+    color: #7e22ce;
+    margin-top: 20px;
+    font-size: 1.5rem;
+    font-style: normal;
+}
+
+.doc-narration p {
+    line-height: 2;
+    color: #3b0764;
+    margin: 15px 0;
+    text-align: justify;
+    font-size: 1.1rem;
+}
+
+.doc-narration blockquote {
+    border-left: 5px solid #9333ea;
+    padding-left: 20px;
+    margin: 20px 0;
+    font-size: 1.2rem;
+    color: #581c87;
+    background: rgba(147, 51, 234, 0.05);
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+
+.doc-narration strong {
+    color: #581c87;
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* Category: briefing - General styling */
+.category-briefing {
+    border-color: #6366f1;
+}
+
+.category-briefing .section-header {
+    background: linear-gradient(135deg, #eef2ff, #e0e7ff);
+    border-left: 5px solid #6366f1;
+}
+
+
+/* ============================================================
+   ANIMAZIONI
+   ============================================================ */
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInMessage {
+    from {
+        opacity: 0;
+        transform: scale(0.95);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+@keyframes pageTurn {
+    0% {
+        transform: perspective(2000px) rotateY(-90deg);
+        opacity: 0;
+    }
+    100% {
+        transform: perspective(2000px) rotateY(0deg);
+        opacity: 1;
+    }
+}
+
+@keyframes unfold {
+    0% {
+        transform: scaleY(0);
+        transform-origin: top;
+    }
+    100% {
+        transform: scaleY(1);
+        transform-origin: top;
+    }
+}
+
+.fade-in {
+    animation: fadeIn 0.6s ease forwards;
+}
+
+.page-turn {
+    animation: pageTurn 0.8s ease forwards;
+}
+
+.unfold {
+    animation: unfold 0.5s ease forwards;
+}
+
+
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+
+@media (max-width: 768px) {
+    .document-viewer {
+        padding: 20px 10px;
+    }
+
+    .doc-police .doc-content,
+    .doc-medical .doc-content,
+    .doc-forensic .doc-content,
+    .doc-legal .doc-content {
+        padding: 20px;
+    }
+
+    .doc-chat {
+        max-width: 100%;
+    }
+
+    .doc-forensic .data-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .doc-bank .account-info-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .doc-legal .signature-box {
+        grid-template-columns: 1fr;
+    }
+
+    .doc-newspaper .article-headline {
+        font-size: 1.6rem;
+    }
+
+    .doc-photo {
+        padding: 20px;
+    }
+
+    .doc-photo .metadata-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+
+/* ============================================================
+   PRINT STYLES - OTTIMIZZATO PER A4
+   ============================================================ */
+
+@media print {
+    /* Impostazioni pagina A4 */
+    @page {
+        size: A4 portrait;
+        margin: 15mm 12mm;
+    }
+    
+    /* Preserva i colori per elementi realistici */
+    * {
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+    }
+
+    /* Reset base */
+    body {
+        background: white !important;
+    }
+
+    /* Rimuovi watermark completamente dalla stampa */
+    .document-watermark {
+        display: none !important;
+    }
+
+    /* ============================================================
+       DOCUMENTI UFFICIALI - OTTIMIZZAZIONE STAMPA
+       ============================================================ */
+
+    /* Rapporto Polizia */
+    .doc-police {
+        border: 2px solid #1a365d !important;
+        border-top: 6px solid #1a365d !important;
+        box-shadow: none !important;
+        page-break-inside: avoid;
+        background: white !important;
+    }
+
+    .doc-police::before {
+        opacity: 0.3 !important;
+    }
+
+    .doc-police::after {
+        font-size: 4rem !important;
+        opacity: 0.015 !important;
+    }
+
+    .doc-police .doc-header {
+        background: #1a365d !important;
+        border-bottom: 4px double #fbbf24 !important;
+        box-shadow: none !important;
+        page-break-after: avoid;
+    }
+
+    .doc-police .confidential-box {
+        border: 3px double #dc2626 !important;
+        box-shadow: none !important;
+        background: white !important;
+    }
+
+    /* Referto Medico */
+    .doc-medical {
+        border: 2px solid #065f46 !important;
+        border-top: 6px solid #065f46 !important;
+        box-shadow: none !important;
+        page-break-inside: avoid;
+        background: white !important;
+    }
+
+    .doc-medical::before {
+        opacity: 0.2 !important;
+    }
+
+    .doc-medical .doc-header {
+        background: #065f46 !important;
+        border-bottom: 4px solid #10b981 !important;
+        box-shadow: none !important;
+    }
+
+    /* Analisi Forense */
+    .doc-forensic {
+        border: 2px solid #7c2d12 !important;
+        border-top: 6px solid #7c2d12 !important;
+        box-shadow: none !important;
+        page-break-inside: avoid;
+        background: white !important;
+    }
+
+    .doc-forensic::before {
+        opacity: 0.2 !important;
+    }
+
+    .doc-forensic .doc-header {
+        background: #7c2d12 !important;
+        box-shadow: none !important;
+    }
+
+    /* Documento Legale */
+    .doc-legal {
+        border: 3px solid #78350f !important;
+        box-shadow: none !important;
+        page-break-inside: avoid;
+        background: white !important;
+    }
+
+    .doc-legal::before {
+        opacity: 0.15 !important;
+    }
+
+    .doc-legal .doc-header {
+        border-bottom: 3px double #78350f !important;
+    }
+
+    /* Articolo Giornale */
+    .doc-newspaper {
+        border: 2px solid #333 !important;
+        box-shadow: none !important;
+        page-break-inside: avoid;
+        background: #fefdfb !important;
+    }
+
+    .doc-newspaper::before {
+        opacity: 0.5 !important;
+    }
+
+    .doc-newspaper .masthead {
+        border-bottom: 4px solid #000 !important;
+    }
+
+    /* Email */
+    .doc-email {
+        border: 1px solid #e5e7eb !important;
+        box-shadow: none !important;
+        page-break-inside: avoid;
+        background: white !important;
+    }
+
+    .doc-email::before {
+        display: none;
+    }
+
+    /* Messaggio Chat */
+    .doc-chat {
+        border: 1px solid #e5e7eb !important;
+        box-shadow: none !important;
+        page-break-inside: avoid;
+        background: white !important;
+    }
+
+    .doc-chat .message {
+        box-shadow: none !important;
+        border: 1px solid #ddd !important;
+        page-break-inside: avoid;
+    }
+
+    /* Nota Scritta a Mano */
+    .doc-handwritten {
+        box-shadow: none !important;
+        page-break-inside: avoid;
+        background: #fffef8 !important;
+    }
+
+    .doc-handwritten::before {
+        opacity: 0.4 !important;
+    }
+
+    /* Estratto Conto Bancario */
+    .doc-bank {
+        border: 2px solid #1e40af !important;
+        box-shadow: none !important;
+        page-break-inside: avoid;
+        background: white !important;
+    }
+
+    .doc-bank::before {
+        opacity: 0.2 !important;
+    }
+
+    .doc-bank .bank-header {
+        background: #1e40af !important;
+    }
+
+    /* Fotografia */
+    .doc-photo {
+        border: 1px solid #333 !important;
+        box-shadow: none !important;
+        page-break-inside: avoid;
+        background: white !important;
+    }
+
+    .doc-photo .photo-frame {
+        box-shadow: inset 0 0 10px rgba(0,0,0,0.2) !important;
+    }
+
+    /* Invoice */
+    .doc-invoice {
+        border: 2px solid #854d0e !important;
+        box-shadow: none !important;
+        page-break-inside: avoid;
+        background: white !important;
+    }
+
+    .doc-invoice::before {
+        opacity: 0.15 !important;
+    }
+
+    /* Certificato */
+    .doc-certificate {
+        border: 6px double #78350f !important;
+        box-shadow: none !important;
+        page-break-inside: avoid;
+        background: #fffef5 !important;
+    }
+
+    .doc-certificate::before {
+        opacity: 0.5 !important;
+    }
+
+    /* Diario */
+    .doc-diary {
+        box-shadow: none !important;
+        page-break-inside: avoid;
+        background: #fefdfb !important;
+    }
+
+    .doc-diary::before {
+        opacity: 0.6 !important;
+    }
+
+    /* ============================================================
+       OTTIMIZZAZIONI GENERALI
+       ============================================================ */
+
+    /* Gestione interruzioni di pagina */
+    .doc-content,
+    .doc-body,
+    .content-section {
+        page-break-inside: auto;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        page-break-after: avoid;
+        page-break-inside: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+
+    /* Tabelle e griglie */
+    table, .data-grid, .transaction-table {
+        page-break-inside: avoid;
+    }
+
+    tr, .grid-row {
+        page-break-inside: avoid;
+    }
+
+    /* Firme e timbri - mantieni per realismo */
+    .document-signature,
+    .document-stamp,
+    .confidential-box,
+    .stamp-box {
+        page-break-inside: avoid;
+    }
+
+    /* Footer documenti */
+    .document-footer {
+        background: transparent !important;
+        box-shadow: none !important;
+        page-break-inside: avoid;
+    }
+
+    /* Rimuovi ombre eccessive */
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    /* Mantieni solo ombre leggere per bordi realistici */
+    .doc-police .doc-header,
+    .doc-medical .doc-header,
+    .doc-forensic .doc-header,
+    .doc-bank .bank-header {
+        text-shadow: 1px 1px 2px rgba(0,0,0,0.3) !important;
+    }
+
+    /* Ottimizza dimensioni font per stampa */
+    body {
+        font-size: 10pt !important;
+        line-height: 1.4 !important;
+    }
+
+    h1 { font-size: 16pt !important; }
+    h2 { font-size: 14pt !important; }
+    h3 { font-size: 12pt !important; }
+    h4 { font-size: 11pt !important; }
+
+    /* Link - mostra URL solo se necessario */
+    a {
+        text-decoration: underline;
+        color: inherit;
+    }
+
+    /* Evita spazi bianchi eccessivi */
+    img {
+        max-width: 100% !important;
+        page-break-inside: avoid;
+    }
+
+    /* Mantieni colori per elementi importanti (timbri, intestazioni) */
+    .doc-police .doc-header,
+    .doc-medical .doc-header,
+    .doc-forensic .doc-header,
+    .doc-legal .doc-header,
+    .doc-bank .bank-header,
+    .document-stamp,
+    .confidential-box,
+    .urgent-box {
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+    }
+
+    /* ============================================================
+       STAMPA MULTIPLA DOCUMENTI
+       ============================================================ */
+    
+    /* Interruzione di pagina tra documenti */
+    .print-document-item {
+        page-break-after: always !important;
+        page-break-inside: avoid !important;
+        margin-bottom: 0 !important;
+    }
+    
+    /* L'ultimo documento non ha interruzione di pagina */
+    .print-document-item:last-child {
+        page-break-after: auto !important;
+    }
+    
+    /* Container per la stampa multipla */
+    .print-container {
+        display: block !important;
+    }
+    
+    /* Nascondi tutto il resto durante la stampa */
+    body.printing-mode > *:not(.print-container) {
+        display: none !important;
+    }
+    
+    body.printing-mode .print-container {
+        display: block !important;
+    }
+}

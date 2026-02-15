@@ -1,14 +1,14 @@
-<!-- SPOILER: Soluzione del caso - Non aprire prima di aver tentato di risolvere! -->
+﻿<!-- SPOILER: Soluzione del caso - Non aprire prima di aver tentato di risolvere! -->
 
-# 📋 Documento Master - Soluzione Investigativa Completa
+# ðŸ“‹ Documento Master - Soluzione Investigativa Completa
 
-> **🔴 QUESTO DOCUMENTO RIVELA TUTTA LA VERITÀ**  
+> **ðŸ”´ QUESTO DOCUMENTO RIVELA TUTTA LA VERITÃ€**  
 > Procedi solo se hai completato l'investigazione o sei irrimediabilmente bloccato.
 
 ---
 
 > **ATTENZIONE: DOCUMENTO RISERVATO**
-> Questo documento contiene la soluzione completa del caso, inclusa l'identita del colpevole, il movente, il metodo e la catena probatoria. È destinato esclusivamente alla preparazione e alla verifica. NON deve essere letto dai giocatori prima della risoluzione.
+> Questo documento contiene la soluzione completa del caso, inclusa l'identita del colpevole, il movente, il metodo e la catena probatoria. Ãˆ destinato esclusivamente alla preparazione e alla verifica. NON deve essere letto dai giocatori prima della risoluzione.
 
 ---
 
@@ -17,15 +17,15 @@
 | Campo | Dettaglio |
 |-------|-----------|
 | **Titolo** | [Titolo del caso] |
-| **Ambientazione** | [Luogo specifico - città, edificio, contesto dettagliato] |
+| **Ambientazione** | [Luogo specifico - cittÃ , edificio, contesto dettagliato] |
 | **Data degli eventi** | [Data specifica es. Sabato 8 marzo 2025] |
 | **Scoperta del crimine** | [Data e ora specifica es. Sabato 8 marzo 2025, ore 22:08] |
 | **Tipo di crimine** | [Es. Omicidio premeditato / Morte sospetta / Omicidio passionale] |
 | **Arma/Metodo del delitto** | [Descrizione specifica es. Veleno, arma da fuoco, etc.] |
 | **Ora stimata della morte** | [Ora precisa o range temporale] |
-| **Contesto** | [Descrizione dell'evento o situazione in cui si è verificato il crimine] |
+| **Contesto** | [Descrizione dell'evento o situazione in cui si Ã¨ verificato il crimine] |
 | **Durata gioco** | [X-Y] ore |
-| **Difficoltà** | [Facile / Media / Medio-alta / Alta] |
+| **DifficoltÃ ** | [Facile / Media / Medio-alta / Alta] |
 | **Anno ambientazione** | [Anno] |
 | **Numero giocatori** | [N-M] |
 
@@ -33,13 +33,13 @@
 
 ## 2. Profilo della Vittima
 
-### [Nome Completo] ([Età] anni)
+### [Nome Completo] ([EtÃ ] anni)
 
 **Dati personali:**
-- Nato/a a [Città] il [Data]
+- Nato/a a [CittÃ ] il [Data]
 - Residente a [Indirizzo completo]
 - Stato civile: [Coniugato/Divorziato/Single/Vedovo]
-- Figli: [Nomi ed età]
+- Figli: [Nomi ed etÃ ]
 - Altri familiari rilevanti: [Descrizione]
 
 **Carriera professionale:**
@@ -49,7 +49,7 @@
 - [Potere, influenza, reputazione nel settore]
 - [Dettagli rilevanti che possono motivare il crimine]
 
-**Personalità:**
+**PersonalitÃ :**
 - [Tratti caratteriali dominanti]
 - [Come era percepito dagli altri]
 - [Pregi e difetti]
@@ -57,7 +57,7 @@
 - [Segreti, vizi, abitudini particolari]
 
 **Motivo della presenza nel luogo del crimine:**
-- [Perché si trovava lì]
+- [PerchÃ© si trovava lÃ¬]
 - [Chi l'aveva invitato/organizzato l'evento]
 - [Altre persone presenti]
 - [Contesto dell'incontro/evento]
@@ -86,11 +86,11 @@
 **Prima ricostruzione:**
 - [Cosa sembrava essere successo a prima vista]
 - [Ipotesi iniziali delle forze dell'ordine]
-- [Perché sembrava/non sembrava un incidente]
+- [PerchÃ© sembrava/non sembrava un incidente]
 
 **Primo intervento:**
-- [Chi è intervenuto per primo]
-- [Cosa è stato fatto (soccorsi, chiamata polizia)]
+- [Chi Ã¨ intervenuto per primo]
+- [Cosa Ã¨ stato fatto (soccorsi, chiamata polizia)]
 - [Orario arrivo primo soccorso]
 - [Orario accertamento morte]
 
@@ -100,14 +100,14 @@
 
 ---
 
-### Sospettato 1: [Nome Completo] ([Età] anni)
+### Sospettato 1: [Nome Completo] ([EtÃ ] anni)
 
 **Ruolo:** [Occupazione/Posizione nel contesto del caso]
 
 **Biografia:**
-- Nato/a a [Città], [Background formativo]
+- Nato/a a [CittÃ ], [Background formativo]
 - [Storia professionale e vita personale rilevante]
-- [Tratti caratteriali, reputazione, personalità]
+- [Tratti caratteriali, reputazione, personalitÃ ]
 - [Dettagli che lo/la collegano al caso]
 
 **Relazione con la vittima:**
@@ -120,7 +120,7 @@
 - [Primo livello: cosa sembra essere il movente]
 - [Evidenze che supportano questo movente]
 - [Come i giocatori potrebbero identificarlo]
-- [Perché sembra un sospetto credibile]
+- [PerchÃ© sembra un sospetto credibile]
 
 **Alibi dichiarato:**
 - [Dove dice di essere stato durante il crimine]
@@ -130,22 +130,22 @@
 
 **Cosa nasconde:**
 - [Segreti o bugie non direttamente correlate al crimine]
-- [Motivi per cui non dice tutta la verità]
-- [Come questo può confondere i giocatori]
+- [Motivi per cui non dice tutta la veritÃ ]
+- [Come questo puÃ² confondere i giocatori]
 
-**Alibi reale / Verità:**
+**Alibi reale / VeritÃ :**
 - [Dove era effettivamente]
 - [Cosa ha fatto veramente]
 - [Prove concrete che confermano o smentiscono l'alibi]
 
 **Ruolo reale nel caso: [COLPEVOLE / INNOCENTE / COMPLICE]**
 - [Se colpevole: Come ha commesso il crimine, dettagli completi del metodo]
-- [Se innocente: Perché è credibile come sospetto ma è innocente]
-- [Funzione narrativa: Perché questo personaggio esiste nel caso]
+- [Se innocente: PerchÃ© Ã¨ credibile come sospetto ma Ã¨ innocente]
+- [Funzione narrativa: PerchÃ© questo personaggio esiste nel caso]
 
 ---
 
-### Sospettato 2: [Nome Completo] ([Età] anni)
+### Sospettato 2: [Nome Completo] ([EtÃ ] anni)
 
 **Ruolo:** [Occupazione/Posizione nel contesto del caso]
 
@@ -169,8 +169,8 @@
 - [Segreti non direttamente legati al crimine]
 - [Bugie per proteggere altri o se stesso/a]
 
-**Alibi reale / Verità:**
-- [Verità su dove era e cosa faceva]
+**Alibi reale / VeritÃ :**
+- [VeritÃ  su dove era e cosa faceva]
 - [Prove definitive]
 
 **Ruolo reale nel caso: [COLPEVOLE / INNOCENTE / COMPLICE]**
@@ -179,25 +179,25 @@
 
 ---
 
-### Sospettato 3: [Nome Completo] ([Età] anni)
+### Sospettato 3: [Nome Completo] ([EtÃ ] anni)
 
 [Ripetere la stessa struttura dettagliata]
 
 ---
 
-### Sospettato 4: [Nome Completo] ([Età] anni)
+### Sospettato 4: [Nome Completo] ([EtÃ ] anni)
 
 [Ripetere la stessa struttura dettagliata]
 
 ---
 
-### Sospettato 5: [Nome Completo] ([Età] anni)
+### Sospettato 5: [Nome Completo] ([EtÃ ] anni)
 
 [Ripetere la stessa struttura dettagliata]
 
 ---
 
-### Sospettato 6: [Nome Completo] ([Età] anni)
+### Sospettato 6: [Nome Completo] ([EtÃ ] anni)
 
 [Ripetere la stessa struttura dettagliata]
 
@@ -215,13 +215,13 @@
 
 **Nome:** [Nome completo del colpevole]
 
-**Sintesi:** [Breve paragrafo che riassume perché è il colpevole]
+**Sintesi:** [Breve paragrafo che riassume perchÃ© Ã¨ il colpevole]
 
 ---
 
 ### 5.2 - Il Movente Reale
 
-**Categoria:** [Finanziario / Vendetta / Passionale / Autodifesa / Eredità / etc.]
+**Categoria:** [Finanziario / Vendetta / Passionale / Autodifesa / EreditÃ  / etc.]
 
 **Descrizione completa:**
 
@@ -229,10 +229,10 @@
 
 [Paragrafo 2: Quali eventi hanno portato a questa situazione]
 
-[Paragrafo 3: Perché non c'erano alternative dal punto di vista del colpevole]
+[Paragrafo 3: PerchÃ© non c'erano alternative dal punto di vista del colpevole]
 
 **Elementi chiave del movente:**
-1. [Primo elemento es. Debito di €X che andava restituito entro Y]
+1. [Primo elemento es. Debito di â‚¬X che andava restituito entro Y]
 2. [Secondo elemento es. Minaccia di distruzione professionale]
 3. [Terzo elemento es. Umiliazione personale o vendetta]
 
@@ -245,7 +245,7 @@
 
 ### 5.3 - Il Metodo del Crimine
 
-**Come è stato commesso** (ricostruzione cronologica dettagliata):
+**Come Ã¨ stato commesso** (ricostruzione cronologica dettagliata):
 
 **Preparazione (giorni/settimane prima):**
 1. [Passo 1 della preparazione con data/periodo]
@@ -272,7 +272,7 @@
 **Momento dell'atto criminale:**
 - **Ora esatta:** [HH:MM]
 - **Luogo preciso:** [Descrizione]
-- **Metodo tecnico:** [Descrizione dettagliata di COME è stato fatto fisicamente]
+- **Metodo tecnico:** [Descrizione dettagliata di COME Ã¨ stato fatto fisicamente]
 - **Copertura/Alibi durante l'atto:** [Come ha mascherato l'azione]
 - **Tempo necessario:** [Durata dell'azione criminale]
 
@@ -322,7 +322,7 @@ Prove sottili che richiedono attenzione ai dettagli:
 1. **[Nome indizio]**
    - Descrizione: [Dettaglio nascosto]
    - Trovabile in: `[nome-file.md]` - [Dove esattamente]
-   - Perché è nascosto: [Come i giocatori potrebbero perderlo]
+   - PerchÃ© Ã¨ nascosto: [Come i giocatori potrebbero perderlo]
    - Importanza: [Conferma/Contraddice quale elemento]
 
 [Continuare per tutti gli indizi nascosti]
@@ -332,7 +332,7 @@ False piste intenzionali:
 
 1. **[Nome falsa pista]**
    - Cosa suggerisce: [Cosa potrebbero pensare i giocatori]
-   - Perché è sbagliata: [Spiegazione]
+   - PerchÃ© Ã¨ sbagliata: [Spiegazione]
    - Documenti coinvolti: [Lista file]
    - Come scagionare questa ipotesi: [Quale prova contraddice]
 
@@ -364,7 +364,7 @@ Elementi chiave che i giocatori devono identificare come falsi:
 
 #### Bugia 1 del Colpevole
 - **Cosa dice:** [Citazione dall'interrogatorio]
-- **Verità:** [Cosa è successo veramente]
+- **VeritÃ :** [Cosa Ã¨ successo veramente]
 - **Prova della bugia:** [Documento che contraddice]
 - **In quale file:** `[nome-file.md]`
 
@@ -376,8 +376,8 @@ Elementi chiave che i giocatori devono identificare come falsi:
 #### Contraddizioni tra Testimonianze
 - **Sospetto A dice:** [Versione A]
 - **Sospetto B dice:** [Versione B che contraddice]
-- **Verità:** [Cosa è successo veramente]
-- **Perché la contraddizione:** [Chi mente e perché]
+- **VeritÃ :** [Cosa Ã¨ successo veramente]
+- **PerchÃ© la contraddizione:** [Chi mente e perchÃ©]
 
 ---
 
@@ -386,14 +386,14 @@ Elementi chiave che i giocatori devono identificare come falsi:
 ### Falsa Pista 1: [Titolo - es. "Lo Chef Ha Preparato il Piatto"]
 - **Sospetto coinvolto:** [Nome]
 - **Cosa suggerisce:** [Descrizione dell'ipotesi errata]
-- **Perché sembra credibile:**
+- **PerchÃ© sembra credibile:**
   - [Motivo 1]
   - [Motivo 2]
   - [Motivo 3]
 - **Documenti che supportano questa falsa pista:**
   - `[file1.md]`: [Cosa suggerisce]
   - `[file2.md]`: [Cosa suggerisce]
-- **Perché è sbagliata:** [Spiegazione completa]
+- **PerchÃ© Ã¨ sbagliata:** [Spiegazione completa]
 - **Prove che la scagionano:**
   - `[file-prova.md]`: [Cosa dimostra]
   - [Alibi verificato / Testimone credibile / Prova fisica]
@@ -408,19 +408,19 @@ Elementi chiave che i giocatori devono identificare come falsi:
 
 ## 7. Risposte alla Verifica
 
-### Domanda 1: Chi è il colpevole?
+### Domanda 1: Chi Ã¨ il colpevole?
 
 **Formato domanda:** "Chi ha ucciso [Nome Vittima]?"
 
 **Opzioni di risposta:**
-- A) [Nome Sospetto 1] → **ERRATO** - [Breve motivo]
-- B) [Nome Sospetto 2] → **ERRATO** - [Breve motivo]
-- C) [Nome Sospetto 3] → **✓ CORRETTO** - [Nome del colpevole]
-- D) [Nome Sospetto 4] → **ERRATO** - [Breve motivo]
-- [Eventuali altre opzioni se ci sono più sospetti]
+- A) [Nome Sospetto 1] â†’ **ERRATO** - [Breve motivo]
+- B) [Nome Sospetto 2] â†’ **ERRATO** - [Breve motivo]
+- C) [Nome Sospetto 3] â†’ **âœ“ CORRETTO** - [Nome del colpevole]
+- D) [Nome Sospetto 4] â†’ **ERRATO** - [Breve motivo]
+- [Eventuali altre opzioni se ci sono piÃ¹ sospetti]
 
 **Feedback per risposta corretta:**
-"Esatto! [Nome] è il colpevole. [Breve conferma con 1-2 indizi chiave]"
+"Esatto! [Nome] Ã¨ il colpevole. [Breve conferma con 1-2 indizi chiave]"
 
 **Feedback per ogni risposta errata:**
 - **Se scelgono A:** "No. [Nome Sospetto 1] [spiegazione dell'alibi/prova che lo scagiona]"
@@ -429,41 +429,41 @@ Elementi chiave che i giocatori devono identificare come falsi:
 
 ---
 
-### Domanda 2: Qual è il movente principale?
+### Domanda 2: Qual Ã¨ il movente principale?
 
-**Formato domanda:** "Perché [Nome Colpevole] ha ucciso [Nome Vittima]?"
+**Formato domanda:** "PerchÃ© [Nome Colpevole] ha ucciso [Nome Vittima]?"
 
 **Opzioni di risposta:**
-- A) [Movente apparente 1] → **ERRATO** - [Es. "Vendetta professionale"]
-- B) [Movente reale] → **✓ CORRETTO** - [Es. "Rovina finanziaria e umiliazione personale"]
-- C) [Movente apparente 2] → **ERRATO** - [Es. "Gelosia amorosa"]
-- D) [Movente apparente 3] → **ERRATO** - [Es. "Proteggere un segreto"]
+- A) [Movente apparente 1] â†’ **ERRATO** - [Es. "Vendetta professionale"]
+- B) [Movente reale] â†’ **âœ“ CORRETTO** - [Es. "Rovina finanziaria e umiliazione personale"]
+- C) [Movente apparente 2] â†’ **ERRATO** - [Es. "Gelosia amorosa"]
+- D) [Movente apparente 3] â†’ **ERRATO** - [Es. "Proteggere un segreto"]
 
 **Feedback per risposta corretta:**
 "Corretto! Il movente era [descrizione]. [Riferimento a 2-3 documenti chiave che lo dimostrano]"
 
 **Feedback per ogni risposta errata:**
 - **Se scelgono A:** "No. Anche se [elemento vero], il vero motivo era [correzione]"
-- **Se scelgono C:** "No. [Spiegazione di perché questo movente non regge]"
+- **Se scelgono C:** "No. [Spiegazione di perchÃ© questo movente non regge]"
 - **Se scelgono D:** "No. [Spiegazione]"
 
 ---
 
-### Domanda 3: Come è stato commesso il crimine?
+### Domanda 3: Come Ã¨ stato commesso il crimine?
 
 **Formato domanda:** "Come ha fatto [Nome Colpevole] a uccidere [Nome Vittima]?"
 
 **Opzioni di risposta:**
-- A) [Metodo apparente 1] → **ERRATO** - [Es. "Contaminando il cibo in cucina"]
-- B) [Metodo reale] → **✓ CORRETTO** - [Es. "Introduzione di olio di arachidi nel piatto durante il servizio del vino"]
-- C) [Metodo apparente 2] → **ERRATO** - [Es. "Sostituendo l'autoiniettore con uno vuoto"]
-- D) [Metodo apparente 3] → **ERRATO** - [Es. "Avvelenando il vino"]
+- A) [Metodo apparente 1] â†’ **ERRATO** - [Es. "Contaminando il cibo in cucina"]
+- B) [Metodo reale] â†’ **âœ“ CORRETTO** - [Es. "Introduzione di olio di arachidi nel piatto durante il servizio del vino"]
+- C) [Metodo apparente 2] â†’ **ERRATO** - [Es. "Sostituendo l'autoiniettore con uno vuoto"]
+- D) [Metodo apparente 3] â†’ **ERRATO** - [Es. "Avvelenando il vino"]
 
 **Feedback per risposta corretta:**
 "Esattamente! [Descrizione del metodo]. [Riferimento agli indizi chiave: registro telecamere, testimonianza, timing]"
 
 **Feedback per ogni risposta errata:**
-- **Se scelgono A:** "No. [Spiegazione di perché questo metodo non è possibile - es. testimoni, telecamere]"
+- **Se scelgono A:** "No. [Spiegazione di perchÃ© questo metodo non Ã¨ possibile - es. testimoni, telecamere]"
 - **Se scelgono C:** "No. [Spiegazione]"
 - **Se scelgono D:** "No. [Spiegazione]"
 
@@ -474,8 +474,8 @@ Elementi chiave che i giocatori devono identificare come falsi:
 | Punteggio | Valutazione | Messaggio ai Giocatori |
 |-----------|-------------|------------------------|
 | **3/3** | Risoluzione Perfetta | "Straordinario! Avete risolto completamente il caso identificando il colpevole, il movente e il metodo. La vostra attenzione ai dettagli e il collegamento degli indizi sono stati impeccabili." |
-| **2/3** | Risoluzione Parziale | "Ottimo lavoro! Avete identificato [elementi corretti], ma vi è sfuggito [elemento mancante]. Rivedete [suggerimento su quali documenti consultare] per completare il quadro." |
-| **1/3** | Intuizione Iniziale | "Siete sulla buona strada, ma servono più prove. Avete colto [elemento corretto], ma [elementi mancanti]. Rianalizzate [documenti chiave] e cercate le contraddizioni." |
+| **2/3** | Risoluzione Parziale | "Ottimo lavoro! Avete identificato [elementi corretti], ma vi Ã¨ sfuggito [elemento mancante]. Rivedete [suggerimento su quali documenti consultare] per completare il quadro." |
+| **1/3** | Intuizione Iniziale | "Siete sulla buona strada, ma servono piÃ¹ prove. Avete colto [elemento corretto], ma [elementi mancanti]. Rianalizzate [documenti chiave] e cercate le contraddizioni." |
 | **0/3** | Da Rivedere Completamente | "Non siete riusciti a identificare il colpevole. Ripartite da [documento chiave 1] e [documento chiave 2], concentrandovi su [cosa cercare]. Consultate il Suggerimento Livello 2 se necessario." |
 
 ---
@@ -497,53 +497,53 @@ Elementi chiave che i giocatori devono identificare come falsi:
 
 | File | Indizi Contenuti | Tipo | Importanza |
 |------|------------------|------|------------|
-| `rapporto-polizia.md` | [Lista indizi presenti] | [Tipo] | ★★★ |
-| `report-medico-legale.md` | [Lista indizi] | [Tipo] | ★★★ |
-| `verbale-interrogatorio-sospetto-X.md` | [Lista indizi] | [Tipo] | ★★★ |
-| [Altri file] | [Lista indizi] | [Tipo] | [★★★/★★/★] |
+| `rapporto-polizia.md` | [Lista indizi presenti] | [Tipo] | â˜…â˜…â˜… |
+| `report-medico-legale.md` | [Lista indizi] | [Tipo] | â˜…â˜…â˜… |
+| `verbale-interrogatorio-sospetto-X.md` | [Lista indizi] | [Tipo] | â˜…â˜…â˜… |
+| [Altri file] | [Lista indizi] | [Tipo] | [â˜…â˜…â˜…/â˜…â˜…/â˜…] |
 
 #### prove-documentali/
 
 | File | Indizi Contenuti | Tipo | Importanza |
 |------|------------------|------|------------|
-| `email-messaggi.md` | [Lista indizi] | [Tipo] | ★★★ |
-| `estratti-conto.md` | [Lista indizi] | [Tipo] | ★★ |
+| `email-messaggi.md` | [Lista indizi] | [Tipo] | â˜…â˜…â˜… |
+| `estratti-conto.md` | [Lista indizi] | [Tipo] | â˜…â˜… |
 | [Altri file] | [Lista indizi] | [Tipo] | [Stelle] |
 
 #### elementi-digitali/
 
 | File | Indizi Contenuti | Tipo | Importanza |
 |------|------------------|------|------------|
-| `registro-telecamere.md` | [Lista indizi] | [Tipo] | ★★★ |
+| `registro-telecamere.md` | [Lista indizi] | [Tipo] | â˜…â˜…â˜… |
 | [Altri file] | [Lista indizi] | [Tipo] | [Stelle] |
 
 **Legenda Importanza:**
-- ★★★ = Essenziale per risolvere il caso
-- ★★ = Importante ma non critico
-- ★ = Contestuale, arricchisce ma non necessario
+- â˜…â˜…â˜… = Essenziale per risolvere il caso
+- â˜…â˜… = Importante ma non critico
+- â˜… = Contestuale, arricchisce ma non necessario
 
 ---
 
 ## 10. Percorso di Deduzione Ideale
 
-Questo è il percorso logico che i giocatori dovrebbero seguire per risolvere il caso:
+Questo Ã¨ il percorso logico che i giocatori dovrebbero seguire per risolvere il caso:
 
 ### Fase 1: Identificazione (primi 30-45 min)
-1. Leggere rapporto polizia → Capire [cosa]
-2. Leggere report medico legale → Capire [causa morte, dettagli tecnici]
-3. Leggere lista sospetti → Identificare [N] sospetti principali
+1. Leggere rapporto polizia â†’ Capire [cosa]
+2. Leggere report medico legale â†’ Capire [causa morte, dettagli tecnici]
+3. Leggere lista sospetti â†’ Identificare [N] sospetti principali
 4. **Conclusione Fase 1:** [Cosa dovrebbero aver capito]
 
 ### Fase 2: Analisi Moventi (successivi 60-90 min)
-1. Leggere tutti i verbali interrogatorio → Identificare [contraddizioni, alibi deboli]
-2. Leggere email/messaggi → Scoprire [relazioni nascoste, comunicazioni sospett]
-3. Leggere estratti conto → Trovare [pressioni finanziarie, transazioni sospette]
+1. Leggere tutti i verbali interrogatorio â†’ Identificare [contraddizioni, alibi deboli]
+2. Leggere email/messaggi â†’ Scoprire [relazioni nascoste, comunicazioni sospett]
+3. Leggere estratti conto â†’ Trovare [pressioni finanziarie, transazioni sospette]
 4. **Conclusione Fase 2:** [Dovrebbero aver ristretto a 2-3 sospetti]
 
 ### Fase 3: Verifica Metodo (successivi 30-45 min)
-1. Leggere timeline eventi → Verificare [chi era dove e quando]
-2. Leggere registro telecamere → Confermare [movimenti del colpevole]
-3. Collegare testimonianze → Trovare [contraddizione chiave]
+1. Leggere timeline eventi â†’ Verificare [chi era dove e quando]
+2. Leggere registro telecamere â†’ Confermare [movimenti del colpevole]
+3. Collegare testimonianze â†’ Trovare [contraddizione chiave]
 4. **Conclusione Fase 3:** [Dovrebbero aver identificato il colpevole e il metodo]
 
 ### Fase 4: Conferma (ultimi 15-30 min)
@@ -555,18 +555,18 @@ Questo è il percorso logico che i giocatori dovrebbero seguire per risolvere il
 
 ## 11. Errori Comuni dei Giocatori
 
-### Errore 1: [Es. "Concentrarsi troppo sul sospetto più ovvio"]
-- **Perché succede:** [Spiegazione]
+### Errore 1: [Es. "Concentrarsi troppo sul sospetto piÃ¹ ovvio"]
+- **PerchÃ© succede:** [Spiegazione]
 - **Conseguenza:** [Cosa perdono]
 - **Come correggerlo:** [Suggerimento per il GM]
 
 ### Errore 2: [Es. "Ignorare i dettagli tecnici del metodo"]
-- **Perché succede:** [Spiegazione]
+- **PerchÃ© succede:** [Spiegazione]
 - **Conseguenza:** [Cosa perdono]
 - **Come correggerlo:** [Suggerimento]
 
 ### Errore 3: [Es. "Non collegare indizi da documenti diversi"]
-- **Perché succede:** [Spiegazione]
+- **PerchÃ© succede:** [Spiegazione]
 - **Conseguenza:** [Cosa perdono]
 - **Come correggerlo:** [Suggerimento]
 
@@ -601,14 +601,14 @@ Questo è il percorso logico che i giocatori dovrebbero seguire per risolvere il
 - Livello 3: Solo se completamente bloccati dopo [Z] minuti
 
 **Domande a cui rispondere (OK):**
-- "Questo documento esiste?" → Sì
-- "Abbiamo letto tutti i file importanti?" → Sì/No
-- "Quanto tempo ci dovremmo mettere?" → [Range]
+- "Questo documento esiste?" â†’ SÃ¬
+- "Abbiamo letto tutti i file importanti?" â†’ SÃ¬/No
+- "Quanto tempo ci dovremmo mettere?" â†’ [Range]
 
 **Domande a cui NON rispondere (Spoiler):**
-- "Chi è il colpevole?" → No
-- "Questo indizio è importante?" → No (lasciarli dedurre)
-- "Siamo sulla strada giusta?" → No (possono fare un tentativo di risposta)
+- "Chi Ã¨ il colpevole?" â†’ No
+- "Questo indizio Ã¨ importante?" â†’ No (lasciarli dedurre)
+- "Siamo sulla strada giusta?" â†’ No (possono fare un tentativo di risposta)
 
 ### Dopo la Verifica
 
@@ -619,17 +619,17 @@ Questo è il percorso logico che i giocatori dovrebbero seguire per risolvere il
 
 ---
 
-## 13. Difficoltà e Bilanciamento
+## 13. DifficoltÃ  e Bilanciamento
 
-### Valutazione della Difficoltà: [Facile/Media/Alta]
+### Valutazione della DifficoltÃ : [Facile/Media/Alta]
 
-**Elementi che aumentano la difficoltà:**
+**Elementi che aumentano la difficoltÃ :**
 - [Es. Molti sospetti con moventi credibili]
 - [Es. Timeline complessa con eventi sovrapposti]
 - [Es. Metodo tecnico che richiede conoscenze specifiche]
 - [Es. Indizi distribuiti in molti documenti]
 
-**Elementi che diminuiscono la difficoltà:**
+**Elementi che diminuiscono la difficoltÃ :**
 - [Es. Indizi diretti evidenti]
 - [Es. Alibi facilmente verificabili]
 - [Es. Contraddizioni chiare]
@@ -644,10 +644,10 @@ Questo è il percorso logico che i giocatori dovrebbero seguire per risolvere il
 ## 14. Varianti e Adattamenti
 
 ### Versione Semplificata
-[Modifiche per rendere il caso più facile, se necessario]
+[Modifiche per rendere il caso piÃ¹ facile, se necessario]
 
 ### Versione Difficile
-[Modifiche per esperti: rimuovere alcuni indizi, aggiungere complessità]
+[Modifiche per esperti: rimuovere alcuni indizi, aggiungere complessitÃ ]
 
 ### Adattamenti per Numero Giocatori
 - **1 giocatore**: [Considerazioni speciali]

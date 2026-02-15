@@ -1,13 +1,9 @@
-<!-- SPOILER: Soluzione del caso - Non aprire prima di aver tentato di risolvere! -->
-
-# 🎯 Albero Decisionale - Soluzione Completa
-
-> **🔴 ATTENZIONE: QUESTO FILE CONTIENE L'INTERA SOLUZIONE DEL CASO**  
-> Se sei arrivato qui senza aver provato a risolvere, stai rovinando l'esperienza!
+<!-- SPOILER: Soluzione del caso -->
+# Albero Decisionale — [TITOLO CASO]
 
 ---
 
-> **NOTA OPERATIVA:**
+> **ATTENZIONE: CONTIENE LA SOLUZIONE**
 > Non consultare questo documento prima di aver formulato la vostra ipotesi finale.
 > Usate il Sistema di Verifica (`elementi-digitali/sistema-verifica-soluzione.md`) per un'esperienza guidata.
 
@@ -516,24 +512,3 @@ Il sistema di suggerimenti si attiva automaticamente in base a:
 ---
 
 *[TITOLO CASO] — Albero Decisionale*
-| C) [Metodo] | Errata | [Perche non e questo] |
-
----
-
-## Risultati Finali
-
-| Punteggio | Titolo | Messaggio |
-|-----------|--------|-----------|
-| 3/3 | Investigatore Eccezionale | "Complimenti! Avete risolto il caso in modo brillante. Ogni indizio e stato colto e collegato con maestria." |
-| 2/3 | Buon Investigatore | "Ottimo lavoro! Avete colto l'essenza del caso, anche se qualche dettaglio vi e sfuggito." |
-| 1/3 | Investigatore in Erba | "Non male per un primo tentativo. Rileggete le prove con occhio piu critico." |
-| 0/3 | Caso Irrisolto | "Il caso resta un mistero. Consultate la soluzione completa per scoprire cosa vi e sfuggito." |
-
----
-
-## Note di Implementazione
-
-- In versione fisica: usare buste numerate per le risposte
-- In versione digitale: usare logica condizionale (Google Forms, Typeform, o HTML/JS)
-- Tenere traccia del tempo trascorso per attivare i suggerimenti appropriati
-- Fornire sempre un feedback costruttivo, mai punitivo

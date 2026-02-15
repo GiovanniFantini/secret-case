@@ -3,15 +3,20 @@ const fs = require('fs').promises;
 const path = require('path');
 const cors = require('cors');
 const marked = require('marked');
-const { detectDocumentType, extractHintLevel, DOCUMENT_TYPES } = require('./app/components/document-types');
+const { detectDocumentType, extractHintLevel, DOCUMENT_TYPES } = require('./components/document-types');
 
 const app = express();
 const PORT = 3000;
-const CASES_DIR = path.join(__dirname, 'casi');
+const CASES_DIR = path.join(__dirname, '..', 'casi');
 
 app.use(cors());
 app.use(express.json());
 app.use(express.static(__dirname)); // Serve tutti i file statici dalla root
+
+// Serve index.html alla root path
+app.get('/', (req, res) => {
+  res.sendFile(path.join(__dirname, 'index.html'));
+});
 
 // Get all available cases
 app.get('/api/cases', async (req, res) => {
@@ -97,6 +102,7 @@ app.get('/api/cases/:caseId', async (req, res) => {
           const docInfo = {
             filename: entry.name,
             path: relPath,
+            type: docType,
             category: metadata.category,
             spoiler: metadata.spoiler
           };

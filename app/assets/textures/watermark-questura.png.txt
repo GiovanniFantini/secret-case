@@ -1,0 +1,46 @@
+WATERMARK: Logo "QUESTURA DI..." / Polizia di Stato
+================================================================================
+
+Dimensioni: 400x400px (quadrato)
+Formato: PNG con trasparenza, opacity molto bassa
+
+DESIGN VISIVO:
+- Elemento centrale: Stemma stilizzato della Polizia o scritta "QUESTURA"
+- Colore: Grigio molto chiaro #e0e0e0 con opacity 0.15-0.2
+- Stile: Vettoriale, linee pulite, non troppo dettagliato
+- Posizione: Centro del documento, z-index dietro al testo
+
+VARIANTI:
+- watermark-questura.png (generico Polizia)
+- watermark-carabinieri.png (Arma Carabinieri)
+- watermark-ospedale.png (Croce ospedaliera)
+- watermark-tribunale.png (Bilancia giustizia)
+
+USO NEI DOCUMENTI:
+- Background watermark per police reports
+- Referti medici ospedalieri
+- Documenti legali ufficiali
+- Position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); opacity: 0.08; pointer-events: none;
+
+SUGGERIMENTI:
+- Cerca "police badge vector" o "stemma polizia Italia"
+- Usa solo contorni, NO riempimenti solidi
+- Rendi molto trasparente per non coprire il testo
+- Alternativa: scritta "POLIZIA DI STATO" in font serif con opacity 0.05
+
+ALTERNATIVA CSS:
+.watermark-police {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-45deg);
+  font-size: 120px;
+  font-weight: 900;
+  color: #000;
+  opacity: 0.03;
+  text-transform: uppercase;
+  white-space: nowrap;
+  pointer-events: none;
+  z-index: 0;
+}
+content: "QUESTURA";

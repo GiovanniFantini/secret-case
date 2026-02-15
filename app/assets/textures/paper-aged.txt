@@ -1,0 +1,28 @@
+TEXTURE: Carta invecchiata per documenti datati
+================================================================================
+
+Dimensioni suggerite: 1200x1600px (proporzioni A4)
+Formato file: PNG con trasparenza o JPG
+
+DESCRIZIONE VISIVA:
+- Pattern: Macchie leggere di umidità, bordi leggermente scuri
+- Colore base: gradient da #fef9ed (centro) a #f5e6d3 (bordi)
+- Dettagli: Piccole imperfezioni, pieghe sottili, tono seppia
+- Effetto: Documento di 20-40 anni fa
+
+USO NEI DOCUMENTI:
+- Diary entries (diari personali vecchi)
+- Old legal documents (atti notarili datati)
+- Witness statements storici
+- Lettere personali d'epoca
+- Documenti d'archivio
+
+ALTERNATIVA CSS (se non hai immagine):
+background: radial-gradient(ellipse at center, #fef9ed 0%, #f5e6d3 100%);
+box-shadow: inset 0 0 100px rgba(139, 119, 101, 0.1);
+filter: sepia(0.15);
+
+SUGGERIMENTI CREAZIONE:
+- Prendi un foglio bianco, immergilo nel tè, lascia asciugare e scansiona
+- Cerca "old paper texture" o "vintage paper" su Unsplash/Pexels
+- Aggiungi noise in Photoshop con filtro "Add Noise" (2-3%)

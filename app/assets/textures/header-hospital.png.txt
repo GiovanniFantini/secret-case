@@ -1,0 +1,62 @@
+HEADER: Intestazione Referti Ospedalieri
+================================================================================
+
+Dimensioni: 1200x140px
+Formato: PNG con trasparenza o JPG
+
+DESIGN VISIVO:
+- Layout: Croce medica a sinistra + Nome ospedale + Data/Codice a destra
+- Simbolo: Croce rossa + (30x30px) o Caduceo medico
+- Testo principale:
+  "AZIENDA OSPEDALIERA [NOME]"
+  "U.O. Medicina Legale / Pronto Soccorso"
+  "Reparto [SPECIALIZZAZIONE]"
+- Font: Sans-serif medico (Arial, Roboto)
+- Colori: Rosso #c62828 per croce, #f5f5f5 background header
+
+STRUTTURA:
+┌────────────────────────────────────────────────┐
+│ [+]   AZIENDA OSPEDALIERA S. GIOVANNI    14/02/26│
+│       U.O. Medicina Legale                      │
+│       Reparto di Emergenza                      │
+└────────────────────────────────────────────────┘
+
+USO:
+- Medical reports
+- Autopsy reports
+- Hospital records
+- Referti forensi
+
+ALTERNATIVA HTML/CSS:
+<div class="header-hospital">
+  <div class="medical-cross">+</div>
+  <div class="hospital-info">
+    <h2>AZIENDA OSPEDALIERA S. GIOVANNI</h2>
+    <h3>U.O. Medicina Legale</h3>
+    <p>Reparto di Emergenza</p>
+  </div>
+  <div class="report-date">14/02/2026</div>
+</div>
+
+STILE CSS:
+.header-hospital {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 30px;
+  background: #f5f5f5;
+  border-left: 6px solid #c62828;
+  margin-bottom: 25px;
+}
+
+.medical-cross {
+  font-size: 48px;
+  color: #c62828;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+VARIANTI:
+- header-hospital-legale.png (Medicina Legale)
+- header-hospital-ps.png (Pronto Soccorso)
+- header-ambulance.png (118 Emergenza)

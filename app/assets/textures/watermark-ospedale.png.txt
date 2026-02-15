@@ -1,0 +1,48 @@
+WATERMARK: Logo Ospedaliero / Croce Medica
+================================================================================
+
+Dimensioni: 400x400px (quadrato)
+Formato: PNG con trasparenza, opacity molto bassa
+
+DESIGN VISIVO:
+- Elemento centrale: Croce medica stilizzata + scritta "OSPEDALE"
+- Colore: Grigio chiaro #bdbdbd con opacity 0.12-0.18
+- Stile: Linee pulite, croce semplice (non caduceo complesso)
+- Design: Croce + cerchio o croce + cuore stilizzato
+
+LAYOUT SUGGERITO:
+        +
+    ─────────
+        |
+    OSPEDALE
+        |
+    ─────────
+
+USO NEI DOCUMENTI:
+- Medical reports
+- Autopsy reports
+- Hospital discharge papers
+- Referti diagnostici
+- Position: absolute; top: 50%; left: 50%; opacity: 0.08; z-index: 0;
+
+ALTERNATIVA CSS (testo semplice):
+.watermark-hospital {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-45deg);
+  font-size: 100px;
+  font-weight: 300;
+  color: #c62828;
+  opacity: 0.04;
+  letter-spacing: 10px;
+  pointer-events: none;
+  z-index: 0;
+}
+content: "OSPEDALE";
+
+SUGGERIMENTI:
+- Cerca "medical cross vector", "hospital logo"
+- Usa solo contorni, evita riempimenti solidi
+- La croce deve essere riconoscibile ma non invadente
+- Alternative: simbolo ⚕ (Caduceo) o semplice "H" cerchiato

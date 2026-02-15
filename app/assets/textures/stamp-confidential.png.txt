@@ -1,0 +1,48 @@
+TIMBRO: Scritta "RISERVATO" / "CONFIDENZIALE"
+================================================================================
+
+Dimensioni: 300x100px (largo x alto)
+Formato: PNG con trasparenza (alpha channel)
+
+DESIGN VISIVO:
+- Testo: "RISERVATO" in maiuscolo (o "CONFIDENZIALE")
+- Font: Impact, Arial Black, o simile bold/extrabold
+- Colore: Rosso #d32f2f con opacity 0.6-0.7
+- Bordo: Rettangolo rosso spesso (stroke 4px)
+- Rotazione: Leggera inclinazione -5° per effetto "timbrato a mano"
+
+VARIANTI DA CREARE:
+- stamp-confidential-it.png (RISERVATO)
+- stamp-confidential-en.png (CONFIDENTIAL)
+- stamp-urgente.png (URGENTE in rosso)
+- stamp-top-secret.png (TOP SECRET con bordo doppio)
+
+USO NEI DOCUMENTI:
+- Overlay su police reports
+- Documenti forensic/autopsy
+- Rapporti investigativi sensibili
+- Position: absolute; top: 20px; right: 30px; z-index: 10;
+
+ALTERNATIVA CSS (se non hai immagine):
+<div class="stamp-confidential">RISERVATO</div>
+
+.stamp-confidential {
+  display: inline-block;
+  padding: 10px 30px;
+  border: 4px solid #d32f2f;
+  color: #d32f2f;
+  font-weight: 900;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  opacity: 0.7;
+  transform: rotate(-5deg);
+  position: absolute;
+  top: 20px;
+  right: 30px;
+}
+
+TOOL PER CREARE:
+- Canva (template "stamp")
+- Photoshop: testo + stroke + layer style
+- Online: https://www.redokun.com/en/stamp-generator

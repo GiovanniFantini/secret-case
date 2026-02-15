@@ -1,0 +1,28 @@
+TEXTURE: Carta bianca pulita per documenti ufficiali
+================================================================================
+
+Dimensioni suggerite: 1200x1600px (proporzioni A4)
+Formato file: PNG con trasparenza o JPG
+
+DESCRIZIONE VISIVA:
+- Pattern: Sottile texture fibra carta, quasi impercettibile
+- Colore base: #ffffff con micro-variazioni (#fafafa - #fdfdfd)
+- Dettagli: Leggera grana per simulare carta di qualità
+- NO macchie, NO imperfezioni visibili
+
+USO NEI DOCUMENTI:
+- Police Reports (rapporti polizia moderni)
+- Medical Reports (referti ospedalieri)
+- Legal Documents ufficiali
+- Bank Statements recenti
+- Email stampate su carta
+
+ALTERNATIVA CSS (se non hai immagine):
+background: linear-gradient(135deg, #ffffff 0%, #fafafa 100%);
+background-image: 
+  repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,.02) 2px, rgba(0,0,0,.02) 4px);
+
+RISORSE CONSIGLIATE:
+- Scansiona un foglio A4 bianco
+- Cerca "white paper texture" su siti royalty-free
+- Generator online: https://www.transparenttextures.com/

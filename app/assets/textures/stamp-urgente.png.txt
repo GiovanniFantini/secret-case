@@ -1,0 +1,38 @@
+TIMBRO: Scritta "URGENTE"
+================================================================================
+
+Dimensioni: 280x90px
+Formato: PNG con trasparenza
+
+DESIGN VISIVO:
+- Testo: "URGENTE" in maiuscolo
+- Font: Impact o Arial Black extrabold
+- Colore: Rosso scuro #c62828 con opacity 0.75
+- Bordo: Rettangolo rosso con angoli arrotondati (border-radius: 8px)
+- Stile: Grassetto, leggermente compresso orizzontalmente
+
+DETTAGLI:
+- Background: Leggero rosso #ffebee con opacity 0.3 (dentro il rettangolo)
+- Stroke bordo: 3px solid #c62828
+- Effetto: Sembra stampato con timbro manuale
+
+USO:
+- Email urgenti
+- Police reports time-sensitive
+- Medical reports emergenza
+- Testimonianze critiche
+
+ALTERNATIVA CSS:
+.stamp-urgente {
+  display: inline-block;
+  padding: 8px 25px;
+  border: 3px solid #c62828;
+  background: rgba(255, 235, 238, 0.3);
+  color: #c62828;
+  font-weight: 900;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  opacity: 0.75;
+  border-radius: 8px;
+}

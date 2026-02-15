@@ -1,0 +1,77 @@
+HEADER: Intestazione Documenti Legali/Tribunale
+================================================================================
+
+Dimensioni: 1200x160px
+Formato: PNG con trasparenza o JPG
+
+DESIGN VISIVO:
+- Layout: Bilancia giustizia a sinistra + Intestazione + Numero pratica
+- Simbolo: Bilancia ⚖️ stilizzata (40x40px)
+- Testo principale:
+  "TRIBUNALE DI [CITTÀ]"
+  "Sezione Civile/Penale"
+  "Ufficio Notifiche e Comunicazioni"
+- Font: Serif formale (Georgia, Times New Roman)
+- Colori: Grigio scuro #424242 per testo, bordo oro/bronzo #8d6e63
+
+STRUTTURA:
+┌────────────────────────────────────────────────┐
+│ [⚖️]  TRIBUNALE DI ROMA              Prot. 456/24│
+│       Sezione Penale                            │
+│       Ufficio del Giudice Istruttore            │
+└────────────────────────────────────────────────┘
+
+VARIAZIONI COLORE BORDO:
+- Penale: Rosso scuro #b71c1c (bottom border 5px)
+- Civile: Blu scuro #0d47a1
+- Notarile: Oro #d4af37
+- Testamenti: Verde scuro #1b5e20
+
+USO:
+- Legal documents (contratti, testamenti)
+- Court summons (citazioni tribunale)
+- Notarial acts (atti notarili)
+- Will/testament (testamento)
+
+ALTERNATIVA HTML/CSS:
+<div class="header-legal">
+  <div class="legal-symbol">⚖️</div>
+  <div class="court-info">
+    <h2>TRIBUNALE DI ROMA</h2>
+    <h3>Sezione Penale</h3>
+    <p>Ufficio del Giudice Istruttore</p>
+  </div>
+  <div class="protocol">Prot. 456/2024</div>
+</div>
+
+STILE CSS:
+.header-legal {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px 35px;
+  background: linear-gradient(to right, #fafafa 0%, #ffffff 100%);
+  border-bottom: 5px solid #8d6e63;
+  border-top: 1px solid #e0e0e0;
+  font-family: Georgia, 'Times New Roman', serif;
+  margin-bottom: 30px;
+}
+
+.legal-symbol {
+  font-size: 40px;
+  margin-right: 20px;
+  opacity: 0.8;
+}
+
+.court-info h2 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #424242;
+  margin-bottom: 5px;
+  letter-spacing: 1px;
+}
+
+RISORSE:
+- Cerca "legal document header", "court letterhead"
+- Font serif formali danno autorevolezza
+- Colori sobri (grigio, oro, blu scuro)

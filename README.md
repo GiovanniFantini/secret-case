@@ -1,247 +1,190 @@
-# Secret Case
+# 🕵️ Secret Case - Detective Game System
 
-Un framework per la creazione di esperienze investigative di cold case — giochi ibridi (fisico + digitale) in cui i giocatori analizzano documenti, prove e indizi per risolvere un caso misterioso.
+Sistema completo per creare e giocare casi detective interattivi con documenti investigativi realistici.
 
-## Panoramica
+## 📖 Descrizione
 
-**Secret Case** fornisce le specifiche e la struttura per generare casi investigativi completi, pronti da giocare. Ogni caso include oltre 40 elementi tra documenti, prove e contenuti digitali.
+Secret Case è un sistema web-based che permette di:
+- **Creare** casi detective con documenti investigativi autentici
+- **Giocare** investigazioni interattive guidate da documenti
+- **Gestire** una libreria di casi con difficoltà variabile
+
+Ogni caso è composto da documenti markdown che vengono renderizzati con grafiche realistiche specifiche per tipologia (email, rapporti polizia, referti medici, chat, etc.).
 
 | Caratteristica | Dettaglio |
 |----------------|-----------|
-| Tipo | Gioco investigativo ibrido (fisico + digitale) |
-| Durata | 2–4 ore |
+| Tipo | Sistema web-based per casi detective |
+| Durata | 2–4 ore per caso |
 | Giocatori | 1–4 persone |
 | Difficoltà | Media-alta, ma accessibile |
+| Tecnologia | Node.js + React + Markdown |
 
-## Struttura di un Caso
+## 🚀 Quick Start
 
-Ogni caso è composto da un crimine (omicidio, rapina, scomparsa) ambientato in un luogo e un periodo storico specifici.
+```bash
+# 1. Clona repository
+git clone [url-repo]
+cd secret-case
 
-### Trama
+# 2. Installa dipendenze
+cd app
+npm install
 
+# 3. Avvia applicazione
+npm start
+
+# 4. Apri browser
+# http://localhost:3000
+```
+
+## 📂 Struttura Repository
+
+- **`app/`** - Applicazione web (frontend + backend)
+  - Sistema di visualizzazione con grafiche realistiche
+  - 12 tipologie documento supportate
+  - Protezione spoiler avanzata
+  - Tools migrazione e validazione
+- **`casi/`** - Casi detective esistenti (7 casi completi)
+  - Ogni caso con 40-60+ documenti
+  - File markdown organizzati per tipo
+- **`template/`** - Template per creare nuovi casi
+  - Template base caso completo
+  - 12 template documento per ogni tipologia
+  - Guide e documentazione
+- **`printer/`** (opzionale) - Script per export PDF
+
+## 📚 Documentazione
+
+- [🚀 Guida App](app/README.md) - Come usare l'applicazione
+- [📝 Guida Template](template/README-GUIDA.md) - Come creare casi
+- [ Tools](app/tools/README.md) - Script utility
+- [📄 Reference Documenti](app/DOCUMENT-TYPES.md) - Tipologie complete
+- [📋 Changelog](app/CHANGELOG.md) - Storico modifiche
+
+## 🎮 Casi Disponibili
+
+1. **Eredità Villa Rossi** - Testamento contestato, morte sospetta  
+   ⭐⭐⭐⭐ Media-Alta | 3-4h | 9 sospettati | Lago di Como, 2024
+
+2. **La Cattedra Vuota** - Professore scomparso, segreti universitari  
+   ⭐⭐⭐⭐⭐ Alta | 2-4h | 6 sospettati | Bologna, 2025
+
+3. **Notte delle Maschere** - Omicidio durante festa in maschera  
+   ⭐⭐⭐⭐⭐ Alta | 3-5h | 8 sospettati | Sanremo, 2026
+
+4. **Prezzo del Silenzio** - Giornalista investigativo trovato morto  
+   ⭐⭐⭐⭐ Media-Alta | 2-4h | 6 sospettati | Torino, 2025
+
+5. **Segreto Villa Medici** - Furto d'arte e intrighi familiari  
+   ⭐⭐⭐⭐ Media-Alta | 2-4h | 6 sospettati | Perugia, 2024
+
+6. **Ultima Cena** - Avvelenamento durante cena esclusiva  
+   ⭐⭐⭐⭐ Media-Alta | 2-4h | 6 sospettati | Parma, 2025
+
+7. **Ultimo Brindisi** - Morte a un party di capodanno  
+   ⭐⭐⭐⭐ Media-Alta | 2-4h | 4 sospettati | Fiesole, 2024
+
+Ogni caso è giocabile direttamente dall'applicazione web.
+
+## 🛠️ Requisiti
+
+- Node.js 14+ (per server)
+- Browser moderno (Chrome, Firefox, Edge)
+- Nessun database richiesto (tutto file-based)
+
+## 🆕 Creare un Caso
+
+```bash
+# 1. Copia template
+cp -r template/caso-template casi/mio-caso
+
+# 2. Edita documenti
+# Segui convenzioni naming: email_*.md, police_*.md, etc.
+
+# 3. Valida
+cd app
+node tools/validate-naming.js --caso mio-caso
+
+# 4. Testa
+npm start
+# Apri http://localhost:3000 e seleziona il tuo caso
+```
+
+[Guida completa creazione casi](template/README-GUIDA.md)
+
+## 🎨 Features Principali
+
+### Grafiche Realistiche
+12 tipologie documento con stili CSS autentici:
+- 📧 Email - Header Gmail-style, quote, firma
+- 👮 Rapporti Polizia - Intestazione ufficiale, badge, timbri
+- 🏥 Referti Medici - Layout clinico, terminologia medica
+- 🔬 Analisi Forensi - Stile tecnico/scientifico, evidenze
+- 📖 Diari - Carta invecchiata, scrittura personale
+- 💬 Chat WhatsApp - Bubble messages, timestamp, checkmark
+- 💰 Estratti Conto - Tabelle bancarie, movimenti sospetti
+- ⚖️ Documenti Legali - Atti notarili, clausole, firme
+- 📰 Articoli Stampa - Masthead, byline, layout giornalistico
+- 📞 Tabulati Telefonici - Celle, durate, autorizzazioni
+- 📱 Social Media - Post Instagram/Facebook, engagement
+- 📷 Fotografie - Schede descrittive, metadata EXIF
+
+### Protezione Spoiler
+- **Suggerimenti progressivi:** Conferma richiesta + tracking unlock
+- **Soluzione:** Password + countdown + blur effect
+- **Persistenza:** LocalStorage salvadato per caso
+
+### Navigazione Intelligente
+- Raggruppamento per categoria (Ufficiali/Corrispondenza/Prove)
+- Auto-detection tipo documento da filename
+- Fullscreen zoom e stampa documenti
+
+### Tools Utility
+- Migrazione automatica vecchi casi
+- Validazione convenzioni naming
+- Auto-detection tipo documento
+
+## 📝 Convenzioni Naming
+
+Ogni documento deve avere **prefisso tipo + underscore**:
+
+```
+✅ CORRETTO:
+email_messaggio-avvocato.md
+police_rapporto-interrogatorio.md
+diary_diario-vittima.md
+
+❌ SBAGLIATO:
+messaggio-avvocato.md          (manca prefisso)
+email-messaggio-avvocato.md    (dash invece underscore)
+```
+
+**Prefissi validi:** `email_`, `police_`, `medical_`, `forensic_`, `diary_`, `chat_`, `bank_`, `legal_`, `newspaper_`, `phone_`, `social_`, `photo_`
+
+**Prefissi speciali:**
+- `_istruzioni-giocatori.md` - File sistema (nascosti)
+- `hint_livello1.md` - Suggerimenti (protezione spoiler)
+- `solution_documento-master.md` - Soluzioni (protezione tripla)
+## 🎭 Design di un Caso
+
+### Struttura Narrativa
+
+Ogni caso è composto da un crimine (omicidio, rapina, scomparsa) ambientato in un luogo e periodo storico specifici.
+
+**Elementi chiave:**
 - **Vittima**: nome, età, background dettagliato
 - **Circostanze**: come è stato scoperto il crimine
-- **NPC**: 8-12 persone (compresi i sospetti) per arricchire informazioni di contorno utili al caso
 - **Sospetti**: 6–10 persone con moventi credibili
-- **Colpo di scena**: almeno 2 false piste convincenti
+- **False piste**: almeno 2 deviazioni convincenti
 - **Soluzione**: deducibile logicamente dagli indizi forniti
 
----
-
-## Come Creare un Nuovo Caso
-
-### Usare la Cartella Template
-
-La cartella `template/` contiene tutti i file necessari per creare un nuovo caso. Ogni file è un template completo con:
-- Struttura professionale basata sui casi esistenti
-- Marcatori `[PLACEHOLDER]` per contenuti specifici del caso
-- Commenti e note guida per gli autori
-- Format di esempio e best practices
-
-**Workflow consigliato:**
-
-1. **Copia l'intera cartella template** in `casi/[nome-nuovo-caso]/`
-2. **Inizia con il documento-master.md** - Definisci la soluzione completa
-3. **Compila il README.md del caso** - Overview, sospettati, contenuti
-4. **Crea istruzioni-giocatori.md e manuale-utente.md** - Guida ai giocatori
-5. **Popola i documenti investigativi** - Rapporti, interrogatori, prove
-6. **Aggiungi prove documentali** - Email, messaggi, estratti conto, etc.
-7. **Configura il sistema di verifica** - albero-decisionale.md e sistema-verifica-soluzione.md
-8. **Scrivi i suggerimenti** - 3 livelli progressivi
-9. **Completa con script-narrazione-finale.md** - Rivelazione finale
-
-### File Template Disponibili
-
-#### File Principali (Obbligatori)
-
-| File | Descrizione | Scopo |
-|------|-------------|-------|
-| `README.md` | Overview del caso con sospettati e inventario | Presentazione del caso |
-| `documento-master.md` | **SOLUZIONE COMPLETA** - Solo per autori/GM | Contiene tutta la verità |
-| `istruzioni-giocatori.md` | Regole, fasi, consigli per i giocatori | Primo documento da leggere |
-| `manuale-utente.md` | ⭐ **CRITICO** - Guida organizzativa e percorso lettura | Organizzazione dei documenti |
-| `albero-decisionale.md` | Schema domande e risposte con feedback | Sistema di verifica |
-| `script-narrazione-finale.md` | Rivelazione finale da leggere/ascoltare dopo verifica | Closure narrativo |
-
-#### documenti-investigativi/ (15-20 file)
-
-**Obbligatori per tutti i casi:**
-- `rapporto-polizia.md` - Rapporto iniziale con protocollo e metadata
-- `report-medico-legale.md` - Autopsia e causa della morte
-- `timeline-eventi.md` - Ricostruzione cronologica
-- `mappa-scena-crimine.md` - Planimetria del luogo
-- `lista-prove-fisiche.md` - Inventario prove raccolte
-- `verbale-interrogatorio-sospetto-[N].md` - Uno per ogni sospetto
-
-**Specializzati (usare se applicabile):**
-- `rapporto-tossicologico.md` - Per casi di avvelenamento
-- `rapporto-balistica.md` - Per casi con armi da fuoco
-- `analisi-digitale-forense.md` - Per prove informatiche/telefoni
-- `registro-telecamere.md` - Per videosorveglianza
-
-**Altri documenti comuni:**
-- `testimonianze-[tipo].md` - Deposizioni di testimoni non sospettati
-
-#### prove-documentali/ (15-30 file)
-
-**Comuni a molti casi:**
-- `email-messaggi.md` - Corrispondenza privata (email, WhatsApp, SMS)
-- `diario-personale.md` - Diario o note personali
-- `estratti-conto.md` - Movimenti bancari dei sospettati
-- `contratti-documenti-legali.md` - Contratti, testamenti, accordi
-- `ricevute-scontrini.md` - Prove di acquisti rilevanti
-- `articolo-giornale-[N].md` - Articoli di stampa (3-4)
-- `post-social-media.md` - Post pubblici dei personaggi
-- `registro-accessi.md` - Log di ingressi/badge (se applicabile)
-- `documento-esposto.md` - Denunce o reclami formali
-
-**Specifici per tipo di caso:**
-- `testamento.md` - Per casi di eredità
-- `polizza-assicurativa.md` - Per moventi assicurativi
-- `certificato-medico-[tipo].md` - Documentazione medica rilevante
-
-#### elementi-digitali/ (3-5 file)
-
-- `sistema-verifica-soluzione.md` - ⭐ **CRITICO** - Schema verifica con feedback
-- `registro-telecamere.md` - Trascrizioni videosorveglianza (se applicabile)
-- `analisi-forense-digitale.md` - Report dispositivi elettronici (se applicabile)
-
-#### suggerimenti/ (3 file - Obbligatori)
-
-- `livello-1-generico.md` - Orientamento generale senza spoiler
-- `livello-2-specifico.md` - Indicazioni su documenti chiave e connessioni
-- `livello-3-quasi-risolutivo.md` - Rivela quasi tutto, lascia solo conferma finale
-
----
-
-### Convenzioni di Naming
-
-Il progetto supporta **due approcci** per nominare i file. Scegliete quello che preferite:
-
-#### Approccio 1: Nomi Generici (Template Default)
-```
-verbale-interrogatorio-sospetto-1.md
-verbale-interrogatorio-sospetto-2.md
-email-messaggi.md
-estratti-conto.md
-```
-**Pro:** Facile scalabilità, chiaro ruolo nel template  
-**Contro:** Meno immersivo, non indica chi è il sospetto
-
-#### Approccio 2: Nomi Specifici con Numerazione (Usato in alcuni casi)
-```
-01-interrogatorio-giulia-rossi.md
-02-interrogatorio-marco-bianchi.md
-03-email-segrete-vittima.md
-04-estratti-conto-sospetto-principale.md
-```
-**Pro:** Più immersivo, suggerisce ordine di lettura, identificazione immediata  
-**Contro:** Richiede rinominazione completa quando si crea dal template
-
-**Raccomandazione:** Per nuovi casi, usate l'Approccio 1 (nomi generici) durante lo sviluppo, poi valutate se rinominare per l'immersione una volta completato il caso.
-
----
-
-### Metadata e Header Professionali
-
-I template includono **header professionali** basati sui casi reali:
-
-**Documenti Investigativi:**
-```markdown
-# RAPPORTO DI POLIZIA - [TIPO DI CRIMINE]
-## [Questura/Dipartimento] - [Divisione]
-
-**Numero Pratica**: [XX-YYYY-NNNNNN]
-**Data Rapporto**: [DD Mese YYYY]
-**Investigatore Capo**: [Nome e grado]
-**Badge**: [XX-NNNNN]
-```
-
-**Report Medico-Legale:**
-```markdown
-# REPORT AUTOPTICO E MEDICO-LEGALE
-**Istituto di Medicina Legale - [Università/Ospedale]**
-
-| Campo | Dettaglio |
-|-------|-----------|
-| Numero Protocollo | [YYYY-ML-NNNN] |
-| Data Autopsia | [Data] |
-| Patologo Forense | Dott. [Nome Cognome] |
-```
-
-**Verbali Interrogatorio:**
-```markdown
-# VERBALE DI INTERROGATORIO
-**[Questura] - [Divisione]**
-
-| Campo | Dettaglio |
-|-------|-----------|
-| Caso | [Numero protocollo] |
-| Interrogato | [Nome Cognome] |
-| Data/Ora Inizio | [Data] ore [HH:MM] |
-| Investigatori | [Nomi] |
-```
-
-Questi header aggiungono autenticità e immersione al caso.
-
----
-
-### Note Investigative nei Documenti
-
-I casi reali utilizzano **note in corsivo** per simulare annotazioni dell'investigatore:
-
-```markdown
-*[NOTA INVESTIGATIVA: Contraddizione temporale - Il sospetto dichiara 
-di essere uscito alle 20:00, ma il registro telecamere lo mostra 
-alle 20:15. Da verificare.]*
-```
-
-Usate questo pattern per:
-- Evidenziare contraddizioni
-- Collegare prove da documenti diversi
-- Segnalare elementi sospetti
-- Guidare sottilmente i giocatori
-
----
-
-## Materiali da Produrre (60+ elementi)
-
-### Documenti Investigativi (15-30 pezzi)
-
-1. Rapporto di polizia iniziale (2–3 pagine)
-2. Verbali di interrogatorio per ogni sospetto (1 pagina ciascuno)
-3. Report del medico legale / perizia tecnica
-4. Timeline degli eventi (da ricostruire)
-5. Mappe della scena del crimine
-6. Lista di prove fisiche trovate
-
-### Prove Documentali (15–30 pezzi)
-
-1. Articoli di giornale (3–4, con evoluzione della storia)
-2. Post social media delle vittime/sospetti
-3. Email / messaggi di testo (10–15 scambi)
-4. Estratti conto bancari
-5. Ricevute / scontrini rilevanti
-6. Contratti / documenti legali
-7. Diari personali / note
-8. Foto della scena del crimine (6–8, o descrizione testuale)
-
-### Elementi Digitali (5–15 pezzi)
-
-1. Sito web fittizio per verifiche (opzionale)
-2. Registrazioni audio — trascrizioni / video (opzionale)
-3. QR code per contenuti extra (opzionale)
-4. Sistema di verifica della soluzione (testo obbligatorio, versione online opzionale)
-
-## Design degli Indizi
-
-### Distribuzione delle informazioni
+### Distribuzione Informazioni
 
 | Tipo | Percentuale | Descrizione |
 |------|-------------|-------------|
 | Indizi diretti | 30% | Evidenti una volta notati |
 | Indizi da collegare | 40% | Richiedono connessioni logiche |
-| Indizi nascosti | 20% | Dettagli nelle foto, contraddizioni nei testi |
+| Indizi nascosti | 20% | Dettagli sottili, contraddizioni |
 | Red herring | 10% | Piste false ma plausibili |
 
 ### Livelli di Scoperta
@@ -261,9 +204,9 @@ Usate questo pattern per:
 - Come ha commesso il crimine?
 - Perché lo ha fatto?
 
-## Meccaniche di Gioco
+## 🎮 Meccaniche di Gioco
 
-### Regole base
+### Regole Base
 
 - Non c'è un giocatore master: tutti hanno la stessa esperienza
 - All'inizio tutti i giocatori accedono alla stessa documentazione
@@ -272,7 +215,6 @@ Usate questo pattern per:
 ### Sistema di Verifica
 
 Tre domande finali a scelta multipla:
-
 1. **Chi è il colpevole?** (4–5 opzioni)
 2. **Qual è il movente esatto?** (3–4 opzioni)
 3. **Come è stato commesso il crimine?** (3–4 opzioni)
@@ -281,158 +223,32 @@ Tre domande finali a scelta multipla:
 
 | Livello | Attivazione | Contenuto |
 |---------|-------------|-----------|
-| 1 | Dopo 60 min o 1 tentativo sbagliato | Suggerimento generico |
-| 2 | Dopo 90 min o 2 tentativi | Suggerimento specifico |
-| 3 | Dopo 120 min o 3 tentativi | Suggerimento risolutivo |
+| 1 | Dopo 60 min | Suggerimento generico |
+| 2 | Dopo 90 min | Suggerimento specifico |
+| 3 | Dopo 120 min | Suggerimento risolutivo |
 
-## Qualità della Narrazione
+Nell'app web, gli aiuti sono protetti da conferma e tracciati tramite LocalStorage.
 
-### Tono
+## 💡 Tips per Creare Casi di Qualità
 
-- Realistico ma non eccessivamente violento
-- Dettagli credibili (nomi realistici, luoghi reali o plausibili)
-- Psicologia dei personaggi approfondita
+### Coerenza Temporale
+Sincronizza timestamp tra documenti:
+- Email delle 18:20 + Chiamata tabulato 18:22 = Coerenza
+- Post social location + Cella telefonica = Alibi verificabile
 
-### Coerenza
+### Mix Tipologie
+Varia i tipi documento per un caso bilanciato:
+- **30% Ufficiali** (police, medical, forensic)
+- **25% Corrispondenza** (email, chat, diary)
+- **45% Prove** (bank, legal, newspaper, phone, social, photo)
 
-- Ogni indizio deve avere uno scopo
-- Importante: Nessuna contraddizione tra gli elementi
-- La soluzione deve essere l'**unica** logicamente coerente
-- Timeline verificabile e senza buchi
-
-## Elementi di Immersione
-
-### Autenticità visiva (opzionale)
-
-- Documenti con loghi e timbri ufficiali
-- Formato realistico (font istituzionali, layout appropriati)
-- Segni d'uso (macchie di caffè, note a penna)
-- Qualità di stampa professionale
-
-### Autenticità del contenuto
-
+### Autenticità
 - Gergo tecnico appropriato (medico, legale, poliziesco)
 - Dettagli procedurali corretti
 - Riferimenti culturali coerenti con l'epoca
 - Numeri di protocollo, date, riferimenti incrociati
 
-## Struttura Narrativa
-
-| Fase | Tempo | Descrizione |
-|------|-------|-------------|
-| Hook iniziale | 0–15 min | Scoperta scioccante che cattura l'attenzione |
-| Espansione | 15–60 min | Conoscenza dei sospetti e del contesto |
-| Complicazione | 60–120 min | False piste e dubbi crescenti |
-| Illuminazione | 120–150 min | Il dettaglio chiave — il momento "aha!" |
-| Risoluzione | 150–180 min | Conferma e spiegazione completa |
-
-## Output di un Caso Completo
-
-Per ogni caso generato, vengono prodotti:
-
-1. **README.md del caso** - Overview, sospettati, inventario documenti
-2. **Istruzioni per i giocatori** - Regole, fasi, consigli (`istruzioni-giocatori.md`)
-3. **Manuale utente** ⭐ - Guida organizzativa con percorso di lettura consigliato (`manuale-utente.md`)
-4. **Documento master** - Soluzione completa e spiegazione per GM/autori (`documento-master.md`)
-5. **Tutti i documenti investigativi** - Rapporti, interrogatori, prove (15-20 file)
-6. **Prove documentali** - Email, messaggi, estratti conto, articoli (15-30 file)
-7. **Elementi digitali** - Sistema verifica, registrazioni, analisi forensi (3-5 file)
-8. **Albero decisionale** - Sistema di verifica con feedback (`albero-decisionale.md`)
-9. **3 livelli di suggerimenti progressivi** - Per giocatori bloccati
-10. **Script della narrazione finale** - Rivelazione da leggere/ascoltare (10-15 min)
-
-**Totale:** 40-60+ file per caso completo
-
----
-
-## 🎭 I Casi Disponibili
-
-### 🏛️ [L'Eredità Avvelenata di Villa Rossi](casi/eredita-villa-rossi/)
-> *Il sole del tardo pomeriggio incendia la superficie del Lago di Como. Villa Rossi è pronta per la festa dell'anno — centocinquanta lanterne veneziane, tavoli di lino bianco, e un patriarca che sta per alzare il calice per l'ultima volta...*
-
-| Giocatori | Difficoltà | Durata | Sospettati | Ambientazione |
-|-----------|-----------|--------|------------|---------------|
-| 1-4 | ⭐⭐⭐⭐ Media-Alta | 3-4h | 9 | Lago di Como, Giugno 2024 |
-
----
-
-### 🎓 [La Cattedra Vuota](casi/la-cattedra-vuota/)
-> *Via Zamboni, domenica sera. Bologna è deserta. Ma al secondo piano della Facoltà di Giurisprudenza, una luce è ancora accesa. Il Professor Marini lavora fino a tardi. Lunedì mattina, la sua cattedra sarà vuota...*
-
-| Giocatori | Difficoltà | Durata | Sospettati | Ambientazione |
-|-----------|-----------|--------|------------|---------------|
-| 1-4 | ⭐⭐⭐⭐⭐ Alta | 2-4h | 6 | Università di Bologna, Febbraio 2025 |
-
----
-
-### 🎭 [La Notte delle Maschere](casi/notte-delle-maschere/)
-> *Centodue finestre illuminate, un tappeto rosso, e centosventi invitati in maschera. Al gala della Fondazione Luce, Edoardo Marinetti sale sul palco: "Stasera ho una rivelazione importante." Ma quella rivelazione non arriverà mai...*
-
-| Giocatori | Difficoltà | Durata | Sospettati | Ambientazione |
-|-----------|-----------|--------|------------|---------------|
-| 1-4 | ⭐⭐⭐⭐⭐ Alta | 3-5h | 8 | Grand Hotel Riviera Palace, Sanremo, Febbraio 2026 |
-
----
-
-### 🔇 [Il Prezzo del Silenzio](casi/prezzo-del-silenzio/)
-> *Torino, una notte di gennaio. Luca Ferraris è nel suo studio, circondato da documenti che potrebbero far tremare il sistema sanitario piemontese. L'inchiesta è quasi completa. Domani invierà il pezzo alla redazione...*
-
-| Giocatori | Difficoltà | Durata | Sospettati | Ambientazione |
-|-----------|-----------|--------|------------|---------------|
-| 1-4 | ⭐⭐⭐⭐ Media-Alta | 2-4h | 6 | Torino, Gennaio 2025 |
-
----
-
-### 🏰 [Il Segreto della Villa Medici](casi/segreto-villa-medici/)
-> *Le colline umbre di novembre sono avvolte nella nebbia. A Villa Medici dei Falchi, il Professor Maldini esamina una collezione d'arte milionaria. Sotto i raggi UV ha trovato qualcosa che non doveva trovare...*
-
-| Giocatori | Difficoltà | Durata | Sospettati | Ambientazione |
-|-----------|-----------|--------|------------|---------------|
-| 1-4 | ⭐⭐⭐⭐ Media-Alta | 2-4h | 6 | Villa Medici, Perugia, Novembre 2024 |
-
----
-
-### 🍽️ [L'Ultima Cena](casi/ultima-cena/)
-> *La Sala Leonardo del Cenacolo d'Oro è apparecchiata per otto. Cristalli di Baccarat, posate d'argento. Stasera cena Massimo Fontana, il critico che con tre righe può distruggere un ristorante. Lo chef ha preparato sette portate. Tutto deve essere perfetto...*
-
-| Giocatori | Difficoltà | Durata | Sospettati | Ambientazione |
-|-----------|-----------|--------|------------|---------------|
-| 1-4 | ⭐⭐⭐⭐ Media-Alta | 2-4h | 6 | Ristorante stellato, Parma, Marzo 2025 |
-
----
-
-### 🍷 [L'Ultimo Brindisi](casi/ultimo-brindisi/)
-> *Ottobre a Fiesole. Marco Ferretti scende nella sua cantina privata con un Brunello di Montalcino 2006 in mano. Duecento bottiglie selezionate in vent'anni di carriera, e stasera ne ha scelta una speciale. L'ultimo sorso sarà il più importante della sua vita...*
-
-| Giocatori | Difficoltà | Durata | Sospettati | Ambientazione |
-|-----------|-----------|--------|------------|---------------|
-| 1-4 | ⭐⭐⭐⭐ Media-Alta | 2-4h | 4 | Villa Le Ginestre, Fiesole, Ottobre 2024 |
-
----
-
-## Differenze Template vs Casi Implementati
-
-I **casi esistenti** sono molto più evoluti del template originale. Gli aggiornamenti recenti al template includono:
-
-### File Aggiunti al Template (2026)
-- ✅ `manuale-utente.md` - Presente in TUTTI i casi, essenziale per organizzazione
-- ✅ `README.md` - Overview caso con tabelle sospettati e inventario
-- ✅ Template specializzati - Rapporti tossicologici, balistici, forensi digitali
-- ✅ Suggerimenti rinominati - Con descrittori (generico, specifico, quasi-risolutivo)
-
-### Miglioramenti alla Struttura
-- ✅ Header professionali con metadata (badge, protocolli, numero pratica)
-- ✅ Note investigative in corsivo nei documenti
-- ✅ Feedback dettagliato nel sistema di verifica
-- ✅ Organizzazione a cluster tematici nel manuale utente
-- ✅ Checkpoint temporali e stime di lettura
-- ✅ Timing marks per narrazione audio
-
-**Il template è ora allineato con le best practices dei casi reali.**
-
----
-
-## Checklist di Qualità
+### Checklist Qualità
 
 - [ ] È possibile risolvere il caso con **solo** le informazioni fornite?
 - [ ] Ci sono almeno 2 sospetti credibili oltre al colpevole?
@@ -441,6 +257,44 @@ I **casi esistenti** sono molto più evoluti del template originale. Gli aggiorn
 - [ ] Tutti gli indizi hanno uno scopo o aggiungono atmosfera?
 - [ ] Il caso mantiene l'interesse per 2–4 ore?
 
-## Licenza
+## 🤝 Contribuire
 
-Questo progetto è distribuito per uso personale e ricreativo.
+Vuoi aggiungere un caso o migliorare il sistema?
+
+1. Leggi [Guida Template](template/README-GUIDA.md)
+2. Crea il tuo caso seguendo le convenzioni
+3. Testa con lo script di validazione: `node app/tools/validate-naming.js --caso [nome]`
+4. Invia pull request (se repository pubblico)
+
+Per aggiungere nuove tipologie documento:
+1. Aggiungi tipo in [app/components/document-types.js](app/components/document-types.js)
+2. Aggiungi stili in [app/styles/document-types.css](app/styles/document-types.css)
+3. Aggiungi icona in [app/components/icon-library.js](app/components/icon-library.js)
+4. Crea template in [template/caso-template/documenti/](template/caso-template/documenti/)
+5. Aggiorna documentazione
+
+## 🔧 Tecnologie
+
+- **Frontend:** React 18 (via CDN), Tailwind CSS, Marked.js
+- **Backend:** Express.js, Node.js
+- **Storage:** File system (markdown), LocalStorage (stato spoiler)
+- **Dev:** Nodemon (auto-reload), CORS
+
+## 📜 Licenza
+
+[Inserisci licenza]
+
+## 🙏 Credits
+
+- Sistema creato da [Autore]
+- Casi scritti da [Autori casi]
+- Ispirato da giochi detective classici
+
+## 📬 Contatti
+
+[Inserisci info contatto]
+
+---
+
+**Sistema Secret Case v2.0** - Febbraio 2026  
+Detective Case Viewer con grafiche realistiche e protezione spoiler avanzata
