@@ -8,7 +8,7 @@
 **Data di acquisizione:** 14-22 febbraio 2025
 **Acquisiti da:** Nucleo Investigativo CC Bologna / Polizia Postale — Sezione di Bologna
 **Autorizzazione:** Decreto di sequestro e acquisizione dati telematici n. 287/2025 GIP Bologna
-**Riferimento:** Morte di Prof. Renato Marini (nato il 14/03/1962 — deceduto l'8-9/02/2025)
+**Riferimento:** Morte di Prof. Renato Marini (nato il 14/06/1962 — deceduto l'8-9/02/2025)
 
 ---
 

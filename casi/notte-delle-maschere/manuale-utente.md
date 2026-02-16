@@ -621,6 +621,41 @@ Lo script rivela:
 
 ---
 
+## Guida per il Game Master
+
+Se un giocatore assume il ruolo di **Game Master (GM)**, questa sezione fornisce le indicazioni per gestire la sessione.
+
+### Preparazione
+- Leggere il **documento-master** e lo **script di narrazione finale** prima della sessione (attenzione: il caso è complesso con 8 sospettati)
+- Preparare i documenti divisi per fase (vedi percorso consigliato sopra)
+- Predisporre le buste dei suggerimenti numerate
+- Considerare la preparazione di una traccia audio per la narrazione finale (molto immersiva)
+
+### Durante la Partita
+
+**Fase 1 — Le Maschere (~90 minuti):** Distribuire il rapporto di polizia, il rapporto medico-legale, la mappa dell'hotel, le foto della scena e la lista delle prove fisiche. Lasciare che il gruppo si orienti con 8 sospettati — ci vuole tempo.
+
+**Fase 2 — Dietro le Maschere (~90 minuti):** Quando il gruppo ha formato le prime ipotesi, distribuire i verbali degli interrogatori, le prove documentali e i registri finanziari. La complessità aumenta — molti hanno segreti.
+
+**Fase 3 — La Verità (~60 minuti):** Distribuire le analisi digitali, le chat WhatsApp e i documenti nascosti. Se il gruppo si blocca:
+- *"Avete confrontato le dichiarazioni di Mancini con le prove della farmacia ospedaliera?"*
+- *"Cosa sapete davvero sul rapporto tra Damiani e l'hotel?"*
+- *"Chi ha accesso al farmaco a base di potassio?"*
+
+### Narrazione Finale
+Al termine dell'indagine, leggere lo **script di narrazione finale** ad alta voce. Per questo caso, la narrazione è particolarmente lunga e drammatica. Se possibile, abbassare le luci, accendere una candela e usare un tono da thriller. L'epilogo (Sezione 7) è importante per dare chiusura alla storia.
+
+### La Domanda sul Complice Inconsapevole
+Questo caso è unico: chiede ai giocatori di identificare non solo il colpevole ma anche il **complice inconsapevole**. Il GM dovrebbe assicurarsi che i giocatori capiscano questa domanda aggiuntiva. È la differenza tra un buon risultato e uno eccellente.
+
+### Consigli per il GM
+- Questo è il caso più complesso della collezione — suggerire pause regolari
+- Se il gruppo si concentra troppo su un singolo sospetto, ricordare che *tutti* hanno segreti
+- Tenere traccia del tempo: sessioni di 4+ ore richiedono una pausa snack
+- Il piacere del GM sta nel osservare la reazione alla doppia domanda (colpevole + complice)
+
+---
+
 ## Buona Investigazione!
 
 Le maschere nascondono molte verità. Ma tra le carte di questa indagine, tra le bugie e le mezze confessioni, tra i conti bancari e le chat notturne, si nasconde una sola verità: chi ha ucciso Edoardo Marinetti, e perché.

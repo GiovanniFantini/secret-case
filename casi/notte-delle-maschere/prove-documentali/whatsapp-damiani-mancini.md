@@ -107,7 +107,7 @@
 **12:50** `D:` Arrivo tra 10 minuti. Ho preso il tavolo in fondo, vicino alla finestra.  
 `✓✓` letto 12:51
 
-*[Nota: La Trattoria del Porto, Via Porto Vecchio 8, Sanremo — il titolare Sig. Rosario Catania conferma la presenza di due uomini al tavolo 14 dalle ore 13:00 alle 15:00 circa. Pagamento in contanti.]*
+*[Nota: La Trattoria del Porto, Via al Molo 8, 16128 Genova — il titolare Sig. Rosario Catania conferma la presenza di due uomini al tavolo 14 dalle ore 13:00 alle 15:00 circa. Pagamento con carta — cfr. Ricevuta N. 2 (scontrino €67,50, carta Visa Damiani).]*
 
 **15:22** `D:` Grazie di tutto, Filippo. Un peso in meno sul cuore.  
 `✓✓` letto 15:24

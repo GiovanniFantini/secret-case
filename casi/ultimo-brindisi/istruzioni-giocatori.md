@@ -29,7 +29,9 @@ Davanti a voi ci sono tutti i documenti dell'indagine: rapporti di polizia, peri
 
 ## Regole Base
 
-1. **Non c'è un game master.** Tutti i giocatori partecipano alla pari — nessuno conosce la soluzione in anticipo.
+1. **Due modalità di gioco.** Il caso può essere giocato in due modi:
+   - **Cooperativa (senza Game Master):** Tutti i giocatori partecipano alla pari — nessuno conosce la soluzione in anticipo. I documenti sono accessibili a tutti fin dall'inizio. I suggerimenti sono in buste numerate da aprire quando il gruppo si blocca. Questa è la modalità predefinita.
+   - **Con Game Master:** Un giocatore legge in anticipo il *documento-master* e lo *script di narrazione finale*, poi guida la sessione: distribuisce i documenti a fasi, gestisce i suggerimenti, interpreta i personaggi (opzionale), e legge la narrazione finale. Non partecipa alla risoluzione. Consultate il manuale utente per la guida completa.
 2. **Collaborazione.** Potete (e dovreste) discutere, condividere intuizioni, proporre teorie.
 3. **Tutti i documenti sono accessibili fin dall'inizio.** Potete leggerli in qualsiasi ordine.
 4. **Non aprite la busta della soluzione** finché non avete risposto alle tre domande finali o esaurito i tentativi.

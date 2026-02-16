@@ -14,7 +14,7 @@
 **Istituto:** UniCredit S.p.A.
 **Filiale:** Bologna — Agenzia Via Rizzoli 15
 **Conto corrente N.:** IT76 S020 0802 4830 0010 4587 XX
-**Intestatario:** MARINI RENATO, nato a Modena il 04/03/1962, C.F. MRNRNT62C04F257X
+**Intestatario:** MARINI RENATO, nato a Firenze il 14/06/1962, C.F. MRNRNT62H14D612T
 **Tipologia:** Conto corrente ordinario — Pacchetto "Premium"
 
 ---

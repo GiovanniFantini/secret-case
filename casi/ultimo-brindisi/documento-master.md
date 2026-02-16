@@ -10,11 +10,11 @@
 | Campo | Dettaglio |
 |-------|-----------|
 | Titolo | L'Ultimo Brindisi |
-| Ambientazione | Firenze e colline di Fiesole, Toscana |
+| Ambientazione | Firenze e colline di Fiesole, Toscana (Fiesole dista circa 8 km dal centro di Firenze, 20 minuti d'auto via Via Bolognese) |
 | Periodo | Ottobre 2024 |
 | Tipo di crimine | Omicidio per avvelenamento |
 | Difficoltà | Media-alta |
-| Durata stimata | 2–4 ore |
+| Durata stimata | 3–5 ore |
 
 ---
 
@@ -108,7 +108,7 @@ Impedire la pubblicazione dell'articolo-inchiesta che Marco stava scrivendo per 
 | 5 | Pagamenti sospetti di Vini d'Eccellenza a "ChemLab Toscana" (fornitore metanolo) e a cantine estere per vino sfuso | Estratti conto | Da collegare |
 | 6 | Clausola contrattuale: in caso di morte di un socio, la quota passa all'altro | Contratti/documenti legali | Nascosto |
 | 7 | Annotazione nel diario di Marco: "Davide non è quello che sembra. Ho le prove." | Diario personale | Diretto |
-| 8 | Davide dichiara di essere stato in trattoria fino alle 23:30, ma il ristoratore non lo conferma oltre le 21:30 | Verbale interrogatorio + Ricevute | Da collegare |
+| 8 | Davide dichiara di essere stato in trattoria fino alle 23:30, ma il ristoratore Sergio Papi conferma che è uscito subito dopo il pagamento (~21:15-21:30). Lo scontrino del distributore Esso su Via Bolognese alle 21:38 lo colloca in direzione Fiesole | Verbale interrogatorio + Ricevute + Testimonianza ristoratore | Da collegare |
 
 ---
 

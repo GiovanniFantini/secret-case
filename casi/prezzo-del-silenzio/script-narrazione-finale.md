@@ -95,7 +95,7 @@ Il Neurovasc-7, farmaco sperimentale per il trattamento dell'ictus, era il proge
 
 Ferro aveva insabbiato tutto. Rapporti falsificati, familiari silenziati, dati manipolati. E tutto stava per venire alla luce, nero su bianco, sulle pagine del Corriere Subalpino.
 
-Nelle settimane precedenti, Ferro aveva iniziato a prepararsi. Sul suo computer di lavoro: ricerche su "angolo ferita suicidio", "rilevamento midazolam in autopsia", "distribuzione residui di sparo nel suicidio". Un piano costruito con metodo scientifico. Dal laboratorio di PharmaNova aveva prelevato midazolam — un sedativo a cui aveva accesso diretto come CEO.
+Nelle settimane precedenti, Ferro aveva iniziato a prepararsi. Sul suo computer di lavoro — quello che credeva invisibile, dopo aver fatto escludere i dispositivi della dirigenza dal monitoraggio informatico aziendale — ricerche su "angolo ferita suicidio", "rilevamento midazolam in autopsia", "distribuzione residui di sparo nel suicidio". Tutte effettuate su Chrome, il browser che l'azienda non tracciava. Un piano costruito con metodo scientifico, e con l'arroganza di chi crede di controllare tutto. Dal laboratorio di PharmaNova aveva prelevato midazolam — un sedativo a cui aveva accesso diretto come CEO.
 
 La sera del 18 gennaio, Ferro si è presentato all'appartamento di Ferraris alle 21:00. Il citofono ha suonato alle 21:02. Si conoscevano — Ferro era venuto altre volte per interviste off-the-record. Aveva portato una bottiglia di Barolo come omaggio. Ferraris non aveva motivo di sospettare.
 

@@ -22,7 +22,7 @@
 | 22/02/2025 — ore 14:23 | Ilaria Mura effettua un ordine online sul sito AsiaMarket.it per una bottiglia di olio di arachidi raffinato (500ml), utilizzando un account registrato con email anonima (v.sommelier99@proton.me). Pagamento tramite carta prepagata Postepay. | Log server AsiaMarket.it; estratto conto Postepay n. 4023 **** **** 8871 intestata a Mura V. | Certa |
 | 25/02/2025 — ore 11:40 | Il pacco contenente l'olio di arachidi viene consegnato dal corriere BRT presso l'indirizzo di Sara Ferretti, Via Gramsci 12, Fidenza (PR). Firma di ricezione: "S. Ferretti". | Tracking BRT n. FZ-20250222-4417; dichiarazione di Sara Ferretti | Certa |
 | 28/02/2025 — ore 09:15 | La casa editrice tedesca Springer Gastronomie invia un'email a Massimo Fontana con oggetto "Proposta di acquisizione — Guida Fontana ai Ristoranti d'Italia". Si discute di una possibile vendita dei diritti editoriali della guida. | Email acquisita da iPhone 15 Pro di Fontana (REP-005) | Certa |
-| 03/03/2025 — ore 17:42 | Conversazione WhatsApp tra Chef Marco Pellegrini e Chef Davide Rizzoli. Pellegrini esprime preoccupazione per un possibile "declassamento" del ristorante nella prossima edizione della Guida Fontana 2025. Rizzoli risponde: "Non ti preoccupare, sabato lo convinceremo." | Analisi forense smartphone Rizzoli (autorizzazione GIP del 10/03/2025) | Certa |
+| 03/03/2025 — ore 17:42 | Conversazione WhatsApp tra Chef Marco Pellegrini e Chef Tommaso Rizzoli. Pellegrini esprime preoccupazione per un possibile "declassamento" del ristorante nella prossima edizione della Guida Fontana 2025. Rizzoli risponde: "Non ti preoccupare, sabato lo convinceremo." | Analisi forense smartphone Rizzoli (autorizzazione GIP del 10/03/2025) | Certa |
 | 06/03/2025 — ore 22:18 | Messaggio WhatsApp da Ilaria Mura a Sara Ferretti: "Sabato sera sara l'ultima volta che quel bastardo rovina la vita a qualcuno. Fidati di me." Sara risponde con un emoji di cuore. | Analisi forense smartphone Mura (REP-012) | Certa |
 | 07/03/2025 — ore 10:00-18:00 | Preparativi finali al ristorante "Il Cenacolo d'Oro". Chef Rizzoli supervisiona la mise en place della Sala Leonardo. Ilaria Mura seleziona i vini per la cena, inclusa una bottiglia di Barolo Riserva 2015 Giacomo Conterno dalla cantina. Il personale viene istruito sul protocollo allergie per l'ospite Fontana. | Dichiarazioni del personale; registro presenze del ristorante | Dichiarata |
 | 07/03/2025 — ore 16:30 | Ilaria Mura viene vista uscire dal ristorante con una borsa a tracolla. Rientra dopo circa 40 minuti. | Dichiarazione di Lucia Ferretti (cameriera) | Dichiarata |
@@ -37,7 +37,7 @@
 |-----|--------|-------|----------|
 | 16:00 | Il personale di cucina inizia le preparazioni per la cena privata nella Sala Leonardo. Chef Rizzoli verifica la stazione separata per le preparazioni prive di allergeni destinata al piatto di Fontana. | Dichiarazione Chef Rizzoli; dichiarazione sous-chef Marco Galli | Dichiarata |
 | 17:00 | Ilaria Mura arriva al ristorante. Inizia la preparazione dei vini: decantazione, verifica temperature, disposizione dei calici nella Sala Leonardo. Accede alla cantina tramite le scale di servizio per prelevare ulteriori bottiglie. | Registrazione CCTV cucina (REP-014, Camera 2); registro presenze | Certa |
-| 18:30 | Briefing finale tra Chef Davide Rizzoli, Ilaria Mura e il personale di sala. Vengono riepilogate le portate, gli abbinamenti vino e il protocollo allergie per Fontana (allergia severa alle arachidi). | Dichiarazioni concordanti di Rizzoli, Mura e Lucia Ferretti | Dichiarata |
+| 18:30 | Briefing finale tra Chef Tommaso Rizzoli, Ilaria Mura e il personale di sala. Vengono riepilogate le portate, gli abbinamenti vino e il protocollo allergie per Fontana (allergia severa alle arachidi). | Dichiarazioni concordanti di Rizzoli, Mura e Lucia Ferretti | Dichiarata |
 | 19:30 | Inizio arrivo degli ospiti alla Sala Leonardo. Primo ad arrivare: Franco Colombo e Claudia Fontana. Ilaria accoglie gli ospiti e offre il primo calice di benvenuto (Franciacorta Brut). | Registrazione CCTV corridoio 1° piano (REP-014, Camera 1) | Certa |
 | 19:45 | Tutti gli ospiti sono seduti ai posti assegnati nella Sala Leonardo. Massimo Fontana è al posto 1 (capotavola nord). Chef Rizzoli è in cucina e non siede a tavola. | Registrazione CCTV corridoio (REP-014, Camera 1); dichiarazioni ospiti | Certa |
 | 20:00 | Servizio della prima portata: Antipasto di Culatello di Zibello con mostarda. Il piatto di Fontana viene preparato sulla stazione allergie separata. Cameriera Lucia Ferretti serve i piatti. | Dichiarazione Lucia Ferretti; registrazione CCTV cucina (Camera 2) | Certa |
@@ -99,7 +99,7 @@
 | 22:00-22:38 | Presente nella Sala Leonardo durante l'emergenza. Non tenta di assistere. Descritta come "pallida e immobile" da piu testimoni. | Dichiarazioni ospiti concordanti | Dichiarata |
 | 09/03 — 01:30 | Rilascia dichiarazioni spontanee. Nega qualsiasi coinvolgimento. | Verbale di sommarie informazioni | Certa |
 
-### D.2 — Chef Davide Rizzoli (Chef e proprietario)
+### D.2 — Chef Tommaso Rizzoli (Chef e proprietario)
 
 | Ora | Evento | Fonte | Certezza |
 |-----|--------|-------|----------|
@@ -131,7 +131,7 @@
 | **21:15** | **Rientra nella Sala Leonardo e si risiede al posto 5.** | **CCTV corridoio (Camera 1); dichiarazione Mancini** | **Certa** |
 | 21:15-22:38 | Presente al tavolo per il resto della serata. | Dichiarazioni ospiti | Dichiarata |
 
-### D.5 — Claudia Fontana (Moglie della vittima)
+### D.5 — Claudia Fontana (Figlia della vittima)
 
 | Ora | Evento | Fonte | Certezza |
 |-----|--------|-------|----------|

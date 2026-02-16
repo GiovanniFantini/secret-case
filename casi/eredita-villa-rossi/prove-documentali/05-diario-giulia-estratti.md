@@ -69,28 +69,26 @@ Perché tutti i crimini non sono così logici e inevitabili?
 ## 13 Giugno 2024 (Due Giorni Prima)
 
 ```
-Il laboratorio di Andrea è perfetto. Ha tutto quello che mi serve.
+Il laboratorio è perfetto. Ha tutto quello che mi serviva quando
+studiavo chimica, e anche di più.
 
-Ho estratto una quantità sufficiente. Ho testato la potenza su un
-topo (preso da un laboratorio di ricerca che conosco).
+Ho passato ore lì dentro. La bilancia funziona ancora perfettamente.
+Ho misurato con precisione. Tutto è pronto.
 
-Il risultato è... definitivo. Il topo è morto in 23 minuti.
-
-Andrea pesa 82kg. La dose che ho preparato dovrebbe ucciderlo in 25-35 minuti.
+[Pagina successiva parzialmente strappata — frammenti leggibili:]
+"...il risultato è stato definitivo..."
+"...25-35 minuti dovrebbero bastare..."
 
 Domani sera, durante la cena dell'anniversario, tutti gli ospiti
-saranno presenti. Il video di sorveglianza registra il giardino, ma
-non la cucina.
+saranno presenti. Le telecamere in cucina sono ancora spente per
+i lavori di ristrutturazione.
 
-Sofia prepara il semifreddo al pistachio - il piatto di Andrea. Lui lo mangia sempre.
-La mia occasione è lì.
+Sofia prepara il semifreddo al pistachio — il piatto bianco.
+Lui lo mangia sempre. La mia occasione.
 
-Devo solo essere veloce. Due minuti in cucina. Tanto basta.
+Due minuti. Tanto basta.
 
-Domani. Domani finisce tutto questo.
-
-Non avrò scelta domani. Sarà istinto. Sarà necessità. Sarà
-l'unica cosa che posso fare.
+Non avrò scelta domani. Sarà istinto. Sarà necessità.
 ```
 
 ---
@@ -98,23 +96,17 @@ l'unica cosa che posso fare.
 ## 15 Giugno 2024 (Il Giorno Stesso - Entrata Prima della Cena)
 
 ```
-È successo.
+È fatto.
 
-Ho fatto quello che dovevo fare.
+Due minuti. Il piatto bianco. La polvere.
+Nessuno stava guardando.
 
-Alle 20:13 sono entrata in cucina per meno di due minuti. Sofia
-non stava guardando. Ho aggiunto il veleno al semifreddo di Andrea.
+Ora aspetto. Se cambia qualcosa stasera, la mia vita cambia.
+Torno al piano originale. A quello che era stato promesso.
 
-Nessuno mi ha vista. Tutto è andato come pianificato.
+Deve funzionare. Deve.
 
-Ora aspetto. Aspetto che mangi il dessert.
-
-Se funziona, la mia vita cambia. Torno al piano originale. Eredito
-quello che era stato promesso.
-
-Se non funziona... non so cosa farò.
-
-Ma deve funzionare. Deve.
+[Pagina macchiata — tracce di lacrime?]
 ```
 
 ---
@@ -144,20 +136,22 @@ La cena è finita. La festa è finita. Tutto è finito.
 
 ## NOTE INVESTIGATIVE
 
-**Importanza**: Questo diario è una confessione completa. Giulia documenta tutto:
-- La scoperta della modifica testamentaria (31 maggio)
-- La ricerca online su veleni (10 giugno)
-- Il test su topo (13 giugno)
-- L'esecuzione effettiva (15 giugno 20:13)
-- La morte di Andrea e la sua reazione (15 giugno 21:30)
+**Importanza**: Questo diario contiene indizi criptici ma non una confessione esplicita. Giulia documenta:
+- La scoperta della modifica testamentaria (31 maggio) — ESPLICITA
+- La ricerca e la pianificazione (10 giugno) — IMPLICITA ("ricerche", "è possibile")
+- La preparazione nel laboratorio (13 giugno) — CRIPTICA (pagina strappata, "il risultato è stato definitivo")
+- L'azione il giorno del crimine (15 giugno) — VELATA ("il piatto bianco", "la polvere", "due minuti")
+- La reazione dopo la morte (15 giugno 21:30) — AMBIGUA (rimpianto o sollievo?)
 
 **Fattori Psicologici Rivelati**:
 - Razionalizzazione ("logico e inevitabile")
 - Distacco emotivo ("Perché tutti i crimini non sono così logici?")
-- Preoccupazione principale: l'eredità, non l'amore per Andrea
-- Assenza di rimpianto genuino per aver ucciso suo padre
+- Linguaggio in codice: "il piatto bianco" = il semifreddo, "la polvere" = la ricina
+- Progressione dalla disperazione all'azione fredda
 
-**Validità in Giudizio**: Il diario cartaceo con password è altamente probatorio. Giulia ha documentato il suo crimine completamente.
+**Per Risolvere**: I giocatori devono COLLEGARE le annotazioni criptiche del diario con le prove fisiche (impronte nel laboratorio, guanti, ricerca online, video sorveglianza) per ricostruire la catena. Il diario da solo non è sufficiente — è un indizio nascosto che diventa devastante quando combinato con le prove forensi.
+
+**Validità in Giudizio**: Il diario cartaceo con password è probatorio, ma richiede interpretazione. La combinazione diario + prove forensi costituisce la catena probatoria completa.
 
 ---
 

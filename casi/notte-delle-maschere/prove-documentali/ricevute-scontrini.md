@@ -68,7 +68,7 @@
 | **Pagamento** | Carta di credito Visa — \*\*\*\* \*\*\*\* \*\*\*\* 7823 |
 | **Intestatario carta** | DAMIANI STEFANO |
 
-> **⚠️ Nota investigativa:** Pranzo per due persone a Genova il 1° febbraio 2026 — sei giorni prima dell'omicidio. Dall'incrocio con i tabulati telefonici e le celle agganciate, il secondo commensale è stato identificato nel **Dr. Paolo Mancini**, cardiologo. È durante questo incontro che Damiani avrebbe ottenuto da Mancini le fiale di succinilcolina, con il pretesto di un utilizzo veterinario per il cane di razza del padre. Mancini ha confermato il pranzo ma nega di aver fornito farmaci. Vedi anche Ricevuta N. 7 (autonoleggio per il viaggio a Genova).
+> **⚠️ Nota investigativa:** Pranzo per due persone a Genova il 1° febbraio 2026 — sei giorni prima dell'omicidio. Dall'incrocio con i tabulati telefonici e le celle agganciate, il secondo commensale è stato identificato nel **Dott. Filippo Mancini**, Primario di Anestesiologia e Rianimazione, Ospedale San Martino di Genova. È durante questo incontro che Damiani avrebbe ottenuto da Mancini le fiale di succinilcolina, con il pretesto della soppressione umanitaria del cavallo "Libeccio" di proprietà di Damiani a Bajardo. Mancini ha confermato il pranzo ma nega di aver fornito farmaci. Vedi anche Ricevuta N. 7 (autonoleggio per il viaggio a Genova).
 
 ---
 

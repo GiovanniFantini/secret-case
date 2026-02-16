@@ -44,9 +44,11 @@ Voi dovete determinare:
 
 ## Regole Base
 
-1. **Non c'e un game master**: Tutti i giocatori hanno accesso alle stesse informazioni e collaborano per risolvere il caso. Se giocate da soli, analizzate autonomamente -- il caso e progettato per funzionare anche in solitario.
+1. **Due modalità di gioco.** Il caso può essere giocato in due modi:
+   - **Cooperativa (senza Game Master):** Tutti i giocatori hanno accesso alle stesse informazioni e collaborano per risolvere il caso. Se giocate da soli, analizzate autonomamente — il caso e progettato per funzionare anche in solitario. Questa e la modalita predefinita.
+   - **Con Game Master:** Un giocatore legge in anticipo il *documento-master* e lo *script di narrazione finale*, poi guida la sessione: distribuisce i documenti a fasi, gestisce i suggerimenti, interpreta i personaggi (opzionale), e legge la narrazione finale. Non partecipa alla risoluzione. Consultate la sezione *Guida per il Game Master* nel manuale utente.
 
-2. **Collaborazione totale**: Discutete le teorie, confrontate le osservazioni, dibattete le interpretazioni. Il dialogo e parte essenziale del gioco. In questo caso, quasi tutti mentono -- distinguere le bugie e il cuore dell'indagine.
+2. **Collaborazione totale**: Discutete le teorie, confrontate le osservazioni, dibattete le interpretazioni. Il dialogo e parte essenziale del gioco. In questo caso, quasi tutti mentono — distinguere le bugie e il cuore dell'indagine.
 
 3. **Nessun ordine obbligatorio**: Potete leggere i documenti in qualsiasi ordine vi piaccia. Tuttavia, un ordine di lettura consigliato e disponibile nel manuale utente.
 

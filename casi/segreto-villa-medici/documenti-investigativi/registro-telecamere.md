@@ -86,7 +86,7 @@
 | Ora | Camera | Soggetto | Movimento | Note |
 |---|---|---|---|---|
 | 05:30 | CAM-06 | Lucia Ferretti | Arriva dall'ingresso cucina | Inizio servizio mattutino |
-| 05:45 | CAM-05 | Dott. Bassi | Attraversa il parcheggio | Porta una borsa. Si dirige verso il fondo del parcheggio, fuori dal campo visivo della telecamera. |
+| 05:45 | CAM-05 | Dott. Bassi | Attraversa il parcheggio | Porta una borsa. Si dirige verso il fondo del parcheggio, in direzione del sentiero boschivo che costeggia la proprietà, fuori dal campo visivo della telecamera. |
 | 05:55 | CAM-05 | Dott. Bassi | Rientra dal parcheggio | Senza borsa. Rientra nella villa dall'ingresso laterale. |
 | 06:00 | CAM-04 | Dott. Bassi | Rientra dal giardino est | |
 | 07:00 | CAM-06 | Roberto Marini | Arriva dall'ingresso cucina | Inizio servizio |
@@ -108,7 +108,7 @@
 
 3. Alle ore **23:48**, con il ripristino del segnale di CAM-02, si osserva una figura maschile in giacca scura nel corridoio del piano terra, proveniente dalla direzione della biblioteca. La figura tiene qualcosa sotto il braccio sinistro. Per la limitata qualità dell'immagine in quel momento, non è stato possibile identificare con certezza né il soggetto né l'oggetto trasportato. La corporatura e l'abbigliamento sono coerenti con il Dott. Bassi, ma non è possibile escludere altri soggetti.
 
-4. Le registrazioni delle **05:45-05:55** del 16 novembre mostrano il Dott. Bassi uscire dalla villa con una borsa e rientrare senza. Non è stato possibile identificare la destinazione (fuori dal campo visivo di CAM-05).
+4. Le registrazioni delle **05:45-05:55** del 16 novembre mostrano il Dott. Bassi uscire dalla villa con una borsa e rientrare senza. Il soggetto si è diretto verso il fondo del parcheggio, in direzione del sentiero boschivo a nord della proprietà. Oltre il limite del campo visivo di CAM-05 (circa 40 metri dal parcheggio) si trovano un cassonetto per la raccolta rifiuti del Comune di Perugia e l'accesso al sentiero che scende verso il fondovalle. Una perquisizione dell'area non ha prodotto risultati (il cassonetto è stato svuotato dal servizio di raccolta la mattina del 16 novembre alle ore 06:30).
 
 5. **Padre Giacomo Silvestri** ha dichiarato di aver lasciato la villa alle 22:00. Le registrazioni mostrano che è rientrato alle 22:50 ed è rimasto nella villa fino alle 00:15. Anche questa dichiarazione è in contraddizione con le registrazioni.
 

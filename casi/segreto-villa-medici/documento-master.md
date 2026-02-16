@@ -196,7 +196,7 @@
 - Se Maldini avesse dichiarato il Caravaggio un falso, il ricavato dell'asta sarebbe stato insufficiente
 
 **Alibi dichiarato:**
-- Era al Bar Sport del paese fino alle ore 00:30
+- Era al Bar Sport del paese (Corciano, circa 4 km dalla villa, raggiungibile solo in auto) fino alle ore 00:30
 
 **Alibi reale:**
 - **Confermato dal barista Gianni Bacci, che lo ricorda chiaramente**
@@ -336,7 +336,7 @@ Nonostante il tentativo di inscenamento, Bassi ha commesso diversi errori:
 
 5. **Il diario di Maldini.** Nel diario personale della vittima, trovato nella stanza, Maldini aveva annotato le proprie scoperte e i sospetti verso Bassi.
 
-6. **La borsa alle 05:45.** Le telecamere mostrano Bassi uscire con una borsa alle 05:45 e rientrare senza alle 05:55, suggerendo che si sia disfatto di qualcosa.
+6. **La borsa alle 05:45.** Le telecamere mostrano Bassi uscire con una borsa alle 05:45 e rientrare senza alle 05:55, dirigendosi verso il sentiero boschivo oltre il parcheggio. Nell'area si trova un cassonetto comunale, svuotato dal servizio di raccolta alle 06:30 della stessa mattina — il che suggerisce che Bassi abbia deliberatamente sfruttato l'orario di raccolta per far sparire le prove.
 
 ---
 

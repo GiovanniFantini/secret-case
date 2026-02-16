@@ -24,7 +24,7 @@ Sabato 8 marzo 2025. Ore venti e trenta.
 
 La Sala Leonardo del ristorante "Il Cenacolo d'Oro" era stata preparata con la cura che si riserva alle occasioni irripetibili. Un tavolo ovale per otto, tovaglia di lino delle Fiandre, posate d'argento disposte con la precisione millimetrica che solo la grande ristorazione conosce. Alle pareti, riproduzioni rinascimentali in cornici dorate. Candelabri di cristallo che spargevano una luce calda e tremolante, come se il tempo stesso esitasse a entrare in quella stanza.
 
-Parma, fuori, viveva la sua sera di fine inverno. Ma dentro quella sala privata, al primo piano di un palazzo settecentesco affacciato su Strada della Repubblica, il mondo esterno cessava di esistere. C'erano solo otto persone, un menu degustazione in sette portate, e la promessa — o la minaccia — di una notizia che avrebbe cambiato le sorti della ristorazione italiana.
+Parma, fuori, viveva la sua sera di fine inverno. Ma dentro quella sala privata, al primo piano di un palazzo settecentesco affacciato su Via Garibaldi, il mondo esterno cessava di esistere. C'erano solo otto persone, un menu degustazione in sette portate, e la promessa — o la minaccia — di una notizia che avrebbe cambiato le sorti della ristorazione italiana.
 
 *[Pausa.]*
 

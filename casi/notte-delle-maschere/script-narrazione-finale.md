@@ -323,7 +323,38 @@ E sotto quella, forse, c'è la verità.
 
 O forse no.
 
-*[Silenzio. 10 secondi. Fine.]*
+*[Silenzio. 10 secondi.]*
+
+---
+
+## SEZIONE 7 — EPILOGO: DOPO LE MASCHERE (2 minuti)
+*[Timestamp: 15:30-17:30]*
+
+_[Tono: sobrio, fattuale, con lampi di umanità. Come un giornalista che legge un follow-up sei mesi dopo i fatti. Nessuna musica. Solo la voce.]_
+
+L'Avv. Stefano Damiani fu arrestato il 22 febbraio 2026 nella sua villa di Bajardo. Non oppose resistenza. Disse una sola frase agli agenti: "Era l'unica cosa che potevo fare." Fu condannato il 14 novembre 2027 a 28 anni di reclusione per omicidio premeditato con mezzo insidioso. Nell'armadio della villa di Bajardo, la Scientifica trovò il secondo cilindro di succinilcolina — quello non usato — e gli attrezzi di assemblaggio della penna-siringa.
+
+Il Dott. Filippo Mancini patteggiò 2 anni con sospensione condizionale per favoreggiamento colposo e sottrazione di farmaci ospedalieri. Si dimise dall'Ospedale San Martino e iniziò un percorso di riabilitazione dalla dipendenza da oppioidi presso una clinica di Torino. A chi gli chiese se si sentiva responsabile, rispose: "Mi fido ancora delle persone. Forse è questo il mio problema."
+
+Teresa Marinetti non ereditò i 21 milioni. Il testamento fu impugnato quando emerse la figlia segreta, Sofia. Dopo mesi di negoziazione, Teresa accettò una divisione consensuale. Vendette la villa di Sanremo. Si trasferì a Bordighera con Luca Parodi.
+
+Il Sen. Roberto Cabrini non si ricandidò. Iscrisse il figlio Luca in una comunità terapeutica in Trentino. Per la prima volta in vent'anni, disse la verità in pubblico.
+
+Gianluca Ferro confessò il match-fixing alla Procura Federale dello Sport. Fu radiato a vita dal calcio professionistico. Apri un centro sportivo per ragazzi a rischio a La Spezia. Camilla lo lasciò.
+
+La Prof.ssa Silvia Marchetti pubblicò un nuovo libro: "La maschera e lo specchio — Quando il sociologo diventa il proprio caso di studio." Fu il suo libro meno venduto e il più onesto.
+
+Don Marcello Ferrara, in una messa domenicale di aprile, presentò Leonardo alla sua comunità. Non come il cameriere del Grand Hotel, ma come suo figlio. La chiesa era piena. Nessuno se ne andò.
+
+Valentina Sereni tenne una conferenza stampa. Raccontò tutto: Napoli, Milano, Valentina Blanc. Poi disse: "Le donne che aiuto al Centro Rinascita sanno cosa significa ricominciare. Adesso lo sapete anche voi." Le donazioni al Centro aumentarono del 40%.
+
+*[Pausa.]*
+
+La Fondazione Luce fu sciolta. I fondi residui, depurati dagli ammanchi di Damiani, furono destinati a borse di studio per figli di detenuti.
+
+Il Grand Hotel Riviera Palace chiuse la Terrazza Belvedere al pubblico per sei mesi. Quando riaprì, avevano installato tre telecamere.
+
+*[Pausa lunga. Fine.]*
 
 ---
 

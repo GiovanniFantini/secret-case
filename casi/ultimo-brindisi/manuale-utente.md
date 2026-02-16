@@ -17,7 +17,7 @@ Avete tra le mani i fascicoli di un'indagine per omicidio. Il vostro compito è 
 2. **Perché** lo ha fatto?
 3. **Come** ha commesso il crimine?
 
-Non c'è un game master. Non c'è un ordine obbligatorio. Ma ci sono modi più efficaci di altri per affrontare il materiale. Questa guida vi propone un percorso strutturato.
+Non c'è un game master. Non c'è un ordine obbligatorio. Ma ci sono modi più efficaci di altri per affrontare il materiale. Questa guida vi propone un percorso strutturato. Se giocate **con un Game Master**, consultate la sezione dedicata in fondo.
 
 ---
 
@@ -263,6 +263,37 @@ FASE 5 — RISOLUZIONE
 - `documento-master.md` — Contiene la soluzione completa
 - `albero-decisionale.md` — Contiene le risposte corrette
 - `script-narrazione-finale.md` — Da leggere solo dopo aver aperto la busta
+
+---
+
+## Guida per il Game Master
+
+Se un giocatore assume il ruolo di **Game Master (GM)**, questa sezione fornisce le indicazioni per gestire la sessione.
+
+### Preparazione
+- Leggere il **documento-master** e lo **script di narrazione finale** prima della sessione
+- Preparare i documenti divisi per fase (vedi percorso consigliato sopra)
+- Predisporre le buste dei suggerimenti numerate
+
+### Durante la Partita
+
+**Fase 1 — Distribuzione iniziale:** Consegnare il rapporto di polizia, il report medico-legale e la timeline. Lasciare che il gruppo identifichi i sospettati e le piste principali.
+
+**Fase 2 — Approfondimento:** Quando il gruppo ha formato le prime ipotesi, distribuire le prove documentali (diario, email, ricevute/scontrini, social media, estratti conto). Lo scontrino della Trattoria da Sergio e quello del distributore sulla Via Bolognese sono prove chiave — non evidenziarli ma assicurarsi che vengano distribuiti.
+
+**Fase 3 — Spinta finale:** Se il gruppo si blocca dopo 90+ minuti, offrire il primo livello di suggerimenti. Usare domande aperte:
+- *"Avete controllato l'orario esatto sullo scontrino della Trattoria da Sergio?"*
+- *"Cosa faceva Davide nella cantina di Marco il 17 ottobre?"*
+- *"Controllate i pagamenti di Vini d'Eccellenza — c'è qualcosa di insolito?"*
+
+### Narrazione Finale
+Al termine dell'indagine, leggere lo **script di narrazione finale** ad alta voce. Il tono è da jazz noir — se possibile, mettere un sottofondo di piano jazz.
+
+### Consigli per il GM
+- Non intervenire troppo presto — lasciare che il gruppo commetta errori e impari
+- Le false piste (Elena/polizza, Giulia/eredità, Ansaldi/vino) sono forti — lasciarle lavorare
+- Tenere traccia del tempo e suggerire pause se la sessione supera le 3 ore
+- Il piacere del GM sta nel osservare il momento in cui il gruppo collega lo scontrino all'alibi
 
 ---
 

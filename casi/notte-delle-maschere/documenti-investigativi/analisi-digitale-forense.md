@@ -156,35 +156,33 @@ L'account email principale (`s.damiani@studiolegale-damiani.it`) conteneva comun
 
 ---
 
-### 5. ANALISI DEL REPERTO REP-DIG-03 — iPhone 14 di Roberto Mancini
+### 5. ANALISI DEL REPERTO REP-DIG-03 — iPhone 14 di Filippo Mancini
 
 #### 5.1 Stato del dispositivo
 
-Il dispositivo è stato consegnato volontariamente dal dott. Roberto Mancini in data 8 febbraio 2026. Lo sblocco è stato effettuato con il consenso del proprietario (codice fornito).
+Il dispositivo è stato consegnato volontariamente dal dott. Filippo Mancini in data 8 febbraio 2026. Lo sblocco è stato effettuato con il consenso del proprietario (codice fornito).
 
 #### 5.2 Conversazioni WhatsApp rilevanti
 
 **Conversazione con "Avv. Damiani" (periodo 29 gennaio — 1 febbraio 2026)**
 
+*Per la trascrizione integrale si rimanda all'Allegato D (Chat WhatsApp Damiani-Mancini). Di seguito si riportano i messaggi di maggiore rilevanza investigativa.*
+
 | Data/Ora | Mittente | Testo |
 |---|---|---|
-| 29/01, 17:30 | Damiani | "Roberto, ho bisogno di parlarti de il cavallo. È urgente." |
-| 29/01, 17:45 | Mancini | "Di che cavallo parli? Non capisco." |
-| 29/01, 17:47 | Damiani | "Il cavallo. Per il progetto di cui ti ho parlato. Hai accesso alla farmacia?" |
-| 29/01, 18:10 | Mancini | "Stefano, non so di cosa stai parlando e non voglio saperlo." |
-| 29/01, 22:05 | Damiani | "Roberto, pensaci. Sai cosa ha fatto a Elena. Sai cosa farà a tutti noi. Il cavallo è l'unica soluzione." |
-| 30/01, 08:15 | Mancini | "Non mi cercare più per questa cosa." |
-| 30/01, 14:30 | Damiani | "Ho bisogno solo del farmaco. Tu non sei coinvolto nel resto. Nessuno lo saprà mai." |
-| 30/01, 16:20 | Mancini | "..." |
-| 30/01, 19:45 | Damiani | "Grazie, Roberto. Hai fatto la cosa giusta. Per tutti noi." |
-| 01/02, 09:00 | Mancini | "Non parlarmi mai più di questa cosa. Mai più. Cancella tutto." |
-| 01/02, 09:02 | Damiani | "Cancellato. Come se non fosse mai successo." |
+| 29/01, 13:55 | Damiani | "Filippo, ho bisogno del tuo aiuto. È urgente. Libeccio sta molto male." |
+| 29/01, 14:05 | Damiani | "Mi serve la succinilcolina. Il veterinario mi aveva detto che è la soluzione più rapida e umana per un cavallo nelle sue condizioni. [...] 2 fiale da 100mg ciascuna, per sicurezza." |
+| 29/01, 14:06 | Mancini | "Stefano... sai che non è semplice. La succinilcolina è un farmaco ospedaliero, sottoposto a registro." |
+| 29/01, 14:08 | Damiani | "Lo so. Ma tu sei primario di anestesiologia. Se qualcuno può aiutarmi sei tu. Non posso lasciarlo soffrire così, Filippo." |
+| 30/01, 18:22 | Mancini | "Fatto. Ho le fiale. 2x100mg succinilcolina cloruro, lotto n. SC-2025-4471, scadenza 09/2027. Ho registrato il prelievo come 'utilizzo in sala operatoria — intervento programmato'." |
+| 30/01, 18:23 | Damiani | "Sei un angelo, Filippo. Non lo dimenticherò." |
+| 01/02, 15:22 | Damiani | "Grazie di tutto, Filippo. Un peso in meno sul cuore." |
 
-**Nota investigativa**: Il termine "il cavallo" è con ogni probabilità un riferimento in codice alla **succinilcolina** (cloruro di suxametonio), un miorilassante depolarizzante ampiamente utilizzato in medicina veterinaria equina per l'immobilizzazione e l'anestesia dei cavalli. Il messaggio di Damiani delle 19:45 del 30 gennaio ("Grazie, Roberto. Hai fatto la cosa giusta.") coincide temporalmente con l'accesso anomalo del badge del dott. Mancini alla farmacia ospedaliera (cfr. Sezione 6).
+**Nota investigativa**: La conversazione WhatsApp presenta Damiani che chiede a Mancini 2 fiale di succinilcolina con la motivazione della soppressione umanitaria del cavallo "Libeccio". Il messaggio di Mancini delle 18:22 del 30 gennaio ("Fatto. Ho le fiale.") coincide temporalmente con l'accesso anomalo del badge del dott. Mancini alla farmacia ospedaliera (cfr. Sezione 6). Si noti che il cavallo "Libeccio" risulta deceduto il 15/03/2024 (cfr. certificato veterinario Dott. Ferretti) — quasi due anni prima della richiesta.
 
 #### 5.3 Registro accessi badge — Ospedale San Martino
 
-Dal sistema informatico dell'Ospedale San Martino di Genova è stato acquisito il log degli accessi del badge n. SM-4721, intestato al dott. Roberto Mancini, alla farmacia ospedaliera:
+Dal sistema informatico dell'Ospedale San Martino di Genova è stato acquisito il log degli accessi del badge n. SM-4721, intestato al dott. Filippo Mancini, alla farmacia ospedaliera:
 
 | Data | Ora accesso | Ora uscita | Turno di servizio |
 |---|---|---|---|

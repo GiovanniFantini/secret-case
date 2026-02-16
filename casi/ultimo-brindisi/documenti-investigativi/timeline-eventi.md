@@ -60,9 +60,11 @@
 | ~20:00 | Davide Conti dichiara di arrivare alla Trattoria da Sergio, Via dei Neri 42, Firenze | Dichiarazione Davide | Da verificare |
 | ~21:00 | Marco scende in cantina per degustazione (orario stimato) | Analisi medico legale | Stimata |
 | 21:15 | Pagamento registrato a nome Davide Conti alla Trattoria da Sergio | Scontrino/ricevuta POS | Confermata |
+| ~21:15-21:30 | Davide Conti lascia la Trattoria da Sergio. Il ristoratore Sergio Papi dichiara: *"Davide ha pagato e poi ha detto che doveva andare. I suoi amici sono rimasti ancora un po', ma lui è uscito subito dopo il caffè"* | Testimonianza ristoratore (verbale supplementare) | Confermata |
+| 21:38 | Pagamento carburante a nome Davide Conti presso Stazione Esso, Via Bolognese 142, Firenze — direzione Fiesole | Scontrino distributore | Confermata |
 | 21:30 – 22:00 | Marco apre la bottiglia di Brunello 2006 e inizia a bere | Analisi medico legale | Stimata |
 | 22:00 – 23:30 | Decesso di Marco Ferretti | Perizia medico legale | Stimata (finestra temporale) |
-| 23:30 | Davide Conti dichiara di lasciare la Trattoria da Sergio | Dichiarazione Davide | Non confermata |
+| 23:30 | Davide Conti dichiara di lasciare la Trattoria da Sergio | Dichiarazione Davide | **Smentita** dal ristoratore e dallo scontrino (pagamento ore 21:15) |
 
 ### Sabato 19 ottobre 2024 — GIORNO DEL RITROVAMENTO
 
@@ -97,8 +99,10 @@
 
 | Ora | Luogo dichiarato | Conferma | Note |
 |-----|-------------------|----------|------|
-| 20:00 – 23:30 | Trattoria da Sergio, Via dei Neri 42 | Scontrino: pagamento ore 21:15 | Da verificare con documentazione |
-| 23:30 → | Casa propria | Nessuna conferma | — |
+| 20:00 – 21:15 | Trattoria da Sergio, Via dei Neri 42 | Scontrino: pagamento ore 21:15; ristoratore conferma uscita ~21:15-21:30 | Confermata fino alle 21:15 |
+| 21:38 | Stazione Esso, Via Bolognese 142 (direzione Fiesole) | Scontrino distributore | Confermata |
+| 21:38 – ? | Movimenti sconosciuti. Via Bolognese è la strada principale verso Fiesole (~8 km dal centro, 20 min) | — | Da accertare |
+| 23:30 → | Dichiara di essere stato in trattoria fino a quest'ora, poi rientro a casa a piedi | Nessuna conferma; smentita dal ristoratore | **Falso** |
 
 ### Giulia Ferretti
 

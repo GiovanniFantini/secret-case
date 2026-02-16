@@ -13,19 +13,36 @@
 
 ### Proposta di Valore Unica
 
-✅ **100% Made in Italy**: Ambientazioni italiane autentiche (Bologna, Parma, Firenze, Torino)  
+✅ **100% Made in Italy**: Ambientazioni italiane autentiche (Bologna, Firenze, Como, Perugia, Parma, Sanremo, Torino)  
 ✅ **Temi maturi**: Corruzione, giustizia sociale, crimini complessi  
 ✅ **Qualità documentale**: Livello investigativo professionale  
-✅ **Giocabilità solitaria o in gruppo**: 1-4 giocatori, 2-4 ore  
+✅ **Due modalità di gioco**: Cooperativa (senza Game Master) o guidata (con Game Master) — versatile per ogni gruppo  
+✅ **Giocabilità solitaria o in gruppo**: 1-5 giocatori, 2-6 ore  
+✅ **Tre livelli di difficoltà**: Intermedio, Avanzato, Esperto — progressione naturale  
 ✅ **Contenuto originale italiano**: Non una traduzione, ma storie scritte per il pubblico italiano  
-✅ **Prezzo accessibile**: €24.90-29.90 nel segmento premium (competitor internazionali: €17-45)
+✅ **Prezzo accessibile**: €24.90-29.90 nel segmento premium (competitor internazionali: €17-45)  
+✅ **7 casi disponibili al lancio**: Collezione ampia fin dal Day 1
 
 ### Obiettivi Anno 1 (scenario realistico)
 
-- **Vendite**: 800-1.200 copie (130-200/caso × 6 casi)
-- **Fatturato**: €20.000-30.000
+- **Vendite**: 900-1.400 copie (130-200/caso × 7 casi)
+- **Fatturato**: €22.000-35.000
 - **Margine lordo**: 35-45% (costi stampa e spedizione per piccoli volumi)
 - **Brand awareness**: 3.000-5.000 follower social, 30-50 recensioni positive
+
+### Catalogo e Livelli di Difficoltà
+
+| Caso | Difficoltà | Durata | Livello |
+|------|-----------|--------|---------|
+| Eredità Villa Rossi | 7/10 | 2–4 ore | Intermedio |
+| L'Ultima Cena | 7.5/10 | 2–4 ore | Intermedio |
+| Il Prezzo del Silenzio | 7/10 | 2–4 ore | Intermedio |
+| L'Ultimo Brindisi | 7.5/10 | 3–5 ore | Avanzato |
+| Il Segreto della Villa Medici | 7.5/10 | 2–4 ore | Avanzato |
+| La Cattedra Vuota | 8.5/10 | 4–6 ore | Esperto |
+| La Notte delle Maschere | 9.5/10 | 3–5 ore | Esperto |
+
+> **Strategia di ingresso consigliata ai giocatori**: iniziare con un caso Intermedio, poi Avanzato, infine Esperto.
 
 ---
 
@@ -182,9 +199,10 @@ Margine lordo a regime:   €11.98-13.98 (48-56%)
 - **Budget**: €1.000
 
 **2. Lancio Limitato (Settimane 5-8)**
-- 🎯 Release 2 casi migliori: **L'Ultima Cena** + **La Cattedra Vuota**
+- 🎯 Release 2 casi migliori: **La Notte delle Maschere** (caso più complesso e immersivo, 9.3/10) + **L'Ultimo Brindisi** (caso elegante e ben calibrato, 9.0/10)
 - 🎯 Prezzo lancio: €22.90 (-8%, early bird)
 - 🎯 Limited edition: 100 copie numerate per caso
+- 🎯 Highlight marketing: **"Due modalità di gioco — cooperativa o con Game Master"**
 - 🎯 Social ads targeting: true crime, escape room, board games
 - 🎯 PR: contatto blog/podcast italiani (MeridioNerd, Fringe)
 - **Budget**: €1.500
@@ -205,7 +223,7 @@ Margine lordo a regime:   €11.98-13.98 (48-56%)
 ### Fase 2: SCALE-UP (Mesi 4-6)
 
 #### Obiettivi
-- Release collezione completa (6 casi)
+- Release collezione completa (7 casi)
 - Raggiungere 350 copie totali vendute (realistico) / 500 (ottimistico)
 - Attivare partnerships retail + Amazon.it
 - Target fatturato: €6.200-12.450
@@ -328,13 +346,15 @@ SETUP INIZIALE:
 ├─ Sito web e-commerce (Shopify):         €800   (✅ confermato)
 ├─ Account venditore Amazon.it:           €39/mese (€468/anno)
 ├─ Branding (logo, packaging design):     €1.200
+├─ Asset visivi (illustrazioni docs,      €800-1.200  (✨ NUOVO: copertine casi, mappe,
+│  foto scena crimine stilizzate)                       icone documenti, grafiche social)
 ├─ Legal (partita IVA, contratti):        €500
 ├─ Inventory buffer:                      €1.500
-└─ TOTALE:                                €7.068
+└─ TOTALE:                                €7.868-8.268
 
 CAPITALE CIRCOLANTE (6 mesi):             €8.000
 
-INVESTIMENTO TOTALE:                      €15.068
+INVESTIMENTO TOTALE:                      €15.868-16.268
 ```
 
 **Break-even**: Mese 10-14 (720-960 copie vendute)  
@@ -426,7 +446,7 @@ INVESTIMENTO TOTALE:                      €15.068
 ### Anno 1: Core Collection
 
 **Q1-Q2**
-- ✅ Release 6 casi esistenti (corretti)
+- ✅ Release 7 casi esistenti (tutti revisionati e corretti)
 - ✅ Perfezionamento user experience
 - ✅ Raccolta feedback
 
@@ -643,6 +663,7 @@ Blog/canale YouTube dedicato a **crimini italiani famosi** (caso Yara, mostro di
 
 ### Fattori di Successo Chiave
 
+✅ **Due modalità di gioco**: Cooperativa (senza GM, self-guided) o con Game Master guidato — più versatile di UCF  
 ✅ **Contenuto originale italiano**: Unico prodotto non tradotto con ambientazioni autentiche  
 ✅ **Trend favorevole**: Boom true crime + board games renaissance confermato dai dati  
 ✅ **Scalabilità**: Modello replicabile (digital, subscription, licensing)  
@@ -667,7 +688,7 @@ Blog/canale YouTube dedicato a **crimini italiani famosi** (caso Yara, mostro di
 
 ---
 
-**INVESTIMENTO INIZIALE RICHIESTO**: €15.068  
+**INVESTIMENTO INIZIALE RICHIESTO**: €15.868-16.268  
 **PAYBACK PERIOD**: 14-18 mesi (realistico) / 10-12 mesi (ottimistico)  
 **ROI ANNO 1**: ~2% (realistico) / ~48% (ottimistico)  
 **ROI ANNO 2 (atteso)**: 60-100%  

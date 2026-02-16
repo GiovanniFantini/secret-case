@@ -20,7 +20,9 @@ State per immergervi in un'indagine criminale affascinante che vi porterà nel c
 
 ## Regole Base
 
-1. **Non c'è un game master**: Tutti i giocatori hanno accesso alle stesse informazioni e collaborano per risolvere il caso. Se siete in 1 persona, potete comunque giocare - semplicemente analizzate da soli.
+1. **Due modalità di gioco.** Il caso può essere giocato in due modi:
+   - **Cooperativa (senza Game Master):** Tutti i giocatori hanno accesso alle stesse informazioni e collaborano per risolvere il caso. Se siete in 1 persona, potete comunque giocare — semplicemente analizzate da soli. Questa è la modalità predefinita.
+   - **Con Game Master:** Un giocatore (o l'organizzatore) legge in anticipo il *documento-master* e lo *script di narrazione finale*, poi guida la sessione: distribuisce i documenti a fasi, gestisce i suggerimenti, interpreta i personaggi (opzionale), e legge la narrazione finale. Non partecipa alla risoluzione. Consultate la sezione *Guida per il Game Master* nel manuale utente.
 
 2. **Collaborazione totale**: Discutete le teorie, confontate le osservazioni, dibattete le interpretazioni. Il dialogo è parte essenziale del gioco.
 

@@ -150,7 +150,7 @@ Sala rettangolare di circa **6 x 5 metri** (30 mq), situata al primo piano del r
   POSTO │ COMMENSALE             │ RUOLO
   ══════╪════════════════════════╪══════════════════════════════
     1   │ Massimo FONTANA        │ Critico gastronomico (VITTIMA)
-    2   │ Claudia FONTANA        │ Moglie della vittima
+    2   │ Claudia FONTANA        │ Figlia della vittima
     3   │ Franco COLOMBO         │ Imprenditore, amico di famiglia
     4   │ Elena MANCINI          │ Giornalista enogastronomica
     5   │ Avv. Giorgio MANCINI   │ Avvocato di Fontana
@@ -158,7 +158,7 @@ Sala rettangolare di circa **6 x 5 metri** (30 mq), situata al primo piano del r
     7   │ Marco PELLEGRINI       │ Chef stellato, collega
     8   │ Isabella PELLEGRINI    │ Moglie di Marco Pellegrini
   ──────┼────────────────────────┼──────────────────────────────
-   N/A  │ Chef Davide RIZZOLI    │ In cucina (non seduto a tavola)
+   N/A  │ Chef Tommaso RIZZOLI   │ In cucina (non seduto a tavola)
    N/A  │ Ilaria MURA         │ Sommelier (in servizio)
    N/A  │ Lucia FERRETTI         │ Cameriera (in servizio)
 ```

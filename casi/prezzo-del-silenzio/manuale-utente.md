@@ -17,7 +17,7 @@ Avete tra le mani i fascicoli di un'indagine per presunto suicidio che nasconde 
 2. **Perché** lo ha fatto?
 3. **Come** ha commesso il crimine?
 
-Non c'è un game master. Non c'è un ordine obbligatorio. Ma ci sono modi più efficaci di altri per affrontare il materiale. Questa guida vi propone un percorso strutturato.
+Non c'è un game master. Non c'è un ordine obbligatorio. Ma ci sono modi più efficaci di altri per affrontare il materiale. Questa guida vi propone un percorso strutturato. Se giocate **con un Game Master**, consultate la sezione dedicata in fondo.
 
 ---
 
@@ -275,6 +275,37 @@ FASE 5 — RISOLUZIONE
 - `documento-master.md` — Contiene la soluzione completa
 - `albero-decisionale.md` — Contiene le risposte corrette
 - `script-narrazione-finale.md` — Da leggere solo dopo aver aperto la busta
+
+---
+
+## Guida per il Game Master
+
+Se un giocatore assume il ruolo di **Game Master (GM)**, questa sezione fornisce le indicazioni per gestire la sessione.
+
+### Preparazione
+- Leggere il **documento-master** e lo **script di narrazione finale** prima della sessione
+- Preparare i documenti divisi per fase (vedi percorso consigliato sopra)
+- Predisporre le buste dei suggerimenti numerate
+
+### Durante la Partita
+
+**Fase 1 — Distribuzione iniziale:** Consegnare il rapporto di polizia, il report medico-legale e la mappa della scena. Lasciare che il gruppo decida se si tratta davvero di un suicidio — questo è il primo enigma del caso.
+
+**Fase 2 — Approfondimento:** Quando il gruppo sospetta che sia un omicidio, distribuire i verbali degli interrogatori e le prove documentali. Osservare se si concentrano sul movente finanziario o personale.
+
+**Fase 3 — Spinta finale:** Se il gruppo si blocca dopo 90+ minuti, offrire il primo livello di suggerimenti. Usare domande aperte:
+- *"Avete controllato chi aveva accesso al computer della vittima e perché?"*
+- *"Le ricerche web — su quale browser sono state fatte? Perché proprio quello?"*
+- *"Chi aveva il potere di escludere il proprio dispositivo dal monitoraggio IT?"*
+
+### Narrazione Finale
+Al termine dell'indagine, leggere lo **script di narrazione finale** ad alta voce. Usare un tono sobrio — il caso tratta temi delicati.
+
+### Consigli per il GM
+- Non intervenire troppo presto — lasciare che il gruppo commetta errori e impari
+- La chiave del caso è il passaggio da "suicidio" a "omicidio" — non accelerare questa scoperta
+- Tenere traccia del tempo e suggerire pause se la sessione supera le 3 ore
+- Il piacere del GM sta nel osservare il momento in cui il gruppo capisce la verità
 
 ---
 

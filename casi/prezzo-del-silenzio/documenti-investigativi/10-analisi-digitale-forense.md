@@ -145,7 +145,7 @@ Su ordinanza del PM (N. 2025/1287), è stato analizzato il computer dell'ufficio
 | 15/01/2025 | 16:45 | "come cancellare file Mac definitivamente" | Chrome |
 | 15/01/2025 | 17:10 | "data retention policy documenti aziendali GDPR" | Chrome |
 
-> **Nota dell'analista:** Le ricerche si concentrano su tre aree tematiche: balistica forense, farmacologia (midazolam) e cancellazione di dati digitali. Sono alternate a ricerche di natura aziendale/normativa (farmacovigilanza, data retention, sperimentazioni cliniche). Le ricerche sono state effettuate su Chrome, browser non predefinito aziendale (l'azienda utilizza Edge).
+> **Nota dell'analista:** Le ricerche si concentrano su tre aree tematiche: balistica forense, farmacologia (midazolam) e cancellazione di dati digitali. Sono alternate a ricerche di natura aziendale/normativa (farmacovigilanza, data retention, sperimentazioni cliniche). Le ricerche sono state effettuate su **Chrome**, browser non predefinito aziendale (l'azienda utilizza Edge come browser gestito). Da verifiche con il reparto IT di PharmaNova, risulta che i dispositivi assegnati alla dirigenza (CEO, CFO, COO) erano stati **esclusi dal sistema di monitoraggio centralizzato** su richiesta dello stesso Dott. Ferro, con motivazione "riservatezza strategica" (ticket IT #2024-0892 del 14/03/2024). L'uso di Chrome come browser secondario non registrato nel sistema MDM aziendale suggerisce una consapevolezza deliberata del soggetto nel separare le ricerche compromettenti dall'attività lavorativa tracciata.
 
 | Data | Evento | Ora |
 |------|--------|-----|

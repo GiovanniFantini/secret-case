@@ -8,6 +8,9 @@
 - **Titolo del Caso**: La Cattedra Vuota
 - **Tipo di Crimine**: Omicidio per avvelenamento (simulato come morte naturale)
 - **Ambientazione**: Bologna, Facoltà di Giurisprudenza dell'Università di Bologna — Febbraio 2025
+- **Difficoltà**: Alta (8.5/10)
+- **Durata stimata**: 4–6 ore
+- **Giocatori consigliati**: 3–5
 - **Tema**: Potere, abuso in ambito accademico, omertà istituzionale, giustizia morale vs. giustizia legale
 
 ## La Vittima

@@ -58,8 +58,23 @@ Sei persone sono sotto indagine. Ciascuna aveva un legame con la vittima e una p
 ## Regole del Gioco
 
 ### Formato di Gioco
-- **Nessun Game Master richiesto.** Questo e un gioco completamente collaborativo. Tutti i giocatori hanno accesso a tutti i documenti e lavorano insieme per risolvere il caso.
-- **Tutti i documenti sono accessibili fin dall'inizio.** Non ci sono restrizioni su quali documenti leggere e quando. Tuttavia, vi consigliamo di seguire l'ordine suggerito nel *Manuale dell'Investigatore* (`manuale-utente.md`) per un'esperienza ottimale.
+
+Questo caso può essere giocato in **due modalità**:
+
+**Modalità 1 — Cooperativa (senza Game Master)**
+Tutti i giocatori partecipano alla pari. Nessuno conosce la soluzione in anticipo. I documenti vengono messi a disposizione del gruppo, che collabora per analizzarli e risolvere il caso insieme. I suggerimenti sono disponibili in buste numerate da aprire quando il gruppo si blocca. Questa è la modalità predefinita.
+
+**Modalità 2 — Con Game Master**
+Un giocatore (o l'organizzatore) assume il ruolo di Game Master (GM). Il GM legge in anticipo il *documento-master* e lo *script di narrazione finale*, poi guida la sessione:
+- Distribuisce i documenti a fasi, controllando il ritmo dell'indagine
+- Interpreta i personaggi leggendo gli interrogatori ad alta voce (opzionale)
+- Gestisce i suggerimenti, decidendo quando offrirli al gruppo
+- Legge la narrazione finale al termine della partita
+- Non partecipa alla risoluzione — il suo ruolo è guidare e osservare
+
+> Per la prima partita, la modalità cooperativa è perfetta. Per sessioni con nuovi giocatori, un veterano come GM offre un'esperienza più coinvolgente e immersiva. Consultate la sezione *Guida per il Game Master* nel manuale utente.
+
+- **Tutti i documenti sono accessibili fin dall'inizio** (in modalità cooperativa). In modalità con GM, il Game Master decide quanti documenti distribuire per fase.
 - **Nessun limite di tempo obbligatorio.** Le 2-4 ore sono una stima. Prendetevi tutto il tempo necessario.
 
 ### Le Tre Fasi dell'Indagine

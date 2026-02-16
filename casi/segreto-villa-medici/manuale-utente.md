@@ -220,6 +220,37 @@ Quando sei pronto a formulare la tua soluzione:
 
 ---
 
+## Guida per il Game Master
+
+Se un giocatore assume il ruolo di **Game Master (GM)**, questa sezione fornisce le indicazioni per gestire la sessione.
+
+### Preparazione
+- Leggere il **documento-master** e lo **script di narrazione finale** prima della sessione
+- Preparare i documenti divisi per fase (vedi percorso consigliato sopra)
+- Predisporre le buste dei suggerimenti numerate
+
+### Durante la Partita
+
+**Fase 1 — Distribuzione iniziale:** Consegnare il rapporto di polizia, le foto della scena del crimine e la mappa. Lasciare che il gruppo si orienti. Dopo 15-20 minuti, distribuire i verbali degli interrogatori.
+
+**Fase 2 — Approfondimento:** Quando il gruppo ha formato le prime ipotesi, distribuire le prove documentali (email, estratti conto, ricevute, registro telecamere). Osservare quali piste stanno seguendo.
+
+**Fase 3 — Spinta finale:** Se il gruppo si blocca dopo 90+ minuti, offrire il primo livello di suggerimenti. Usare domande aperte per guidare senza rivelare:
+- *"Avete guardato con attenzione il registro delle telecamere?"*
+- *"Cosa sapete sulla formazione di ciascun sospetto?"*
+- *"Qualcuno ha ricostruito i movimenti tra le 5:00 e le 6:00 del mattino?"*
+
+### Narrazione Finale
+Al termine dell'indagine, leggere lo **script di narrazione finale** ad alta voce. Se possibile, abbassare le luci e usare un tono drammatico. Il GM può anche interpretare i diversi personaggi durante la lettura degli interrogatori.
+
+### Consigli per il GM
+- Non intervenire troppo presto — lasciare che il gruppo commetta errori e impari
+- Se il gruppo si divide in fazioni con teorie diverse, è un buon segno — incoraggiare il dibattito
+- Tenere traccia del tempo e suggerire pause se la sessione supera le 3 ore
+- Il piacere del GM sta nel osservare le reazioni del gruppo alla verità
+
+---
+
 ## Note Finali
 
 Ricorda: un buon investigatore non è quello che trova la risposta per primo, ma quello che riesce a dimostrare la propria teoria con prove inconfutabili. Non basta sapere *chi* ha commesso il crimine: devi capire *perché* e *come*, e soprattutto devi poterlo provare.

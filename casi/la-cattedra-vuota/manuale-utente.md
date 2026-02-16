@@ -304,7 +304,12 @@ la-cattedra-vuota/
 
 ## 6. GUIDA PER IL GAME MASTER
 
-Se un giocatore assume il ruolo di game master (opzionale):
+Questo caso supporta due modalita di gioco: **cooperativa** (tutti alla pari, senza GM) e **con Game Master**. Se un giocatore assume il ruolo di GM, queste sono le istruzioni per gestire una sessione coinvolgente.
+
+### Preparazione del GM
+- Leggere il **documento-master** e lo **script di narrazione finale** prima della sessione
+- Familiarizzare con i 6 sospettati e i loro segreti (tutti mentono per ragioni diverse)
+- Preparare i documenti divisi per le 5 fasi del percorso di lettura consigliato
 
 ### Domande Guidate (Senza Spoiler)
 

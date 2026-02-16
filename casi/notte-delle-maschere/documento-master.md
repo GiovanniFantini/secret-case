@@ -165,6 +165,7 @@
 - Ha assemblato la penna-siringa nella sua villa di Bajardo
 - Ha eseguito l'omicidio sulla terrazza approfittando del momento di isolamento della vittima
 - Ha sfruttato la condizione cardiaca di Marinetti per mascherare l'omicidio
+- **Conoscenza della struttura:** In 22 anni come consulente legale del Gruppo Marinetti Hotels, Damiani aveva gestito contratti assicurativi, verifiche di conformità antincendio e cause civili per l'hotel — tutte attività che gli avevano dato piena conoscenza della planimetria, delle uscite di servizio e della disposizione delle telecamere di sicurezza. Sapeva che la Terrazza Belvedere e la scala di servizio esterna non erano coperte dal sistema di videosorveglianza.
 - Funzione narrativa: L'insospettabile — l'uomo più vicino alla vittima, l'ultimo di cui si sospetterebbe. La sua "lealtà ventennale" è la maschera perfetta.
 
 ---
@@ -583,7 +584,7 @@ In 12 giorni ha pianificato e eseguito l'omicidio.
    - Documento probatorio: `tabulati-telefonici.md` — chiamata Damiani→Mancini 29/01 ore 13:42
    - Documento probatorio: `whatsapp-damiani-mancini.md` — messaggi successivi: "Grazie Filippo, il veterinario dice che è l'unica soluzione umana"
 
-4. **1° febbraio** — Pranzo a Genova (Trattoria del Porto, Via San Lorenzo). Mancini consegna 2 fiale di succinilcolina (100 mg/fiala) in una busta. Nessuna registrazione formale del prelievo dall'armadio farmacologico dell'ospedale.
+4. **1° febbraio** — Pranzo a Genova (Trattoria del Porto, Via al Molo 8). Mancini consegna 2 fiale di succinilcolina (100 mg/fiala) in una busta. Ha registrato il prelievo nel sistema ospedaliero come "utilizzo in sala operatoria — intervento programmato".
    - Documento probatorio: `ricevute-scontrini.md` — scontrino Trattoria del Porto, 01/02/2026, 2 coperti, €67.50
    - Documento probatorio: `analisi-digitale-forense.md` — registrazioni farmacia ospedaliera: anomalia stock succinilcolina (2 fiale mancanti, non registrate)
 

@@ -115,11 +115,11 @@ Se usate formato digitale:
 
 ## 3. GUIDA PER IL GAME MASTER
 
-Se avete un game master (o uno dei giocatori assume questo ruolo):
+Questo caso supporta due modalità di gioco: **cooperativa** (tutti alla pari, senza GM) e **con Game Master**. Se un giocatore assume il ruolo di GM, queste sono le istruzioni per gestire una sessione coinvolgente.
 
 ### Ruolo del GM
 
-Il GM NON rivela la soluzione, ma:
+Il GM legge in anticipo il **documento-master** e lo **script di narrazione finale**, poi guida la sessione:
 - Fa domande guidate se i giocatori si bloccano
 - Mantiene il timing entro 3-4 ore
 - Legge lo Script di Narrazione Finale

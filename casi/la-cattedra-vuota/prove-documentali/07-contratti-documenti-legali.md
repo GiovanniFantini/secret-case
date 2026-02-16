@@ -7,7 +7,7 @@
 **Classificazione:** Riservato — Atti d'indagine
 **Data di acquisizione:** 12-18 febbraio 2025
 **Acquisiti da:** Sost. Proc. Dr.ssa Francesca Liguori
-**Riferimento:** Morte di Prof. Renato Marini (nato il 14/03/1962 — deceduto l'8-9/02/2025)
+**Riferimento:** Morte di Prof. Renato Marini (nato il 14/06/1962 — deceduto l'8-9/02/2025)
 
 ---
 

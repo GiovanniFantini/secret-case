@@ -31,6 +31,7 @@ La sera del 15 giugno, durante una cena di gala nel giardino di Villa Rossi per 
 - **Alibi dichiarato**: "Ero in camera a cambiarmi d'abito quando è successo. Ho sentito le grida e sono corsa giù"
 - **Ruolo reale**: **COLPEVOLE PRINCIPALE** - Ha preparato il veleno e lo ha aggiunto al dessert
 - **Dettagli**: Ha accesso al laboratorio della casa (Andrea aveva attrezzature per hobby scientifico). Ha ricercato la ricina online. Era in posizione ideale per manipolare il piatto prima che venisse servito.
+- **Background rilevante**: Giulia ha studiato Chimica e Tecnologie Farmaceutiche per due anni all'Università di Milano prima di cambiare facoltà e laurearsi in Economia e Finanza. Questo background scientifico, unito alla sua familiarità con il laboratorio del padre, le ha fornito le competenze necessarie per l'estrazione della tossina. Ha inoltre utilizzato la bilancia di precisione di Andrea (presente nel laboratorio) per dosare accuratamente la ricina.
 
 ### Sospetto 2 - Francesca Morelli (34 anni)
 - **Relazione con la vittima**: Seconda moglie di Andrea, molto più giovane
@@ -106,7 +107,7 @@ Giulia si è ossessionata con l'idea che Francesca lo stesse manipolando (cosa p
 
 1. **Preparazione (2 settimane prima)**: Giulia ha ricercato online come estrarre ricina dai semi di ricino. Ha ordinato i semi su un sito di giardinaggio usando una carta prepagata e un indirizzo falso.
 
-2. **Preparazione del veleno (1 settimana prima)**: Nel laboratorio privato di Andrea (una stanza con attrezzature scientifiche dilettantistiche), Giulia ha estratto la ricina. Era una procedura rischiosa ma fattibile. Ha usato guanti e maschere per proteggersi.
+2. **Preparazione del veleno (1 settimana prima)**: Nel laboratorio privato di Andrea (una stanza con attrezzature scientifiche dilettantistiche), Giulia ha estratto la ricina. Grazie ai suoi studi universitari in chimica farmaceutica (2 anni prima di cambiare facoltà), conosceva i fondamenti dell'estrazione organica. Ha completato la sua preparazione consultando fonti sul dark web con istruzioni dettagliate. Ha usato guanti e maschere FFP3 per proteggersi e la bilancia analitica di precisione del laboratorio per dosare la polvere.
 
 3. **Occultamento**: Ha nascosto la ricina in polvere in un piccolo flacone nel suo astuccio di cosmetici nella camera da letto.
 
@@ -141,13 +142,13 @@ Giulia si è ossessionata con l'idea che Francesca lo stesse manipolando (cosa p
 5. **Indizio di collegamento - Motivo testamentario**: Email del legale Fermi (accidentalmente allegata a un documento condiviso) mostra che il nuovo testamento avrebbe ridotto la quota di Giulia da 400 a 50 milioni
    - Trovabile in: `prove-documentali/email-fermi-testamento.md`
 
-6. **Indizio di collegamento - Comportamento sospetto**: Nelle registrazioni video della cena (riprese da una telecamera di sicurezza sul giardino), Giulia entra in cucina per soli 2 minuti, il tempo esatto per avvelenare il piatto. Ciò contraddice la sua affermazione di essere in camera a cambiarsi
+6. **Indizio di collegamento - Comportamento sospetto**: Nelle registrazioni video della cena (riprese da una telecamera di sicurezza sul giardino), Giulia entra in cucina per soli 2 minuti, il tempo esatto per avvelenare il piatto. Ciò contraddice la sua affermazione di essere in camera a cambiarsi. **Nota**: Le telecamere coprono il giardino e gli ingressi ma NON l'interno della cucina — le telecamere interne erano state disattivate la settimana precedente durante i lavori di ristrutturazione del sistema domotico, come confermato dalla ditta Tecnoservice Srl.
    - Trovabile in: `elementi-digitali/trascrizione-video-sorveglianza.md`
 
 7. **Indizio di collegamento - Testimonianza di Sofia**: Sofia ricorda di aver lasciato il piatto di dessert sulla vaniglia in cucina, coperto. Quando è tornata con il secondo piatto, nessuno era stato in cucina eccetto "una persona che rapidamente era passata"
    - Trovabile in: `documenti-investigativi/verbale-interrogatorio-sofia-bianchi.md`
 
-8. **Indizio nascosto - Diario di Giulia**: Nel diario privato di Giulia, messaggi cifrati e cancellazioni mostrano la pianificazione mentale di "proteggere la famiglia dalla manipolazione di F."
+8. **Indizio nascosto - Diario di Giulia**: Nel diario privato di Giulia, annotazioni criptiche e pagine strappate suggeriscono una progressione psicologica dalla scoperta della modifica testamentaria all'azione. Riferimenti velati a "il piatto bianco", "la polvere", e "proteggere la famiglia dalla manipolazione di F." richiedono interpretazione e collegamento con le altre prove.
    - Trovabile in: `prove-documentali/estratti-diario-giulia.md`
 
 9. **Indizio nascosto - Messaggio WhatsApp cancellato**: Nella cronologia telefonica di Giulia (recuperata in sede), un messaggio a un'amica: "Se non faccio qualcosa, perderò tutto. Non posso permetterlo." (Inviato 5 giorni prima del delitto)
