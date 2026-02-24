@@ -148,7 +148,7 @@ Tommaso e la **falsa pista del figlio rinnegato**: il suo odio per il padre era 
 
 La ricca paziente manipolata — una donna con i mezzi economici per procurarsi qualsiasi cosa e con ragioni profonde per detestare chi la stava ingannando. Tuttavia:
 
-- Beatrice aveva assunto **zolpidem (sonnifero)** alle 20:30, come da prescrizione serale. Le analisi tossicologiche confermano che era in stato di **incoscienza farmacologica** dalle 21:00 in poi.
+- Beatrice aveva assunto **Lorazepam 2,5 mg (ansiolitico/sedativo)** alle 20:25, come da prescrizione serale. Le analisi tossicologiche confermano che era in stato di **incoscienza farmacologica** dalle 21:00 in poi.
 - A sessantotto anni e con le sue condizioni fisiche, **non aveva la capacita materiale** di preparare e somministrare il veleno, tanto meno in stato di sedazione.
 - Beatrice non sapeva nemmeno di essere manipolata: la sua **ignara fiducia** nel Dr. Venturi era totale, il che esclude qualsiasi premeditazione.
 

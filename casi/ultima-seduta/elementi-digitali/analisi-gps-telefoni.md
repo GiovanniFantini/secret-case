@@ -35,14 +35,14 @@ I dati di posizionamento sono stati acquisiti da tre fonti complementari:
 ┌─────────────────────────────────────────────────────┐
 │                                                       │
 │   ┌─────────┐  ┌──────────┐  ┌──────────────────┐   │
-│   │Reception│  │  Cucina  │  │   Sala della     │   │
-│   │ AP-01   │  │  (no AP) │  │   Quiete         │   │
-│   └─────────┘  └──────────┘  │   AP-02          │   │
+│   │Reception│  │  Cucina  │  │ Biblioteca /     │   │
+│   │ AP-01   │  │  (no AP) │  │ Soggiorno        │   │
+│   └─────────┘  └──────────┘  │ AP-06            │   │
 │                               └──────────────────┘   │
 │   ┌──────────────────┐  ┌──────────────────────┐     │
-│   │ Studi medici     │  │ Archivio /           │     │
-│   │ Postaz. inferm.  │  │ Amministrazione      │     │
-│   │ AP-02            │  │ AP-03 + Telecamera   │     │
+│   │ Refettorio /     │  │ Archivio /           │     │
+│   │ Sala pranzo      │  │ Amministrazione      │     │
+│   │ Alloggio custode │  │ AP-03 + Telecamera   │     │
 │   └──────────────────┘  └──────────────────────┘     │
 │                                                       │
 └─────────────────────────────────────────────────────┘
@@ -53,16 +53,33 @@ I dati di posizionamento sono stati acquisiti da tre fonti complementari:
 ┌─────────────────────────────────────────────────────┐
 │                                                       │
 │   ┌──────────────────┐  ┌──────────────────────┐     │
+│   │ Sala della       │  │ Studi medici /       │     │
+│   │ Quiete           │  │ Uffici medici        │     │
+│   │ AP-02            │  │ AP-02                │     │
+│   └──────────────────┘  │ Postaz. inferm.      │     │
+│                          │ Farmacia             │     │
+│   ┌──────────────────┐  └──────────────────────┘     │
+│   │ Corridoio 1P     │                                │
+│   │ + Telecamera     │                                │
+│   └──────────────────┘                                │
+│                                                       │
+└─────────────────────────────────────────────────────┘
+```
+
+### Secondo Piano (2P)
+```
+┌─────────────────────────────────────────────────────┐
+│                                                       │
+│   ┌──────────────────┐  ┌──────────────────────┐     │
 │   │ Ala pazienti     │  │ Ala ospiti /         │     │
 │   │ Suite Aldrovandi │  │ personale            │     │
 │   │ AP-04            │  │ AP-05               │     │
 │   └──────────────────┘  │ Camera Magnani       │     │
 │                          │ Camera Tommaso       │     │
-│   ┌──────────────────┐  │ Camera Brambilla     │     │
-│   │ Biblioteca /     │  │ Camera Stein         │     │
-│   │ Soggiorno        │  │ Camera Coletti       │     │
-│   │ AP-06            │  └──────────────────────┘     │
-│   └──────────────────┘                                │
+│                          │ Camera Brambilla     │     │
+│                          │ Camera Stein         │     │
+│                          │ Camera Coletti       │     │
+│                          └──────────────────────┘     │
 │                                                       │
 └─────────────────────────────────────────────────────┘
 ```
@@ -74,14 +91,14 @@ I dati di posizionamento sono stati acquisiti da tre fonti complementari:
 ### 3.1 DOTT.SSA MARTA COLETTI
 
 **Dispositivo:** Samsung Galaxy S22 — Operatore: Vodafone
-**Camera assegnata:** Camera ospiti n. 3, primo piano (AP-05)
+**Camera assegnata:** Camera ospiti n. 3, secondo piano (AP-05)
 
 | Orario | Posizione GPS | Access Point Wi-Fi | Area stimata | Precisione |
 |--------|--------------|-------------------|-------------|-----------|
-| 18:00 - 20:10 | 45°43'18.2"N, 10°04'52.1"E | AP-02 | Piano terra — Studi medici | ±15 m |
+| 18:00 - 20:10 | 45°43'18.2"N, 10°04'52.1"E | AP-02 | Primo piano — Studi medici | ±15 m |
 | **20:15 - 22:20** | **45°43'18.4"N, 10°04'51.8"E** | **AP-03** | **Piano terra — Archivio** | **±12 m** |
-| 22:25 - 22:40 | Spostamento rilevato | AP-03 → AP-05 | Transito verso primo piano | — |
-| 22:45 - 06:00 | 45°43'18.1"N, 10°04'52.4"E | AP-05 | Primo piano — Camera ospiti | ±15 m |
+| 22:25 - 22:40 | Spostamento rilevato | AP-03 → AP-05 | Transito verso secondo piano | — |
+| 22:45 - 06:00 | 45°43'18.1"N, 10°04'52.4"E | AP-05 | Secondo piano — Camera ospiti | ±15 m |
 
 > **Analisi:** La Dott.ssa Coletti risulta stabilmente nell'area dell'archivio (piano terra, ala amministrativa) dalle 20:15 alle 22:20. Questo dato è **confermato** dalla telecamera di sicurezza dell'archivio. La distanza dall'archivio alla cucina è di circa 35 metri, e dalla cucina alla Sala della Quiete ulteriori 15 metri. Sarebbe stato impossibile raggiungere queste aree e tornare senza essere ripresa dalla telecamera dell'archivio in uscita. **Alibi confermato.**
 
@@ -90,78 +107,78 @@ I dati di posizionamento sono stati acquisiti da tre fonti complementari:
 ### 3.2 TOMMASO VENTURI
 
 **Dispositivo:** iPhone 15 Pro — Operatore: WindTre
-**Camera assegnata:** Camera ospiti n. 1, primo piano (AP-05)
+**Camera assegnata:** Camera ospiti n. 1, secondo piano (AP-05)
 
 | Orario | Posizione GPS | Access Point Wi-Fi | Area stimata | Precisione |
 |--------|--------------|-------------------|-------------|-----------|
 | 18:00 - 19:30 | 45°43'18.0"N, 10°04'52.0"E | AP-01 | Piano terra — Reception | ±12 m |
-| 19:30 - 19:45 | Spostamento rilevato | AP-01 → AP-05 | Transito verso primo piano | — |
-| **19:45 - 01:30** | **45°43'18.3"N, 10°04'52.6"E** | **AP-05** | **Primo piano — Camera ospiti** | **±15 m** |
-| 01:30 - 07:00 | 45°43'18.3"N, 10°04'52.6"E | AP-05 | Primo piano — Camera ospiti | ±15 m |
+| 19:30 - 19:45 | Spostamento rilevato | AP-01 → AP-05 | Transito verso secondo piano | — |
+| **19:45 - 01:30** | **45°43'18.3"N, 10°04'52.6"E** | **AP-05** | **Secondo piano — Camera ospiti** | **±15 m** |
+| 01:30 - 07:00 | 45°43'18.3"N, 10°04'52.6"E | AP-05 | Secondo piano — Camera ospiti | ±15 m |
 
-> **Analisi:** Il dispositivo di Tommaso resta nella sua camera ospiti al primo piano senza interruzioni dalle 19:45 alle 01:30. I log del software DaVinci Resolve confermano attività di editing continua con salvataggi ogni 5 minuti. Il traffico Wi-Fi mostra un utilizzo di banda elevato e costante, coerente con operazioni di rendering video. **Nessuna interruzione rilevata. Alibi confermato.**
+> **Analisi:** Il dispositivo di Tommaso resta nella sua camera ospiti al secondo piano senza interruzioni dalle 19:45 alle 01:30. I log del software DaVinci Resolve confermano attività di editing continua con salvataggi ogni 5 minuti. Il traffico Wi-Fi mostra un utilizzo di banda elevato e costante, coerente con operazioni di rendering video. **Nessuna interruzione rilevata. Alibi confermato.**
 
 ---
 
 ### 3.3 PROF. RICCARDO STEIN
 
 **Dispositivo:** Samsung Galaxy S23 — Operatore: Deutsche Telekom (roaming)
-**Camera assegnata:** Camera ospiti n. 4, primo piano (AP-05)
+**Camera assegnata:** Camera ospiti n. 4, secondo piano (AP-05)
 
 | Orario | Posizione GPS | Access Point Wi-Fi | Area stimata | Precisione |
 |--------|--------------|-------------------|-------------|-----------|
-| 18:00 - 19:50 | 45°43'18.2"N, 10°04'52.2"E | AP-02 | Piano terra — Studi medici | ±15 m |
-| 19:50 - 20:00 | Spostamento rilevato | AP-02 → AP-06 | Transito verso primo piano | — |
-| **20:00 - 00:00** | **45°43'18.5"N, 10°04'52.8"E** | **AP-06** | **Primo piano — Biblioteca** | **±12 m** |
+| 18:00 - 19:50 | 45°43'18.2"N, 10°04'52.2"E | AP-02 | Primo piano — Studi medici | ±15 m |
+| 19:50 - 20:00 | Spostamento rilevato | AP-02 → AP-06 | Transito verso secondo piano | — |
+| **20:00 - 00:00** | **45°43'18.5"N, 10°04'52.8"E** | **AP-06** | **Piano terra — Biblioteca** | **±12 m** |
 | 00:05 - 00:15 | Spostamento rilevato | AP-06 → AP-05 | Transito nel corridoio | — |
-| 00:15 - 07:00 | 45°43'18.3"N, 10°04'52.5"E | AP-05 | Primo piano — Camera ospiti | ±15 m |
+| 00:15 - 07:00 | 45°43'18.3"N, 10°04'52.5"E | AP-05 | Secondo piano — Camera ospiti | ±15 m |
 
-> **Analisi:** Il Prof. Stein risulta nell'area della biblioteca al primo piano per l'intera fascia critica (20:00 - 00:00). L'attività di rete mostra navigazione intermittente e la chiamata alla linea di assistenza per il gioco d'azzardo (20:30, durata 22 min). Tuttavia, si noti che la biblioteca è al primo piano e la cucina è al piano terra: Stein avrebbe potuto scendere al piano terra, ma ciò avrebbe comportato uno spostamento rilevabile dall'access point (passaggio da AP-06 a AP-02). **Non risultano cambi di access point tra le 20:00 e le 00:00.** Alibi sostanziale.
+> **Analisi:** Il Prof. Stein risulta nell'area della biblioteca al piano terra per l'intera fascia critica (20:00 - 00:00). L'attività di rete mostra navigazione intermittente e la chiamata alla linea di assistenza per il gioco d'azzardo (20:30, durata 22 min). Tuttavia, si noti che la cucina si trova nella stessa area del piano terra, ma in una zona coperta da un access point diverso (AP-01): uno spostamento dalla biblioteca (AP-06) alla cucina avrebbe comportato un passaggio rilevabile da AP-06 a AP-01. **Non risultano cambi di access point tra le 20:00 e le 00:00.** Alibi sostanziale.
 
 ---
 
 ### 3.4 LUCA BRAMBILLA
 
 **Dispositivo:** iPhone 15 Pro Max — Operatore: Vodafone
-**Camera assegnata:** Camera ospiti n. 2, primo piano (AP-05)
+**Camera assegnata:** Camera ospiti n. 2, secondo piano (AP-05)
 
 | Orario | Posizione GPS | Access Point Wi-Fi | Area stimata | Precisione |
 |--------|--------------|-------------------|-------------|-----------|
 | 18:00 - 20:10 | 45°43'18.1"N, 10°04'52.0"E | AP-01 / AP-02 | Piano terra — varie aree | ±15 m |
-| 20:10 - 20:15 | Spostamento rilevato | AP-02 → AP-05 | Transito verso primo piano | — |
-| **20:15 - 23:30** | **45°43'18.3"N, 10°04'52.5"E** | **AP-05** | **Primo piano — Camera ospiti** | **±15 m** |
-| 23:30 - 07:00 | 45°43'18.3"N, 10°04'52.5"E | AP-05 | Primo piano — Camera ospiti | ±15 m |
+| 20:10 - 20:15 | Spostamento rilevato | AP-02 → AP-05 | Transito verso secondo piano | — |
+| **20:15 - 23:30** | **45°43'18.3"N, 10°04'52.5"E** | **AP-05** | **Secondo piano — Camera ospiti** | **±15 m** |
+| 23:30 - 07:00 | 45°43'18.3"N, 10°04'52.5"E | AP-05 | Secondo piano — Camera ospiti | ±15 m |
 
-> **Analisi:** Il dispositivo di Brambilla resta stabilmente al primo piano (area camere ospiti) dalle 20:15 alle 23:30. I tabulati telefonici confermano **7 chiamate di lavoro consecutive** nella stessa fascia oraria. Il microfono nascosto di Tommaso Venturi nel corridoio del primo piano ha registrato la voce di Brambilla provenire dalla sua camera. **Alibi tripamente confermato (GPS/Wi-Fi + tabulati + registrazione audio).**
+> **Analisi:** Il dispositivo di Brambilla resta stabilmente al secondo piano (area camere ospiti) dalle 20:15 alle 23:30. I tabulati telefonici confermano **7 chiamate di lavoro consecutive** nella stessa fascia oraria. Il microfono nascosto di Tommaso Venturi nel corridoio del secondo piano ha registrato la voce di Brambilla provenire dalla sua camera. **Alibi tripamente confermato (GPS/Wi-Fi + tabulati + registrazione audio).**
 
 ---
 
 ### 3.5 SARA MAGNANI
 
 **Dispositivo:** iPhone 14 — Operatore: TIM
-**Camera assegnata:** Camera personale infermiera, primo piano (AP-05)
+**Camera assegnata:** Camera personale infermiera, secondo piano (AP-05)
 
 | Orario | Posizione GPS | Access Point Wi-Fi | Area stimata | Precisione |
 |--------|--------------|-------------------|-------------|-----------|
-| 18:00 - 19:00 | 45°43'18.4"N, 10°04'52.7"E | AP-04 | Primo piano — Ala pazienti | ±15 m |
-| 19:00 - 20:00 | 45°43'18.2"N, 10°04'52.1"E | AP-02 | Piano terra — Ala terapeutica / Cucina | ±20 m |
-| 20:00 - 20:15 | 45°43'18.3"N, 10°04'52.5"E | AP-05 | Primo piano — Camera Magnani | ±15 m |
-| 20:15 - 20:28 | 45°43'18.2"N, 10°04'52.2"E | AP-02 | Piano terra — **Postazione infermieristica** | ±15 m |
-| **20:28** | **45°43'18.2"N, 10°04'52.2"E** | **AP-02** | **Piano terra — Postaz. infermieristica** | **±15 m** |
+| 18:00 - 19:00 | 45°43'18.4"N, 10°04'52.7"E | AP-04 | Secondo piano — Ala pazienti | ±15 m |
+| 19:00 - 20:00 | 45°43'18.2"N, 10°04'52.1"E | AP-02 | Primo piano — Ala terapeutica / Cucina | ±20 m |
+| 20:00 - 20:15 | 45°43'18.3"N, 10°04'52.5"E | AP-05 | Secondo piano — Camera Magnani | ±15 m |
+| 20:15 - 20:28 | 45°43'18.2"N, 10°04'52.2"E | AP-02 | Primo piano — **Postazione infermieristica** | ±15 m |
+| **20:28** | **45°43'18.2"N, 10°04'52.2"E** | **AP-02** | **Primo piano — Postaz. infermieristica** | **±15 m** |
 | **20:28 in poi** | **NESSUN DATO GPS** | **OFFLINE** | **POSIZIONE SCONOSCIUTA** | **—** |
 | | | | | |
-| 06:15 (17/01) | 45°43'18.3"N, 10°04'52.5"E | AP-05 | Primo piano — Camera Magnani | ±15 m |
+| 06:15 (17/01) | 45°43'18.3"N, 10°04'52.5"E | AP-05 | Secondo piano — Camera Magnani | ±15 m |
 
 > **DATO CRITICO — ANALISI DETTAGLIATA:**
 >
-> Il telefono di Sara Magnani fornisce l'ultimo fix GPS alle ore **20:28** del 16 gennaio 2026, con coordinate corrispondenti all'area della postazione infermieristica al piano terra. Al momento dell'ultimo rilevamento:
+> Il telefono di Sara Magnani fornisce l'ultimo fix GPS alle ore **20:28** del 16 gennaio 2026, con coordinate corrispondenti all'area della postazione infermieristica al primo piano. Al momento dell'ultimo rilevamento:
 >
 > - **Livello batteria: 73%**
 > - **Stato connessione Wi-Fi: connesso ad AP-02**
 > - **Stato connessione cellulare: agganciato a BTS BS-MI-0247**
 > - **Ultimo SMS ricevuto: 20:28, dalla sorella Giulia ("Come stai?")**
 >
-> Dopo le 20:28, il dispositivo **non trasmette più alcun segnale** — né GPS, né Wi-Fi, né cellulare. Il telefono si riattiva alle **06:15 del 17 gennaio** nella camera di Magnani al primo piano, con una batteria al **71%**.
+> Dopo le 20:28, il dispositivo **non trasmette più alcun segnale** — né GPS, né Wi-Fi, né cellulare. Il telefono si riattiva alle **06:15 del 17 gennaio** nella camera di Magnani al secondo piano, con una batteria al **71%**.
 >
 > **Valutazione tecnica:**
 >
@@ -188,14 +205,14 @@ I dati di posizionamento sono stati acquisiti da tre fonti complementari:
 ### 3.6 BEATRICE ALDROVANDI
 
 **Dispositivo:** iPhone 12 Mini — Operatore: TIM
-**Alloggio:** Suite paziente, primo piano (AP-04)
+**Alloggio:** Suite paziente, secondo piano (AP-04)
 
 | Orario | Posizione GPS | Access Point Wi-Fi | Area stimata | Precisione |
 |--------|--------------|-------------------|-------------|-----------|
-| 18:00 - 20:25 | 45°43'18.4"N, 10°04'52.7"E | AP-04 | Primo piano — Suite Aldrovandi | ±15 m |
-| **20:30 - 08:00** | **45°43'18.4"N, 10°04'52.7"E** | **AP-04** | **Primo piano — Suite Aldrovandi** | **±15 m** |
+| 18:00 - 20:25 | 45°43'18.4"N, 10°04'52.7"E | AP-04 | Secondo piano — Suite Aldrovandi | ±15 m |
+| **20:30 - 08:00** | **45°43'18.4"N, 10°04'52.7"E** | **AP-04** | **Secondo piano — Suite Aldrovandi** | **±15 m** |
 
-> **Analisi:** Il dispositivo di Beatrice Aldrovandi resta nella sua suite al primo piano per l'intera notte, senza alcun cambiamento di posizione. Il telefono è connesso ma non mostra attività utente dopo le 20:30, coerente con la somministrazione del sedativo notturno (Lorazepam 2,5 mg alle 20:25, come documentato nel registro farmacologico). A 68 anni e con diagnosi di deterioramento cognitivo, sotto l'effetto del sedativo, la Sig.ra Aldrovandi non avrebbe potuto lasciare la sua suite. **Alibi confermato.**
+> **Analisi:** Il dispositivo di Beatrice Aldrovandi resta nella sua suite al secondo piano per l'intera notte, senza alcun cambiamento di posizione. Il telefono è connesso ma non mostra attività utente dopo le 20:30, coerente con la somministrazione del sedativo notturno (Lorazepam 2,5 mg alle 20:25, come documentato nel registro farmacologico). A 68 anni e con diagnosi di deterioramento cognitivo, sotto l'effetto del sedativo, la Sig.ra Aldrovandi non avrebbe potuto lasciare la sua suite. **Alibi confermato.**
 
 ---
 
@@ -206,10 +223,10 @@ I dati di posizionamento sono stati acquisiti da tre fonti complementari:
 
 | Orario | Posizione GPS | Access Point Wi-Fi | Area stimata | Precisione |
 |--------|--------------|-------------------|-------------|-----------|
-| 18:00 - 18:45 | 45°43'18.2"N, 10°04'52.1"E | AP-02 | Piano terra — Studi medici | ±15 m |
+| 18:00 - 18:45 | 45°43'18.2"N, 10°04'52.1"E | AP-02 | Primo piano — Studi medici | ±15 m |
 | 18:45 - 20:50 | Varie posizioni | AP-01 / AP-02 | Piano terra — varie aree | ±20 m |
-| 20:50 - 21:05 | 45°43'18.2"N, 10°04'52.1"E | AP-02 | Piano terra — Ala terapeutica | ±15 m |
-| **21:05 - 21:12** | **45°43'18.2"N, 10°04'52.0"E** | **AP-02** | **Piano terra — Sala della Quiete** | **±12 m** |
+| 20:50 - 21:05 | 45°43'18.2"N, 10°04'52.1"E | AP-02 | Primo piano — Ala terapeutica | ±15 m |
+| **21:05 - 21:12** | **45°43'18.2"N, 10°04'52.0"E** | **AP-02** | **Primo piano — Sala della Quiete** | **±12 m** |
 | **21:12 in poi** | **45°43'18.2"N, 10°04'52.0"E** | **AP-02** | **Sala della Quiete — NESSUNA ATTIVITA' UTENTE** | **±12 m** |
 
 > **Analisi:** Il Dott. Venturi entra nella Sala della Quiete alle 21:05 (confermato dal log del tastierino elettronico — codice 7493#). L'ultima interazione con il telefono avviene alle 21:12 (lettura di un'email). Dopo tale orario, il telefono resta acceso e connesso ma non viene più toccato, coerente con il decesso della vittima stimato tra le 21:15 e le 22:00. Il dispositivo è rimasto nella Sala della Quiete fino al suo sequestro il mattino seguente.
@@ -221,7 +238,7 @@ I dati di posizionamento sono stati acquisiti da tre fonti complementari:
 ```
 CLINICA MENTE CHIARA — POSIZIONI ALLE 20:30
 
-PRIMO PIANO:
+SECONDO PIANO:
 ┌────────────────────────────────────────────────────────┐
 │                                                          │
 │   [ALDROVANDI]        [TOMMASO]  [BRAMBILLA]            │
@@ -230,25 +247,33 @@ PRIMO PIANO:
 │   CONFERMATO          AP-05     AP-05                    │
 │                       CONFERM.  CONFERMATO               │
 │                                                          │
-│   [STEIN]             [COLETTI rientro ~22:25]          │
-│   Biblioteca          [MAGNANI rientro ~06:15]          │
-│   AP-06               AP-05                              │
-│   CONFERMATO                                             │
+│                       [COLETTI rientro ~22:25]          │
+│                       [MAGNANI rientro ~06:15]          │
+│                       AP-05                              │
+│                                                          │
+└────────────────────────────────────────────────────────┘
+
+PRIMO PIANO:
+┌────────────────────────────────────────────────────────┐
+│                                                          │
+│   [SALA DELLA QUIETE]          [Post. inferm.]          │
+│   AP-02                         AP-02                    │
+│   [VENTURI entra 21:05]        [MAGNANI ultimo          │
+│                                  segnale 20:28]          │
+│                                 POI: ???                  │
 │                                                          │
 └────────────────────────────────────────────────────────┘
 
 PIANO TERRA:
 ┌────────────────────────────────────────────────────────┐
 │                                                          │
-│   [Reception]    [Cucina]      [SALA DELLA QUIETE]      │
-│   AP-01          (non coperta)  AP-02                    │
-│                                 [VENTURI entra 21:05]    │
+│   [Reception]    [Cucina]      [STEIN]                  │
+│   AP-01          (non coperta)  Biblioteca - AP-06       │
+│                                 CONFERMATO               │
 │                                                          │
-│   [Post. inferm.]              [COLETTI]                │
-│   AP-02                         Archivio - AP-03         │
-│   [MAGNANI ultimo                CONFERMATA da camera    │
-│    segnale 20:28]                                        │
-│   POI: ???                                               │
+│                                [COLETTI]                │
+│                                 Archivio - AP-03         │
+│                                 CONFERMATA da camera     │
 │                                                          │
 └────────────────────────────────────────────────────────┘
 ```
@@ -284,10 +309,10 @@ PIANO TERRA:
 | Soggetto | Posizione | Verifica | Poteva accedere alla cucina? |
 |----------|-----------|----------|------------------------------|
 | Coletti | Archivio (PT) | Telecamera | **No** — ripresa continuamente |
-| Tommaso | Camera ospiti (1P) | Wi-Fi + log DaVinci | **Improbabile** — traffico continuo |
-| Stein | Biblioteca (1P) | Wi-Fi + tabulati | **Teoricamente sì** — ma nessun cambio AP |
-| Brambilla | Camera ospiti (1P) | Wi-Fi + tabulati + microfono | **No** — confermato da 3 fonti |
-| Aldrovandi | Suite (1P) | Wi-Fi + sedativo | **No** — sotto sedativo |
+| Tommaso | Camera ospiti (2P) | Wi-Fi + log DaVinci | **Improbabile** — traffico continuo |
+| Stein | Biblioteca (PT) | Wi-Fi + tabulati | **Teoricamente sì** — ma nessun cambio AP |
+| Brambilla | Camera ospiti (2P) | Wi-Fi + tabulati + microfono | **No** — confermato da 3 fonti |
+| Aldrovandi | Suite (2P) | Wi-Fi + sedativo | **No** — sotto sedativo |
 | **Magnani** | **SCONOSCIUTA** | **Telefono spento** | **Sì — posizione non tracciabile** |
 
 ---

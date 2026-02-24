@@ -31,7 +31,7 @@ Tutti i dispositivi sono stati acquisiti secondo le procedure di catena di custo
 
 ### 2.1 Descrizione del Sistema
 
-La porta della "Sala della Quiete" (studio terapeutico privato del Dott. Venturi, piano terra) è dotata di una serratura elettronica con tastierino numerico a 4 cifre, modello **KABA Paxos Compact**, installata nel marzo 2021. Il sistema registra internamente:
+La porta della "Sala della Quiete" (studio terapeutico privato del Dott. Venturi, primo piano) è dotata di una serratura elettronica con tastierino numerico a 4 cifre, modello **KABA Paxos Compact**, installata nel marzo 2021. Il sistema registra internamente:
 - Data e ora di ogni inserimento di codice
 - Codice inserito (crittografato)
 - Esito dell'operazione (accesso concesso / negato)
@@ -88,11 +88,11 @@ La Clinica Mente Chiara è dotata di un sistema Wi-Fi composto da un router prin
 | Access Point | Posizione | Copertura principale |
 |-------------|-----------|---------------------|
 | AP-01 | Piano terra — Reception / Ingresso | Hall, reception, corridoio principale |
-| AP-02 | Piano terra — Ala terapeutica | Sala della Quiete, studi medici, cucina |
+| AP-02 | Primo piano — Ala terapeutica | Sala della Quiete, studi medici, postaz. infermieristica |
 | AP-03 | Piano terra — Archivio e amministrazione | Archivio, ufficio direttrice, sala riunioni |
-| AP-04 | Primo piano — Ala pazienti | Camere pazienti, suite Aldrovandi |
-| AP-05 | Primo piano — Ala ospiti / personale | Camere ospiti, stanza Magnani, stanza Brambilla |
-| AP-06 | Primo piano — Biblioteca e soggiorno | Biblioteca, sala lettura, terrazza coperta |
+| AP-04 | Secondo piano — Ala pazienti | Camere pazienti, suite Aldrovandi |
+| AP-05 | Secondo piano — Ala ospiti / personale | Camere ospiti, stanza Magnani, stanza Brambilla |
+| AP-06 | Piano terra — Biblioteca e soggiorno | Biblioteca, sala lettura, terrazza coperta |
 
 > **Nota sulla precisione:** La localizzazione basata su access point Wi-Fi consente di determinare l'**area** del dispositivo con una precisione di circa 10-20 metri. Non è possibile distinguere con certezza stanze adiacenti servite dallo stesso access point.
 
@@ -120,7 +120,7 @@ Di seguito il riepilogo delle connessioni Wi-Fi per ciascun dispositivo identifi
 | Fascia oraria | Access Point prevalente | Area stimata | Attività di rete |
 |--------------|------------------------|-------------|-----------------|
 | 18:00 - 19:30 | AP-01 | Reception / ingresso | Navigazione, streaming |
-| **19:45 - 01:30** | **AP-05** | **Camera ospiti — 1° piano** | **Traffico ad alta banda continuo (editing video, rendering)** |
+| **19:45 - 01:30** | **AP-05** | **Camera ospiti — 2° piano** | **Traffico ad alta banda continuo (editing video, rendering)** |
 | 01:30 - 07:00 | AP-05 | Camera ospiti | Inattivo (standby) |
 
 > **Nota:** Il laptop di Tommaso Venturi mostra un utilizzo continuo e ad alta intensità di banda tra le 19:45 e le 01:30, coerente con attività di editing video e rendering. I log applicativi del software DaVinci Resolve (estratti in sede di analisi forense del dispositivo) confermano sessioni di editing attive con salvataggi automatici ogni 5 minuti nell'intero arco temporale. **Nessuna interruzione significativa rilevata.**
@@ -145,10 +145,10 @@ Di seguito il riepilogo delle connessioni Wi-Fi per ciascun dispositivo identifi
 | Fascia oraria | Access Point prevalente | Area stimata | Attività di rete |
 |--------------|------------------------|-------------|-----------------|
 | 18:00 - 20:10 | AP-01 / AP-02 | Reception / ala terapeutica | Navigazione, chiamate VoIP |
-| **20:15 - 23:30** | **AP-05** | **Camera ospiti — 1° piano** | **Chiamate vocali continue (rete cellulare + Wi-Fi Calling)** |
+| **20:15 - 23:30** | **AP-05** | **Camera ospiti — 2° piano** | **Chiamate vocali continue (rete cellulare + Wi-Fi Calling)** |
 | 23:35 - 07:00 | AP-05 | Camera ospiti — Brambilla | Inattivo (standby) |
 
-> **Nota:** Il dispositivo di Brambilla risulta nella camera ospiti dalle 20:15 alle 23:30 con attività vocale continua. I tabulati telefonici (vedi documento separato) confermano chiamate ininterrotte in questa fascia oraria. Ulteriore conferma: il microfono nascosto nel corridoio del primo piano (installato da Tommaso Venturi — vedi sezione 6) ha registrato frammenti delle conversazioni di Brambilla.
+> **Nota:** Il dispositivo di Brambilla risulta nella camera ospiti dalle 20:15 alle 23:30 con attività vocale continua. I tabulati telefonici (vedi documento separato) confermano chiamate ininterrotte in questa fascia oraria. Ulteriore conferma: il microfono nascosto nel corridoio del secondo piano (installato da Tommaso Venturi — vedi sezione 6) ha registrato frammenti delle conversazioni di Brambilla.
 
 ---
 
@@ -163,7 +163,7 @@ Di seguito il riepilogo delle connessioni Wi-Fi per ciascun dispositivo identifi
 | **20:28** | **AP-02** | **Postazione infermieristica** | **ULTIMO PING — BATTERIA AL 73%** |
 | **20:28 in poi** | **OFFLINE** | **NESSUN DATO** | **NESSUNA ATTIVITÀ** |
 
-> **DATO CRITICO:** Il telefono della Sig.ra Magnani risulta **OFFLINE** dalle ore 20:28 del 16 gennaio 2026. L'ultimo contatto con la rete Wi-Fi (e con la rete cellulare — vedi tabulati) risale alle 20:28, quando il dispositivo era connesso all'access point AP-02 (postazione infermieristica, piano terra). Il livello di batteria rilevato dall'ultimo handshake Wi-Fi era del **73%**. Il dispositivo non si è più riconnesso alla rete fino alle **06:15 del 17 gennaio 2026**, quando risulta nuovamente attivo nell'area dell'AP-05 (camera Magnani, primo piano), con batteria al **71%**.
+> **DATO CRITICO:** Il telefono della Sig.ra Magnani risulta **OFFLINE** dalle ore 20:28 del 16 gennaio 2026. L'ultimo contatto con la rete Wi-Fi (e con la rete cellulare — vedi tabulati) risale alle 20:28, quando il dispositivo era connesso all'access point AP-02 (postazione infermieristica, primo piano). Il livello di batteria rilevato dall'ultimo handshake Wi-Fi era del **73%**. Il dispositivo non si è più riconnesso alla rete fino alle **06:15 del 17 gennaio 2026**, quando risulta nuovamente attivo nell'area dell'AP-05 (camera Magnani, secondo piano), con batteria al **71%**.
 >
 > **Analisi tecnica:** Un telefono con il 73% di batteria residua **non si spegne spontaneamente** per esaurimento energetico. Lo spegnimento o la disattivazione delle connessioni wireless (modalità aereo o spegnimento manuale) in queste condizioni è da considerarsi un'**azione volontaria dell'utente**. Il calo di soli 2 punti percentuali di batteria (da 73% a 71%) in circa 10 ore è coerente con un dispositivo **spento** (non semplicemente in modalità aereo, dove il consumo sarebbe stato maggiore).
 
@@ -415,9 +415,9 @@ Su richiesta della Procura della Repubblica di Brescia, è stata effettuata un'a
 
 ## 7. Registrazioni Audio/Video — Dispositivi di Tommaso Venturi
 
-### 7.1 Microfono Nascosto — Corridoio Primo Piano
+### 7.1 Microfono Nascosto — Corridoio Secondo Piano
 
-Nell'ambito dell'analisi dei dispositivi di Tommaso Venturi (figlio della vittima, regista), è stato rinvenuto un registratore audio digitale **Zoom H1n** posizionato nel corridoio del primo piano, all'interno di un vaso decorativo, nei pressi delle camere ospiti. Il dispositivo è stato configurato per la registrazione continua a partire dalle ore **18:00 del 16 gennaio 2026**.
+Nell'ambito dell'analisi dei dispositivi di Tommaso Venturi (figlio della vittima, regista), è stato rinvenuto un registratore audio digitale **Zoom H1n** posizionato nel corridoio del secondo piano, all'interno di un vaso decorativo, nei pressi delle camere ospiti. Il dispositivo è stato configurato per la registrazione continua a partire dalle ore **18:00 del 16 gennaio 2026**.
 
 **Registrazioni rilevanti:**
 

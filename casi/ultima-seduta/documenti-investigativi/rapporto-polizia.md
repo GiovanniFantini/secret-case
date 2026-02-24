@@ -32,7 +32,7 @@ Alle ore 10:45, con la parziale attenuazione dei fenomeni atmosferici, il sottos
 
 ## 2. DESCRIZIONE DELLA STRUTTURA
 
-La Clinica Mente Chiara è ospitata all'interno di un antico monastero benedettino del XVI secolo, successivamente ristrutturato e adibito a clinica psichiatrica privata di alto livello. La struttura sorge in posizione isolata nella parte nord-occidentale di Monte Isola, accessibile tramite un sentiero sterrato di circa 800 metri dal centro abitato di Siviano.
+La Clinica Mente Chiara è ospitata all'interno di un antico monastero francescano del XVI secolo, successivamente ristrutturato e adibito a clinica psichiatrica privata di alto livello. La struttura sorge in posizione isolata nella parte nord-occidentale di Monte Isola, accessibile tramite un sentiero sterrato di circa 800 metri dal centro abitato di Siviano.
 
 L'edificio si sviluppa su tre piani:
 

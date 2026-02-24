@@ -28,11 +28,11 @@ Non nel senso che non la si veda piu — la si vede, certo, una sagoma scura nel
 
 Gennaio 2026. L'acqua del lago era nera e immobile, come un vetro che non rifletteva nulla. Il vento di tramontana portava un freddo che entrava nelle ossa, un freddo umido che sapeva di muschio, di legna bagnata, di acqua profonda. Sulle sponde, le luci di Sulzano e Sale Marasino tremavano in lontananza — troppo lontane per essere un conforto, abbastanza vicine per ricordare che il mondo continuava ad esistere, da qualche parte, oltre il lago.
 
-In cima alla collina, dove un tempo i monaci olivetani pregavano e il silenzio era una regola, sorgeva la Clinica Mente Chiara. Un monastero del Cinquecento convertito in centro psichiatrico d'eccellenza — muri di pietra spessi un metro, corridoi ad arco, finestre strette come feritoie, un chiostro interno dove d'estate fiorivano i glicini e d'inverno il gelo cristallizzava le pozzanghere. Un luogo dove le persone venivano a guarire la mente. O almeno, cosi si diceva.
+In cima alla collina, dove un tempo i frati francescani pregavano e il silenzio era una regola, sorgeva la Clinica Mente Chiara. Un monastero del Cinquecento convertito in centro psichiatrico d'eccellenza — muri di pietra spessi un metro, corridoi ad arco, finestre strette come feritoie, un chiostro interno dove d'estate fiorivano i glicini e d'inverno il gelo cristallizzava le pozzanghere. Un luogo dove le persone venivano a guarire la mente. O almeno, cosi si diceva.
 
 *[Pausa.]*
 
-Quella sera — la sera del 7 gennaio — una tempesta si era abbattuta sull'isola. L'ultimo traghetto era partito alle diciotto. Il lago era impraticabile. Nessuno poteva arrivare. Nessuno poteva andarsene. La clinica era un mondo chiuso, sigillato dall'acqua e dal vento, avvolto nell'odore di pietra fredda, di camomilla che bolliva nella cucina, di farmaci e di lenzuola pulite.
+Quella sera — la sera del 16 gennaio — una tempesta si era abbattuta sull'isola. L'ultimo traghetto era partito alle diciotto. Il lago era impraticabile. Nessuno poteva arrivare. Nessuno poteva andarsene. La clinica era un mondo chiuso, sigillato dall'acqua e dal vento, avvolto nell'odore di pietra fredda, di camomilla che bolliva nella cucina, di farmaci e di lenzuola pulite.
 
 Sei persone, un corridoio, una porta chiusa a chiave.
 
@@ -90,7 +90,7 @@ All'interno di quelle mura monastiche, e nei corridoi silenziosi della Clinica M
 
 *[Pausa breve.]*
 
-**Beatrice Aldrovandi** aveva sessantotto anni e una fortuna che non bastava a comprarle cio che voleva davvero: la propria mente integra. Imprenditrice tessile in pensione, vedova, una donna che aveva comandato fabbriche e trattato con banchieri, ora ridotta a cercare nelle parole di un medico la speranza che i ricordi non la abbandonassero. Venturi le aveva promesso che la sua terapia mnemonica avrebbe rallentato il declino cognitivo. Le aveva preso centinaia di migliaia di euro. Le aveva dato, in cambio, una speranza costruita sulla menzogna. Ma Beatrice, quella sera, non sapeva nulla di tutto questo. Aveva preso il suo zolpidem alle venti e trenta, come ogni sera, e alle ventuno dormiva del sonno artificiale dei sedativi. Il mondo poteva crollare: lei non lo avrebbe sentito.
+**Beatrice Aldrovandi** aveva sessantotto anni e una fortuna che non bastava a comprarle cio che voleva davvero: la propria mente integra. Imprenditrice tessile in pensione, vedova, una donna che aveva comandato fabbriche e trattato con banchieri, ora ridotta a cercare nelle parole di un medico la speranza che i ricordi non la abbandonassero. Venturi le aveva promesso che la sua terapia mnemonica avrebbe rallentato il declino cognitivo. Le aveva preso centinaia di migliaia di euro. Le aveva dato, in cambio, una speranza costruita sulla menzogna. Ma Beatrice, quella sera, non sapeva nulla di tutto questo. Aveva preso il suo Lorazepam alle venti e trenta, come ogni sera, e alle ventuno dormiva del sonno artificiale dei sedativi. Il mondo poteva crollare: lei non lo avrebbe sentito.
 
 *[Pausa breve.]*
 
@@ -124,7 +124,7 @@ Il figlio con le telecamere nascoste — il ragazzo che filmava tutto, che aveva
 
 *[Pausa breve.]*
 
-La ricca paziente con i mezzi per comprare qualsiasi cosa — persino un veleno esotico. Ma Beatrice Aldrovandi alle ventuno era incosciente, abbattuta dallo zolpidem che prendeva ogni sera. Il suo corpo di sessantottenne sedato non avrebbe potuto alzarsi dal letto, attraversare la clinica, preparare una tossina e tornare indietro. Era la vittima di Venturi, non la sua carnefice.
+La ricca paziente con i mezzi per comprare qualsiasi cosa — persino un veleno esotico. Ma Beatrice Aldrovandi alle ventuno era incosciente, abbattuta dal Lorazepam che prendeva ogni sera. Il suo corpo di sessantottenne sedato non avrebbe potuto alzarsi dal letto, attraversare la clinica, preparare una tossina e tornare indietro. Era la vittima di Venturi, non la sua carnefice.
 
 *[Pausa breve.]*
 
@@ -206,7 +206,7 @@ Doveva agire.
 
 Sara ordino online un kit per la preparazione del fugu — il pesce palla, la delicatezza giapponese che contiene la tetrodotossina, uno dei veleni piu potenti della natura. Lo fece consegnare a casa sua a meta dicembre. Studio. Preparo. Con la stessa precisione con cui preparava le medicazioni, con la stessa cura con cui misurava i dosaggi dei farmaci, estrai la tossina e la riduse in polvere nel mortaio della cucina.
 
-La sera del 7 gennaio, Sara preparo la camomilla del Dr. Venturi come faceva ogni sera. L'acqua che bolle. I fiori secchi. Il miele. E poi, con un gesto che non tremo, la polvere di tetrodotossina che si dissolse nel liquido caldo senza lasciare traccia. Nessun odore. Nessun colore. Nessun sapore che la camomilla non potesse coprire.
+La sera del 16 gennaio, Sara preparo la camomilla del Dr. Venturi come faceva ogni sera. L'acqua che bolle. I fiori secchi. Il miele. E poi, con un gesto che non tremo, la polvere di tetrodotossina che si dissolse nel liquido caldo senza lasciare traccia. Nessun odore. Nessun colore. Nessun sapore che la camomilla non potesse coprire.
 
 *[Pausa.]*
 

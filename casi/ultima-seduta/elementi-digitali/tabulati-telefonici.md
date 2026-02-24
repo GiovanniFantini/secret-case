@@ -173,7 +173,7 @@ I tabulati comprendono:
 
 > **Nota:** L'utenza di Luca Brambilla mostra un'attività telefonica **estremamente intensa** nella fascia serale, con chiamate continuative dalle **20:15 alle 23:30**. Tutte le chiamate sono verso numeri verificabili e verificati: il CEO di NeuroPharma (Ing. Marchetti), la sede aziendale, e l'AIFA (Agenzia Italiana del Farmaco). Ogni interlocutore ha confermato le chiamate e i contenuti (discussioni su strategie aziendali, report trimestrali, questioni regolatorie).
 >
-> **Conferma aggiuntiva:** Il microfono nascosto nel corridoio del primo piano (installato da Tommaso Venturi) ha catturato frammenti audio delle conversazioni di Brambilla, udibili attraverso la porta della sua camera. L'analisi vocale conferma la voce di Brambilla e il contenuto coerente con telefonate di lavoro.
+> **Conferma aggiuntiva:** Il microfono nascosto nel corridoio del secondo piano (installato da Tommaso Venturi) ha catturato frammenti audio delle conversazioni di Brambilla, udibili attraverso la porta della sua camera. L'analisi vocale conferma la voce di Brambilla e il contenuto coerente con telefonate di lavoro.
 >
 > **Conclusione:** L'alibi di Brambilla è **tripamente confermato** — dai tabulati telefonici, dalla conferma degli interlocutori, e dalla registrazione ambientale indipendente.
 
