@@ -7,10 +7,10 @@
 | **Ambientazione** | Clinica Mente Chiara, Monte Isola, Lago d'Iseo (BS) |
 | **Epoca** | Gennaio 2026 |
 | **Giocatori** | 1-4 |
-| **Difficoltà** | ⭐⭐⭐⭐⭐ Alta |
+| **Difficoltà** | ⭐⭐⭐⭐ Media-Alta |
 | **Durata stimata** | 4-6 ore |
 | **Sospettati** | 6 |
-| **Documenti** | 40+ |
+| **Documenti** | 28+ |
 
 ---
 
@@ -20,11 +20,11 @@ Il lago d'Iseo d'inverno è un animale addormentato. Le sue acque, grigie come p
 
 A mezza costa dell'isola, nascosta tra castagni spogli e muri di pietra a secco, sorge la Clinica Mente Chiara. Fu un monastero francescano nel Cinquecento — un luogo dove uomini in saio cercavano Dio nel silenzio e nella rinuncia. Oggi i chiostri sono corridoi luminosi, le celle sono stanze di degenza con vista lago, e il refettorio è diventato una sala conferenze con proiettore e connessione satellitare. Ma qualcosa dell'antica vocazione è rimasto: qui si viene per cercare qualcosa che si è perduto. Non Dio, ma qualcosa di altrettanto sfuggente. La memoria.
 
-Il Dr. Alessandro Venturi ha fondato questa clinica undici anni fa, trasformandola nel tempio del suo "Metodo": una terapia rivoluzionaria — così la definiscono i giornali, così la definisce lui stesso nei talk show del sabato sera — per recuperare i ricordi traumatici sepolti dalla psiche. "La memoria è un palazzo con infinite stanze," ripete Venturi in ogni intervista, con quel sorriso che gli ha conquistato milioni di telespettatori e la fiducia di pazienti illustri. "Alcune porte sono chiuse a chiave. Io vi aiuto a trovare le chiavi." Sessantadue anni, capelli d'argento, mani da pianista, due bestseller tradotti in quattordici lingue — *La Memoria Rubata* e *Il Teatro della Mente* — e una lista d'attesa di otto mesi. Il Dr. Venturi non è solo uno psichiatra: è un fenomeno culturale, un guru, una promessa.
+Il Dr. Alessandro Venturi ha fondato questa clinica undici anni fa, trasformandola nel tempio del suo "Metodo": una terapia rivoluzionaria — così la definiscono i giornali, così la definisce lui stesso nei talk show del sabato sera — per recuperare i ricordi traumatici sepolti dalla psiche. "La memoria è un palazzo con infinite stanze," ripete Venturi in ogni intervista, con quel sorriso che gli ha conquistato milioni di telespettatori e la fiducia di pazienti illustri. "Alcune porte sono chiuse a chiave. Io vi aiuto a trovare le chiavi." Sessantadue anni, capelli d'argento, mani da pianista, due bestseller tradotti in quattordici lingue — *Ricordare per Guarire* e *Le Stanze della Memoria* — e una lista d'attesa di otto mesi. Il Dr. Venturi non è solo uno psichiatra: è un fenomeno culturale, un guru, una promessa.
 
 Ma le promesse, su quest'isola circondata dall'acqua nera di gennaio, hanno un peso diverso.
 
-Venerdì 16 gennaio 2026, una tempesta invernale si abbatte sul lago con una violenza che i pescatori locali non ricordano da vent'anni. Il servizio traghetti viene sospeso alle diciassette. Le linee telefoniche fisse cedono poco dopo. La rete cellulare, già fragile sull'isola, diventa intermittente. Monte Isola è isolata. Nella clinica, sei persone — oltre al personale ridotto del weekend — si trovano intrappolate con il Dr. Venturi: la sua vicedirettrice, il figlio che non vede da anni, una mecenate miliardaria, un vecchio mentore con cui ha rotto ogni rapporto, l'infermiera che conosce ogni segreto della clinica, e un rappresentante farmaceutico venuto a concludere un affare da dieci milioni di euro.
+Venerdì 16 gennaio 2026, una tempesta invernale si abbatte sul lago con una violenza che i pescatori locali non ricordano da vent'anni. Il servizio traghetti viene sospeso alle diciassette e trenta. Le linee telefoniche fisse cedono poco dopo. La rete cellulare, già fragile sull'isola, diventa intermittente. Monte Isola è isolata. Nella clinica, sei persone — oltre al personale ridotto del weekend — si trovano intrappolate con il Dr. Venturi: la sua vicedirettrice, il figlio che non vede da anni, una mecenate miliardaria, un vecchio mentore con cui ha rotto ogni rapporto, l'infermiera che conosce ogni segreto della clinica, e un rappresentante farmaceutico venuto a concludere un affare da dieci milioni di euro.
 
 Sei persone. Sei motivi per odiare il dottore. E una notte in cui nessuno può andarsene.
 

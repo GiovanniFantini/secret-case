@@ -13,8 +13,8 @@
 | Ambientazione | Firenze e colline di Fiesole, Toscana (Fiesole dista circa 8 km dal centro di Firenze, 20 minuti d'auto via Via Bolognese) |
 | Periodo | Ottobre 2024 |
 | Tipo di crimine | Omicidio per avvelenamento |
-| Difficoltà | Media-alta |
-| Durata stimata | 3–5 ore |
+| Difficoltà | Media |
+| Durata stimata | 2–3 ore |
 
 ---
 

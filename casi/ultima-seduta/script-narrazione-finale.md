@@ -32,7 +32,7 @@ In cima alla collina, dove un tempo i frati francescani pregavano e il silenzio 
 
 *[Pausa.]*
 
-Quella sera — la sera del 16 gennaio — una tempesta si era abbattuta sull'isola. L'ultimo traghetto era partito alle diciotto. Il lago era impraticabile. Nessuno poteva arrivare. Nessuno poteva andarsene. La clinica era un mondo chiuso, sigillato dall'acqua e dal vento, avvolto nell'odore di pietra fredda, di camomilla che bolliva nella cucina, di farmaci e di lenzuola pulite.
+Quella sera — la sera del 16 gennaio — una tempesta si era abbattuta sull'isola. L'ultimo traghetto era partito alle diciassette e trenta. Il lago era impraticabile. Nessuno poteva arrivare. Nessuno poteva andarsene. La clinica era un mondo chiuso, sigillato dall'acqua e dal vento, avvolto nell'odore di pietra fredda, di camomilla che bolliva nella cucina, di farmaci e di lenzuola pulite.
 
 Sei persone, un corridoio, una porta chiusa a chiave.
 
@@ -52,7 +52,7 @@ Per comprendere cosa accadde quella sera, bisogna comprendere chi era Alessandro
 
 Nel panorama della psichiatria italiana, esistono i medici, esistono i ricercatori, e poi esisteva — esisteva — chi prometteva di riscrivere le regole della mente umana. Il Dr. Alessandro Venturi era quell'uomo. Sessantadue anni, volto cesellato da copertina, capelli argentati, occhi azzurri che trasmettevano una calma quasi soprannaturale. Un uomo che, quando parlava, faceva sentire chiunque l'unica persona al mondo. Era il suo dono. Era la sua arma.
 
-La televisione lo adorava. Tre stagioni di *"La Mente Aperta"* su Rai 3, ospitate fisse nei talk show del mattino, un volto che le massaie riconoscevano e i colleghi invidiavano. I libri — *"Ricordare per Guarire"*, *"Le Stanze della Memoria"* — vendevano centinaia di migliaia di copie. Il suo metodo, la terapia mnemonica attiva, prometteva di sbloccare i ricordi traumatici e liberare i pazienti dal peso del passato. La Clinica Mente Chiara era il suo tempio: dodici posti letto, tariffe proibitive, lista d'attesa di due anni. Le persone venivano da tutta Europa per affidargli la propria mente.
+La televisione lo adorava. Tre stagioni di *"La Mente Aperta"* su Rai 3, ospitate fisse nei talk show del mattino, un volto che le massaie riconoscevano e i colleghi invidiavano. I libri — *"Ricordare per Guarire"*, *"Le Stanze della Memoria"* — vendevano centinaia di migliaia di copie. Il suo metodo, la terapia mnemonica attiva, prometteva di sbloccare i ricordi traumatici e liberare i pazienti dal peso del passato. La Clinica Mente Chiara era il suo tempio: dodici posti letto, tariffe proibitive, lista d'attesa di otto mesi. Le persone venivano da tutta Europa per affidargli la propria mente.
 
 *[Il tono si incupisce.]*
 
@@ -98,7 +98,7 @@ All'interno di quelle mura monastiche, e nei corridoi silenziosi della Clinica M
 
 *[Pausa breve.]*
 
-**Luca Brambilla** aveva quarantadue anni e il sorriso di chi vende qualsiasi cosa a chiunque. Rappresentante farmaceutico della Genexis Pharma, era alla clinica per chiudere il contratto Nexalyn — un nuovo ansiolitico dal potenziale commerciale enorme. Brambilla viveva di percentuali, di cene offerte, di favori scambiati. L'email che gli investigatori trovarono — oggetto: "Piano B" — parlava di accordi paralleli e margini nascosti, ma non di omicidio. Quella sera, Brambilla era nella sala riunioni al piano terra, il telefono incollato all'orecchio, in una maratona di chiamate che i tabulati documentano minuto per minuto, dalle 20:15 alle 23:30. Un uomo discutibile, non un assassino.
+**Luca Brambilla** aveva quarantadue anni e il sorriso di chi vende qualsiasi cosa a chiunque. Rappresentante farmaceutico della NeuroPharma Solutions S.r.l., era alla clinica per chiudere il contratto Nexalyn — un nuovo ansiolitico dal potenziale commerciale enorme. Brambilla viveva di percentuali, di cene offerte, di favori scambiati. L'email che gli investigatori trovarono — oggetto: "Piano B" — parlava di accordi paralleli e margini nascosti, ma non di omicidio. Quella sera, Brambilla era nella sala riunioni al piano terra, il telefono incollato all'orecchio, in una maratona di chiamate che i tabulati documentano minuto per minuto, dalle 20:15 alle 23:30. Un uomo discutibile, non un assassino.
 
 *[Pausa piu lunga. Cambio di registro. La voce si abbassa. Il ritmo rallenta. Musica: silenzio.]*
 
@@ -120,7 +120,7 @@ La vicedirettrice che si aggirava nell'archivio di notte — la piu ovvia delle 
 
 *[Pausa breve.]*
 
-Il figlio con le telecamere nascoste — il ragazzo che filmava tutto, che aveva rancore da vendere e accesso ai corridoi della clinica. Ma il laptop di Tommaso racconta un'altra storia: salvataggi automatici ogni tre minuti su Adobe Premiere, dalle 19:45 all'1:30 di notte. Il WiFi lo inchioda nella stanza 204. Tommaso stava combattendo suo padre con l'unica arma che conosceva — le immagini — e quella sera il suo campo di battaglia era uno schermo, non una tazza di tisana.
+Il figlio con le telecamere nascoste — il ragazzo che filmava tutto, che aveva rancore da vendere e accesso ai corridoi della clinica. Ma il laptop di Tommaso racconta un'altra storia: salvataggi automatici ogni tre minuti su Adobe Premiere, dalle 19:45 all'1:30 di notte. Il WiFi lo inchioda nella stanza 202. Tommaso stava combattendo suo padre con l'unica arma che conosceva — le immagini — e quella sera il suo campo di battaglia era uno schermo, non una tazza di tisana.
 
 *[Pausa breve.]*
 
@@ -240,7 +240,7 @@ Il mattino dopo, quando sfondarono la porta, trovarono Venturi nella poltrona. L
 
 *[Pausa.]*
 
-Le prove. Le impronte digitali di Sara sull'armadio farmaceutico — il suo unico errore, o forse la sua firma deliberata. L'ordine del kit per il fugu, tracciato fino al suo indirizzo. Il telefono spento dalle 20:30 alle 22:00 — l'unico telefono nella clinica che non emise segnale durante la finestra critica. Il badge identificativo lasciato sulla scrivania del suo ufficio, come se volesse sparire dal sistema per due ore. Le tracce di tetrodotossina nel lavandino e nel mortaio della cucina. E la telecamera. Ore 20:58. Il corridoio. Il vassoio. La camomilla.
+Le prove. Le impronte digitali di Sara sull'armadio farmaceutico — il suo unico errore, o forse la sua firma deliberata. L'ordine del kit per il fugu, tracciato fino al suo indirizzo. Il telefono spento dalle 20:28 alle 06:15 — l'unico telefono nella clinica che non emise segnale durante la finestra critica. Il badge identificativo ritrovato sulla scrivania del dottor Venturi nella Sala della Quiete, caduto lì mentre consegnava la camomilla avvelenata. Le tracce di tetrodotossina nel lavandino e nel mortaio della cucina. E la telecamera. Ore 20:58. Il corridoio. Il vassoio. La camomilla.
 
 *[Pausa lunga. Silenzio.]*
 
@@ -252,7 +252,7 @@ Le prove. Le impronte digitali di Sara sull'armadio farmaceutico — il suo unic
 
 *[Tono: calmo, malinconico, conclusivo. Come l'ultima nota di un piano in una stanza vuota. Ritmo lento, quasi una veglia. Musica: piano solo, lentissimo, poche note.]*
 
-Sara Magnani fu arrestata l'8 gennaio 2026, dodici ore dopo il ritrovamento del corpo. Non oppose resistenza. Quando i Carabinieri della stazione di Sale Marasino attraversarono il lago sulla motovedetta e salirono alla clinica, la trovarono nel suo ufficio, in uniforme, seduta alla scrivania. Davanti a lei, il fascicolo aperto. S.M. — Fase 3 completata. Lo stava leggendo. O forse lo stava memorizzando, stavolta per sempre.
+Sara Magnani fu arrestata il 18 gennaio 2026, dodici ore dopo il ritrovamento del corpo. Non oppose resistenza. Quando i Carabinieri della stazione di Sale Marasino attraversarono il lago sulla motovedetta e salirono alla clinica, la trovarono nel suo ufficio, in uniforme, seduta alla scrivania. Davanti a lei, il fascicolo aperto. S.M. — Fase 3 completata. Lo stava leggendo. O forse lo stava memorizzando, stavolta per sempre.
 
 *[Pausa.]*
 
@@ -268,11 +268,11 @@ Beatrice Aldrovandi apprese la verita sul proprio trattamento dagli articoli di 
 
 Il Prof. Riccardo Stein restitui i cinquantamila euro il giorno dopo l'arresto di Sara. Li verso su un conto della Procura, senza una parola di spiegazione. Si dimise dall'universita a marzo. Nessuno gli chiese di restare. Il trattato di etica medica che stava leggendo quella sera in biblioteca rimase nella sua borsa per mesi, con la macchia di caffe e l'orecchia piegata a pagina 214 — il capitolo sulla responsabilita del medico verso il paziente.
 
-Luca Brambilla fu indagato per corruzione in concorso. Il contratto Nexalyn non fu mai firmato. La Genexis Pharma rilascio un comunicato in cui prendeva le distanze "da qualsiasi attivita non conforme agli standard etici dell'azienda." Brambilla fu licenziato a febbraio. L'email "Piano B" divenne un caso di studio nei corsi di compliance aziendale.
+Luca Brambilla fu indagato per corruzione in concorso. Il contratto Nexalyn non fu mai firmato. La NeuroPharma Solutions rilascio un comunicato in cui prendeva le distanze "da qualsiasi attivita non conforme agli standard etici dell'azienda." Brambilla fu licenziato a febbraio. L'email "Piano B" divenne un caso di studio nei corsi di compliance aziendale.
 
 *[Pausa.]*
 
-La Clinica Mente Chiara fu chiusa con ordinanza della Procura il 15 gennaio 2026. I pazienti furono trasferiti. Le porte furono sigillate. Il monastero torno a essere cio che era stato per secoli prima dell'arrivo di Venturi: un luogo vuoto sulla cima di una collina, circondato dal silenzio e dall'acqua.
+La Clinica Mente Chiara fu chiusa con ordinanza della Procura il 18 febbraio 2026. I pazienti furono trasferiti. Le porte furono sigillate. Il monastero torno a essere cio che era stato per secoli prima dell'arrivo di Venturi: un luogo vuoto sulla cima di una collina, circondato dal silenzio e dall'acqua.
 
 *[Pausa.]*
 

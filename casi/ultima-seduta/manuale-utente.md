@@ -36,9 +36,9 @@
 | **Data dei fatti** | Notte tra il 16 e il 17 gennaio 2026 |
 | **Giocatori** | 1-4 investigatori (fino a 6 con adattamento) |
 | **Durata stimata** | 4-6 ore |
-| **Difficolta** | Alta |
+| **Difficolta** | Media-Alta |
 | **Sospettati** | 6 |
-| **Documenti giocabili** | 15 |
+| **Documenti giocabili** | 28 |
 | **Domande di verifica** | 3 |
 
 ### L'Obiettivo
@@ -97,6 +97,9 @@ Se giocate con documenti cartacei, stampate i seguenti file in questo ordine:
 | 10 | `prove-documentali/` | `contratto-nexalyn.md` | 1 |
 | 11 | `prove-documentali/` | `articolo-giornale-1.md` | 1 |
 | 12 | `prove-documentali/` | `articolo-giornale-2.md` | 1 |
+| 13 | `prove-documentali/` | `registro-accessi-farmacia.md` | 1 |
+| 14 | `prove-documentali/` | `testamento-venturi.md` | 1 |
+| 15 | `elementi-digitali/` | `registro-badge-accessi.md` | 1-2 |
 
 **Suggerimenti (in buste sigillate separate):**
 
@@ -136,30 +139,33 @@ Per massimizzare l'atmosfera:
 
 ## 3. Mappa dei Documenti
 
-Il caso e composto da **15 documenti giocabili**, **3 livelli di suggerimenti** e **3 documenti riservati**.
+Il caso e composto da **18 documenti giocabili**, **3 livelli di suggerimenti** e **3 documenti riservati**.
 
 ```
 L'ULTIMA SEDUTA
 │
-├── DOCUMENTI DA LEGGERE DURANTE IL GIOCO (15)
+├── DOCUMENTI DA LEGGERE DURANTE IL GIOCO (18)
 │   │
 │   ├── Documenti Investigativi (3)
 │   │   ├── Rapporto di polizia ............. Scena del crimine, persone presenti, primo sopralluogo
 │   │   ├── Report medico legale ............ Causa del decesso, esame del corpo, ora della morte
 │   │   └── Rapporto tossicologico .......... Analisi della tetrodotossina, campioni ambientali
 │   │
-│   ├── Elementi Digitali (3)
+│   ├── Elementi Digitali (4)
 │   │   ├── Analisi digitale forense ........ Tastierino, log Wi-Fi, dispositivi elettronici
 │   │   ├── Tabulati telefonici ............. Chiamate, SMS, sessioni dati di tutti i sospettati
-│   │   └── Analisi GPS/posizionamento ...... Localizzazione dei telefoni durante la notte
+│   │   ├── Analisi GPS/posizionamento ...... Localizzazione dei telefoni durante la notte
+│   │   └── Registro badge accessi .......... Log porte interne — chi si e mosso nella clinica
 │   │
-│   ├── Prove Documentali (6)
+│   ├── Prove Documentali (8)
 │   │   ├── Fascicolo Mnemoxil .............. Protocollo sperimentale, effetti, approvazioni
 │   │   ├── Corrispondenza clinica .......... Email, memo interni, comunicazioni tra i protagonisti
-│   │   ├── Ordine acquisto fugu ............ Kit di preparazione pesce palla — chi l'ha ordinato?
+│   │   ├── Ordine acquisto fugu ............ Pesce fugu intero ordinato online — chi l'ha ordinato?
 │   │   ├── Contratto Nexalyn ............... Accordo farmaceutico da dieci milioni di euro
 │   │   ├── Articolo di giornale 1 ......... Cronaca della morte di Venturi
-│   │   └── Articolo di giornale 2 ......... Profilo pubblico di Venturi, la sua fama televisiva
+│   │   ├── Articolo di giornale 2 ......... Profilo pubblico di Venturi, la sua fama televisiva
+│   │   ├── Registro accessi farmacia ...... Log badge dell'armadio farmaceutico — chi accedeva e quando
+│   │   └── Testamento Venturi .............. Ultime volontà — chi ereditava cosa?
 │   │
 │   └── Suggerimenti (in buste sigillate)
 │       ├── Livello 1 ...................... Orientamento generale — dove guardare
@@ -230,7 +236,10 @@ Questa e la fase piu lunga e densa. I documenti possono essere letti in qualsias
 | 7 | **Corrispondenza clinica** | Email e memo interni: tensioni professionali, conflitti personali, accordi segreti | 15 min |
 | 8 | **Fascicolo Mnemoxil** | Il farmaco sperimentale: cos'e, chi lo ha sviluppato, chi lo controlla, cosa c'e in gioco | 10 min |
 | 9 | **Contratto Nexalyn** | L'accordo farmaceutico: dieci milioni di euro, clausole, firme, scadenze | 10 min |
-| 10 | **Ordine acquisto fugu** | Il kit di preparazione del pesce palla: chi l'ha ordinato, quando, perche, dove e stato consegnato | 10 min |
+| 10 | **Ordine acquisto fugu** | Il pesce fugu intero ordinato online: chi l'ha ordinato, quando, perche, dove e stato consegnato | 10 min |
+| 11 | **Registro accessi farmacia** | Chi ha acceduto all'armadio farmaceutico e quando — pattern normali e anomalie | 10 min |
+| 12 | **Registro badge accessi** | Log porte interne della clinica durante la notte — chi si e mosso e dove | 10 min |
+| 13 | **Testamento Venturi** | Le ultime volonta del dottore — chi ereditava cosa e perche | 5 min |
 
 **Attivita consigliate durante la Fase 2:**
 
@@ -254,8 +263,8 @@ Leggete gli ultimi documenti e riesaminate quelli gia letti:
 
 | Ordine | Documento | Cosa ci trovate | Tempo stimato |
 |--------|-----------|-----------------|---------------|
-| 11 | **Articolo di giornale 1** | Cronaca pubblica della morte — conferme e dettagli aggiuntivi | 5 min |
-| 12 | **Articolo di giornale 2** | Il profilo pubblico di Venturi — la fama, le controversie, gli avversari | 5 min |
+| 14 | **Articolo di giornale 1** | Cronaca pubblica della morte — conferme e dettagli aggiuntivi | 5 min |
+| 15 | **Articolo di giornale 2** | Il profilo pubblico di Venturi — la fama, le controversie, gli avversari | 5 min |
 | — | **Rilettura selettiva** | Tornate sui documenti chiave: quali dettagli avete sottovalutato? | 20 min |
 
 **Attivita consigliate nella Fase 3:**
@@ -627,11 +636,11 @@ R: Complimenti, siete investigatori eccezionali. Il tempo medio per gruppi esper
 
 ### Valutazione Generale
 
-Questo caso e classificato come **difficolta alta**. Ecco perche:
+Questo caso e classificato come **difficolta media-alta**. Ecco perche:
 
 | Elemento | Livello | Perche |
 |----------|---------|--------|
-| **Volume documentale** | Alto | 15 documenti densi di dettagli, molti dei quali tecnici |
+| **Volume documentale** | Alto | 18 documenti densi di dettagli, molti dei quali tecnici |
 | **Complessita del metodo** | Alta | La tetrodotossina e un veleno raro; il metodo di somministrazione richiede un ragionamento articolato |
 | **False piste** | Forti | Ogni sospettato ha un movente plausibile e comportamenti sospetti — le false piste sono costruite per resistere all'analisi superficiale |
 | **Dati da incrociare** | Molti | Log digitali, tabulati, GPS, corrispondenza — richiedono confronto sistematico |

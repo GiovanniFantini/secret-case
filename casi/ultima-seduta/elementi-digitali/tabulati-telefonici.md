@@ -9,7 +9,7 @@
 **Analista:** Mar. Ord. Giovanni Ferrara, Nucleo Investigativo CC Brescia
 **Oggetto:** Tabulati telefonici e dati di traffico relativi a n. 7 utenze, acquisiti ex art. 132 D.Lgs. 196/2003, per il periodo 16-17 gennaio 2026
 **Operatori interpellati:** TIM S.p.A., Vodafone Italia S.p.A., WindTre S.p.A.
-**Magistrato richiedente:** Dott.ssa Francesca Molinari, Sostituto Procuratore
+**Magistrato richiedente:** Dott.ssa Giulia Marchetti, Sostituto Procuratore
 
 ---
 
@@ -66,7 +66,7 @@ I tabulati comprendono:
 ## 2. DOTT.SSA MARTA COLETTI — Utenza 335 *** ** 44
 
 **Operatore:** Vodafone Italia
-**Dispositivo:** Samsung Galaxy S22
+**Dispositivo:** Samsung Galaxy S23
 **Contratto:** Abbonamento Vodafone Red Pro, intestato a Coletti Marta
 
 ### Traffico del 16 Gennaio 2026
@@ -117,7 +117,7 @@ I tabulati comprendono:
 ## 4. PROF. RICCARDO STEIN — Utenza +49 170 *** ** 38 (roaming)
 
 **Operatore:** Deutsche Telekom (roaming su TIM Italia)
-**Dispositivo:** Samsung Galaxy S23
+**Dispositivo:** Huawei P30 Pro
 **Contratto:** Abbonamento MagentaMobil XL, intestato a Stein Riccardo, Monaco di Baviera
 
 ### Traffico del 16 Gennaio 2026
@@ -145,7 +145,7 @@ I tabulati comprendono:
 ## 5. LUCA BRAMBILLA — Utenza 366 *** ** 73
 
 **Operatore:** Vodafone Italia
-**Dispositivo:** iPhone 15 Pro Max
+**Dispositivo:** Samsung Galaxy S24 Ultra
 **Contratto:** Abbonamento Vodafone Business Unlimited, intestato a NeuroPharma Solutions S.r.l.
 
 ### Traffico del 16 Gennaio 2026

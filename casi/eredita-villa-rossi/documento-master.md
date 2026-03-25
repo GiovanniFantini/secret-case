@@ -8,8 +8,8 @@
 - **Titolo del Caso**: L'Eredità Avvelenata di Villa Rossi
 - **Tipo di Crimine**: Omicidio premeditato (avvelenamento)
 - **Ambientazione**: Villa Rossi, Lago Como, Italia - 15 Giugno 2024
-- **Durata**: 3-4 ore
-- **Difficoltà**: Media-Alta
+- **Durata**: 2-3 ore
+- **Difficoltà**: Media
 - **Numero di Giocatori**: 1-4
 
 ## La Vittima

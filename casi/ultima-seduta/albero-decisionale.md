@@ -133,7 +133,7 @@ Coletti e la **falsa pista della collega ambiziosa**: aveva le ragioni per odiar
 Il figlio che odiava il padre — un classico del giallo, e un sospettato naturale. Tommaso aveva rancore da vendere e una presenza inquietante nella clinica quella sera. Tuttavia:
 
 - I **log di attivita del suo laptop** mostrano un editing video continuo e ininterrotto dalle 19:45 all'01:30 nella sua stanza. I file di progetto di Adobe Premiere confermano salvataggi automatici ogni tre minuti.
-- I **registri WiFi della clinica** collocano il suo dispositivo nella stanza 204 per tutta la durata della serata, senza interruzioni.
+- I **registri WiFi della clinica** collocano il suo dispositivo nella stanza 202 per tutta la durata della serata, senza interruzioni.
 - Tommaso stava montando le riprese del suo **documentario segreto** sulla clinica del padre — un progetto nato dal risentimento, certo, ma la sua arma era la telecamera, non il veleno.
 
 Tommaso e la **falsa pista del figlio rinnegato**: il suo odio per il padre era autentico, ma la sua vendetta era cinematografica, non chimica.
@@ -184,8 +184,8 @@ Eccellente lavoro investigativo. Sara Magnani, la capoinfermiera, e la colpevole
 - **Tracce di tetrodotossina** sono state rinvenute nel lavandino e nel mortaio della cucina della clinica, dove Sara preparo la tisana avvelenata.
 - Un **ordine online di un kit per la preparazione del fugu** e stato rintracciato fino al suo indirizzo personale, con consegna datata dicembre 2025.
 - Le sue **impronte digitali** sono state trovate sull'armadio farmaceutico contenente i fascicoli del Mnemoxil — un armadio al quale non avrebbe dovuto accedere.
-- Il suo **badge identificativo**, dimenticato sulla scrivania del suo ufficio anziche portato con se come da protocollo, suggerisce un tentativo di dissimulare i propri spostamenti quella sera.
-- Il **telefono risultava spento** dalle 20:30 alle 22:00, l'unica finestra temporale critica della serata.
+- Il suo **badge identificativo**, ritrovato sulla scrivania del Dott. Venturi nella Sala della Quiete anziché portato con sé come da protocollo, la colloca direttamente sulla scena del crimine.
+- Il **telefono risultava spento** dalle 20:28 alle 06:15 del mattino seguente — l'unico telefono nella clinica completamente inattivo durante la finestra critica.
 
 **Punteggio per questa domanda: 1 punto.**
 </details>
@@ -471,7 +471,7 @@ Sommate i punti ottenuti nelle tre domande:
 
 | Domanda | Risposta Corretta | Spiegazione Sintetica |
 |---------|-------------------|-----------------------|
-| **1. Chi?** | **(e) Sara Magnani** | Telecamera corridoio ore 20:58 con vassoio. Tracce TTX in cucina. Ordine kit fugu a dicembre 2025. Impronte su armadio Mnemoxil. Badge lasciato sulla scrivania. Telefono spento 20:30-22:00. |
+| **1. Chi?** | **(e) Sara Magnani** | Telecamera corridoio ore 20:58 con vassoio. Tracce TTX in cucina. Ordine kit fugu a dicembre 2025. Impronte su armadio Mnemoxil. Badge ritrovato sulla scrivania di Venturi. Telefono spento 20:28-06:15. |
 | **2. Perché?** | **(c) Recuperare la propria identita rubata** | Venturi uso il Mnemoxil per cancellare i ricordi della loro relazione del 2017. Sara scopri il fascicolo "S.M." e dovette agire prima che Venturi distruggesse le prove. |
 | **3. Come?** | **(a) Tetrodotossina nella camomilla serale** | TTX disciolta nella tisana preparata in cucina. Tracce nel lavandino e mortaio. Sara unica persona che preparava la camomilla di Venturi. Sala terapia chiusa dall'interno. |
 

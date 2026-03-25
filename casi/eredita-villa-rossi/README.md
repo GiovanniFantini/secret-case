@@ -7,8 +7,8 @@
 | **Ambientazione** | Villa Rossi, Lago di Como |
 | **Epoca** | Giugno 2024 |
 | **Giocatori** | 1-4 |
-| **Difficoltà** | ⭐⭐⭐⭐ Media-Alta |
-| **Durata stimata** | 3-4 ore |
+| **Difficoltà** | ⭐⭐⭐ Media |
+| **Durata stimata** | 2-3 ore |
 | **Sospettati** | 9 |
 | **Documenti** | 30+ |
 

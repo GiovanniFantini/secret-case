@@ -10,7 +10,7 @@
 **Oggetto:** Analisi dei dati GPS e di posizionamento cellulare relativi a n. 7 soggetti — sera e notte tra il 16 e il 17 gennaio 2026
 **Luogo di riferimento:** Clinica Mente Chiara, Via del Santuario 12, Monte Isola, 25050 (BS)
 **Coordinate clinica:** 45°43'18"N, 10°04'52"E
-**Magistrato richiedente:** Dott.ssa Francesca Molinari, Sostituto Procuratore
+**Magistrato richiedente:** Dott.ssa Giulia Marchetti, Sostituto Procuratore
 
 ---
 
@@ -90,7 +90,7 @@ I dati di posizionamento sono stati acquisiti da tre fonti complementari:
 
 ### 3.1 DOTT.SSA MARTA COLETTI
 
-**Dispositivo:** Samsung Galaxy S22 — Operatore: Vodafone
+**Dispositivo:** Samsung Galaxy S23 — Operatore: Vodafone
 **Camera assegnata:** Camera ospiti n. 3, secondo piano (AP-05)
 
 | Orario | Posizione GPS | Access Point Wi-Fi | Area stimata | Precisione |
@@ -116,13 +116,13 @@ I dati di posizionamento sono stati acquisiti da tre fonti complementari:
 | **19:45 - 01:30** | **45°43'18.3"N, 10°04'52.6"E** | **AP-05** | **Secondo piano — Camera ospiti** | **±15 m** |
 | 01:30 - 07:00 | 45°43'18.3"N, 10°04'52.6"E | AP-05 | Secondo piano — Camera ospiti | ±15 m |
 
-> **Analisi:** Il dispositivo di Tommaso resta nella sua camera ospiti al secondo piano senza interruzioni dalle 19:45 alle 01:30. I log del software DaVinci Resolve confermano attività di editing continua con salvataggi ogni 5 minuti. Il traffico Wi-Fi mostra un utilizzo di banda elevato e costante, coerente con operazioni di rendering video. **Nessuna interruzione rilevata. Alibi confermato.**
+> **Analisi:** Il dispositivo di Tommaso resta nella sua camera ospiti al secondo piano senza interruzioni dalle 19:45 alle 01:30. I log del software Adobe Premiere Pro confermano attività di editing continua con salvataggi ogni 3 minuti. Il traffico Wi-Fi mostra un utilizzo di banda elevato e costante, coerente con operazioni di rendering video. **Nessuna interruzione rilevata. Alibi confermato.**
 
 ---
 
 ### 3.3 PROF. RICCARDO STEIN
 
-**Dispositivo:** Samsung Galaxy S23 — Operatore: Deutsche Telekom (roaming)
+**Dispositivo:** Huawei P30 Pro — Operatore: Deutsche Telekom (roaming)
 **Camera assegnata:** Camera ospiti n. 4, secondo piano (AP-05)
 
 | Orario | Posizione GPS | Access Point Wi-Fi | Area stimata | Precisione |
@@ -139,7 +139,7 @@ I dati di posizionamento sono stati acquisiti da tre fonti complementari:
 
 ### 3.4 LUCA BRAMBILLA
 
-**Dispositivo:** iPhone 15 Pro Max — Operatore: Vodafone
+**Dispositivo:** Samsung Galaxy S24 Ultra — Operatore: Vodafone
 **Camera assegnata:** Camera ospiti n. 2, secondo piano (AP-05)
 
 | Orario | Posizione GPS | Access Point Wi-Fi | Area stimata | Precisione |

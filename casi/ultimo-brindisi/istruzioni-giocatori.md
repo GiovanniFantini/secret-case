@@ -20,9 +20,9 @@ Davanti a voi ci sono tutti i documenti dell'indagine: rapporti di polizia, peri
 
 | | Dettaglio |
 |--|-----------|
-| Durata | 2–4 ore |
+| Durata | 2–3 ore |
 | Giocatori | 1–4 persone |
-| Difficoltà | Media-alta |
+| Difficoltà | Media |
 | Materiali extra | Blocchi per appunti, penne (consigliato) |
 
 ---

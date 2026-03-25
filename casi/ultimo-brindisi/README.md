@@ -7,8 +7,8 @@
 | **Ambientazione** | Villa Le Ginestre, Fiesole (Firenze) |
 | **Epoca** | Ottobre 2024 |
 | **Giocatori** | 1-4 |
-| **Difficoltà** | ⭐⭐⭐⭐ Media-Alta |
-| **Durata stimata** | 2-4 ore |
+| **Difficoltà** | ⭐⭐⭐ Media |
+| **Durata stimata** | 2-3 ore |
 | **Sospettati** | 4 |
 | **Documenti** | 25+ |
 

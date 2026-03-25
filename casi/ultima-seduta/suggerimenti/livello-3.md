@@ -35,7 +35,7 @@ La telecamera di sicurezza del corridoio del primo piano riprende Sara Magnani a
 
 ### Prova 2 — Il telefono spento (batteria al 73%)
 
-Il telefono cellulare di Sara risulta spento dalle 20:28 alle 22:03. Nell'interrogatorio, Sara dichiara che la batteria si era esaurita. Ma l'analisi forense del dispositivo dimostra che al momento dello spegnimento la **batteria era al 73%** — un livello piu che sufficiente per ore di funzionamento. Il telefono fu spento **manualmente**. Sara voleva essere irrintracciabile durante la finestra temporale dell'omicidio. Questo e un atto di premeditazione: sapeva esattamente quando avrebbe agito e si assicuro che il suo telefono non la tradisse.
+Il telefono cellulare di Sara risulta spento dalle 20:28 del 16 gennaio alle 06:15 del 17 gennaio. Nell'interrogatorio, Sara dichiara che la batteria si era esaurita. Ma l'analisi forense del dispositivo dimostra che al momento dello spegnimento la **batteria era al 73%** — un livello piu che sufficiente per ore di funzionamento. Il telefono fu spento **manualmente**. Sara voleva essere irrintracciabile durante la finestra temporale dell'omicidio. Questo e un atto di premeditazione: sapeva esattamente quando avrebbe agito e si assicuro che il suo telefono non la tradisse.
 
 ---
 
@@ -45,9 +45,9 @@ Le impronte digitali di Sara sono state trovate sulla superficie esterna e sulla
 
 ---
 
-### Prova 4 — Il kit per la preparazione del fugu
+### Prova 4 — Il pesce fugu ordinato online
 
-Un ordine online per un **kit di preparazione del fugu** (pesce palla) e stato rintracciato all'**indirizzo personale di Sara Magnani**, con data di consegna nel **dicembre 2025**. Il kit conteneva gli strumenti per manipolare il pesce palla e, potenzialmente, per isolare la tetrodotossina dai suoi organi interni. Questo acquisto, effettuato un mese prima dell'omicidio, dimostra una pianificazione fredda e meticolosa.
+Un ordine online per un **pesce fugu intero** (*Takifugu rubripes*, pesce palla) e stato rintracciato a una **casella postale intestata a un'identità falsa** presso l'ufficio postale di Iseo (BS), con data di consegna nel **dicembre 2025**. Il pesce palla intero, non eviscerato, contiene nei suoi organi interni (fegato, ovaie, pelle) la tetrodotossina in concentrazioni letali. Questo acquisto, effettuato un mese prima dell'omicidio, dimostra una pianificazione fredda e meticolosa.
 
 ---
 
@@ -69,7 +69,7 @@ Sara Magnani era l'**unica persona** che preparava la camomilla serale del Dr. V
 
 ### Prova 7 — Il badge lasciato sulla scrivania
 
-Il badge identificativo di Sara e stato trovato sulla scrivania del suo ufficio. Il protocollo della clinica richiede che ogni dipendente porti il badge durante il servizio. Il sistema di tracciamento interno registra gli spostamenti del personale attraverso i badge. Lasciando il badge in ufficio, Sara si assicuro che i suoi **movimenti non venissero registrati** dal sistema durante le ore critiche. Un ulteriore atto di premeditazione.
+Il badge identificativo di Sara e stato trovato sulla scrivania del Dott. Venturi, nella Sala della Quiete. Il protocollo della clinica richiede che ogni dipendente porti il badge durante il servizio. Il sistema di tracciamento interno registra gli spostamenti del personale attraverso i badge. Sara si era tolta il badge per non essere tracciata — un atto di premeditazione — ma lo ha involontariamente lasciato sulla scrivania della vittima al momento della consegna della camomilla, collocandosi sulla scena del crimine.
 
 ---
 
@@ -150,7 +150,7 @@ Sara Magnani uccise il Dr. Venturi somministrando **tetrodotossina (TTX)** disci
 
 ### Fase 1 — L'approvvigionamento (dicembre 2025)
 
-Sara ordino online un **kit per la preparazione del fugu** (pesce palla giapponese), facendolo recapitare al proprio indirizzo personale. Il kit conteneva gli strumenti necessari per manipolare il pesce e isolare gli organi interni che contengono la tetrodotossina — in particolare il fegato, le ovaie e la pelle. Sara studio le procedure di estrazione con la meticolosita che la caratterizzava nel lavoro.
+Sara ordino online un **pesce fugu intero** (*Takifugu rubripes*, pesce palla giapponese), facendolo recapitare a una casella postale intestata a un'identità falsa presso l'ufficio postale di Iseo. Il pesce palla intero, non eviscerato, conteneva negli organi interni la tetrodotossina — in particolare nel fegato, nelle ovaie e nella pelle. Sara studio le procedure di estrazione con la meticolosita che la caratterizzava nel lavoro.
 
 ---
 
@@ -200,9 +200,9 @@ La porta era chiusa dall'interno. La clinica era isolata dalla tempesta. Nessuno
 
 | Ora | Evento |
 |------|--------|
-| Dicembre 2025 | Sara ordina il kit per la preparazione del fugu |
+| Dicembre 2025 | Sara ordina il pesce fugu intero online |
 | Dicembre 2025 - Gennaio 2026 | Sara estrae e polverizza la TTX |
-| 16 gennaio, ~20:25 | Sara spegne il telefono (batteria al 73%) |
+| 16 gennaio, ~20:28 | Sara spegne il telefono (batteria al 73%) |
 | 16 gennaio, ~20:45 | Sara prepara la camomilla avvelenata in cucina |
 | 16 gennaio, 20:58 | CAM-02: Sara percorre il corridoio con il vassoio |
 | 16 gennaio, ~21:00 | Sara consegna la camomilla a Venturi |
@@ -231,7 +231,7 @@ Coletti era nell'**archivio dalle 20:15 alle 22:20**, come confermato dalla tele
 
 ### Tommaso Venturi — Il regista segreto
 
-Tommaso si trovava nella **stanza 204** per tutta la sera, come confermato dai **registri WiFi** della clinica. I file di **Adobe Premiere** sul suo laptop mostrano salvataggi automatici ogni tre minuti dalle **19:45 all'01:30**. Stava montando il suo **documentario segreto** sulla clinica del padre, filmato con telecamere nascoste. Il suo rancore verso il padre era autentico, ma la sua arma era la telecamera, non il veleno.
+Tommaso si trovava nella **stanza 202** per tutta la sera, come confermato dai **registri WiFi** della clinica. I file di **Adobe Premiere** sul suo laptop mostrano salvataggi automatici ogni tre minuti dalle **19:45 all'01:30**. Stava montando il suo **documentario segreto** sulla clinica del padre, filmato con telecamere nascoste. Il suo rancore verso il padre era autentico, ma la sua arma era la telecamera, non il veleno.
 
 ---
 
@@ -249,7 +249,7 @@ Stein trascorse l'intera serata nella **biblioteca della clinica**, come conferm
 
 ### Luca Brambilla — Il venditore al telefono
 
-I **tabulati telefonici** documentano che Brambilla fu impegnato in chiamate continue dalle **20:15 alle 23:30**, con interlocutori verificati — colleghi, dirigenti farmaceutici, un avvocato. I registri WiFi collocano il suo telefono nella **sala riunioni** per tutta la sera. Il **microfono nascosto** di Tommaso nella sala riunioni registro la sua voce in modo continuo, confermando la sua presenza. Brambilla aveva bisogno di Venturi **vivo** per concludere il contratto Nexalyn da dieci milioni di euro. Un omicidio avrebbe distrutto il suo affare.
+I **tabulati telefonici** documentano che Brambilla fu impegnato in chiamate continue dalle **20:15 alle 23:30**, con interlocutori verificati — colleghi, dirigenti farmaceutici, un avvocato. I registri WiFi collocano il suo telefono nella **camera ospiti al secondo piano** per tutta la sera. Il **microfono nascosto** di Tommaso nel corridoio del secondo piano registrò la sua voce in modo continuo, confermando la sua presenza. Brambilla aveva bisogno di Venturi **vivo** per concludere il contratto Nexalyn da dieci milioni di euro. Un omicidio avrebbe distrutto il suo affare.
 
 ---
 

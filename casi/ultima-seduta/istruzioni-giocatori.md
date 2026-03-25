@@ -29,7 +29,7 @@ Benvenuti sul Lago d'Iseo. Benvenuti nella clinica dove i ricordi vengono a gall
 | Sospettati | 6 |
 | Durata | 4-6 ore |
 | Giocatori | 1-4 persone |
-| Difficolta | Alta (5 stelle) |
+| Difficolta | Media-Alta (4 stelle) |
 | Accesso | Tutti i documenti sono disponibili da subito |
 
 ---
@@ -38,9 +38,9 @@ Benvenuti sul Lago d'Iseo. Benvenuti nella clinica dove i ricordi vengono a gall
 
 **Dr. Alessandro Venturi**, 62 anni. Fondatore e direttore della Clinica Mente Chiara.
 
-Venturi non era solo uno psichiatra: era un fenomeno mediatico. Conduttore del programma televisivo *La Mente Aperta*, autore di due bestseller tradotti in quattordici lingue -- *La Memoria Rubata* e *Il Teatro della Mente* -- e pioniere della cosiddetta "terapia mnemonica attiva", un metodo che prometteva di riesumare i ricordi traumatici sepolti dalla psiche.
+Venturi non era solo uno psichiatra: era un fenomeno mediatico. Conduttore del programma televisivo *La Mente Aperta*, autore di due bestseller tradotti in quattordici lingue -- *Ricordare per Guarire* e *Le Stanze della Memoria* -- e pioniere della cosiddetta "terapia mnemonica attiva", un metodo che prometteva di riesumare i ricordi traumatici sepolti dalla psiche.
 
-La clinica era il suo tempio: dodici posti letto, tariffe proibitive, lista d'attesa di due anni, e una clientela che includeva imprenditori, politici e personaggi pubblici disposti a pagare qualsiasi cifra per affidare i propri segreti piu profondi alle mani del dottore.
+La clinica era il suo tempio: dodici posti letto, tariffe proibitive, lista d'attesa di otto mesi, e una clientela che includeva imprenditori, politici e personaggi pubblici disposti a pagare qualsiasi cifra per affidare i propri segreti piu profondi alle mani del dottore.
 
 Venturi e stato trovato seduto nella sua poltrona nella Sala della Quiete, gli occhi spalancati, il corpo rigido, l'espressione congelata in un'ultima maschera di terrore. L'autopsia ha rivelato tetrodotossina nel suo organismo -- un veleno che paralizza progressivamente ogni muscolo mantenendo la vittima pienamente cosciente. Il Dr. Venturi ha visto il suo assassino. Ha sentito i propri polmoni smettere di funzionare. Ha avuto tempo di capire, di ricordare tutto, prima che il buio lo prendesse.
 
@@ -76,7 +76,7 @@ Un tempo erano maestro e allievo, uniti dalla passione per la mente umana. Poi q
 Dedicata, discreta, presente. Sara conosce ogni angolo dell'edificio, ogni routine, ogni protocollo. E la persona di cui tutti si fidano, quella che tiene in piedi la clinica quando il dottore e in televisione. Dieci anni in un luogo del genere significano dieci anni di segreti altrui. E i segreti possono diventare armi.
 
 ### 6. Luca Brambilla, 42 anni
-**Ruolo:** Rappresentante farmaceutico della Genexis Pharma.
+**Ruolo:** Rappresentante farmaceutico della NeuroPharma Solutions S.r.l.
 
 E arrivato alla clinica per chiudere un accordo importante: la sperimentazione di un nuovo farmaco chiamato Nexalyn. Un affare da milioni di euro per la sua azienda, e probabilmente per la sua carriera. Ma quando gli affari e la scienza si mescolano, le linee tra lecito e illecito possono diventare molto sottili.
 
@@ -96,7 +96,7 @@ E arrivato alla clinica per chiudere un accordo importante: la sperimentazione d
 
 5. **Mappa della clinica**: Se disponibile tra i documenti investigativi, tenetela sempre davanti a voi. Sapere chi poteva trovarsi dove e fondamentale per smontare gli alibi.
 
-6. **Sistema di Suggerimenti**: Se siete bloccati, potete accedere a suggerimenti progressivi (Livello 1, 2, 3) nella cartella `suggerimenti/`. Usarli non e una sconfitta: questo caso e deliberatamente complesso e classificato come difficolta alta.
+6. **Sistema di Suggerimenti**: Se siete bloccati, potete accedere a suggerimenti progressivi (Livello 1, 2, 3) nella cartella `suggerimenti/`. Usarli non e una sconfitta: questo caso e deliberatamente complesso e classificato come difficolta media-alta.
 
 ---
 
@@ -272,7 +272,7 @@ Se tra i documenti ci sono trascrizioni delle sedute di terapia, leggetele con a
 Farmaci sperimentali, tariffe proibitive, contratti milionari, eredita. In questa clinica girano soldi enormi. Capire chi guadagna e chi perde dalla morte di Venturi restringe il campo in modo significativo.
 
 ### 8. Attenzione alle False Piste
-Questo caso e classificato come difficolta alta per un motivo: ci sono false piste costruite per sembrare soluzioni convincenti. Se la risposta vi sembra troppo facile, probabilmente lo e. Cercate sempre un secondo livello.
+Questo caso e classificato come difficolta media-alta per un motivo: ci sono false piste costruite per sembrare soluzioni convincenti. Se la risposta vi sembra troppo facile, probabilmente lo e. Cercate sempre un secondo livello.
 
 ### 9. Non Scartate Nessuno Troppo Presto
 Il sospettato che vi sembra piu innocente potrebbe essere il piu colpevole. Non lasciate che la simpatia o l'antipatia influenzino il vostro giudizio. Ragionate con le prove, non con le impressioni.

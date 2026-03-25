@@ -277,7 +277,7 @@ Potete aggiungere:
 - Report forense aggiuntivi
 
 **Durata**: 5-6 ore
-**Difficoltà**: Media-Alta → Alta
+**Difficoltà**: Media → Alta
 
 ---
 

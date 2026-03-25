@@ -9,7 +9,7 @@
 **Perito analista:** Ing. Paolo Ceruti, Consulente Tecnico del P.M., Sezione Telematica, Carabinieri ROS Brescia
 **Oggetto:** Analisi forense dei sistemi digitali e dei dispositivi elettronici sequestrati presso la Clinica Mente Chiara, Monte Isola (BS), in relazione al decesso del Dott. Alessandro Venturi, avvenuto nella notte tra il 16 e il 17 gennaio 2026
 **Luogo di riferimento:** Clinica Mente Chiara, Via del Santuario 12, Monte Isola, 25050 (BS)
-**Magistrato richiedente:** Dott.ssa Francesca Molinari, Sostituto Procuratore della Repubblica presso il Tribunale di Brescia
+**Magistrato richiedente:** Dott.ssa Giulia Marchetti, Sostituto Procuratore della Repubblica presso il Tribunale di Brescia
 
 ---
 
@@ -31,7 +31,7 @@ Tutti i dispositivi sono stati acquisiti secondo le procedure di catena di custo
 
 ### 2.1 Descrizione del Sistema
 
-La porta della "Sala della Quiete" (studio terapeutico privato del Dott. Venturi, primo piano) è dotata di una serratura elettronica con tastierino numerico a 4 cifre, modello **KABA Paxos Compact**, installata nel marzo 2021. Il sistema registra internamente:
+La porta della "Sala della Quiete" (studio terapeutico privato del Dott. Venturi, primo piano) è dotata di una serratura elettronica con tastierino numerico a 4 cifre, modello **Kaba e-Plex 5070**, installata nel marzo 2021. Il sistema registra internamente:
 - Data e ora di ogni inserimento di codice
 - Codice inserito (crittografato)
 - Esito dell'operazione (accesso concesso / negato)
@@ -67,8 +67,9 @@ Di seguito il registro completo degli accessi alla Sala della Quiete nella giorn
 | 18:48 | — | — | — | Chiusa (dall'interno) |
 | **21:05** | **7493#** | **Dott. Venturi** | **Accesso concesso** | **Aperta** |
 | **21:07** | — | — | — | **Chiusa (dall'interno)** |
+| **07:05 (17/01)** | **9999#** | **Custode Poli** | **Accesso concesso** | **Aperta** |
 
-> **DATO CRITICO:** L'ultimo codice inserito sulla Sala della Quiete risulta essere il codice **7493#** (assegnato al Dott. Venturi) alle ore **21:05** del 16 gennaio 2026. Dopo tale orario, **nessun altro codice è stato inserito**. La porta è rimasta **chiusa dall'interno** continuativamente dalle ore 21:07 fino all'effrazione eseguita dai Carabinieri della Stazione di Sulzano alle ore **11:15 del 17 gennaio 2026**, quando il corpo è stato rinvenuto.
+> **DATO CRITICO:** L'ultimo codice inserito sulla Sala della Quiete nella serata del 16 gennaio risulta essere il codice **7493#** (assegnato al Dott. Venturi) alle ore **21:05**. Dopo tale orario, **nessun altro codice è stato inserito** fino alle ore **07:05 del 17 gennaio 2026**, quando il custode Giovanni Battista Poli ha utilizzato il codice master **9999#** per accedere alla stanza a seguito della mancata risposta del Dott. Venturi. La porta è rimasta **chiusa dall'interno** continuativamente dalle ore 21:07 fino all'apertura con codice master (9999#) da parte del custode Giovanni Battista Poli alle ore **07:05 del 17 gennaio 2026**, a seguito della mancata risposta del Dott. Venturi.
 
 ### 2.4 Osservazioni Tecniche
 
@@ -102,7 +103,7 @@ Di seguito il riepilogo delle connessioni Wi-Fi per ciascun dispositivo identifi
 
 ---
 
-#### 3.2.1 Dott.ssa Marta Coletti — iPhone 13 (MAC: 4A:7B:C3:D1:E8:F2)
+#### 3.2.1 Dott.ssa Marta Coletti — Samsung Galaxy S23 (MAC: 4A:7B:C3:D1:E8:F2)
 
 | Fascia oraria | Access Point prevalente | Area stimata | Attività di rete |
 |--------------|------------------------|-------------|-----------------|
@@ -123,11 +124,11 @@ Di seguito il riepilogo delle connessioni Wi-Fi per ciascun dispositivo identifi
 | **19:45 - 01:30** | **AP-05** | **Camera ospiti — 2° piano** | **Traffico ad alta banda continuo (editing video, rendering)** |
 | 01:30 - 07:00 | AP-05 | Camera ospiti | Inattivo (standby) |
 
-> **Nota:** Il laptop di Tommaso Venturi mostra un utilizzo continuo e ad alta intensità di banda tra le 19:45 e le 01:30, coerente con attività di editing video e rendering. I log applicativi del software DaVinci Resolve (estratti in sede di analisi forense del dispositivo) confermano sessioni di editing attive con salvataggi automatici ogni 5 minuti nell'intero arco temporale. **Nessuna interruzione significativa rilevata.**
+> **Nota:** Il laptop di Tommaso Venturi mostra un utilizzo continuo e ad alta intensità di banda tra le 19:45 e le 01:30, coerente con attività di editing video e rendering. I log applicativi del software Adobe Premiere Pro (estratti in sede di analisi forense del dispositivo) confermano sessioni di editing attive con salvataggi automatici ogni 3 minuti nell'intero arco temporale. **Nessuna interruzione significativa rilevata.**
 
 ---
 
-#### 3.2.3 Prof. Riccardo Stein — Samsung Galaxy S23 (MAC: 1F:9A:B4:C6:D8:E0)
+#### 3.2.3 Prof. Riccardo Stein — Huawei P30 Pro (MAC: 1F:9A:B4:C6:D8:E0)
 
 | Fascia oraria | Access Point prevalente | Area stimata | Attività di rete |
 |--------------|------------------------|-------------|-----------------|
@@ -140,7 +141,7 @@ Di seguito il riepilogo delle connessioni Wi-Fi per ciascun dispositivo identifi
 
 ---
 
-#### 3.2.4 Luca Brambilla — iPhone 15 Pro Max (MAC: 6E:3C:A1:B5:D9:F4)
+#### 3.2.4 Luca Brambilla — Samsung Galaxy S24 Ultra (MAC: 6E:3C:A1:B5:D9:F4)
 
 | Fascia oraria | Access Point prevalente | Area stimata | Attività di rete |
 |--------------|------------------------|-------------|-----------------|
@@ -507,7 +508,7 @@ L'analisi digitale forense evidenzia un quadro significativo di elementi a caric
 4. L'utilizzo della rete della clinica per l'ordine online;
 5. La creazione di un'identità falsa per il noleggio della casella postale.
 
-Il presente rapporto viene trasmesso al Sostituto Procuratore Dott.ssa Francesca Molinari per le valutazioni di competenza.
+Il presente rapporto viene trasmesso al Sostituto Procuratore Dott.ssa Giulia Marchetti per le valutazioni di competenza.
 
 ---
 

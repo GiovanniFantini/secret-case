@@ -44,7 +44,7 @@ npm start
   - 12 tipologie documento supportate
   - Protezione spoiler avanzata
   - Tools migrazione e validazione
-- **`casi/`** - Casi detective esistenti (7 casi completi)
+- **`casi/`** - Casi detective esistenti (8 casi completi)
   - Ogni caso con 40-60+ documenti
   - File markdown organizzati per tipo
 - **`template/`** - Template per creare nuovi casi
@@ -64,7 +64,7 @@ npm start
 ## 🎮 Casi Disponibili
 
 1. **Eredità Villa Rossi** - Testamento contestato, morte sospetta  
-   ⭐⭐⭐⭐ Media-Alta | 3-4h | 9 sospettati | Lago di Como, 2024
+   ⭐⭐⭐ Media | 2-3h | 9 sospettati | Lago di Como, 2024
 
 2. **La Cattedra Vuota** - Professore scomparso, segreti universitari  
    ⭐⭐⭐⭐⭐ Alta | 2-4h | 6 sospettati | Bologna, 2025
@@ -82,7 +82,10 @@ npm start
    ⭐⭐⭐⭐ Media-Alta | 2-4h | 6 sospettati | Parma, 2025
 
 7. **Ultimo Brindisi** - Morte a un party di capodanno  
-   ⭐⭐⭐⭐ Media-Alta | 2-4h | 4 sospettati | Fiesole, 2024
+   ⭐⭐⭐ Media | 2-3h | 4 sospettati | Fiesole, 2024
+
+8. **L'Ultima Seduta** - Psichiatra trovato morto in una clinica isolata dalla tempesta  
+   ⭐⭐⭐⭐ Media-Alta | 4-6h | 6 sospettati | Monte Isola (Lago d'Iseo), 2026
 
 Ogni caso è giocabile direttamente dall'applicazione web.
 

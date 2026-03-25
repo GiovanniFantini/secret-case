@@ -13,9 +13,9 @@ State per immergervi in un'indagine criminale affascinante che vi porterà nel c
 | Luogo | Villa Rossi, Lago Como (Como, Italia) |
 | Tipo di Crimine | Omicidio (avvelenamento) |
 | Vittime | Andrea Rossi (72 anni) |
-| Durata | 3-4 ore |
+| Durata | 2-3 ore |
 | Giocatori | 1-4 persone |
-| Difficoltà | Media-Alta |
+| Difficoltà | Media |
 | Accesso | Tutti i documenti sono disponibili da subito |
 
 ## Regole Base
@@ -189,7 +189,7 @@ Se siete bloccati o avete rispostato male, potete accedere a suggerimenti:
 | **Normale** | Questa indagine (case reale): richiede attenzione, deduzione logica, ma è risolvibile |
 | **Difficile** | Ci sono molte false piste credibili, false piste intenzionali, dettagli nascosti |
 
-**Questa indagine è al livello NORMALE-ALTO**: È risolvibile se seguite la logica e notate i dettagli, ma non è banale. Ci sono false piste credibili.
+**Questa indagine è al livello MEDIO**: È risolvibile se seguite la logica e notate i dettagli, ma non è banale. Ci sono false piste credibili.
 
 ## Cosa Rappresenta Questo Gioco
 
@@ -208,7 +208,7 @@ Tutto quanto in questa indagine potrebbe teoricamente accadere nella realtà. Nu
 | Fase 1 | 30-45 min | Lettura iniziale e identificazione |
 | Fase 2 | 60-90 min | Analisi documenti e costruzione profili |
 | Fase 3 | 30-45 min | Deduzione finale e verifica |
-| Totale | 180-240 min | 3-4 ore |
+| Totale | 120-180 min | 2-3 ore |
 
 Se state finendo prima, rilegete i documenti critici. Se state andando oltre, potete saltare il Livello 3 dei suggerimenti.
 

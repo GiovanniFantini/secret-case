@@ -23,7 +23,7 @@ Gli indizi sono numerati: provate a fermarvi il prima possibile.
 
 ### Indizio 1.1 — Il telefono che mente
 
-Il telefono di Sara Magnani risulta spento dalle 20:28 alle 22:03. Nell'interrogatorio, Sara dichiara che il telefono si era "scaricato". Ma l'analisi forense del dispositivo rivela un dato che contraddice questa versione: al momento dello spegnimento, la batteria era al **73%**. Un telefono al 73% non si spegne da solo. Qualcuno lo ha spento manualmente. Perche Sara Magnani avrebbe voluto rendere il proprio telefono irrintracciabile durante la finestra critica dell'omicidio?
+Il telefono di Sara Magnani risulta spento dalle 20:28 del 16 gennaio alle 06:15 del 17 gennaio. Nell'interrogatorio, Sara dichiara che il telefono si era "scaricato". Ma l'analisi forense del dispositivo rivela un dato che contraddice questa versione: al momento dello spegnimento, la batteria era al **73%**. Un telefono al 73% non si spegne da solo. Qualcuno lo ha spento manualmente. Perche Sara Magnani avrebbe voluto rendere il proprio telefono irrintracciabile durante la finestra critica dell'omicidio?
 
 ---
 
@@ -51,13 +51,13 @@ Se state ancora considerando altri sospettati, confrontate le prove oggettive:
 
 - **Dr.ssa Marta Coletti**: la telecamera **CAM-03** la colloca nell'archivio dalle 20:15 alle 22:20, senza interruzioni. Stava copiando file su una chiavetta USB — stava raccogliendo prove per una denuncia all'EMA, non preparando un omicidio.
 
-- **Tommaso Venturi**: i log del WiFi della clinica collocano il suo laptop nella **stanza 204** per tutta la sera. I file di **Adobe Premiere** mostrano salvataggi automatici ogni tre minuti dalle 19:45 all'01:30 — stava montando il suo documentario segreto.
+- **Tommaso Venturi**: i log del WiFi della clinica collocano il suo laptop nella **stanza 202** per tutta la sera. I file di **Adobe Premiere** mostrano salvataggi automatici ogni tre minuti dalle 19:45 all'01:30 — stava montando il suo documentario segreto.
 
 - **Beatrice Aldrovandi**: aveva assunto **Lorazepam 2,5 mg** alle 20:25. Le analisi tossicologiche confermano che era in stato di **sedazione farmacologica** dalle 21:00. Non poteva fisicamente alzarsi dal letto.
 
 - **Prof. Riccardo Stein**: i registri WiFi collocano i suoi dispositivi nella **biblioteca** per tutta la sera. Il suo DNA e stato trovato su un **libro macchiato di caffe** nella biblioteca — un dettaglio quasi banale che tuttavia lo inchioda al suo alibi.
 
-- **Luca Brambilla**: i **tabulati telefonici** documentano chiamate continue dalle 20:15 alle 23:30 dalla sala riunioni. Il **microfono nascosto** che Tommaso aveva piazzato nella sala per il documentario registro la voce di Brambilla per tutta la sera.
+- **Luca Brambilla**: i **tabulati telefonici** documentano chiamate continue dalle 20:15 alle 23:30 dalla sua camera. Il **microfono nascosto** che Tommaso aveva piazzato nel corridoio del secondo piano registro la voce di Brambilla per tutta la sera.
 
 Tutti hanno un alibi confermato da prove oggettive. Tutti tranne Sara.
 
@@ -65,7 +65,7 @@ Tutti hanno un alibi confermato da prove oggettive. Tutti tranne Sara.
 
 ### Indizio 1.6 — Il badge sulla scrivania
 
-Il badge identificativo di Sara Magnani e stato trovato sulla scrivania del suo ufficio. Ogni dipendente della clinica e tenuto a portare il badge durante il servizio — e il protocollo lo richiede esplicitamente. Perche Sara lo aveva lasciato sulla scrivania quella sera? Il sistema di tracciamento interno della clinica registra gli spostamenti del personale tramite i badge. Senza badge, i movimenti di Sara non venivano registrati. Era un modo per **muoversi invisibile** nella clinica durante le ore cruciali.
+Il badge identificativo di Sara Magnani e stato trovato sulla scrivania del Dott. Venturi, nella Sala della Quiete. Ogni dipendente della clinica e tenuto a portare il badge durante il servizio — e il protocollo lo richiede esplicitamente. Perche il badge di Sara si trovava sulla scrivania della vittima? Il sistema di tracciamento interno della clinica registra gli spostamenti del personale tramite i badge. Sara se lo era tolto per **muoversi invisibile** nella clinica durante le ore cruciali — ma il badge e finito proprio nel luogo in cui non doveva essere: la scena del crimine.
 
 ---
 
@@ -115,7 +115,7 @@ Il veleno utilizzato e la **tetrodotossina (TTX)**, una neurotossina estremament
 
 ### Indizio 3.2 — L'ordine online
 
-Le indagini hanno rintracciato un **ordine online per un kit di preparazione del fugu** — pesce palla — effettuato a **dicembre 2025** e consegnato all'**indirizzo personale di Sara Magnani**. Il kit conteneva gli strumenti necessari per manipolare il pesce e, potenzialmente, per estrarre e isolare la tossina dai suoi organi interni. Questo acquisto dimostra la premeditazione: Sara non agi d'impulso. Pianifico l'omicidio con settimane di anticipo.
+Le indagini hanno rintracciato un **ordine online per un pesce fugu intero** (*Takifugu rubripes*) — pesce palla — effettuato a **dicembre 2025** e consegnato a una **casella postale intestata a un'identità falsa** presso l'ufficio postale di Iseo (BS). L'ordine, proveniente da un fornitore giapponese, conteneva un pesce palla intero non eviscerato, i cui organi interni contengono la tetrodotossina. Questo acquisto dimostra la premeditazione: Sara non agi d'impulso. Pianifico l'omicidio con settimane di anticipo.
 
 ---
 
@@ -171,7 +171,7 @@ Se avete letto tutti gli indizi di questo livello, dovreste essere in grado di r
 
 **Perche?** — Cercate la persona le cui iniziali corrispondono a "S.M." nel protocollo Mnemoxil, che ha scoperto sei mesi di ricordi cancellati, e che doveva agire prima del 10 gennaio per salvare le prove.
 
-**Come?** — Cercate la tetrodotossina, la camomilla, il mortaio, il lavandino, e il kit per la preparazione del fugu ordinato a dicembre.
+**Come?** — Cercate la tetrodotossina, la camomilla, il mortaio, il lavandino, e il pesce fugu ordinato a dicembre.
 
 Tutte e tre le risposte convergono sulla stessa persona.
 
