@@ -7,10 +7,16 @@
 | **Ambientazione** | Facoltà di Giurisprudenza, Università di Bologna |
 | **Epoca** | Febbraio 2025 |
 | **Giocatori** | 1-4 |
-| **Difficoltà** | ⭐⭐⭐⭐⭐ Alta |
-| **Durata stimata** | 2-4 ore |
+| **Difficoltà** | ⭐⭐⭐⭐ Impegnativo |
+| **Durata stimata** | 2.5-3.5 ore |
 | **Sospettati** | 6 |
 | **Documenti** | 30+ |
+
+---
+
+## Tipo di Sfida
+
+Il caso più insidioso della collezione. Tutti i sospettati mentono, tutti nascondono qualcosa, tutti hanno commesso un reato — ma solo uno ha ucciso. La sfida è separare sei bugie diverse, ciascuna con la propria logica criminale, per trovare l'unica che copre un omicidio. Un caso che premia l'analisi sistematica e la capacità di distinguere corruzione, insabbiamento e whistleblowing da un delitto premeditato.
 
 ---
 

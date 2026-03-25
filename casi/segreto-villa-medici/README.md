@@ -7,10 +7,16 @@
 | **Ambientazione** | Villa Medici dei Falchi, colline di Perugia, Umbria |
 | **Epoca** | Novembre 2024 |
 | **Giocatori** | 1-4 |
-| **Difficoltà** | ⭐⭐⭐⭐ Media-Alta |
-| **Durata stimata** | 2-4 ore |
+| **Difficoltà** | ⭐⭐⭐ Media |
+| **Durata stimata** | 2-3 ore |
 | **Sospettati** | 6 |
 | **Documenti** | 40+ |
+
+---
+
+## Tipo di Sfida
+
+Arte, falsificazione e segreti di famiglia in una villa cinquecentesca. Il movente più evidente non è quello giusto, e la soluzione richiede di scavare nel mondo dell'autenticazione artistica. La sfida è distinguere il collezionista disperato dal falsario professionista.
 
 ---
 

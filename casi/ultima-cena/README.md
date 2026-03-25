@@ -7,10 +7,16 @@
 | **Ambientazione** | Ristorante "Il Cenacolo d'Oro", Parma |
 | **Epoca** | Marzo 2025 |
 | **Giocatori** | 1-4 |
-| **Difficoltà** | ⭐⭐⭐⭐ Media-Alta |
-| **Durata stimata** | 2-4 ore |
+| **Difficoltà** | ⭐⭐⭐ Media |
+| **Durata stimata** | 2-3 ore |
 | **Sospettati** | 6 |
 | **Documenti** | 40+ |
+
+---
+
+## Tipo di Sfida
+
+Il mondo della gastronomia d'élite nasconde rivalità profonde e relazioni segrete. Il sospettato più ovvio ha l'alibi più solido, e la chiave del caso si nasconde in un rapporto personale che nessuno conosce. Un caso dove bisogna guardare oltre i ruoli professionali.
 
 ---
 

@@ -7,10 +7,16 @@
 | **Ambientazione** | Clinica Mente Chiara, Monte Isola, Lago d'Iseo (BS) |
 | **Epoca** | Gennaio 2026 |
 | **Giocatori** | 1-4 |
-| **Difficoltà** | ⭐⭐⭐⭐ Media-Alta |
-| **Durata stimata** | 4-6 ore |
+| **Difficoltà** | ⭐⭐⭐ Media |
+| **Durata stimata** | 2.5-4 ore |
 | **Sospettati** | 6 |
 | **Documenti** | 28+ |
+
+---
+
+## Tipo di Sfida
+
+Un classico mistero della "stanza chiusa" in un'ambientazione gotica: clinica psichiatrica isolata dalla tempesta, sei persone intrappolate, un morto. L'atmosfera è il vero protagonista. La sfida sta nel navigare un intreccio farmaceutico e psicologico che richiede attenzione ai dettagli scientifici.
 
 ---
 

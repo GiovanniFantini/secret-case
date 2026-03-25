@@ -7,10 +7,16 @@
 | **Ambientazione** | Grand Hotel Riviera Palace, Sanremo |
 | **Epoca** | Febbraio 2026 |
 | **Giocatori** | 1-4 |
-| **Difficoltà** | ⭐⭐⭐⭐⭐ Alta |
+| **Difficoltà** | ⭐⭐⭐⭐ Impegnativo |
 | **Durata stimata** | 3-5 ore |
 | **Sospettati** | 8 |
 | **Documenti** | 55+ |
+
+---
+
+## Tipo di Sfida
+
+Il caso più ampio e articolato della collezione: otto sospettati, un complice inconsapevole da identificare, e un intreccio di ricatti, debiti e segreti dietro la facciata della beneficenza. Quattro domande di verifica anziché tre. Richiede di analizzare una mole significativa di documenti e di ricostruire una rete di relazioni finanziarie complesse. Per chi vuole la sfida completa.
 
 ---
 

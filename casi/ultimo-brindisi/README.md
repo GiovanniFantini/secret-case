@@ -7,10 +7,16 @@
 | **Ambientazione** | Villa Le Ginestre, Fiesole (Firenze) |
 | **Epoca** | Ottobre 2024 |
 | **Giocatori** | 1-4 |
-| **Difficoltà** | ⭐⭐⭐ Media |
-| **Durata stimata** | 2-3 ore |
+| **Difficoltà** | ⭐⭐ Accessibile |
+| **Durata stimata** | 1-2 ore |
 | **Sospettati** | 4 |
 | **Documenti** | 25+ |
+
+---
+
+## Tipo di Sfida
+
+Caso introduttivo ideale. Quattro sospetti, struttura lineare, indizi espliciti. Perfetto per chi si avvicina per la prima volta al mondo di Secret Case o per una serata veloce. La sfida sta nel collegare prove finanziarie e tempistiche per smontare un alibi costruito con cura.
 
 ---
 

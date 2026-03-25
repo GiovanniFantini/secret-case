@@ -7,10 +7,16 @@
 | **Ambientazione** | Villa Rossi, Lago di Como |
 | **Epoca** | Giugno 2024 |
 | **Giocatori** | 1-4 |
-| **Difficoltà** | ⭐⭐⭐ Media |
-| **Durata stimata** | 2-3 ore |
+| **Difficoltà** | ⭐⭐ Accessibile |
+| **Durata stimata** | 1.5-2.5 ore |
 | **Sospettati** | 9 |
 | **Documenti** | 30+ |
+
+---
+
+## Tipo di Sfida
+
+Molti personaggi in un contesto familiare ricco di tensioni ereditarie. Nonostante i nove sospettati, la catena di prove converge con chiarezza e gli alibi sono verificabili. Un buon secondo caso per familiarizzare con il sistema prima di affrontare indagini più articolate.
 
 ---
 

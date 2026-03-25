@@ -14,9 +14,9 @@ Ogni caso è composto da documenti markdown che vengono renderizzati con grafich
 | Caratteristica | Dettaglio |
 |----------------|-----------|
 | Tipo | Sistema web-based per casi detective |
-| Durata | 2–4 ore per caso |
+| Durata | 1–5 ore per caso |
 | Giocatori | 1–4 persone |
-| Difficoltà | Media-alta, ma accessibile |
+| Difficoltà | Da Accessibile a Impegnativo (4 livelli) |
 | Tecnologia | Node.js + React + Markdown |
 
 ## 🚀 Quick Start
@@ -63,31 +63,37 @@ npm start
 
 ## 🎮 Casi Disponibili
 
-1. **Eredità Villa Rossi** - Testamento contestato, morte sospetta  
-   ⭐⭐⭐ Media | 2-3h | 9 sospettati | Lago di Como, 2024
+### ⭐⭐ Accessibile — Per iniziare
 
-2. **La Cattedra Vuota** - Professore scomparso, segreti universitari  
-   ⭐⭐⭐⭐⭐ Alta | 2-4h | 6 sospettati | Bologna, 2025
+1. **Ultimo Brindisi** - Critico enologico trovato morto nella sua cantina  
+   ⭐⭐ Accessibile | 1-2h | 4 sospettati | Fiesole, 2024
 
-3. **Notte delle Maschere** - Omicidio durante festa in maschera  
-   ⭐⭐⭐⭐⭐ Alta | 3-5h | 8 sospettati | Sanremo, 2026
+2. **Eredità Villa Rossi** - Testamento contestato, morte sospetta  
+   ⭐⭐ Accessibile | 1.5-2.5h | 9 sospettati | Lago di Como, 2024
 
-4. **Prezzo del Silenzio** - Giornalista investigativo trovato morto  
-   ⭐⭐⭐⭐ Media-Alta | 2-4h | 6 sospettati | Torino, 2025
+### ⭐⭐⭐ Media — Il cuore della collezione
 
-5. **Segreto Villa Medici** - Furto d'arte e intrighi familiari  
-   ⭐⭐⭐⭐ Media-Alta | 2-4h | 6 sospettati | Perugia, 2024
+3. **Prezzo del Silenzio** - Giornalista investigativo trovato morto  
+   ⭐⭐⭐ Media | 2-3h | 6 sospettati | Torino, 2025
 
-6. **Ultima Cena** - Avvelenamento durante cena esclusiva  
-   ⭐⭐⭐⭐ Media-Alta | 2-4h | 6 sospettati | Parma, 2025
+4. **Segreto Villa Medici** - Furto d'arte e intrighi familiari  
+   ⭐⭐⭐ Media | 2-3h | 6 sospettati | Perugia, 2024
 
-7. **Ultimo Brindisi** - Morte a un party di capodanno  
-   ⭐⭐⭐ Media | 2-3h | 4 sospettati | Fiesole, 2024
+5. **Ultima Cena** - Avvelenamento durante cena esclusiva  
+   ⭐⭐⭐ Media | 2-3h | 6 sospettati | Parma, 2025
 
-8. **L'Ultima Seduta** - Psichiatra trovato morto in una clinica isolata dalla tempesta  
-   ⭐⭐⭐⭐ Media-Alta | 4-6h | 6 sospettati | Monte Isola (Lago d'Iseo), 2026
+6. **L'Ultima Seduta** - Psichiatra trovato morto in una clinica isolata dalla tempesta  
+   ⭐⭐⭐ Media | 2.5-4h | 6 sospettati | Monte Isola (Lago d'Iseo), 2026
 
-Ogni caso è giocabile direttamente dall'applicazione web.
+### ⭐⭐⭐⭐ Impegnativo — Per investigatori esperti
+
+7. **La Cattedra Vuota** - Professore scomparso, segreti universitari  
+   ⭐⭐⭐⭐ Impegnativo | 2.5-3.5h | 6 sospettati | Bologna, 2025
+
+8. **Notte delle Maschere** - Omicidio durante festa in maschera  
+   ⭐⭐⭐⭐ Impegnativo | 3-5h | 8 sospettati | Sanremo, 2026
+
+Ogni caso è giocabile direttamente dall'applicazione web. L'ordine suggerito sopra riflette una progressione di difficoltà crescente.
 
 ## 🛠️ Requisiti
 

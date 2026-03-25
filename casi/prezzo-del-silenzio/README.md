@@ -7,10 +7,16 @@
 | **Ambientazione** | Torino, Piemonte |
 | **Epoca** | Gennaio 2025 |
 | **Giocatori** | 1-4 |
-| **Difficoltà** | ⭐⭐⭐⭐ Media-Alta |
-| **Durata stimata** | 2-4 ore |
+| **Difficoltà** | ⭐⭐⭐ Media |
+| **Durata stimata** | 2-3 ore |
 | **Sospettati** | 6 |
 | **Documenti** | 30+ |
+
+---
+
+## Tipo di Sfida
+
+Una scena del crimine ingannevole: il caso sembra chiuso prima ancora di cominciare. La vera sfida è mettere in dubbio la ricostruzione ufficiale, analizzare le prove forensi e ricostruire una timeline che non torna. Un caso dove l'apparenza è il primo nemico dell'investigatore.
 
 ---
 
