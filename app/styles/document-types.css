@@ -2654,6 +2654,30 @@
 
 
 /* ============================================================
+   PRINT TABLE BASE STYLES (fuori da @media print per il measuring JS)
+   ============================================================ */
+.print-page-table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.print-page-table td {
+    padding: 0;
+    border: none;
+    vertical-align: top;
+}
+
+.print-page-table thead,
+.print-page-table tfoot {
+    /* Nascosti su schermo, visibili solo in stampa */
+    visibility: hidden;
+    height: 0;
+    overflow: hidden;
+}
+
+
+/* ============================================================
    PRINT STYLES - OTTIMIZZATO PER A4 CON TEXTURE REALISTICHE
    ============================================================ */
 
@@ -2662,6 +2686,14 @@
     @page {
         size: A4 portrait;
         margin: 15mm 12mm;
+    }
+    
+    /* Mostra thead e tfoot in stampa */
+    .print-page-table thead,
+    .print-page-table tfoot {
+        visibility: visible !important;
+        height: auto !important;
+        overflow: visible !important;
     }
     
     /* Preserva i colori e texture per elementi realistici */
@@ -3154,19 +3186,113 @@
     }
 
     /* ============================================================
-       STAMPA MULTIPLA DOCUMENTI
+       STAMPA MULTIPLA DOCUMENTI - LAYOUT TABELLA
+       thead/tfoot ripetono header e footer su ogni pagina stampata
        ============================================================ */
+    
+    /* Tabella layout per repeating header/footer */
+    .print-page-table {
+        width: 100% !important;
+        border-collapse: collapse !important;
+        border: none !important;
+    }
+    
+    .print-page-table td {
+        padding: 0 !important;
+        border: none !important;
+    }
+    
+    .print-page-table thead {
+        display: table-header-group !important;
+    }
+    
+    .print-page-table tfoot {
+        display: table-footer-group !important;
+    }
+    
+    /* Header bar - nome documento (ripete su ogni pagina) */
+    .print-header-bar {
+        display: flex !important;
+        justify-content: space-between !important;
+        align-items: center !important;
+        border-bottom: 2px solid #334155 !important;
+        padding: 6px 4px 8px 4px !important;
+        margin-bottom: 10px !important;
+        font-family: 'Georgia', 'Times New Roman', serif !important;
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+    }
+    
+    .print-header-docname {
+        font-weight: 700 !important;
+        font-size: 10pt !important;
+        color: #1e293b !important;
+    }
+    
+    .print-header-filename {
+        font-size: 8.5pt !important;
+        color: #64748b !important;
+        font-style: italic !important;
+    }
+    
+    /* Footer bar - info documento (ripete su ogni pagina) */
+    .print-footer-bar {
+        display: flex !important;
+        justify-content: space-between !important;
+        align-items: center !important;
+        border-top: 1px solid #94a3b8 !important;
+        padding: 8px 4px 4px 4px !important;
+        margin-top: 10px !important;
+        font-family: 'Georgia', 'Times New Roman', serif !important;
+        font-size: 8.5pt !important;
+        color: #64748b !important;
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+    }
+    
+    .print-footer-docinfo {
+        font-weight: 600 !important;
+    }
+    
+    .print-footer-pages {
+        font-style: italic !important;
+    }
     
     /* Interruzione di pagina tra documenti */
     .print-document-item {
         page-break-after: always !important;
-        page-break-inside: avoid !important;
+        page-break-inside: auto !important;
         margin-bottom: 0 !important;
     }
     
     /* L'ultimo documento non ha interruzione di pagina */
     .print-document-item:last-child {
         page-break-after: auto !important;
+    }
+    
+    /* ============================================================
+       MODALITÀ FRONTE/RETRO (DUPLEX-SAFE)
+       JavaScript calcola le pagine per ogni documento.
+       Se un documento ha un numero dispari di pagine, viene inserita
+       una pagina vuota (.print-blank-page) così il prossimo documento
+       inizia sempre sul fronte di un nuovo foglio fisico.
+       ============================================================ */
+    
+    /* Pagina vuota inserita da JS per il duplex */
+    .print-blank-page {
+        display: block !important;
+        page-break-before: always !important;
+        page-break-after: always !important;
+        height: 1px !important;
+        visibility: hidden !important;
+    }
+    
+    .duplex-safe .print-document-item {
+        page-break-before: always !important;
+    }
+    
+    .duplex-safe .print-document-item:first-child {
+        page-break-before: auto !important;
     }
     
     /* Container per la stampa multipla */

@@ -978,6 +978,7 @@
         const PrintSelectionModal = ({ caseData, caseId, onClose, onPrint }) => {
             const [selectedDocs, setSelectedDocs] = useState({});
             const [selectAll, setSelectAll] = useState(true);
+            const [duplexMode, setDuplexMode] = useState(false);
             
             useEffect(() => {
                 // Inizializza tutti i documenti come selezionati
@@ -1020,7 +1021,7 @@
                         });
                     });
                 }
-                onPrint(docsToPreviewAndPrint);
+                onPrint(docsToPreviewAndPrint, duplexMode);
             };
             
             return (
@@ -1034,6 +1035,23 @@
                             <p className="text-gray-600">Seleziona i documenti da stampare. Tra ogni documento verrà inserita un'interruzione di pagina.</p>
                         </div>
                         
+                        <div className="bg-amber-50 border-l-4 border-amber-500 p-4 mb-4">
+                            <label className="flex items-center gap-3 cursor-pointer">
+                                <input 
+                                    type="checkbox" 
+                                    checked={duplexMode}
+                                    onChange={() => setDuplexMode(!duplexMode)}
+                                    className="w-5 h-5 cursor-pointer accent-amber-600"
+                                />
+                                <div>
+                                    <span className="font-semibold text-amber-900">🖨️ Modalità Fronte/Retro (Duplex)</span>
+                                    <p className="text-sm text-amber-700 mt-1">
+                                        Ogni documento inizierà sempre sul fronte di un nuovo foglio. Se un documento finisce su una pagina dispari, viene aggiunta una pagina vuota sul retro.
+                                    </p>
+                                </div>
+                            </label>
+                        </div>
+
                         <div className="bg-blue-50 border-l-4 border-blue-500 p-4 mb-4">
                             <label className="flex items-center gap-2 font-semibold text-blue-900 cursor-pointer">
                                 <input 
@@ -1136,7 +1154,7 @@
             );
 
             // Funzione per stampare i documenti selezionati
-            const handlePrintDocuments = async (docsToPreview) => {
+            const handlePrintDocuments = async (docsToPreview, duplexMode = false) => {
                 if (docsToPreview.length === 0) {
                     alert('Nessun documento selezionato');
                     return;
@@ -1148,7 +1166,7 @@
                 const loadingDiv = document.createElement('div');
                 loadingDiv.id = 'print-loading';
                 loadingDiv.innerHTML = `
-                    <div style="position: fixed; inset: 0; background: rgba(0,0,0,0.8); display: flex; align-items: center; justify-center; z-index: 99999;">
+                    <div style="position: fixed; inset: 0; background: rgba(0,0,0,0.8); display: flex; align-items: center; justify-content: center; z-index: 99999;">
                         <div style="background: white; padding: 2rem; border-radius: 1rem; text-align: center;">
                             <div style="margin-bottom: 1rem;">Caricamento documenti...</div>
                             <div style="animation: spin 1s linear infinite; border: 3px solid #f3f3f3; border-top: 3px solid #3498db; border-radius: 50%; width: 40px; height: 40px; margin: 0 auto;"></div>
@@ -1177,26 +1195,104 @@
                     // Rimuovi loader
                     document.body.removeChild(loadingDiv);
                     
+                    const totalDocs = loadedDocs.length;
+                    
                     // Crea un container per la stampa
                     const printContainer = document.createElement('div');
-                    printContainer.className = 'print-container';
+                    printContainer.className = 'print-container' + (duplexMode ? ' duplex-safe' : '');
                     printContainer.style.display = 'none';
                     
-                    // Aggiungi tutti i documenti con la struttura completa
+                    // Aggiungi tutti i documenti con layout tabella per header/footer ripetuti su ogni pagina
                     loadedDocs.forEach((doc, index) => {
                         const docDiv = document.createElement('div');
                         docDiv.className = 'print-document-item';
+                        
+                        // Per duplex: named page per documento → forza nuovo foglio fisico
+                        if (duplexMode) {
+                            docDiv.style.page = `doc${index}`;
+                        }
+                        
+                        // Nome documento dal tipo
+                        const typeInfo = window.DOCUMENT_TYPES?.[doc.documentType];
+                        const docTypeName = typeInfo ? typeInfo.name : (doc.documentType || 'Documento');
+                        const displayFilename = doc.filename
+                            .replace('.md', '')
+                            .replace(/-/g, ' ')
+                            .replace(/\b\w/g, c => c.toUpperCase());
+                        
+                        // Layout tabella: thead ripete su ogni pagina stampata (header),
+                        // tfoot ripete su ogni pagina stampata (footer)
                         docDiv.innerHTML = `
-                            <div class="doc-${doc.documentType || 'unknown'} p-8">
-                                <div class="prose max-w-none">
-                                    ${doc.html}
-                                </div>
-                            </div>
+                            <table class="print-page-table">
+                                <thead>
+                                    <tr><td class="print-page-header-cell">
+                                        <div class="print-header-bar">
+                                            <span class="print-header-docname">\u{1F4C4} ${docTypeName}</span>
+                                            <span class="print-header-filename">${displayFilename}</span>
+                                        </div>
+                                    </td></tr>
+                                </thead>
+                                <tfoot>
+                                    <tr><td class="print-page-footer-cell">
+                                        <div class="print-footer-bar">
+                                            <span class="print-footer-docinfo">${docTypeName} \u2014 Documento ${index + 1} di ${totalDocs}</span>
+                                            <span class="print-footer-pages" data-doc-index="${index}"></span>
+                                        </div>
+                                    </td></tr>
+                                </tfoot>
+                                <tbody>
+                                    <tr><td class="print-page-body-cell">
+                                        <div class="doc-${doc.documentType || 'unknown'} p-8">
+                                            <div class="prose max-w-none">
+                                                ${doc.html}
+                                            </div>
+                                        </div>
+                                    </td></tr>
+                                </tbody>
+                            </table>
                         `;
                         printContainer.appendChild(docDiv);
                     });
                     
                     document.body.appendChild(printContainer);
+                    
+                    // Mostra offscreen per calcolare altezze e numero pagine per documento
+                    printContainer.style.position = 'absolute';
+                    printContainer.style.left = '-9999px';
+                    printContainer.style.display = 'block';
+                    printContainer.style.width = '180mm'; // contenuto A4 netto (~210mm - margini)
+                    
+                    // A4: 297mm - 15mm top - 15mm bottom - ~15mm header/footer = ~252mm contenuto
+                    const A4_CONTENT_PX = 252 * (96 / 25.4); // ~952px a 96dpi
+                    
+                    const docItems = Array.from(printContainer.querySelectorAll('.print-document-item'));
+                    docItems.forEach((item, idx) => {
+                        const tbody = item.querySelector('.print-page-body-cell');
+                        if (tbody) {
+                            const contentHeight = tbody.scrollHeight;
+                            const totalPages = Math.max(1, Math.ceil(contentHeight / A4_CONTENT_PX));
+                            const pageInfoEl = item.querySelector('.print-footer-pages');
+                            if (pageInfoEl) {
+                                pageInfoEl.textContent = totalPages === 1 
+                                    ? '1 pagina' 
+                                    : `${totalPages} pagine`;
+                            }
+                            
+                            // DUPLEX: se pagine dispari e non è l'ultimo doc, inserisci pagina vuota
+                            if (duplexMode && totalPages % 2 !== 0 && idx < docItems.length - 1) {
+                                const blankPage = document.createElement('div');
+                                blankPage.className = 'print-blank-page';
+                                blankPage.innerHTML = '<span>&nbsp;</span>';
+                                item.after(blankPage);
+                            }
+                        }
+                    });
+                    
+                    // Reimposta per la stampa effettiva
+                    printContainer.style.position = '';
+                    printContainer.style.left = '';
+                    printContainer.style.width = '';
+                    printContainer.style.display = 'none';
                     
                     // Aggiungi classe al body per nascondere tutto
                     document.body.classList.add('printing-mode');

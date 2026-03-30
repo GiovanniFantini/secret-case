@@ -112,9 +112,23 @@ class CasePrinter:
         
         return files_collected
     
-    def generate_html(self, caso_path, files_data):
+    def generate_html(self, caso_path, files_data, duplex=False):
         """Genera l'HTML da convertire in PDF"""
         caso_name = caso_path.name.replace("-", " ").title()
+        
+        duplex_css = ""
+        if duplex:
+            duplex_css = """
+        /* MODALITÀ FRONTE/RETRO (DUPLEX) */
+        .section-divider {{
+            page-break-before: right;
+            break-before: recto;
+        }}
+        .file-header {{
+            page-break-before: right;
+            break-before: recto;
+        }}
+        """
         
         html = f"""<!DOCTYPE html>
 <html lang="it">
@@ -330,6 +344,8 @@ class CasePrinter:
         a:hover {{
             text-decoration: underline;
         }}
+        
+        {duplex_css}
     </style>
 </head>
 <body>
@@ -453,6 +469,12 @@ class CasePrinter:
         
         print(f"\n🎯 Caso selezionato: {caso_selezionato.name.replace('-', ' ').title()}")
         
+        # Chiedi modalità fronte/retro
+        duplex_input = input("\n🖨️  Stampa fronte/retro (duplex)? (s/n, default: n): ").strip().lower()
+        duplex_mode = duplex_input == 's'
+        if duplex_mode:
+            print("   └─ Modalità duplex ATTIVA: ogni documento inizierà sul fronte")
+        
         # Raccogli file
         print("📚 Raccolta documenti...")
         files_data = self.collect_files(caso_selezionato)
@@ -462,7 +484,7 @@ class CasePrinter:
         
         # Genera HTML
         print("\n🔨 Generazione HTML...")
-        html_content = self.generate_html(caso_selezionato, files_data)
+        html_content = self.generate_html(caso_selezionato, files_data, duplex=duplex_mode)
         
         # Salva PDF
         output_file = self.save_to_pdf(html_content, caso_selezionato)
